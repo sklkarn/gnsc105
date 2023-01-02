@@ -361,22 +361,22 @@ var ptx_lunr_docs = [
   "body": " Introduction to Fourth Chapter   Intro to section, because we will have subsections.  Another paragraph of the introduction.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion.   "
 },
 {
-  "id": "sec_fourth-intro",
+  "id": "sec_fifth-intro",
   "level": "1",
-  "url": "sec_fourth-intro.html",
+  "url": "sec_fifth-intro.html",
   "type": "Section",
   "number": "5.1",
-  "title": "Introduction to Fourth Chapter",
-  "body": " Introduction to Fourth Chapter   Intro to section, because we will have subsections.  Another paragraph of the introduction.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion.   "
+  "title": "Introduction to Fifth Chapter",
+  "body": " Introduction to Fifth Chapter   Intro to section, because we will have subsections.  Another paragraph of the introduction.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion.   "
 },
 {
-  "id": "sec_fourth-intro",
+  "id": "sec_sixth-intro",
   "level": "1",
-  "url": "sec_fourth-intro.html",
+  "url": "sec_sixth-intro.html",
   "type": "Section",
   "number": "6.1",
-  "title": "Introduction to Fourth Chapter",
-  "body": " Introduction to Fourth Chapter   Intro to section, because we will have subsections.  Another paragraph of the introduction.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion.   "
+  "title": "Introduction to Sixth Chapter",
+  "body": " Introduction to Sixth Chapter   Intro to section, because we will have subsections.  Another paragraph of the introduction.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion.   "
 },
 {
   "id": "ch_seventh",
