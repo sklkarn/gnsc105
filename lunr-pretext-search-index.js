@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Preface",
   "number": "",
   "title": "Preface",
-  "body": "   Physical science is an introductory book for non-scinece major students. It consists of introduction of physics, chemistry, geology, and astronomy. This book is a concise form of my lecture notes which I have been delivering for many years. This text is not a replacement of any textbook that has been recommended by the instructor but designed to provide additional materials as my personal teaching activities in physical science course. It is intended to support introductory level materials at a rapid and an efficient way. Students who want to use this text assume to have a prerequisite knowledge of some high school mathematical skills such as algebra and geometry.  Learning skills by memorization cannot work efficiently in learning physical sciences. It is a logical and conceptual based learning hence it requires a completely different pattern of study than simply trying to memorize lists of formulae or examples. This book is organized into ten chapters that covers the syllabus of physical science at undergraduate level in various universities and colleges. The topics in this book have been carefully selected to provide an introduction to the basic concepts of science and to give an opportunity to sharpen critical thinking and problem solving skills. The main objective of this book is to learn how to investigate and approach problems in a logical manner. This book strives to guide readers to learn physics in a logical manner. Many examples and practice problems throughout the text may be helpful to refine physical intuition.  Comments and suggestions for improvements to the text will be gratefully accepted. - - Author   "
+  "body": "   Physical science is an introductory book for non-scinece major students. It consists of introduction of physics, chemistry, geology, and astronomy. This book is a concise form of my lecture notes which I have been delivering for many years. This text is not a replacement of any textbook that has been recommended by the instructor but designed to provide additional materials as my personal teaching activities in physical science course. It is intended to support introductory level materials at a rapid and an efficient way. Students who want to use this text assume to have a prerequisite knowledge of some high school mathematical skills such as algebra and geometry.  Learning skills by memorization cannot work efficiently in learning physical sciences. It is a logical and conceptual based learning hence it requires a completely different pattern of study than simply trying to memorize lists of formulae or examples. This book is organized into ten chapters that covers the syllabus of physical science at undergraduate level in various universities and colleges. The topics in this book have been carefully selected to provide an introduction to the basic concepts of science and to give an opportunity to sharpen critical thinking and problem solving skills. The main objective of this book is to learn how to investigate and approach problems in a logical manner. This book strives to guide readers to learn physics in a logical manner. Many examples and practice problems throughout the text may be helpful to refine physical intuition.  Comments and suggestions for improvements to the text will be gratefully accepted. - - - Author   "
 },
 {
   "id": "sec_first-intro",
@@ -97,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.3",
   "title": "Example",
-  "body": " Example  Here is an example:    Write the sum of the numbers and in a proper significant figures.    The mathematical sum of the numbers is but, the lowest decimal place in the data is one, hence the correct answer would be     Here is another example, but without a solution    Round off the numbers and to the three significant figures.     Write the answer for each expression using scientific notation with the appropriate number of significant figures.                        "
+  "body": " Example  Here are some examples:    Write the sum of the numbers and in a proper significant figures.    The mathematical sum of the numbers is but, the lowest decimal place in the data is one, hence the correct answer would be     Here is another example, but without a solution    Round off the numbers and to the three significant figures.     Write the answer for each expression using scientific notation with the appropriate number of significant figures.                        "
 },
 {
   "id": "example-3",
@@ -196,25 +196,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Introduction to Motion",
-  "body": " Introduction to Motion   Motion can be described in terms of distance, displacement, position, time, speed, velocity, and acceleration. Motion is an act of movement. There are verieties of types of motion we come accross in physics. They are linear motion, circular motion, periodic motion, harmonic motion, vibration motion, uniform motion, non-uniform motion, etc. To understand the motion, we need to learn types of physical quantities.  The concept of physical quantity has already been introduced in . Here we are going to learn little more about physical quantity. As we know anything that can be measured in numbers and units are a physical quantity. Physical quantities are of two types, namely scalar physical quantity (or scalars) and vector physical quantity (or vectors). Scalars has magnitude only and no direction is involved in this physical quantity. For example: distance, speed, mass, time, density, temperature, currency, work, energy, current, power, pressure, etc. Vectors has both magnitude and direction. For example: displacement, velocity, acceleration, force, weight, momentum, torque, etc. Vector quantity is represented by an arrow pointing along its direction and size of the arrow represent its magnitude. In figure below is a vector OP which is pointing along its direction and size of arrow is representing the magnitude of that vector. Actually, it is not logical to scale the vectors everytime we draw them on the paper, hence we distinguish the vectors just by their magnitude value and direction but not by the size of the drawing.  Vector Representation        Some useful terminologies of motion    Distance: It is the length between the change in positions of an object. If is an initial position of the object and is a final position of that object then is the distance travelled by the object. It is a scalar quantity because it does not deal with the direction in which the object is travelling.It's unit is in SI system and in CGS system, and in FPS system.  Displacement:It is a direct distance between initial and final position of the object. It is the shortest path between initial and final positions of the object. It has the same unit as distance. It is a vector quantity because it has only one particular direction between the initial and position of the object. Let's understand by the example here, suppose you started travelling from initial point A and reached to point B by travelling 4 m distance along east. Now from point B you covered a distance of 3 m along north to reach to your final point C. So the direct distance between your initial position and final position is 5m given by Pythagoras theorem along north-east. Displacement, AC= . See the figure below as reference.  Displacement vector      Speed:The rate of change of position of an object is called a speed. It states that how fast the object is changing its position with respedt to time. In physics, the rate means with respect to time. It is also a scalar quantity. speed is represented by the letter, . If is an initial position and is the final position of the object then . It's unit is m\/s in SI system and cm\/s in CGS system, and ft\/s in FPS system.  Velocity: It is the speed of an object in particular direction. It is a vector quantity. It has the same unit as speed. It is also represented by the letter, .  Acceleration: The rate of change of velocity is called an acceleration. It states that how fast the velocity of an object is being changed. It is also a vector quantity. If is an initial velocity and is the final velocity of the object then the acceleration of the object is given by . It's unit is in SI system. If acceleration is positive then the object is speeding up, if it is negative then the object is slowing down, if it is zero then the object is either moving with uniform velocity or remains at rest.    Mathematical operation is different for vectors than in scalars. It is not just the addition or subtraction of the numbers. We are not going to perform many vector mathematical operations rather we try to understand addition and subtraction with some simple examples. Addition or subtraction of scalar quantities are just like adding or subtracting the numbers.     For example: in , the total distance travelled by the object is However, total displacement of the object is only along north-east directin as shown by the arrow AC. . Suppose water is flowing downstream with velocity 2 in a river where you are rowing your boat with 5 downstream. You can find that you are moving with 7 velocity (or speed) downstream. If you want to go upsteam then your velocity (or speed) would be 3 only. If you want to row accross the river then your velocity would be somewhere between 3 to 7 . . Suppose Aron is sweeming in a pool of 100 m wide. He took 5 laps, so he covers total of but his displacement is just zero. Remember one lap is one complete round of trip. However, if he just take a half lap then the distance covered is the same as displacement and are 100 m. .      Equations of Motion  There are three equations of motion defined by the above terminologies which can help solve problems of motion in horizontal direction. These eqations are obtained by manipulating of average velocity and acceleration of the object. They are as follows:  .  .  .    Note: In the above equations acceleration is always kept constant through out the motion.   "
+  "body": " Introduction to Motion   Motion can be described in terms of distance, displacement, position, time, speed, velocity, and acceleration. Motion is an act of movement. There are verieties of types of motion we come accross in physics. They are linear motion, circular motion, periodic motion, harmonic motion, vibrational motion, uniform motion, non-uniform motion, etc. To understand the motion, we need to learn types of physical quantities.  The concept of physical quantity has already been introduced in . Here we are going to learn little more about physical quantity. As we know anything that can be measured in numbers and units are a physical quantity. Physical quantities are of two types, namely scalar physical quantity (or scalars) and vector physical quantity (or vectors). Scalars has magnitude only and no direction is involved in this physical quantity. For example: distance, speed, mass, time, density, temperature, currency, work, energy, current, power, pressure, etc. Vectors has both magnitude and direction. For example: displacement, velocity, acceleration, force, weight, momentum, torque, etc. Vector quantity is represented by an arrow pointing along its direction and size of the arrow represent its magnitude. In figure below is a vector OP which is pointing along its direction and size of arrow is representing the magnitude of that vector. Actually, it is not logical to scale the vectors everytime we draw them on the paper, hence we distinguish the vectors just by their magnitude value and direction but not by the size of the drawing.  Vector Representation        Some useful terminologies of motion    Distance: It is the length between the change in positions of an object. If is an initial position of the object and is a final position of that object then is the distance travelled by the object. It is a scalar quantity because it does not deal with the direction in which the object is travelling.It's unit is in SI system and in CGS system, and in FPS system.  Displacement: It is a direct distance between initial and final position of the object. It is the shortest path between initial and final positions of the object. It has the same unit as distance. It is a vector quantity because it has only one particular direction between the initial and position of the object. Let's understand by the example here, suppose you started travelling from initial point A and reached to point B by travelling 4 m distance along east. Now from point B you covered a distance of 3 m along north to reach to your final point C. So the direct distance between your initial position and final position is 5m given by Pythagoras theorem along north-east. Displacement, AC= . See the figure below as reference.  Displacement vector      Speed:The rate of change of position of an object is called a speed. It states that how fast the object is changing its position with respedt to time. In physics, the rate means with respect to time. It is also a scalar quantity. speed is represented by the letter, . If is an initial position and is the final position of the object then . It's unit is m\/s in SI system and cm\/s in CGS system, and ft\/s in FPS system.  Velocity: It is the speed of an object in particular direction. It is a vector quantity. It has the same unit as speed. It is also represented by the letter, .  Acceleration: The rate of change of velocity is called an acceleration. It states that how fast the velocity of an object is being changed. It is also a vector quantity. If is an initial velocity and is the final velocity of the object then the acceleration of the object is given by . It's unit is in SI system. If acceleration is positive then the object is speeding up, if it is negative then the object is slowing down, if it is zero then the object is either moving with uniform velocity or remains at rest. Note: Velocity is always in the same direction as the object is moving, but the acceleration is not.    Vector quantity carries two pieces of information, i.e. magnitude and direction. Vector is often represented by an arrow. A straight line with an arrowhead where the length of the line yields information about MAGNITUDE and the arrow indicates the DIRECTION. Mathematical operation is different for vectors than in scalars. It is not just the addition or subtraction of the numbers. We are not going to perform many vector mathematical operations here rather we try to understand addition and subtraction with some simple examples. Addition or subtraction of scalar quantities are just like adding or subtracting the numbers. In vector addition, the vectors are arranged in “HEAD TO TAIL” to find the sum of the vectors. In vector subtraction, the vector to be subtracted is flipped in direction and added to the other vector by arranging them in “HEAD TO TAIL” to find the sum of the vectors.     For example: in , the total distance travelled by the object is However, total displacement of the object is only along north-east directin as shown by the arrow AC. . Suppose water is flowing downstream with velocity 2 in a river where you are rowing your boat with 5 downstream. You can find that you are moving with 7 velocity (or speed) downstream. If you want to go upsteam then your velocity (or speed) would be 3 only. If you want to row accross the river then your velocity would be somewhere between 3 to 7 . . Suppose Aron is sweeming in a pool of 100 m wide. He took 5 laps, so he covers total of but his displacement is just zero. Remember one lap is one complete round of trip. However, if he just take a half lap then the distance covered is the same as displacement and are 100 m. .      Equations of Motion  There are three equations of motion defined by the above terminologies which can help solve problems of motion. These eqations are obtained by manipulating average velocity and acceleration of the object.     Equations of motion in horizontal direction:   .  .  .    Equations of motion in vertical direction:   .  .  .      Note: The above equations only work for constant acceleration or acceleration due to gravity.  Here, = acceleration due to gracvity, = height attains be the object, and = time taken by the object during its motion.   In vertical direction earth plays a vitol role in the acceleration of object motion. Earth pulls every thing downwards which causes acceleration due to gravity, negative. Accleration due to gravity is the acceleration of the object caused by the earth gravitational field. The value of . In vertical motion, we consider height as positive if going up (y-axis) and height as negative if coming down. But here, we are taking if the object is going vertically up, and for the object falling down. Such conventions allow us to assume h as always positive.   Free Fall  Objects moving under the influence of only gravity is called a free fall. According to Galileo the velocity of a falling object is proportional to the length of time that the object has been falling. From the first equation of motion . as is constant. Hence, the object is falling with higher velocity if it is falling from longer time or higher position. Since is constant all objects fall at the same rate. (Assuming there is no air drag).    Projectile Motion  In normal day life, we encounter many examples where object moves along both horizontal and verticle direction together. Such type of motion is called projectile motion and the object moving in projectile motion is called a projectile. Hence, projectile is an object which has both horizontal as well as vertical motion. The path taken by the projectile is parabolic in nature. We are not dealing with mathematical operation related to projectile motion here but we try to understand the projectile motion by the following figure.  Projectile motion    Since gravity only acts on the verticle direction the horizontal velocity remains constant always in projectile motion.    Force  Force is a push or pull. Applcation of force on an object can change its direction of motion or change its velocity. There are four fundamental forces in nature. They are   Gravitational force: The gravitational force exists due to the mass of an object. It is a long range force. It holds all the planets together. We discuss this force later in this section.    Electromagnetic force: The electromagnetic force exists due to the charge in the object. It is also a long range force. It holds all the atoms and molecules together. We discuss this force later in another chapter.    Strong nucleur force: The strong nucleur force is a short range force and it exists only inside the nucleus. It binds all the nucleons together to have atomic existance. We may discuss this force little bit more in another chapter.    Weak nuclear force: The weak nucleur force is also short range force and only exists inside the nucleus. It is responsible for radioactivity of nucleous. The improper ratio of nucleons may cause the weak nuclear force to exist. We may discuss this force little bit more in another chapter.     Physical contact of the object is not necessary to experience the fundamental forces. Hoverever, there are many other forces which must be in contact to the object in order to act on that object. They are called contact forces (or mechanical forces). Friction force, normal force, tension, drag force, applied force, etc. are contact force.   "
 },
 {
-  "id": "fig2b",
+  "id": "figure-2",
   "level": "2",
-  "url": "sec_second-intro.html#fig2b",
+  "url": "sec_second-intro.html#figure-2",
   "type": "Figure",
   "number": "2.1.1",
   "title": "",
   "body": " Vector Representation    "
 },
 {
-  "id": "figure-3",
+  "id": "p-58",
   "level": "2",
-  "url": "sec_second-intro.html#figure-3",
-  "type": "Figure",
-  "number": "2.1.2",
+  "url": "sec_second-intro.html#p-58",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
   "title": "",
-  "body": " Displacement vector    "
+  "body": "Note: "
 },
 {
   "id": "example-6",
@@ -226,18 +226,27 @@ var ptx_lunr_docs = [
   "body": "   For example: in , the total distance travelled by the object is However, total displacement of the object is only along north-east directin as shown by the arrow AC. . Suppose water is flowing downstream with velocity 2 in a river where you are rowing your boat with 5 downstream. You can find that you are moving with 7 velocity (or speed) downstream. If you want to go upsteam then your velocity (or speed) would be 3 only. If you want to row accross the river then your velocity would be somewhere between 3 to 7 . . Suppose Aron is sweeming in a pool of 100 m wide. He took 5 laps, so he covers total of but his displacement is just zero. Remember one lap is one complete round of trip. However, if he just take a half lap then the distance covered is the same as displacement and are 100 m. .   "
 },
 {
+  "id": "fig2c",
+  "level": "2",
+  "url": "sec_second-intro.html#fig2c",
+  "type": "Figure",
+  "number": "2.1.4",
+  "title": "",
+  "body": " Projectile motion    "
+},
+{
   "id": "sec_second-examples",
   "level": "1",
   "url": "sec_second-examples.html",
   "type": "Section",
   "number": "2.2",
   "title": "Example",
-  "body": " Example    Special Instruction: To tackle the physical problems the book uses GUESS strategy for a systematic gatheing of information and finding a realistic and logistic solution. Here is what GUESS stands for.  G: Given, identify the given informations.  U: Unknown, identify the unknown that we are looking for.  E: Equation\/s, set up the equation from given information.  S: Substitute, substitute the number\/s in the equation\/s.  S: Solve, solve the equation to obtain the answer.     Here is an example:    A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is   Hence the acceleration of the car is 4 SI unit of acceleration is .      A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:       A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:     Unknown: ?  Equation: .  Substitute & Solve:        Larger Context  Before we start solving the problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into    "
+  "body": " Example    Special Instruction: To tackle the physical problems the book uses GUESS strategy for a systematic gatheing of information and finding a realistic and logistic solution. Here is what GUESS stands for.  G: Given, identify the given informations.  U: Unknown, identify the unknown that we are looking for.  E: Equation\/s, set up the equation from given information.  S: Substitute, substitute the number\/s in the equation\/s.  S: Solve, solve the equation to obtain the answer.     Here are some examples:    A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .       A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m       A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:             Larger Context  Before we start solving the problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into      A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .     "
 },
 {
-  "id": "p-63",
+  "id": "p-75",
   "level": "2",
-  "url": "sec_second-examples.html#p-63",
+  "url": "sec_second-examples.html#p-75",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -250,7 +259,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "2.2.1",
   "title": "",
-  "body": "  A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is   Hence the acceleration of the car is 4 SI unit of acceleration is .   "
+  "body": "  A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .    "
 },
 {
   "id": "example-8",
@@ -259,7 +268,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "2.2.2",
   "title": "",
-  "body": "  A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    "
+  "body": "  A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m    "
 },
 {
   "id": "example-9",
@@ -268,7 +277,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "2.2.3",
   "title": "",
-  "body": "  A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:     Unknown: ?  Equation: .  Substitute & Solve:      "
+  "body": "  A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:           "
 },
 {
   "id": "remark_second-examples-context",
@@ -280,13 +289,22 @@ var ptx_lunr_docs = [
   "body": " Larger Context  Before we start solving the problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into   "
 },
 {
+  "id": "example-10",
+  "level": "2",
+  "url": "sec_second-examples.html#example-10",
+  "type": "Example",
+  "number": "2.2.5",
+  "title": "",
+  "body": "  A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .    "
+},
+{
   "id": "ex_second",
   "level": "1",
   "url": "ex_second.html",
   "type": "Exercises",
   "number": "2.3",
   "title": "My Exercises",
-  "body": "  My Exercises   Is this an exercise?   Yes.   It is, but not a very good one.    Another, with a hint.   The hint.      "
+  "body": "  My Exercises   A car starts from rest accelerated for 5 minutes to achieve 25 velocity.   Yes.   It is, but not a very good one.    Another, with a hint.   The hint.      "
 },
 {
   "id": "exercise-7",
@@ -295,7 +313,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2.3.1",
   "title": "",
-  "body": " Is this an exercise?   Yes.   It is, but not a very good one.  "
+  "body": " A car starts from rest accelerated for 5 minutes to achieve 25 velocity.   Yes.   It is, but not a very good one.  "
 },
 {
   "id": "exercise-8",
@@ -325,18 +343,18 @@ var ptx_lunr_docs = [
   "body": " Examples  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.   Theorem Title   This is the statement of the theorem.    And this is its proof.      A corollary that doesn't need a proof.    Perhaps at the end of the section, you want to add a note to the reader about how what you have fits into the larger scope of mathematics.   Larger Context  Comment to the reader here.   Of course, if you want more information, you might see .  "
 },
 {
-  "id": "example-10",
+  "id": "example-11",
   "level": "2",
-  "url": "sec_third-examples.html#example-10",
+  "url": "sec_third-examples.html#example-11",
   "type": "Example",
   "number": "3.2.1",
   "title": "",
   "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
 },
 {
-  "id": "example-11",
+  "id": "example-12",
   "level": "2",
-  "url": "sec_third-examples.html#example-11",
+  "url": "sec_third-examples.html#example-12",
   "type": "Example",
   "number": "3.2.2",
   "title": "",
@@ -523,18 +541,18 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-12",
+  "id": "example-13",
   "level": "2",
-  "url": "sec_features-blocks.html#example-12",
+  "url": "sec_features-blocks.html#example-13",
   "type": "Example",
   "number": "16.1.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-4",
+  "id": "figure-5",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-4",
+  "url": "sec_features-blocks.html#figure-5",
   "type": "Figure",
   "number": "16.1.3",
   "title": "",
