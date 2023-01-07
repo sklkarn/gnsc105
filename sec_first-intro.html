@@ -240,8 +240,13 @@ window.MathJax = {
 <li><div class="toc-item"><a href="sec_second-intro.html#subsec_2iv-subsection" class="internal"><span class="codenumber">2.1.4</span> <span class="title">Projectile Motion</span></a></div></li>
 <li>
 <div class="toc-item"><a href="sec_second-intro.html#subsec_2v-subsection" class="internal"><span class="codenumber">2.1.5</span> <span class="title">Force</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="sec_second-intro.html#subsubsec-cf" class="internal"><span class="codenumber">2.1.5.1</span> <span class="title">Contact Forces</span></a></div></li></ul>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec_second-intro.html#subsubsec-cf" class="internal"><span class="codenumber">2.1.5.1</span> <span class="title">Contact Forces</span></a></div></li>
+<li><div class="toc-item"><a href="sec_second-intro.html#subsubsec_nlm" class="internal"><span class="codenumber">2.1.5.2</span> <span class="title">Newton's Laws of Motion</span></a></div></li>
+<li><div class="toc-item"><a href="sec_second-intro.html#subsubsec-ucm" class="internal"><span class="codenumber">2.1.5.3</span> <span class="title">Uniform Circular Motion</span></a></div></li>
+</ul>
 </li>
+<li><div class="toc-item"><a href="sec_second-intro.html#subsec_2vi-subsection" class="internal"><span class="codenumber">2.1.6</span> <span class="title">Newton's Law of Gravitation</span></a></div></li>
 </ul>
 </li>
 <li><div class="toc-item"><a href="sec_second-examples.html" class="internal"><span class="codenumber">2.2</span> <span class="title">Example</span></a></div></li>
@@ -347,7 +352,7 @@ window.MathJax = {
 <li id="li-13"><div class="para" id="p-derived-li-13">Trailing zeros in the decimal portion are significant; in number 0.003004500 the 0,0 at end of 5 are significant.</div></li>
 <li id="li-14"><div class="para" id="p-derived-li-14">Trailing zeroes in a whole number with no decimal shown are not significant; in number ”540” there are only two sig.fig. 5 and 4, the last 0 is not significant.</div></li>
 <li id="li-15"><div class="para" id="p-derived-li-15">Leading zeroes in the decimal portion to the first non-zero digit are not significant; in number 0.003004500 the 0 to the right of decimal point and digits 0, 0 to the left of decimal point before the digit 3 are not significant.</div></li>
-<li id="li-16"><div class="para" id="p-derived-li-16">Exponential digits in scientific notation are not significant; 1.32 × 106 has only three significant figures, 1, 3, and 2.</div></li>
+<li id="li-16"><div class="para" id="p-derived-li-16">Exponential digits in scientific notation are not significant; <span class="process-math">\(1.32 \times 10^6\)</span> has only three significant figures, 1, 3, and 2.</div></li>
 </ol>
 </div></section><section class="subsection" id="subsec_rn-subsection"><h3 class="heading hide-type">
 <span class="type">Subsection</span> <span class="codenumber">1.1.2</span> <span class="title">Rounding off the Numbers</span>
@@ -358,8 +363,8 @@ window.MathJax = {
 <div class="para" id="p-13">Round 742,396 to four, three, and two significant digits:</div>
 <ol class="lower-alpha">
 <li id="li-18"><div class="para" id="p-derived-li-18">To round to four sig. fig. start with the first significant digit, which is the 7. Then count to the right from there. The first four significant digits of 742,396 are the 7, the 4, the 2, and the 3. Just to the right of the 3 is a 9. Because this value is ”greater than 5”, round the 3 up to 4. Replace the remaining digits (the 9 and the 6) with zeroes. Then: 742,400 (four significant digits).</div></li>
-<li id="li-19"><div class="para" id="p-derived-li-19">To round 742,396 to three places, start again with the 7 and include the next two digits, being the 4 and the 2. Since the next digit is a 3, which is ”less than 5”, leave the 2 alone and don’t round up. Replace the three digits after the comma with zeroes. Then: 742,000 (three significant digits)</div></li>
-<li id="li-20"><div class="para" id="p-derived-li-20">To round 742,396 to two places, use only the first two digits, which are followed by a 2, so don’t round up. Instead, just replace the final four digits with zeroes, to get: 740,000 (two significant digits).</div></li>
+<li id="li-19"><div class="para" id="p-derived-li-19">To round 742,396 to three places, start again with the 7 and include the next two digits, being the 4 and the 2. Since the next digit is a 3, which is ”less than 5”, leave the 2 alone and don't round up. Replace the three digits after the comma with zeroes. Then: 742,000 (three significant digits)</div></li>
+<li id="li-20"><div class="para" id="p-derived-li-20">To round 742,396 to two places, use only the first two digits, which are followed by a 2, so don't round up. Instead, just replace the final four digits with zeroes, to get: 740,000 (two significant digits).</div></li>
 </ol>
 </li>
 <li id="li-21">
@@ -381,7 +386,7 @@ window.MathJax = {
 <span class="type">Subsection</span> <span class="codenumber">1.1.3</span> <span class="title">Mathematical Operations with Significant Figures</span>
 </h3>
 <div class="para logical" id="p-16"><ol class="decimal">
-<li id="li-28"><div class="para" id="p-derived-li-28">Addition or subtraction: The final result should retain as many decimal places as there are in the number with the least decimal places. For example, the sum of the numbers 436.32 g, 227.2 g and 0.301 g is 663.821 g by mere arithmetic addition but the least precise measurement (227.2 g) is correct to only one decimal place. Therefore, the final result should be rounded off to 663.8 g. Similarly, the difference in length can be expressed as: <span class="process-math">\(0.307 m – 0.304y m = 0.0025=0.003 m.\)</span>
+<li id="li-28"><div class="para" id="p-derived-li-28">Addition or subtraction: The final result should retain as many decimal places as there are in the number with the least decimal places. For example, the sum of the numbers 436.32 g, 227.2 g and 0.301 g is 663.821 g by mere arithmetic addition but the least precise measurement (227.2 g) is correct to only one decimal place. Therefore, the final result should be rounded off to 663.8 g. Similarly, the difference in length can be expressed as: <span class="process-math">\(0.307 m - 0.304y m = 0.0025=0.003 m.\)</span>
 </div></li>
 <li id="li-29"><div class="para" id="p-derived-li-29">Multiplication or division: The final result should retain as many significant figures as are there in the original number with the least significant figures. For example, if mass of an object is measured to be, say, 4.237 g (four significant figures) and its volume is measured to be <span class="process-math">\(2.51 cm^3\)</span> , then its density, by mere arithmetic division, is <span class="process-math">\(1.68804780876 g/cm^3 \)</span> upto 11 decimal places. But density should be reported to three significant figures as <span class="process-math">\(density = \frac{4.237g}{2.51 cm^3} = 1.69cm^3.\)</span>
 </div></li>
