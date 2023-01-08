@@ -196,7 +196,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Introduction to Motion",
-  "body": " Introduction to Motion   Motion can be described in terms of distance, displacement, position, time, speed, velocity, and acceleration. Motion is an act of movement. There are verieties of types of motion we come accross in physics. They are linear motion, circular motion, periodic motion, harmonic motion, vibrational motion, uniform motion, non-uniform motion, etc. To understand the motion, we need to learn types of physical quantities.  The concept of physical quantity has already been introduced in . Here we are going to learn little more about physical quantity. As we know anything that can be measured in numbers and units are a physical quantity. Physical quantities are of two types, namely scalar physical quantity (or scalars) and vector physical quantity (or vectors). Scalars has magnitude only and no direction is involved in this physical quantity. For example: distance, speed, mass, time, density, temperature, currency, work, energy, current, power, pressure, etc. Vectors has both magnitude and direction. For example: displacement, velocity, acceleration, force, weight, momentum, torque, etc. Vector quantity is represented by an arrow pointing along its direction and size of the arrow represent its magnitude. In figure below is a vector OP which is pointing along its direction and size of arrow is representing the magnitude of that vector. Actually, it is not logical to scale the vectors everytime we draw them on the paper, hence we distinguish the vectors just by their magnitude value and direction but not by the size of the drawing.  Vector Representation        Some useful terminologies of motion    Distance: It is the length between the change in positions of an object. If is an initial position of the object and is a final position of that object then is the distance travelled by the object. It is a scalar quantity because it does not deal with the direction in which the object is travelling.It's unit is in SI system and in CGS system, and in FPS system.  Displacement: It is a direct distance between initial and final position of the object. It is the shortest path between initial and final positions of the object. It has the same unit as distance. It is a vector quantity because it has only one particular direction between the initial and position of the object. Let's understand by the example here, suppose you started travelling from initial point A and reached to point B by travelling 4 m distance along east. Now from point B you covered a distance of 3 m along north to reach to your final point C. So the direct distance between your initial position and final position is 5m given by Pythagoras theorem along north-east. Displacement, AC= . See the figure below as reference.  Displacement vector      Speed:The rate of change of position of an object is called a speed. It states that how fast the object is changing its position with respedt to time. In physics, the rate means with respect to time. It is also a scalar quantity. speed is represented by the letter, . If is an initial position and is the final position of the object then . It's unit is m\/s in SI system and cm\/s in CGS system, and ft\/s in FPS system.  Velocity: It is the speed of an object in particular direction. It is a vector quantity. It has the same unit as speed. It is also represented by the letter, .  Acceleration: The rate of change of velocity is called an acceleration. It states that how fast the velocity of an object is being changed. It is also a vector quantity. If is an initial velocity and is the final velocity of the object then the acceleration of the object is given by . It's unit is in SI system. If acceleration is positive then the object is speeding up, if it is negative then the object is slowing down, if it is zero then the object is either moving with uniform velocity or remains at rest. Note: Velocity is always in the same direction as the object is moving, but the acceleration is not.    Vector quantity carries two pieces of information, i.e. magnitude and direction. Vector is often represented by an arrow. A straight line with an arrowhead where the length of the line yields information about MAGNITUDE and the arrow indicates the DIRECTION. Mathematical operation is different for vectors than in scalars. It is not just the addition or subtraction of the numbers. We are not going to perform many vector mathematical operations here rather we try to understand addition and subtraction with some simple examples. Addition or subtraction of scalar quantities are just like adding or subtracting the numbers. In vector addition, the vectors are arranged in “HEAD TO TAIL” to find the sum of the vectors. In vector subtraction, the vector to be subtracted is flipped in direction and added to the other vector by arranging them in “HEAD TO TAIL” to find the sum of the vectors.     For example: in , the total distance travelled by the object is However, total displacement of the object is only along north-east directin as shown by the arrow AC. . Suppose water is flowing downstream with velocity 2 in a river where you are rowing your boat with 5 downstream. You can find that you are moving with 7 velocity (or speed) downstream. If you want to go upsteam then your velocity (or speed) would be 3 only. If you want to row accross the river then your velocity would be somewhere between 3 to 7 . . Suppose Aron is sweeming in a pool of 100 m wide. He took 5 laps, so he covers total of but his displacement is just zero. Remember one lap is one complete round of trip. However, if he just take a half lap then the distance covered is the same as displacement and are 100 m. .      Equations of Motion  There are three equations of motion defined by the above terminologies which can help solve problems of motion. These eqations are obtained by manipulating average velocity and acceleration of the object.     Equations of motion in horizontal direction:   .  .  .    Equations of motion in vertical direction:   .  .  .      Note: The above equations only work for constant acceleration or acceleration due to gravity.  Here, = acceleration due to gracvity, = height attains be the object, and = time taken by the object during its motion.   In vertical direction earth plays a vitol role in the acceleration of object motion. Earth pulls every thing downwards which causes acceleration due to gravity, negative. Accleration due to gravity is the acceleration of the object caused by the earth gravitational field. The value of . In vertical motion, we consider height as positive if going up (y-axis) and height as negative if coming down. But here, we are taking if the object is going vertically up, and for the object falling down. Such conventions allow us to assume h as always positive.   Free Fall  Objects moving under the influence of gravity only is called a free fall. This means gravity causes a change in the velocity of any object by 9.80 every second. So, drop any object and let it fall toward the ground: After 1s, the speed of the object is 9.80 . After 2s, the speed of the object is 19.6 . Etc. According to Galileo the velocity of a falling object is proportional to the length of time that the object has been falling. From the first equation of motion or, as is constant. Hence, the object is falling with higher velocity if it is falling for a long time or from a higher position. Since is constant near the planet all objects fall at the same rate. (Assuming there is no air resistance).    Projectile Motion  In normal day life, we encounter many examples where object moves along both horizontal and verticle direction together. Such type of motion is called projectile motion and the object moving in projectile motion is called a projectile. Hence, projectile is an object which has both horizontal as well as vertical motion. The path taken by the projectile is parabolic in nature. We are not dealing with mathematical operation related to projectile motion here but we try to understand the projectile motion by the following figure.  Projectile motion    Since gravity only acts on the verticle direction the horizontal velocity remains constant always in projectile motion.    Force  Force is a push or pull. It is a vector quantity. Force is anything that produces a change in the state of motion or shape of an object. Action of force on an object can change the direction of motion or change the velocity of the object. Newton ( ) is an SI unit of force. There are four fundamental forces in nature. They are   Gravitational force or Force of Gravity: The gravitational force exists due to the mass of an object. Gravitational force is the weakest known forces in nature. It is a long range force. It holds all the planets together. We discuss this force later in this section. This force is acting on any object due to attraction of earth. Near the surface of the earth force of gravity is given by its weight, i.e., Foece, = weight = . Where g is the acceleration due to gravity and the direction force is acting along the center of the earth. Weight: It is the force acting on an object due to gravitational acceleration. Weight is the effect of force of gravity on an object located at a particular point. One kg of mass has a weight of about 10 N ( ).    Electromagnetic force: The electromagnetic force exists due to the charge in the object. It is also a long range force but stronger than the gravitational force. It holds all the atoms and molecules together. We discuss this force later in another chapter.    Strong nucleur force: The strong nucleur force is a short range force and it exists only inside the nucleus. It binds all the nucleons together to have atomic existance. It is the strongest force in nature.    Weak nuclear force: The weak nucleur force is also short range force and only exists inside the nucleus. It is weaker than strong nuclear force and electromagnetic force. It is responsible for radioactivity of nucleous. The improper ratio of nucleons may cause the weak nuclear force to exist.     Physical contact of the object is not necessary to experience the fundamental forces. Hoverever, there are many other forces which only act on the object if they are in contact. They are called contact forces (or mechanical forces). Frictional force, normal force, tension, drag force, applied force, etc. are some contact forces.   Contact Forces     Friction: Friction is a resistive force that opposes or tends to oppose relative motion between two objects. It is a force that exists between the surfaces of contact of the two objects. If two systems are in contact and stationary relative to each other, then the friction between them is called static friction . This force arises from mechanical interlocking at the microscopic level plus the electrostatic molecular forces that hold the surfaces themselves together. If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction . This force arises from forming and breaking of microscopic adhesive bonds between atoms on the surfaces plus some mechanical linkage between the small irregularities on the surfaces. Experimentally it is found that frictional force is proportional to normal force, i.e., or, . Where proportionality constant is called the coefficient of friction. It defines the nature of roughness of the surfaces of contact. Friction decreases with increase in smoothness of the surfaces of contact, but if the surfaces are ultra smooth then friction increases because of inter molecular forces starts to act between the two surfaces as they come very close to each other, due to which it becomes harder to make them slide on each other. Friction is a complex force, and its behavior is still not completely understood. On molecular level friction has no existence.  In microscopic level most surfaces look very rough as shown in figure below. Thus, when an object is pushed to move it must raise the object until it can skip the tips of the surface hitting, breaking off the points, or both. A considerable force can be resisted by friction with no apparent motion. Part of the friction is due to adhesive forces between the surface molecules of the two objects, which explains the dependence of friction on the nature of the substances. For example, rubber-soled shoes slip less than those with leather soles. Adhesion varies with substances in contact. Once an object is moving, there are fewer points of contact so less force is required to keep the object moving. At small but nonzero speeds, friction is nearly independent of speed.  Surfaces of contact as seen from microscope      In real life frictional forces are almost always present. Remember the direction of frictional force is always opposite to the direction of motion or the applied force. Friction is bad as it dissipates energy but friction is also good as it allows us to roll, turn, walk, and stop. Friction between two solids does not depend on the surface area in contact. Friction can happen, even between surfaces that are not solid such as air drag. Air resistance (drag) during free fall reduces the weight of the object. Air drag increases with the velocity of the object in free fall and when it becomes equal to the wight of the object net force acting on the object is zero and hence the object starts falling with the constant velocity called Terminal Velocity. Sky diving is a good example of terminal velocity.  Skydiving at terminal velocity         Normal: This is a force of reaction from the surface where the object is placed. It is always perpendicular to the surface of contact. Tension: This force is acting between two objects on opposite ends of the string, in the directions to taut string at the point of contact. This force stretches the string along fixed support. It is a pulling force. Spring force: A spring is a special medium that has ability to restore its shape, if deformed. Any material has elastic property which helps it to restore its shape, if an applied deforming force has been released. From Hook's law a material (spring) exerts a restoring force that is proportional to a deforming force in opposite direction in which it is stretched or compressed. In mathematical form, spring force, where k is a spring's stiffness, also called an elastic constant and is stretch made on spring.       Newton's Laws of Motion  Newton recognized that there are two kinds of motion they are uniform motion and accelerated motion. Uniform motion: the movement of an object traveling in a straight line at a constant speed (no acceleration). Accelerated motion: the movement of an object traveling under the influence of some source of acceleration. On that basis he defined three laws of motion called Newton's laws of motion.  Newton's first law is the definition of a force which states that every object in a state of rest remains at rest or in a state of uniform motion tends to remain in uniform motion along the same direction, unless an external force is applied to it. Force is not required to continue the motion of anything which is already in motion. The first law is also called a law of inertia . Inertia is an ability of an object to resist any changes in its motion. Mass is related to inertia, the bigger the mass the more difficult it is to change the state of rest or motion of an object. Mass: It is the amount of matter in contained in an object. It is also reposible for the force of gravity of the object. Some examples of I law: 1. When the bus driver abruptly applies the breaks, passengers tend to feel a momentary pull in the forward direction. The reason behind this jerk felt by the passengers sitting inside the bus is the law of inertia. Due to inertia, our upper body part continues to maintain a state of motion even after the bus stops, thereby pushing us in the forward direction. 2. A book kept on a bookshelf does not change its shape, size, or position until acted upon by an external force. 3. A runner is not able to stop himself right after crossing the finish line. He\/She tends to take time and cover a few meters of distance running beyond the finish line. This is because the inertia of motion resists a sudden termination of motion and compels the body to maintain its state of motion.  Newton's second law is the measurement of a force which states that the acceleration of the object is directly proportional to the applied force and takes the direction of that force. Newton's II law can be expressed as . Where is the mass of the object.  Newton's third law is the property of force which states that for every action there is an equal and opposite reaction. Force always comes in pair. If an object A applies the action force on the object B then object B also applies the same amount of reaction force on the object A. These forces pair always act on two different objects. If one object exerts a force on a second object, then the second object exerts an equal but oppositely directed force on the first object. Mathematically, Some examples are: 1. Earth exerts force on you because you exert an equal and opposite force on earth. Here your force is your body weight and earth reaction force is a normal force. 2. When the rifle is fired it exerts a force on the bullet and the bullet exerts an equal and opposite force on the rifle. 3. You are able to sweem in water because you pushes water backwardly so apply the force on water and in reaction water also applies the same force on you just in opposite direction so you can sweem nicely.     Uniform Circular Motion  In uniform circular motion an object is moving at a constant speed (not velocity) on a circular path. For an object to be in uniform circular motion, there must be a net force acting on it. This force is called a centripetal force without this force nothing can move in a circular path. This net force is not a physical force of some kind actually some other forces must be there to act like a centripetel force. If the centripetal force vanishes, the object flies off at a tangent to the circle. The centripetal force, where is mass of the object, is speed of the object, and is radius of the circluar path. Because of necessary centripetal force, sometime we feel difficulty to steer our car around a sharp curve. The sharper the curve (i.e., the smaller the radius) the greater the centripetal force required to keep the car on the curved path. Cetripetal means to look towards the center, hence centripetal force is always acting towards the center of the path. Some examples: 1. We may have noticed that when the string breaks for a whirling stone. The stone flies off along the straight line tangential to the circular path. 2. When swinging a yo-yo around in a circle. The force generated by your arm puts the yo-yo itself in motion, and the tension on the string keeps it moving in a circular path as you twirl it. If the string were to break at any given point, the yo-yo would fly off in a direction that is tangent to the point on the circle that the yo-yo was at when the string broke centripetal force .     Newton's Law of Gravitation  Newton observed that when an object falls it was accelerated toward the earth. Since the cause of such acceleration is an unbalanced force, there must be a force pulling that object toward the earth. On this basis he came up with an idea called Newton's Law of Universal Gravitation. It states that any two masses in the universe attract each other with a force that is directly proportional to the product of the masses and inversely proportional to the square of the distance between them. Mathematically, . Here, is an universal gravitational constant, and are the masses of two objects, and is the distance between the two masses.   "
+  "body": " Introduction to Motion   Motion can be described in terms of distance, displacement, position, time, speed, velocity, and acceleration. Motion is an act of movement. There are verieties of types of motion we come accross in physics. They are linear motion, circular motion, periodic motion, harmonic motion, vibrational motion, uniform motion, non-uniform motion, etc. To understand the motion, we need to learn types of physical quantities.  The concept of physical quantity has already been introduced in . Here we are going to learn little more about physical quantity. As we know anything that can be measured in numbers and units are a physical quantity. Physical quantities are of two types, namely scalar physical quantity (or scalars) and vector physical quantity (or vectors). Scalars has magnitude only and no direction is involved in this physical quantity. For example: distance, speed, mass, time, density, temperature, currency, work, energy, current, power, pressure, etc. Vectors has both magnitude and direction. For example: displacement, velocity, acceleration, force, weight, momentum, torque, etc. Vector quantity is represented by an arrow pointing along its direction and size of the arrow represent its magnitude. In figure below is a vector OP which is pointing along its direction and size of arrow is representing the magnitude of that vector. Actually, it is not logical to scale the vectors everytime we draw them on the paper, hence we distinguish the vectors just by their magnitude value and direction but not by the size of the drawing.  Vector Representation        Some useful terminologies of motion    Distance: It is the length between the change in positions of an object. If is an initial position of the object and is a final position of that object then is the distance travelled by the object. It is a scalar quantity because it does not deal with the direction in which the object is travelling.It's unit is in SI system and in CGS system, and in FPS system.  Displacement: It is a direct distance between initial and final position of the object. It is the shortest path between initial and final positions of the object. It has the same unit as distance. It is a vector quantity because it has only one particular direction between the initial and position of the object. Let's understand by the example here, suppose you started travelling from initial point A and reached to point B by travelling 4 m distance along east. Now from point B you covered a distance of 3 m along north to reach to your final point C. So the direct distance between your initial position and final position is 5m given by Pythagoras theorem along north-east. Displacement, AC= . See the figure below as reference.  Displacement vector      Speed:The rate of change of position of an object is called a speed. It states that how fast the object is changing its position with respedt to time. In physics, the rate means with respect to time. It is also a scalar quantity. speed is represented by the letter, . If is an initial position and is the final position of the object then . It's unit is m\/s in SI system and cm\/s in CGS system, and ft\/s in FPS system.  Velocity: It is the speed of an object in particular direction. It is a vector quantity. It has the same unit as speed. It is also represented by the letter, .  Acceleration: The rate of change of velocity is called an acceleration. It states that how fast the velocity of an object is being changed. It is also a vector quantity. If is an initial velocity and is the final velocity of the object then the acceleration of the object is given by . It's unit is in SI system. If acceleration is positive then the object is speeding up, if it is negative then the object is slowing down, if it is zero then the object is either moving with uniform velocity or remains at rest. Note: Velocity is always in the same direction as the object is moving, but the acceleration is not.    Vector quantity carries two pieces of information, i.e. magnitude and direction. Vector is often represented by an arrow. A straight line with an arrowhead where the length of the line yields information about MAGNITUDE and the arrow indicates the DIRECTION. Mathematical operation is different for vectors than in scalars. It is not just the addition or subtraction of the numbers. We are not going to perform many vector mathematical operations here rather we try to understand addition and subtraction with some simple examples. Addition or subtraction of scalar quantities are just like adding or subtracting the numbers. In vector addition, the vectors are arranged in “HEAD TO TAIL” to find the sum of the vectors. In vector subtraction, the vector to be subtracted is flipped in direction and added to the other vector by arranging them in “HEAD TO TAIL” to find the sum of the vectors.     For example: in , the total distance travelled by the object is However, total displacement of the object is only along north-east directin as shown by the arrow AC. . Suppose water is flowing downstream with velocity 2 in a river where you are rowing your boat with 5 downstream. You can find that you are moving with 7 velocity (or speed) downstream. If you want to go upsteam then your velocity (or speed) would be 3 only. If you want to row accross the river then your velocity would be somewhere between 3 to 7 . . Suppose Aron is sweeming in a pool of 100 m wide. He took 5 laps, so he covers total of but his displacement is just zero. Remember one lap is one complete round of trip. However, if he just take a half lap then the distance covered is the same as displacement and are 100 m. .      Equations of Motion  There are three equations of motion defined by the above terminologies which can help solve problems of motion. These eqations are obtained by manipulating average velocity and acceleration of the object.     Equations of motion in horizontal direction:   .  .  .    Equations of motion in vertical direction:   .  .  .      Note: The above equations only work for constant acceleration or acceleration due to gravity.  Here, = acceleration due to gracvity, = height attains be the object, and = time taken by the object during its motion.   In vertical direction earth plays a vitol role in the acceleration of object motion. Earth pulls every thing downwards which causes acceleration due to gravity, negative. Accleration due to gravity is the acceleration of the object caused by the earth gravitational field. The value of . In vertical motion, we consider height as positive if going up (y-axis) and height as negative if coming down. But here, we are taking if the object is going vertically up, and for the object falling down. Such conventions allow us to assume h as always positive.   Free Fall  Objects moving under the influence of gravity only is called a free fall. This means gravity causes a change in the velocity of any object by 9.80 every second. So, drop any object and let it fall toward the ground: After 1s, the speed of the object is 9.80 . After 2s, the speed of the object is 19.6 . Etc. According to Galileo the velocity of a falling object is proportional to the length of time that the object has been falling. From the first equation of motion or, as is constant. Hence, the object is falling with higher velocity if it is falling for a long time or from a higher position. Since is constant near the planet all objects fall at the same rate. (Assuming there is no air resistance).    Projectile Motion  In normal day life, we encounter many examples where object moves along both horizontal and verticle direction together. Such type of motion is called projectile motion and the object moving in projectile motion is called a projectile. Hence, projectile is an object which has both horizontal as well as vertical motion. The path taken by the projectile is parabolic in nature. We are not dealing with mathematical operation related to projectile motion here but we try to understand the projectile motion by the following figure.  Projectile motion    Since gravity only acts on the verticle direction the horizontal velocity remains constant always in projectile motion.    Force  Force is a push or pull. It is a vector quantity. Force is anything that produces a change in the state of motion or shape of an object. Action of force on an object can change the direction of motion or change the velocity of the object. Newton ( ) is an SI unit of force. There are four fundamental forces in nature. They are   Gravitational force or Force of Gravity: The gravitational force exists due to the mass of an object. Gravitational force is the weakest known forces in nature. It is a long range force. It holds all the planets together. We discuss this force later in this section. This force is acting on any object due to attraction of earth. Near the surface of the earth force of gravity is given by its weight, i.e., Foece, = weight = . Where g is the acceleration due to gravity and the direction force is acting along the center of the earth. Weight: It is the force acting on an object due to gravitational acceleration. Weight is the effect of force of gravity on an object located at a particular point. One kg of mass has a weight of about 10 N ( ).    Electromagnetic force: The electromagnetic force exists due to the charge in the object. It is also a long range force but stronger than the gravitational force. It holds all the atoms and molecules together. We discuss this force later in another chapter.    Strong nucleur force: The strong nucleur force is a short range force and it exists only inside the nucleus. It binds all the nucleons together to have atomic existance. It is the strongest force in nature.    Weak nuclear force: The weak nucleur force is also short range force and only exists inside the nucleus. It is weaker than strong nuclear force and electromagnetic force. It is responsible for radioactivity of nucleous. The improper ratio of nucleons may cause the weak nuclear force to exist.     Physical contact of the object is not necessary to experience the fundamental forces. Hoverever, there are many other forces which only act on the object if they are in contact. They are called contact forces (or mechanical forces). Frictional force, normal force, tension, drag force, applied force, etc. are some contact forces.   Contact Forces     Friction: Friction is a resistive force that opposes or tends to oppose relative motion between two objects. It is a force that exists between the surfaces of contact of the two objects. If two systems are in contact and stationary relative to each other, then the friction between them is called static friction . This force arises from mechanical interlocking at the microscopic level plus the electrostatic molecular forces that hold the surfaces themselves together. If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction . This force arises from forming and breaking of microscopic adhesive bonds between atoms on the surfaces plus some mechanical linkage between the small irregularities on the surfaces. Experimentally it is found that frictional force is proportional to normal force, i.e., or, . Where proportionality constant is called the coefficient of friction. It defines the nature of roughness of the surfaces of contact. Friction decreases with increase in smoothness of the surfaces of contact, but if the surfaces are ultra smooth then friction increases because of inter molecular forces starts to act between the two surfaces as they come very close to each other, due to which it becomes harder to make them slide on each other. Friction is a complex force, and its behavior is still not completely understood. On molecular level friction has no existence.  In microscopic level most surfaces look very rough as shown in figure below. Thus, when an object is pushed to move it must raise the object until it can skip the tips of the surface hitting, breaking off the points, or both. A considerable force can be resisted by friction with no apparent motion. Part of the friction is due to adhesive forces between the surface molecules of the two objects, which explains the dependence of friction on the nature of the substances. For example, rubber-soled shoes slip less than those with leather soles. Adhesion varies with substances in contact. Once an object is moving, there are fewer points of contact so less force is required to keep the object moving. At small but nonzero speeds, friction is nearly independent of speed.  Surfaces of contact as seen from microscope      In real life frictional forces are almost always present. Remember the direction of frictional force is always opposite to the direction of motion or the applied force. Friction is bad as it dissipates energy but friction is also good as it allows us to roll, turn, walk, and stop. Friction between two solids does not depend on the surface area in contact. Friction can happen, even between surfaces that are not solid such as air drag. Air resistance (drag) during free fall reduces the weight of the object. Air drag increases with the velocity of the object in free fall and when it becomes equal to the wight of the object net force acting on the object is zero and hence the object starts falling with the constant velocity called Terminal Velocity. Sky diving is a good example of terminal velocity.  Skydiving at terminal velocity         Normal: This is a force of reaction from the surface where the object is placed. It is always perpendicular to the surface of contact. Tension: This force is acting between two objects on opposite ends of the string, in the directions to taut string at the point of contact. This force stretches the string along fixed support. It is a pulling force. Spring force: A spring is a special medium that has ability to restore its shape, if deformed. Any material has elastic property which helps it to restore its shape, if an applied deforming force has been released. From Hook's law a material (spring) exerts a restoring force that is proportional to a deforming force in opposite direction in which it is stretched or compressed. In mathematical form, spring force, where k is a spring's stiffness, also called an elastic constant and is stretch made on spring.       Newton's Laws of Motion  Newton recognized that there are two kinds of motion they are uniform motion and accelerated motion. Uniform motion: the movement of an object traveling in a straight line at a constant speed (no acceleration). Accelerated motion: the movement of an object traveling under the influence of some source of acceleration. On that basis he defined three laws of motion called Newton's laws of motion.  Newton's first law is the definition of a force which states that every object in a state of rest remains at rest or in a state of uniform motion tends to remain in uniform motion along the same direction, unless an external force is applied to it. Force is not required to continue the motion of anything which is already in motion. The first law is also called a law of inertia . Inertia is an ability of an object to resist any changes in its motion. Mass is related to inertia, the bigger the mass the more difficult it is to change the state of rest or motion of an object. Mass: It is the amount of matter in contained in an object. It is also reposible for the force of gravity of the object. Some examples of I law: 1. When the bus driver abruptly applies the breaks, passengers tend to feel a momentary pull in the forward direction. The reason behind this jerk felt by the passengers sitting inside the bus is the law of inertia. Due to inertia, our upper body part continues to maintain a state of motion even after the bus stops, thereby pushing us in the forward direction. 2. A book kept on a bookshelf does not change its shape, size, or position until acted upon by an external force. 3. A runner is not able to stop himself right after crossing the finish line. He\/She tends to take time and cover a few meters of distance running beyond the finish line. This is because the inertia of motion resists a sudden termination of motion and compels the body to maintain its state of motion.  Newton's second law is the measurement of a force which states that the acceleration of the object is directly proportional to the applied force and takes the direction of that force. Newton's II law can be expressed as . Where is the mass of the object.  Newton's third law is the property of force which states that for every action there is an equal and opposite reaction. Force always comes in pair. If an object A applies the action force on the object B then object B also applies the same amount of reaction force on the object A. These forces pair always act on two different objects. If one object exerts a force on a second object, then the second object exerts an equal but oppositely directed force on the first object. Mathematically, Some examples are: 1. Earth exerts force on you because you exert an equal and opposite force on earth. Here your force is your body weight and earth reaction force is a normal force. 2. When the rifle is fired it exerts a force on the bullet and the bullet exerts an equal and opposite force on the rifle. 3. You are able to sweem in water because you pushes water backwardly so apply the force on water and in reaction water also applies the same force on you just in opposite direction so you can sweem nicely.     Momentum  It is the quantity of motion contained in a body. If a body of mass is moving with a velocity then its momentum, . Momentum is represented by , it is a vector quantity, and its SI unit is .  From Newton's II law:   Here is called impulse and is called change in momentum. They are two different physical quantities but their magnitude remains the same.   A 300 kg horse running with 40 m\/s has a momentum of     When a 430 g soccer ball is kicked, the impact lasts for 0.04 s. Find the magnitude of force that is needed to fly off the ball at 8 m\/s.          Uniform Circular Motion  In uniform circular motion an object is moving at a constant speed (not velocity) on a circular path. For an object to be in uniform circular motion, there must be a net force acting on it. This force is called a centripetal force without this force nothing can move in a circular path. This net force is not a physical force of some kind actually some other forces must be there to act like a centripetel force. If the centripetal force vanishes, the object flies off at a tangent to the circle. The centripetal force, where is mass of the object, is speed of the object, and is radius of the circluar path. Because of necessary centripetal force, sometime we feel difficulty to steer our car around a sharp curve. The sharper the curve (i.e., the smaller the radius) the greater the centripetal force required to keep the car on the curved path. Cetripetal means to look towards the center, hence centripetal force is always acting towards the center of the path. Some examples: 1. We may have noticed that when the string breaks for a whirling stone. The stone flies off along the straight line tangential to the circular path. 2. When swinging a yo-yo around in a circle. The force generated by your arm puts the yo-yo itself in motion, and the tension on the string keeps it moving in a circular path as you twirl it. If the string were to break at any given point, the yo-yo would fly off in a direction that is tangent to the point on the circle that the yo-yo was at when the string broke centripetal force .     Newton's Law of Gravitation  Newton observed that when an object falls it was accelerated toward the earth. Since the cause of such acceleration is an unbalanced force, there must be a force pulling that object toward the earth. On this basis he came up with an idea called Newton's Law of Universal Gravitation. It states that any two masses in the universe attract each other with a force that is directly proportional to the product of the masses and inversely proportional to the square of the distance between them. Mathematically, . Here, is an universal gravitational constant, and are the masses of two objects, and is the distance between the two masses.   "
 },
 {
   "id": "figure-2",
@@ -262,67 +262,121 @@ var ptx_lunr_docs = [
   "body": "Mass: "
 },
 {
+  "id": "example-7",
+  "level": "2",
+  "url": "sec_second-intro.html#example-7",
+  "type": "Example",
+  "number": "2.1.7",
+  "title": "",
+  "body": " A 300 kg horse running with 40 m\/s has a momentum of   "
+},
+{
+  "id": "example-8",
+  "level": "2",
+  "url": "sec_second-intro.html#example-8",
+  "type": "Example",
+  "number": "2.1.8",
+  "title": "",
+  "body": " When a 430 g soccer ball is kicked, the impact lasts for 0.04 s. Find the magnitude of force that is needed to fly off the ball at 8 m\/s.       "
+},
+{
   "id": "sec_second-examples",
   "level": "1",
   "url": "sec_second-examples.html",
   "type": "Section",
   "number": "2.2",
   "title": "Example",
-  "body": " Example    Special Instruction: To tackle the physical problems the book uses GUESS strategy for a systematic gatheing of information and finding a realistic and logistic solution. Here is what GUESS stands for.  G: Given, identify the given informations.  U: Unknown, identify the unknown that we are looking for.  E: Equation\/s, set up the equation from given information.  S: Substitute, substitute the number\/s in the equation\/s.  S: Solve, solve the equation to obtain the answer.     Here are some examples:    A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .       A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m       A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:             Larger Context  Before we start solving the problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into      A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .     "
+  "body": " Example    Special Instruction: To tackle the physical problems the book uses GUESS strategy for a systematic gatheing of information and finding a realistic and logistic solution. Here is what GUESS stands for.  G: Given, identify the given informations.  U: Unknown, identify the unknown that we are looking for.  E: Equation\/s, set up the equation from given information.  S: Substitute, substitute the number\/s in the equation\/s.  S: Solve, solve the equation to obtain the answer.     Here are some examples:    A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .       A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m       A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:              How far you can go in 5 minutes if you are running at 10 ?     First convert the velocity into to and also convert time from minute to second before using equation of motion.   Given:      Which of the following sets of displacements might be able to return a car to its starting point? (a) 4,6,8, and 15 km (b) 2, 8, 10, and 25 km. (c) 10,30,50, and 120 km (d) 5, 20, 35, and 65 km.  (a)    A car can return to its starting point, only when the sum of three displacements is greater than the value of the maximum displacement. In any other case, this would not be possible.    In case (a) sum of 4,6,8 =18 km which is greater than 15 km. In case (b) sum of 2, 8, 10 =20 km which is smaller than 25 km and so on.      A ship travels 25 km to the east and then 50 km to the south. Find the ship's displacement from its starting point.   Draw a diagram to see all the displacements of the ship and then use pythagorous theorem to solve the final displacement.     empty     Larger Context  Before we start solving the problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into      A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .     A stone dropped from a cliff reaches the ground in 4 s. Find the velocity at which it hits the ground.  Think about stone's initial velocity, use acceleration due to gravity to find final velocity.    "
 },
 {
-  "id": "p-83",
+  "id": "p-89",
   "level": "2",
-  "url": "sec_second-examples.html#p-83",
+  "url": "sec_second-examples.html#p-89",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Special Instruction: G: Given, U: Unknown, E: Equation\/s, S: Substitute, S: Solve, "
 },
 {
-  "id": "example-7",
+  "id": "example-9",
   "level": "2",
-  "url": "sec_second-examples.html#example-7",
+  "url": "sec_second-examples.html#example-9",
   "type": "Example",
   "number": "2.2.1",
   "title": "",
   "body": "  A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .    "
 },
 {
-  "id": "example-8",
+  "id": "example-10",
   "level": "2",
-  "url": "sec_second-examples.html#example-8",
+  "url": "sec_second-examples.html#example-10",
   "type": "Example",
   "number": "2.2.2",
   "title": "",
   "body": "  A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m    "
 },
 {
-  "id": "example-9",
+  "id": "example-11",
   "level": "2",
-  "url": "sec_second-examples.html#example-9",
+  "url": "sec_second-examples.html#example-11",
   "type": "Example",
   "number": "2.2.3",
   "title": "",
   "body": "  A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:           "
 },
 {
+  "id": "example-12",
+  "level": "2",
+  "url": "sec_second-examples.html#example-12",
+  "type": "Example",
+  "number": "2.2.4",
+  "title": "",
+  "body": "  How far you can go in 5 minutes if you are running at 10 ?     First convert the velocity into to and also convert time from minute to second before using equation of motion.   Given:     "
+},
+{
+  "id": "example-13",
+  "level": "2",
+  "url": "sec_second-examples.html#example-13",
+  "type": "Example",
+  "number": "2.2.5",
+  "title": "",
+  "body": "Which of the following sets of displacements might be able to return a car to its starting point? (a) 4,6,8, and 15 km (b) 2, 8, 10, and 25 km. (c) 10,30,50, and 120 km (d) 5, 20, 35, and 65 km.  (a)    A car can return to its starting point, only when the sum of three displacements is greater than the value of the maximum displacement. In any other case, this would not be possible.    In case (a) sum of 4,6,8 =18 km which is greater than 15 km. In case (b) sum of 2, 8, 10 =20 km which is smaller than 25 km and so on.   "
+},
+{
+  "id": "example-14",
+  "level": "2",
+  "url": "sec_second-examples.html#example-14",
+  "type": "Example",
+  "number": "2.2.6",
+  "title": "",
+  "body": "  A ship travels 25 km to the east and then 50 km to the south. Find the ship's displacement from its starting point.   Draw a diagram to see all the displacements of the ship and then use pythagorous theorem to solve the final displacement.     empty   "
+},
+{
   "id": "remark_second-examples-context",
   "level": "2",
   "url": "sec_second-examples.html#remark_second-examples-context",
   "type": "Remark",
-  "number": "2.2.4",
+  "number": "2.2.7",
   "title": "Larger Context.",
   "body": " Larger Context  Before we start solving the problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into   "
 },
 {
-  "id": "example-10",
+  "id": "example-15",
   "level": "2",
-  "url": "sec_second-examples.html#example-10",
+  "url": "sec_second-examples.html#example-15",
   "type": "Example",
-  "number": "2.2.5",
+  "number": "2.2.8",
   "title": "",
   "body": "  A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .    "
+},
+{
+  "id": "example-16",
+  "level": "2",
+  "url": "sec_second-examples.html#example-16",
+  "type": "Example",
+  "number": "2.2.9",
+  "title": "",
+  "body": "A stone dropped from a cliff reaches the ground in 4 s. Find the velocity at which it hits the ground.  Think about stone's initial velocity, use acceleration due to gravity to find final velocity.   "
 },
 {
   "id": "ex_second",
@@ -330,8 +384,8 @@ var ptx_lunr_docs = [
   "url": "ex_second.html",
   "type": "Exercises",
   "number": "2.3",
-  "title": "My Exercises",
-  "body": "  My Exercises   A car starts from rest accelerated for 5 minutes to achieve 25 velocity.   Yes.   It is, but not a very good one.    Another, with a hint.   The hint.      "
+  "title": "Exercise",
+  "body": "  Exercise  A car starts from rest accelerated for 5 minutes to achieve 25 velocity. Find its accleration.  A ball thrown upward at 30 m\/s will continue to rise for about how long?  Find the maximum height attained by the ball if it is thrown vertically up with 30 m\/s velocity.  A car starts from rest with a constant acceleration of 4 . How much time does the car take to cover the first 160 m?  A break is applied in car moving at 10 undergoes an acceleration of .  How far does the car travel in the next 5 s?  How far does the car travel before it comes to stop?    When a 20 N force is applied on an object it starts acceleratinf by . What net force would give the same object an acceleration of ?  A 3000 kg truck accelerates from 5 m\/s to 25 m\/s in 8 s. How much is the net force acting on the truck?  A force of 2 N acts on a 2 kg object, initially at rest, for 2 s. How far does the object move during that time?  How much braking force is needed to bring a 4000 kg truck to a stop from a speed of 20 m\/s in 5 s?     "
 },
 {
   "id": "exercise-7",
@@ -340,7 +394,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2.3.1",
   "title": "",
-  "body": " A car starts from rest accelerated for 5 minutes to achieve 25 velocity.   Yes.   It is, but not a very good one.  "
+  "body": "A car starts from rest accelerated for 5 minutes to achieve 25 velocity. Find its accleration. "
 },
 {
   "id": "exercise-8",
@@ -349,7 +403,70 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2.3.2",
   "title": "",
-  "body": " Another, with a hint.   The hint.  "
+  "body": "A ball thrown upward at 30 m\/s will continue to rise for about how long? "
+},
+{
+  "id": "exercise-9",
+  "level": "2",
+  "url": "ex_second.html#exercise-9",
+  "type": "Exercise",
+  "number": "2.3.3",
+  "title": "",
+  "body": "Find the maximum height attained by the ball if it is thrown vertically up with 30 m\/s velocity. "
+},
+{
+  "id": "exercise-10",
+  "level": "2",
+  "url": "ex_second.html#exercise-10",
+  "type": "Exercise",
+  "number": "2.3.4",
+  "title": "",
+  "body": "A car starts from rest with a constant acceleration of 4 . How much time does the car take to cover the first 160 m? "
+},
+{
+  "id": "exercise-11",
+  "level": "2",
+  "url": "ex_second.html#exercise-11",
+  "type": "Exercise",
+  "number": "2.3.5",
+  "title": "",
+  "body": "A break is applied in car moving at 10 undergoes an acceleration of .  How far does the car travel in the next 5 s?  How far does the car travel before it comes to stop?   "
+},
+{
+  "id": "exercise-12",
+  "level": "2",
+  "url": "ex_second.html#exercise-12",
+  "type": "Exercise",
+  "number": "2.3.6",
+  "title": "",
+  "body": "When a 20 N force is applied on an object it starts acceleratinf by . What net force would give the same object an acceleration of ? "
+},
+{
+  "id": "exercise-13",
+  "level": "2",
+  "url": "ex_second.html#exercise-13",
+  "type": "Exercise",
+  "number": "2.3.7",
+  "title": "",
+  "body": "A 3000 kg truck accelerates from 5 m\/s to 25 m\/s in 8 s. How much is the net force acting on the truck? "
+},
+{
+  "id": "exercise-14",
+  "level": "2",
+  "url": "ex_second.html#exercise-14",
+  "type": "Exercise",
+  "number": "2.3.8",
+  "title": "",
+  "body": "A force of 2 N acts on a 2 kg object, initially at rest, for 2 s. How far does the object move during that time? "
+},
+{
+  "id": "exercise-15",
+  "level": "2",
+  "url": "ex_second.html#exercise-15",
+  "type": "Exercise",
+  "number": "2.3.9",
+  "title": "",
+  "body": "How much braking force is needed to bring a 4000 kg truck to a stop from a speed of 20 m\/s in 5 s? "
 },
 {
   "id": "sec_third-intro",
@@ -370,18 +487,18 @@ var ptx_lunr_docs = [
   "body": " Examples  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.   Theorem Title   This is the statement of the theorem.    And this is its proof.      A corollary that doesn't need a proof.    Perhaps at the end of the section, you want to add a note to the reader about how what you have fits into the larger scope of mathematics.   Larger Context  Comment to the reader here.   Of course, if you want more information, you might see .  "
 },
 {
-  "id": "example-11",
+  "id": "example-17",
   "level": "2",
-  "url": "sec_third-examples.html#example-11",
+  "url": "sec_third-examples.html#example-17",
   "type": "Example",
   "number": "3.2.1",
   "title": "",
   "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
 },
 {
-  "id": "example-12",
+  "id": "example-18",
   "level": "2",
-  "url": "sec_third-examples.html#example-12",
+  "url": "sec_third-examples.html#example-18",
   "type": "Example",
   "number": "3.2.2",
   "title": "",
@@ -424,18 +541,18 @@ var ptx_lunr_docs = [
   "body": "  Exercise   Is this an exercise?   Yes.   It is, but not a very good one.    Another, with a hint.   The hint.      "
 },
 {
-  "id": "exercise-9",
+  "id": "exercise-16",
   "level": "2",
-  "url": "ex_third.html#exercise-9",
+  "url": "ex_third.html#exercise-16",
   "type": "Exercise",
   "number": "3.3.1",
   "title": "",
   "body": " Is this an exercise?   Yes.   It is, but not a very good one.  "
 },
 {
-  "id": "exercise-10",
+  "id": "exercise-17",
   "level": "2",
-  "url": "ex_third.html#exercise-10",
+  "url": "ex_third.html#exercise-17",
   "type": "Exercise",
   "number": "3.3.2",
   "title": "",
@@ -568,9 +685,9 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-13",
+  "id": "example-19",
   "level": "2",
-  "url": "sec_features-blocks.html#example-13",
+  "url": "sec_features-blocks.html#example-19",
   "type": "Example",
   "number": "16.1.2",
   "title": "",
