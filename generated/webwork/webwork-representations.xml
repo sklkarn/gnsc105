@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<webwork-representations>
+  <webwork-reps version="2" ww_major_version="2" ww_minor_version="17" xml:id="extracted-webwork-2" ww-id="webwork-2">
+    <static seed="2">
+      <statement><p>Compute the sum of <m>{2}</m> and <m>{4}\text{:}</m></p>
+<p><m>{2} + {4} =</m> <fillin name="AnSwEr0001" characters="5"/></p>
+</statement>
+      <hint><p>Add <m>{2}</m> and <m>{4}</m> together.</p>
+</hint>
+      <answer>
+        <p>
+          <m>6</m>
+        </p>
+      </answer>
+      <solution><p><m>{2} + {4} = {6}\text{.}</m></p>
+</solution>
+    </static>
+    <server-data problemSource="RE9DVU1FTlQoKTsKbG9hZE1hY3JvcygiUEdzdGFuZGFyZC5wbCIsIk1hdGhPYmplY3RzLnBsIiwiUEdNTC5wbCIsIkFuc3dlckZvcm1hdEhlbHAucGwiLCJQR2NvdXJzZS5wbCIsKTtURVhUKGJlZ2lucHJvYmxlbSgpKTsKQ29udGV4dCgnTnVtZXJpYycpOyRhID0gQ29tcHV0ZShyYW5kb20oMSwgOSwgMSkpOwokYiA9IENvbXB1dGUocmFuZG9tKDEsIDksIDEpKTsKJGMgPSAkYSArICRiOwoKQkVHSU5fUEdNTApDb21wdXRlIHRoZSBzdW0gb2YgW2BbJGFdYF0gYW5kIFtgWyRiXVx0ZXh0ezp9YF0KCltgWyRhXSArIFskYl0gPWBdIFtfXXskY317NX0KCgpFTkRfUEdNTAoKQkVHSU5fUEdNTF9ISU5UCkFkZCBbYFskYV1gXSBhbmQgW2BbJGJdYF0gdG9nZXRoZXIuCgoKRU5EX1BHTUxfSElOVAoKQkVHSU5fUEdNTF9TT0xVVElPTgpbYFskYV0gKyBbJGJdID0gWyRjXVx0ZXh0ey59YF0KCgpFTkRfUEdNTF9TT0xVVElPTgoKRU5ERE9DVU1FTlQoKTs=" domain="https://webwork-ptx.aimath.org" course-id="anonymous" user-id="anonymous" course-password="anonymous" language="en-US"/>
+    <pg><![CDATA[
+#############################################
+###       Generated from PreTeXt source      
+###       on 2023-01-10T13:59:08-05:00       
+###   A recent stable commit (2022-07-01):   
+### 6c761d3dba23af92cba35001c852aac04ae99a5f 
+###                                          
+###         https://pretextbook.org          
+###                                          
+#############################################
+## DBsubject()
+## DBchapter()
+## DBsection()
+## Level()
+## KEYWORDS()
+## TitleText1()
+## EditionText1()
+## AuthorText1()
+## Section1(not reported)
+## Problem1(17.2.1)
+## Author()
+## Institution()
+## Language(en-US)
+
+DOCUMENT();
+
+############################################################
+# Load Macros
+############################################################
+loadMacros(
+  "PGstandard.pl",
+  "MathObjects.pl",
+  "PGML.pl",
+  "AnswerFormatHelp.pl",
+  "PGcourse.pl",
+);
+COMMENT('Authored in PreTeXt');
+
+############################################################
+# Header
+############################################################
+TEXT(beginproblem());
+
+############################################################
+# PG Setup Code
+############################################################
+Context('Numeric');
+$a = Compute(random(1, 9, 1));
+$b = Compute(random(1, 9, 1));
+$c = $a + $b;
+
+############################################################
+# Body
+############################################################
+
+BEGIN_PGML
+Compute the sum of [`[$a]`] and [`[$b]\text{:}`]
+
+[`[$a] + [$b] =`] [_]{$c}{5}
+
+END_PGML
+
+############################################################
+# Hint
+############################################################
+#Set value of $showHint in PGcourse.pl for course-wide attempt threshhold for revealing hints
+
+BEGIN_PGML_HINT
+Add [`[$a]`] and [`[$b]`] together.
+
+END_PGML_HINT
+
+############################################################
+# Solution
+############################################################
+
+BEGIN_PGML_SOLUTION
+[`[$a] + [$b] = [$c]\text{.}`]
+
+END_PGML_SOLUTION
+
+############################################################
+# End Problem
+############################################################
+
+ENDDOCUMENT();
+]]></pg>
+  </webwork-reps>
+</webwork-representations>
