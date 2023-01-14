@@ -790,7 +790,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "Thermometers",
-  "body": " Thermometers   As we know now that the most materials change their volume on heating. Such property of materials can be used to design thermometers to measure the temperature. There are varieties of thermometers in existence based on the phase (state) of materials is being used in thermometer. They are solid state thermometer, liquid thermometer, and gas thermometer. For example: If solid substance is used in thermometers, then the thermometers are called solid state thermometers. Platinum resistance thermometer, thermometer strip on the wall of aquarium, etc. are solid state thermometers. If liquid is used in a thermometer, then it is called a liquid thermometer. Mercury thermometer, alcohol thermometer, etc. are some examples. If gas is used then thermometer is called a gas thermometer. Hydrogen gas thermometer, hilium gas thermometer, nitrogen gas thermometer, etc. are some some examples.  Most common type of thermometer is liquid thermometer. In this thermometer, mercury or alcohol is filled in a narrow galss tube with metallic vessel at the bottom. Howerver, due to major developement in electronics, digitil thermometer is taking over the market to become more common thesedays. Here we are going to study temperature scale on the basis of liquid thermometer.  There are many types of thermometers exist in the practice, but we concentrate our study only on three basic types. They are Fahrenheit thermometer, Celsius (or Centigrade) thermometer, and Kelvin scale. Thermometers need calibration once they are made to provide correct temperature readings. To calibrate the thermometer the choice of unit and two reference points are taken. A centigrade (Celsius) thermometer has 100 divisions between the freezing point (0 degree Celsius) and the boiling point (100 degree Celsius) of water. A temperature of 76 degree Celsius is abbreviated as . In Fahrenheit thermometer, there are 180 divisions between the freezing point (32 degree Fahrenheit) and the boiling point (212 degree Fahrenheit) of water. A temperature of 76 degree Fahrenheit is abbreviated as . Kelvin scale (usualy not called a thermometer) of temperature is the standard metric system of temperature measurement and mostly used by scientists. The Kelvin scale has 100 equal degree increments between the freezing point and the boiling point of water just as the Celsius scale. However, the zero-degree mark on the Kelvin scale is units cooler than it is on the Celsius scale. So a temperature of Kelvin is equivalent to a temperature of . Traditionally, degree symbol is not assigned to the Kelvin scale. So a temperature of 300 units above 0 Kelvin is referred to as 300 Kelvin and not 300 degree Kelvin. Hence 300 Kelvin is abbreviated as . Conversions among Celsius, Fahrenheit, and Kelvin scales are summarized below. The figure below is showing Fahrenheit, Celsius, and Kelvin scale thermometers.  Thermometers    Fahrenheit     Celsius     Kelvin scale       Consider these thermometers are kept into three cups of coffey with same temperature. Where Celsius thermometer reads a temperature of C, Fahrenheit thermometer reads a temperature of F, and a Kelvin scale reads a temperature of K, then we can find their relationship as follows. Let's take one more set of unknown thermometer which has lower reference points marked as (for freezing point of water) and upper reference point marked as (for boiling point of water). When dipped into the identical cup of coffey, it reads the temeperature as . Hence we can note the temperature of coffey as . The comparision of all the thermometers reading we get the relation as This relation is very helpful in converting one unit of temeprature into another unit.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion.   "
+  "body": " Thermometers   As we know now that the most materials change their volume on heating. Such property of materials can be used to design thermometers to measure the temperature. There are varieties of thermometers in existence based on the phase (state) of materials is being used in thermometer. They are solid state thermometer, liquid thermometer, and gas thermometer. For example: If solid substance is used in thermometers, then the thermometers are called solid state thermometers. Platinum resistance thermometer, thermometer strip on the wall of aquarium, etc. are solid state thermometers. If liquid is used in a thermometer, then it is called a liquid thermometer. Mercury thermometer, alcohol thermometer, etc. are some examples. If gas is used then thermometer is called a gas thermometer. Hydrogen gas thermometer, hilium gas thermometer, nitrogen gas thermometer, etc. are some some examples.  Most common type of thermometer is liquid thermometer. In this thermometer, mercury or alcohol is filled in a narrow galss tube with metallic vessel at the bottom. Howerver, due to major developement in electronics, digitil thermometer is taking over the market to become more common thesedays. Here we are going to study temperature scale on the basis of liquid thermometer.  There are many types of thermometers exist in the practice, but we concentrate our study only on three basic types. They are Fahrenheit thermometer, Celsius (or Centigrade) thermometer, and Kelvin scale. Thermometers need calibration once they are made to provide correct temperature readings. To calibrate the thermometer the choice of unit and two reference points are taken. A centigrade (Celsius) thermometer has 100 divisions between the freezing point (0 degree Celsius) and the boiling point (100 degree Celsius) of water. A temperature of 76 degree Celsius is abbreviated as . In Fahrenheit thermometer, there are 180 divisions between the freezing point (32 degree Fahrenheit) and the boiling point (212 degree Fahrenheit) of water. A temperature of 76 degree Fahrenheit is abbreviated as . Kelvin scale (usualy not called a thermometer) of temperature is the standard metric system of temperature measurement and mostly used by scientists. The Kelvin scale has 100 equal degree increments between the freezing point and the boiling point of water just as the Celsius scale. However, the zero-degree mark on the Kelvin scale is units cooler than it is on the Celsius scale. So a temperature of Kelvin is equivalent to a temperature of . Traditionally, degree symbol is not assigned to the Kelvin scale. So a temperature of 300 units above 0 Kelvin is referred to as 300 Kelvin and not 300 degree Kelvin. Hence 300 Kelvin is abbreviated as . Conversions among Celsius, Fahrenheit, and Kelvin scales are summarized below. The figure below is showing Fahrenheit, Celsius, and Kelvin scale thermometers.  Thermometers    Fahrenheit     Celsius     Kelvin scale       Consider these thermometers are kept into three cups of coffey with same temperature. Where Celsius thermometer reads a temperature of C, Fahrenheit thermometer reads a temperature of F, and a Kelvin scale reads a temperature of K, then we can find their relationship as follows. Let's take one more set of unknown thermometer which has lower reference points marked as (for freezing point of water) and upper reference point marked as (for boiling point of water). When dipped into the identical cup of coffey, it reads the temeperature as . Hence we can note the temperature of coffey as . The comparision of all the thermometers reading we get the relation as This relation is very helpful in converting one unit of temeprature into another one.    Convert into celsius temperature scale.    Here we use the following relationship      Kelvin Scale: The scale of thermometers depends upon the physical property (thermal expansion, electrical resistance, etc.) of the substance that is used in the thermometer. The physical property (e.g. thermal expansion) of materials varies differently at the different range of temperatures hence all these thermometers have a limited use. With the idea of constructing a temperature scale which should be independent on the material properties, Scottish physicist William Thomson, Baron Kelvin proposed on the basis of thermodynamics principles that the lowest possible temperature that could be achieved was , in 1848. This minimum temperature is the zero point on Kelvin scale and is known as absolute zero. Kelvin scale is a hypothetical (theoretical) thermometer scale and is also known as absolute scale. According to III law of thermodynamics, it is impossible to obtain absolute zero by any physical means. .    Quantity of Heat  Heat is a transfer of energy because of temperature difference. When an object gains or losses heat it either changes its temperature or its phase (state). A change in temperature is associated with changes in the average kinetic energy of the particles and a change in phase is associated with changes in the internal potential energy possessed by the object. In this section we will learn how to measure the quantity of heat gained or released by an object.   Specific Heat  Heat absorbing capacity of a material is known as specific heat capacity (or simply, specific heat ). It is a material property. Different materials absorb different amount of heat even for the same rise of temperature. For example, if you heat an identical iron ball and an aluminum ball in the same pot for the same time duration, then you would be surprised that the aluminum ball is colder than the iron ball. This is because the specific heat of iron is less than that of aluminum. In iron, more of the heat energy spent to increase the kinetic energy of its molecules than to increase the intermolecular potential energy. Hence, the the iron has a higher temperature. The quantity of total heat transfered to the body is given by the following formula: Where, stands for amount of heat required to change the temperature, stands for mass of the substance, stands for the specif heat capacity of the substance, and stands for the temperature change (i.e., ). Hence specific heat can be defined as the amount of heat required to change the temperature of 1 kg of the substance to . Its SI unit is . The greter the specific heat of the substance, the greater would be the amount of heat needed to raise the temperature per unit mass. The higher the specific heat of the substance, the higher amount of heat it can hold. The table below shows the specific heat of some common materials.   Specific heats of some common substances    Substance  Specific heat (cal\/g. ^oC)    Water  1    Sand  0.16    iron  0.1    aluminum  0.22    Wood  0.42       How much heat in calorie is needed to heat 50 kg of water from to .    Given: m = 50 kg =50000 g, , , , and Q=?          Latent Heat  Heat absorbed or released by the material during phase change is called a latent heat. There is no temperature change during a phase change hence this energy is hidden from temperature scale. The energy dissipated or released during the phase change is in adjustment of particles potential energy in the bonds. Hence the amount of heat during phase change is given by Here is the amount of heat required to change the state or phase of the substance at change of state temperature, is the mass of the substance, and is the latent heat of the substance. Latent heat is also a material property. The latent (hidden) heat of fusion for water at is approximately 79.7 calories (334 J) per gram, and the latent heat of vaporization at is about 533 calories (2,230 joules) per gram.    "
 },
 {
   "id": "figure-11",
@@ -802,29 +802,74 @@ var ptx_lunr_docs = [
   "body": " Thermometers    Fahrenheit     Celsius     Kelvin scale     "
 },
 {
-  "id": "sec_fourth-examples",
-  "level": "1",
-  "url": "sec_fourth-examples.html",
-  "type": "Section",
-  "number": "4.2",
-  "title": "Example",
-  "body": " Example  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.   Theorem Title   This is the statement of the theorem.    And this is its proof.      A corollary that doesn't need a proof.    Perhaps at the end of the section, you want to add a note to the reader about how what you have fits into the larger scope of mathematics.   Larger Context  Comment to the reader here.   Of course, if you want more information, you might see .  "
-},
-{
   "id": "example-29",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-29",
+  "url": "sec_fourth-intro.html#example-29",
   "type": "Example",
-  "number": "4.2.0.1",
+  "number": "4.1.0.2",
   "title": "",
-  "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
+  "body": "  Convert into celsius temperature scale.    Here we use the following relationship    "
+},
+{
+  "id": "p-226",
+  "level": "2",
+  "url": "sec_fourth-intro.html#p-226",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Kelvin Scale: "
+},
+{
+  "id": "table-2",
+  "level": "2",
+  "url": "sec_fourth-intro.html#table-2",
+  "type": "Table",
+  "number": "4.1.1.1",
+  "title": "Specific heats of some common substances",
+  "body": " Specific heats of some common substances    Substance  Specific heat (cal\/g. ^oC)    Water  1    Sand  0.16    iron  0.1    aluminum  0.22    Wood  0.42    "
 },
 {
   "id": "example-30",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-30",
+  "url": "sec_fourth-intro.html#example-30",
   "type": "Example",
-  "number": "4.2.0.2",
+  "number": "4.1.1.2",
+  "title": "",
+  "body": "  How much heat in calorie is needed to heat 50 kg of water from to .    Given: m = 50 kg =50000 g, , , , and Q=?       "
+},
+{
+  "id": "sec_fourth-fluid",
+  "level": "1",
+  "url": "sec_fourth-fluid.html",
+  "type": "Section",
+  "number": "4.2",
+  "title": "Fluid",
+  "body": " Fluid   ppppppppppppp    Archimedes' Principle  kkkkkkk    The Gas Laws  kkkkkkk    Entropy  lllllllllllll   "
+},
+{
+  "id": "sec_fourth-examples",
+  "level": "1",
+  "url": "sec_fourth-examples.html",
+  "type": "Section",
+  "number": "4.3",
+  "title": "Example",
+  "body": " Example  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.   Theorem Title   This is the statement of the theorem.    And this is its proof.      A corollary that doesn't need a proof.    Perhaps at the end of the section, you want to add a note to the reader about how what you have fits into the larger scope of mathematics.   Larger Context  Comment to the reader here.   Of course, if you want more information, you might see .  "
+},
+{
+  "id": "example-31",
+  "level": "2",
+  "url": "sec_fourth-examples.html#example-31",
+  "type": "Example",
+  "number": "4.3.0.1",
+  "title": "",
+  "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
+},
+{
+  "id": "example-32",
+  "level": "2",
+  "url": "sec_fourth-examples.html#example-32",
+  "type": "Example",
+  "number": "4.3.0.2",
   "title": "",
   "body": " This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.  "
 },
@@ -833,7 +878,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_fourth-examples.html#thm_fourth-examples-theorem",
   "type": "Theorem",
-  "number": "4.2.0.3",
+  "number": "4.3.0.3",
   "title": "Theorem Title.",
   "body": " Theorem Title   This is the statement of the theorem.    And this is its proof.   "
 },
@@ -842,7 +887,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_fourth-examples.html#cor_fourth-examples-corollary",
   "type": "Corollary",
-  "number": "4.2.0.4",
+  "number": "4.3.0.4",
   "title": "",
   "body": "  A corollary that doesn't need a proof.   "
 },
@@ -851,7 +896,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_fourth-examples.html#remark_fourth-examples-context",
   "type": "Remark",
-  "number": "4.2.0.5",
+  "number": "4.3.0.5",
   "title": "Larger Context.",
   "body": " Larger Context  Comment to the reader here.  "
 },
@@ -860,7 +905,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ex_fourth.html",
   "type": "Exercises",
-  "number": "4.3",
+  "number": "4.4",
   "title": "My Exercises",
   "body": "  My Exercises   Is this an exercise?   Yes.   It is, but not a very good one.    Another, with a hint.   The hint.      "
 },
@@ -869,7 +914,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ex_fourth.html#exercise-29",
   "type": "Exercise",
-  "number": "4.3.1",
+  "number": "4.4.1",
   "title": "",
   "body": " Is this an exercise?   Yes.   It is, but not a very good one.  "
 },
@@ -878,7 +923,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ex_fourth.html#exercise-30",
   "type": "Exercise",
-  "number": "4.3.2",
+  "number": "4.4.2",
   "title": "",
   "body": " Another, with a hint.   The hint.  "
 },
@@ -1000,9 +1045,9 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-31",
+  "id": "example-33",
   "level": "2",
-  "url": "sec_features-blocks.html#example-31",
+  "url": "sec_features-blocks.html#example-33",
   "type": "Example",
   "number": "16.1.0.2",
   "title": "",
