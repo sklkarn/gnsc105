@@ -403,7 +403,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "2.4",
   "title": "Exercise",
-  "body": "  Exercise  A car starts from rest accelerated for 5 minutes to achieve 25 velocity. Find its accleration.  A ball thrown upward at 30 m\/s will continue to rise for about how long?  Find the maximum height attained by the ball if it is thrown vertically up with 30 m\/s velocity.  A car starts from rest with a constant acceleration of 4 . How much time does the car take to cover the first 160 m?  A break is applied in car moving at 10 undergoes an acceleration of .  How far does the car travel in the next 5 s?  How far does the car travel before it comes to stop?    When a 20 N force is applied on an object it starts acceleratinf by . What net force would give the same object an acceleration of ?  A 3000 kg truck accelerates from 5 m\/s to 25 m\/s in 8 s. How much is the net force acting on the truck?  A force of 2 N acts on a 2 kg object, initially at rest, for 2 s. How far does the object move during that time?  How much braking force is needed to bring a 4000 kg truck to a stop from a speed of 20 m\/s in 5 s?   A 300 g ball is struck with a bat with a force of 150 N. If the bat was in contact with the ball for 0.02 s, find the velocity at which the ball flew off?       From the roof of house one stone is thrown upward and another identical stone is dropped down. What will happen to both the stones when they reach the ground?    They will have the same velocity.  They will have the same acceleration.  They reach the ground at the same time.  None of the choices are correct.     Answer: b. They will have the same acceleration when reach the ground.    What will happen to the two balls, when first ball A is thrown horizontally and second ball B is thrown upward?    Ball A will have the greater downward acceleration.  Ball B will have the greater downward acceleration.  Neither will have any downward acceleration.  They will have the same downward acceleration.     What is the mass of an elephant who weighs 10000 N?   An object moving in a circle at constant speed is accelerated    toward the center of the circle.  in the direction of its motion.  away from the center of the circle.  Any of these choices, depending on the circumstances.     Find the centripetal force on the ball of mass 200 g moving in a circle 20 cm in radius at a speed of 4 m\/s.  Find the weight of a person whose mass is 80 kg on the earth is now on a spacecraft at a height of 2 earth radii above the earth's surface.  "
+  "body": "  Exercise  A car starts from rest accelerated for 5 minutes to achieve 25 velocity. Find its accleration.  A ball thrown upward at 30 m\/s will continue to rise for about how long?  Find the maximum height attained by the ball if it is thrown vertically up with 30 m\/s velocity.  A car starts from rest with a constant acceleration of 4 . How much time does the car take to cover the first 160 m?  A break is applied in car moving at 10 undergoes an acceleration of .  How far does the car travel in the next 5 s?  How far does the car travel before it comes to stop?    When a 20 N force is applied on an object it starts acceleratinf by . What net force would give the same object an acceleration of ?  A 3000 kg truck accelerates from 5 m\/s to 25 m\/s in 8 s. How much is the net force acting on the truck?  A force of 2 N acts on a 2 kg object, initially at rest, for 2 s. How far does the object move during that time?  How much braking force is needed to bring a 4000 kg truck to a stop from a speed of 20 m\/s in 5 s?   A 300 g ball is struck with a bat with a force of 150 N. If the bat was in contact with the ball for 0.02 s, find the velocity at which the ball flew off?    From the roof of house one stone is thrown upward and another identical stone is dropped down. What will happen to both the stones when they reach the ground?    They will have the same velocity.  They will have the same acceleration.  They reach the ground at the same time.  None of the choices are correct.     Answer: b. They will have the same acceleration when reach the ground.    What will happen to the two balls, when first ball A is thrown horizontally and second ball B is thrown upward?    Ball A will have the greater downward acceleration.  Ball B will have the greater downward acceleration.  Neither will have any downward acceleration.  They will have the same downward acceleration.     What is the mass of an elephant who weighs 10000 N?   An object moving in a circle at constant speed is accelerated    toward the center of the circle.  in the direction of its motion.  away from the center of the circle.  Any of these choices, depending on the circumstances.     Find the centripetal force on the ball of mass 200 g moving in a circle 20 cm in radius at a speed of 4 m\/s.  Find the weight of a person whose mass is 80 kg on the earth is now on a spacecraft at a height of 2 earth radii above the earth's surface.  "
 },
 {
   "id": "exercise-7",
@@ -718,7 +718,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "3.4",
   "title": "Exercise",
-  "body": "  Exercise   What is the unit of Power?   Choose one of the following.    Joule (J)  Watt (W)  Newton (N)      What is the power output of a person of mass 80 kg who can climb on the pine tree with 0.4 m\/s.   Find the relatin between power and velocity.    What is the power output of a person who can lift 100 kg wheel to 2m height in 4 second.   Use the definition of power.    Find the speed of an object which weighs 10N and has the kinetic energy of 20 J.   Find mass of the object from its weight using Newton's II law and then apply kinetic energy formula to find the speed.    A 2 kg ball is pushed by a horizontal force all the way to 4 m on the ground when the ball starts moving with 8 m\/s. Find the magnitude of the force.    A 50 kg box is lifted vertically to a height of 10m. Fing the energy spent in this work.    When a cannon shell explodes in mid-air: choose all that applies.     total momentum of the system remains the same.  total kinetic energy of the system remains the same  total kinetic energy of the system decreases  total kinetic energy of the system increases     a. and d.      "
+  "body": "  Exercise   What is the unit of Power?   Choose one of the following.    Joule (J)  Watt (W)  Newton (N)      What is the power output of a person of mass 80 kg who can climb on the pine tree with 0.4 m\/s.   Find the relatin between power and velocity.    What is the power output of a person who can lift 100 kg wheel to 2m height in 4 second.   Use the definition of power.    Find the speed of an object which weighs 10N and has the kinetic energy of 20 J.   Find mass of the object from its weight using Newton's II law and then apply kinetic energy formula to find the speed.    A 2 kg ball is pushed by a horizontal force all the way to 4 m on the ground when the ball starts moving with 8 m\/s. Find the magnitude of the force.    A 50 kg box is lifted vertically to a height of 10m. Fing the energy spent in this work.    When a cannon shell explodes in mid-air: choose all that applies.     total momentum of the system remains the same.  total kinetic energy of the system remains the same  total kinetic energy of the system decreases  total kinetic energy of the system increases     a. and d.   "
 },
 {
   "id": "exercise-22",
@@ -1122,8 +1122,80 @@ var ptx_lunr_docs = [
   "url": "sec_fifth-intro.html",
   "type": "Section",
   "number": "5.1",
-  "title": "Introduction to Fifth Chapter",
-  "body": " Introduction to Fifth Chapter   Intro to section, because we will have subsections.  Another paragraph of the introduction.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion.   "
+  "title": "Electrostatics",
+  "body": " Electrostatics   Intro to section, because we will have subsections.  Another paragraph of the introduction.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion.   "
+},
+{
+  "id": "sec_fifth-electr",
+  "level": "1",
+  "url": "sec_fifth-electr.html",
+  "type": "Section",
+  "number": "5.2",
+  "title": "Electricity",
+  "body": " Electricity   Intro to section, because we will have subsections.  Another paragraph of the introduction.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion.   "
+},
+{
+  "id": "sec_fifth-magnt",
+  "level": "1",
+  "url": "sec_fifth-magnt.html",
+  "type": "Section",
+  "number": "5.3",
+  "title": "Magnetism",
+  "body": " Magnetism   Intro to section, because we will have subsections.  Another paragraph of the introduction.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion.   "
+},
+{
+  "id": "sec_fifth-examples",
+  "level": "1",
+  "url": "sec_fifth-examples.html",
+  "type": "Section",
+  "number": "5.4",
+  "title": "Examples",
+  "body": " Examples  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.  "
+},
+{
+  "id": "example-42",
+  "level": "2",
+  "url": "sec_fifth-examples.html#example-42",
+  "type": "Example",
+  "number": "5.4.0.1",
+  "title": "",
+  "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
+},
+{
+  "id": "example-43",
+  "level": "2",
+  "url": "sec_fifth-examples.html#example-43",
+  "type": "Example",
+  "number": "5.4.0.2",
+  "title": "",
+  "body": " This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.  "
+},
+{
+  "id": "ex_fifth",
+  "level": "1",
+  "url": "ex_fifth.html",
+  "type": "Exercises",
+  "number": "5.5",
+  "title": "Exercise",
+  "body": "  Exercise   Is this an exercise?   Yes.   It is, but not a very good one.    Another, with a hint.   The hint.      "
+},
+{
+  "id": "exercise-40",
+  "level": "2",
+  "url": "ex_fifth.html#exercise-40",
+  "type": "Exercise",
+  "number": "5.5.1",
+  "title": "",
+  "body": " Is this an exercise?   Yes.   It is, but not a very good one.  "
+},
+{
+  "id": "exercise-41",
+  "level": "2",
+  "url": "ex_fifth.html#exercise-41",
+  "type": "Exercise",
+  "number": "5.5.2",
+  "title": "",
+  "body": " Another, with a hint.   The hint.  "
 },
 {
   "id": "sec_sixth-intro",
@@ -1234,9 +1306,9 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-42",
+  "id": "example-44",
   "level": "2",
-  "url": "sec_features-blocks.html#example-42",
+  "url": "sec_features-blocks.html#example-44",
   "type": "Example",
   "number": "16.1.0.2",
   "title": "",
