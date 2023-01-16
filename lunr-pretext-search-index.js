@@ -790,7 +790,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "Thermometers",
-  "body": " Thermometers   As we know now that the most materials change their volume on heating. Such property of materials can be used to design thermometers to measure the temperature. There are varieties of thermometers in existence based on the phase (state) of materials is being used in thermometer. They are solid state thermometer, liquid thermometer, and gas thermometer. For example: If solid substance is used in thermometers, then the thermometers are called solid state thermometers. Platinum resistance thermometer, thermometer strip on the wall of aquarium, etc. are solid state thermometers. If liquid is used in a thermometer, then it is called a liquid thermometer. Mercury thermometer, alcohol thermometer, etc. are some examples. If gas is used then thermometer is called a gas thermometer. Hydrogen gas thermometer, hilium gas thermometer, nitrogen gas thermometer, etc. are some some examples.  Most common type of thermometer is liquid thermometer. In this thermometer, mercury or alcohol is filled in a narrow galss tube with metallic vessel at the bottom. Howerver, due to major developement in electronics, digitil thermometer is taking over the market to become more common thesedays. Here we are going to study temperature scale on the basis of liquid thermometer.  There are many types of thermometers exist in the practice, but we concentrate our study only on three basic types. They are Fahrenheit thermometer, Celsius (or Centigrade) thermometer, and Kelvin scale. Thermometers need calibration once they are made to provide correct temperature readings. To calibrate the thermometer the choice of unit and two reference points are taken. A centigrade (Celsius) thermometer has 100 divisions between the freezing point (0 degree Celsius) and the boiling point (100 degree Celsius) of water. A temperature of 76 degree Celsius is abbreviated as . In Fahrenheit thermometer, there are 180 divisions between the freezing point (32 degree Fahrenheit) and the boiling point (212 degree Fahrenheit) of water. A temperature of 76 degree Fahrenheit is abbreviated as . Kelvin scale (usualy not called a thermometer) of temperature is the standard metric system of temperature measurement and mostly used by scientists. The Kelvin scale has 100 equal degree increments between the freezing point and the boiling point of water just as the Celsius scale. However, the zero-degree mark on the Kelvin scale is units cooler than it is on the Celsius scale. So a temperature of Kelvin is equivalent to a temperature of . Traditionally, degree symbol is not assigned to the Kelvin scale. So a temperature of 300 units above 0 Kelvin is referred to as 300 Kelvin and not 300 degree Kelvin. Hence 300 Kelvin is abbreviated as . Conversions among Celsius, Fahrenheit, and Kelvin scales are summarized below. The figure below is showing Fahrenheit, Celsius, and Kelvin scale thermometers.  Thermometers    Fahrenheit     Celsius     Kelvin scale       Consider these thermometers are kept into three cups of coffey with same temperature. Where Celsius thermometer reads a temperature of C, Fahrenheit thermometer reads a temperature of F, and a Kelvin scale reads a temperature of K, then we can find their relationship as follows. Let's take one more set of unknown thermometer which has lower reference points marked as (for freezing point of water) and upper reference point marked as (for boiling point of water). When dipped into the identical cup of coffey, it reads the temeperature as . Hence we can note the temperature of coffey as . The comparision of all the thermometers reading we get the relation as This relation is very helpful in converting one unit of temeprature into another one.    Convert into celsius temperature scale.    Here we use the following relationship      Kelvin Scale: The scale of thermometers depends upon the physical property (thermal expansion, electrical resistance, etc.) of the substance that is used in the thermometer. The physical property (e.g. thermal expansion) of materials varies differently at the different range of temperatures hence all these thermometers have a limited use. With the idea of constructing a temperature scale which should be independent on the material properties, Scottish physicist William Thomson, Baron Kelvin proposed on the basis of thermodynamics principles that the lowest possible temperature that could be achieved was , in 1848. This minimum temperature is the zero point on Kelvin scale and is known as absolute zero. Kelvin scale is a hypothetical (theoretical) thermometer scale and is also known as absolute scale. According to III law of thermodynamics, it is impossible to obtain absolute zero by any physical means. .    Quantity of Heat  Heat is a transfer of energy because of temperature difference. When an object gains or losses heat it either changes its temperature or its phase (state). A change in temperature is associated with changes in the average kinetic energy of the particles and a change in phase is associated with changes in the internal potential energy possessed by the object. In this section we will learn how to measure the quantity of heat gained or released by an object.   Specific Heat  Heat absorbing capacity of a material is known as specific heat capacity (or simply, specific heat ). It is a material property. Different materials absorb different amount of heat even for the same rise of temperature. For example, if you heat an identical iron ball and an aluminum ball in the same pot for the same time duration, then you would be surprised that the aluminum ball is colder than the iron ball. This is because the specific heat of iron is less than that of aluminum. In iron, more of the heat energy spent to increase the kinetic energy of its molecules than to increase the intermolecular potential energy. Hence, the the iron has a higher temperature. The quantity of total heat transfered to the body is given by the following formula: Where, stands for amount of heat required to change the temperature, stands for mass of the substance, stands for the specif heat capacity of the substance, and stands for the temperature change (i.e., ). Hence specific heat can be defined as the amount of heat required to change the temperature of 1 kg of the substance to . Its SI unit is . The greter the specific heat of the substance, the greater would be the amount of heat needed to raise the temperature per unit mass. The higher the specific heat of the substance, the higher amount of heat it can hold. The table below shows the specific heat of some common materials.   Specific heats of some common substances    Substance  Specific heat (cal\/g. ^oC)    Water  1    Sand  0.16    iron  0.1    aluminum  0.22    Wood  0.42       How much heat in calorie is needed to heat 50 kg of water from to .    Given: m = 50 kg =50000 g, , , , and Q=?          Latent Heat  Heat absorbed or released by the material during phase change is called a latent heat. There is no temperature change during a phase change hence this energy is hidden from temperature scale. The energy dissipated or released during the phase change is in adjustment of particles potential energy in the bonds. Hence the amount of heat during phase change is given by Here is the amount of heat required to change the state or phase of the substance at change of state temperature, is the mass of the substance, and is the latent heat of the substance. Latent heat is also a material property. The latent (hidden) heat of fusion for water at is approximately 79.7 calories (334 J) per gram, and the latent heat of vaporization at is about 533 calories (2,230 joules) per gram.     Heat Transfer  It is a process of transfer heat from one location to another due to temperature difference. Heat can only flow from high temperature to low temperature. There are three processes involved in heat transfer. They are conduction, convection, and radiation. Conduction: In this process heat is transferred through a body by physical contact. In microscopic level atoms and molecules are always in random motion at any temperature above absolute zero. When heated, these particles (atoms and molecules) gain thermal energy and begin vibrating even higher amplitude knocking the neighboring particles. By doing so, they impart some of their energy to their neighboring particles, and so on. Eventually heat is carried away from one end of a substance to another. In conduction, heat carrying particles do not physically move from their place rather they transfer their energy to neighbors when they knock one another. Every time one particle knock to another it passes some of its energy to next one and returns to its original place. Heat transfers from the burner of a stove through the bottom of a pan to food in the pan is transferred by conduction. Conduction occurs in all states of substances solid, liquid, and gas. In solids, conduction happens due to molecular vibration. In gases and liquids, it is due to collision and diffusion of the molecules during their random motion.  Conduction Process       Convection: In this process heat transfer occurs by the actual movement of fluid particles. Convection is heat transport due to bulk fluid motion. Convection happens in gases and liquids. When a fluid is heated, its molecules which are in contact with the hot surface get hot and expand. That is the fluid above a hot surface expands, becomes less dense, and rises. It carries the thermal energy along when rises up. The relatively cold fluid on the upper surface is heavier and sink down near the heat source. Hence a current of heat cycle develops in the convection process, called convection cycle.  Radiation: It is the process in which heat transfers without the need of intervening medium. Heat transfer occurs when electromagnetic waves emitted or absorbed. The warming of the earth surface by the Sun is due to radiation. Heat transfer by this process is the fastest one. All bodies above absolute zero emit thermal radiation. At room temperature the radiation is in the infrared range, wavelengths longer than those of the visible spectrum. In atomic domain, the radiation is caused because of oscillating ions and electrons in a warm solid are accelerating electric charges, such charges radiate. Different substances radiate with different efficiencies. The good radiator of radiation is a good absorber of radiation. A perfect absorber is called a black body (such perfection is not found in nature, but some things are close). Hence a black body is also a perfect radiator. A black body absorbs and emits radiation of all most all frequencies. It was found experimentally that heat energy radiated per unit time per unit surface area of a perfectly black body is proportional to the fourth power of its absolute temperature.   "
+  "body": " Thermometers   As we know now that the most materials change their volume on heating. Such property of materials can be used to design thermometers to measure the temperature. There are varieties of thermometers in existence based on the phase (state) of materials is being used in thermometer. They are solid state thermometer, liquid thermometer, and gas thermometer. For example: If solid substance is used in thermometers, then the thermometers are called solid state thermometers. Platinum resistance thermometer, thermometer strip on the wall of aquarium, etc. are solid state thermometers. If liquid is used in a thermometer, then it is called a liquid thermometer. Mercury thermometer, alcohol thermometer, etc. are some examples. If gas is used then thermometer is called a gas thermometer. Hydrogen gas thermometer, hilium gas thermometer, nitrogen gas thermometer, etc. are some some examples.  Most common type of thermometer is liquid thermometer. In this thermometer, mercury or alcohol is filled in a narrow galss tube with metallic vessel at the bottom. Howerver, due to major developement in electronics, digitil thermometer is taking over the market to become more common thesedays. Here we are going to study temperature scale on the basis of liquid thermometer.  There are many types of thermometers exist in the practice, but we concentrate our study only on three basic types. They are Fahrenheit thermometer, Celsius (or Centigrade) thermometer, and Kelvin scale. Thermometers need calibration once they are made to provide correct temperature readings. To calibrate the thermometer the choice of unit and two reference points are taken. A centigrade (Celsius) thermometer has 100 divisions between the freezing point (0 degree Celsius) and the boiling point (100 degree Celsius) of water. A temperature of 76 degree Celsius is abbreviated as . In Fahrenheit thermometer, there are 180 divisions between the freezing point (32 degree Fahrenheit) and the boiling point (212 degree Fahrenheit) of water. A temperature of 76 degree Fahrenheit is abbreviated as . Kelvin scale (usualy not called a thermometer) of temperature is the standard metric system of temperature measurement and mostly used by scientists. The Kelvin scale has 100 equal degree increments between the freezing point and the boiling point of water just as the Celsius scale. However, the zero-degree mark on the Kelvin scale is units cooler than it is on the Celsius scale. So a temperature of Kelvin is equivalent to a temperature of . Traditionally, degree symbol is not assigned to the Kelvin scale. So a temperature of 300 units above 0 Kelvin is referred to as 300 Kelvin and not 300 degree Kelvin. Hence 300 Kelvin is abbreviated as . Conversions among Celsius, Fahrenheit, and Kelvin scales are summarized below. The figure below is showing Fahrenheit, Celsius, and Kelvin scale thermometers.  Thermometers    Fahrenheit     Celsius     Kelvin scale       Consider these thermometers are kept into three cups of coffey with same temperature. Where Celsius thermometer reads a temperature of C, Fahrenheit thermometer reads a temperature of F, and a Kelvin scale reads a temperature of K, then we can find their relationship as follows. Let's take one more set of unknown thermometer which has lower reference points marked as (for freezing point of water) and upper reference point marked as (for boiling point of water). When dipped into the identical cup of coffey, it reads the temeperature as . Hence we can note the temperature of coffey as . The comparision of all the thermometers reading we get the relation as  This relation is very helpful in converting one unit of temeprature into another one.    Convert into celsius temperature scale.    Here we use the following relationship      Kelvin Scale: The scale of thermometers depends upon the physical property (thermal expansion, electrical resistance, etc.) of the substance that is used in the thermometer. The physical property (e.g. thermal expansion) of materials varies differently at the different range of temperatures hence all these thermometers have a limited use. With the idea of constructing a temperature scale which should be independent on the material properties, Scottish physicist William Thomson, Baron Kelvin proposed on the basis of thermodynamics principles that the lowest possible temperature that could be achieved was , in 1848. This minimum temperature is the zero point on Kelvin scale and is known as absolute zero. Kelvin scale is a hypothetical (theoretical) thermometer scale and is also known as absolute scale. According to III law of thermodynamics, it is impossible to obtain absolute zero by any physical means. .    Quantity of Heat  Heat is a transfer of energy because of temperature difference. When an object gains or losses heat it either changes its temperature or its phase (state). A change in temperature is associated with changes in the average kinetic energy of the particles and a change in phase is associated with changes in the internal potential energy possessed by the object. In this section we will learn how to measure the quantity of heat gained or released by an object.   Specific Heat  Heat absorbing capacity of a material is known as specific heat capacity (or simply, specific heat ). It is a material property. Different materials absorb different amount of heat even for the same rise of temperature. For example, if you heat an identical iron ball and an aluminum ball in the same pot for the same time duration, then you would be surprised that the aluminum ball is colder than the iron ball. This is because the specific heat of iron is less than that of aluminum. In iron, more of the heat energy spent to increase the kinetic energy of its molecules than to increase the intermolecular potential energy. Hence, the the iron has a higher temperature. The quantity of total heat transfered to the body is given by the following formula: Where, stands for amount of heat required to change the temperature, stands for mass of the substance, stands for the specif heat capacity of the substance, and stands for the temperature change (i.e., ). Hence specific heat can be defined as the amount of heat required to change the temperature of 1 kg of the substance to . Its SI unit is . The greter the specific heat of the substance, the greater would be the amount of heat needed to raise the temperature per unit mass. The higher the specific heat of the substance, the higher amount of heat it can hold. The table below shows the specific heat of some common materials.   Specific heats of some common substances    Substance  Specific heat (cal\/g. ^oC)    Water  1    Sand  0.16    iron  0.1    aluminum  0.22    Wood  0.42    Ice  0.5       How much heat in calorie is needed to heat 50 kg of water from to .    Given: m = 50 kg =50000 g, , , , and Q=?          Latent Heat  Heat absorbed or released by the material during phase change is called a latent heat. There is no temperature change during a phase change hence this energy is hidden from temperature scale. The energy dissipated or released during the phase change is in adjustment of particles potential energy in the bonds. Hence the amount of heat during phase change is given by Here is the amount of heat required to change the state or phase of the substance at change of state temperature, is the mass of the substance, and is the latent heat of the substance. Latent heat is also a material property. The latent (hidden) heat of fusion for water at is approximately 79.7 calories (334 J) per gram, and the latent heat of vaporization at is about 533 calories (2,230 joules) per gram.     Heat Transfer  It is a process of transfer heat from one location to another due to temperature difference. Heat can only flow from high temperature to low temperature. There are three processes involved in heat transfer. They are conduction, convection, and radiation. Conduction: In this process heat is transferred through a body by physical contact. In microscopic level atoms and molecules are always in random motion at any temperature above absolute zero. When heated, these particles (atoms and molecules) gain thermal energy and begin vibrating even higher amplitude knocking the neighboring particles. By doing so, they impart some of their energy to their neighboring particles, and so on. Eventually heat is carried away from one end of a substance to another. In conduction, heat carrying particles do not physically move from their place rather they transfer their energy to neighbors when they knock one another. Every time one particle knock to another it passes some of its energy to next one and returns to its original place. Heat transfers from the burner of a stove through the bottom of a pan to food in the pan is transferred by conduction. Conduction occurs in all states of substances solid, liquid, and gas. In solids, conduction happens due to molecular vibration. In gases and liquids, it is due to collision and diffusion of the molecules during their random motion.  Conduction Process       Convection: In this process heat transfer occurs by the actual movement of fluid particles. Convection is heat transport due to bulk fluid motion. Convection happens in gases and liquids. When a fluid is heated, its molecules which are in contact with the hot surface get hot and expand. That is the fluid above a hot surface expands, becomes less dense, and rises. It carries the thermal energy along when rises up. The relatively cold fluid on the upper surface is heavier and sink down near the heat source. Hence a current of heat cycle develops in the convection process, called convection cycle.  Radiation: It is the process in which heat transfers without the need of intervening medium. Heat transfer occurs when electromagnetic waves emitted or absorbed. The warming of the earth surface by the Sun is due to radiation. Heat transfer by this process is the fastest one. All bodies above absolute zero emit thermal radiation. At room temperature the radiation is in the infrared range, wavelengths longer than those of the visible spectrum. In atomic domain, the radiation is caused because of oscillating ions and electrons in a warm solid are accelerating electric charges, such charges radiate. Different substances radiate with different efficiencies. The good radiator of radiation is a good absorber of radiation. A perfect absorber is called a black body (such perfection is not found in nature, but some things are close). Hence a black body is also a perfect radiator. A black body absorbs and emits radiation of all most all frequencies. It was found experimentally that heat energy radiated per unit time per unit surface area of a perfectly black body is proportional to the fourth power of its absolute temperature.    Entropy  Entropy is a mathematical concept explains some usefule phenomena of thermodynamics. The change in entropy tells whether the process can take place naturally or not. A natural tendency of systems is to lose order. Entropy is a measure of that disorderness. When sugar is dissolved in water it becomes more randomized, and will not reconstitute itself in the crystalline form again by itself, unless we apply heat energy from outside to the system and evaporate all water. When a hot and a cold body are put in contact to each other, heat energy begins to flow from the hot body to the cold body until they reach at thermal equilibrium (same Temperature). Heat will never move back to the other way. To move heat from a cold body to a hot body an external work must be done by an external source such as a heat pump. Entropy is a measure of the system's thermal energy per unit temperature that is unavailable for useful work. The concept of entropy provides the direction of spontaneous change for many process. It tells us that which process is allowed and which is completely prohibited even if it can not violet the fundamental law of conservation of energy. A block of ice placed on a hot pan surely melts, while the pan goes cooler. Such a process is called irreversible because no slight change will cause the melted water to turn back into ice while the pan goes hotter. In contrast, a block of ice placed in an ice water bath will either thaw a little more or freeze a little more, depending on whether a small amount of heat is added to or taken out from the system. Such a process is reversible because only an infinitesimal amount of heat is needed to change its direction from progressive freezing to progressive thawing.   "
 },
 {
   "id": "figure-11",
@@ -826,7 +826,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "4.1.1.1",
   "title": "Specific heats of some common substances",
-  "body": " Specific heats of some common substances    Substance  Specific heat (cal\/g. ^oC)    Water  1    Sand  0.16    iron  0.1    aluminum  0.22    Wood  0.42    "
+  "body": " Specific heats of some common substances    Substance  Specific heat (cal\/g. ^oC)    Water  1    Sand  0.16    iron  0.1    aluminum  0.22    Wood  0.42    Ice  0.5    "
 },
 {
   "id": "example-30",
@@ -871,7 +871,52 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "Fluid",
-  "body": " Fluid   ppppppppppppp    Archimedes' Principle  kkkkkkk    The Gas Laws  kkkkkkk    Entropy  lllllllllllll   "
+  "body": " Fluid   Fluid is a material that can flow. Gasses and liquids are fluids. To study fluid it is easier to deal with fluid's volume, density, and pressure rather than its mass and weight. For example, we do transaction of any fluids in terms of their volume (liter) not in their mass (kg). Here, some terminilogies are being introduced to study fluid and its behavior.  Density: It is defined as a mass per unit volume of the fluid. It is a scalar quantity.  Its unit is in SI system, or in cgs system, and in fps system. Any two objects of identical volume the heavier one has higher density than the other. Take two marbles of same size but one is a lead marble and another is a glass marble. Which one do you feel heavier, has the higher density.    Calculate the mass of water in a container of size 25 cm long, 15 cm wide and is filled with water up to 10 cm high. If the density of water is .    The volume of water, Hence, the mass of water in the container is given by .     Pressure: It is defined as a force per unit area of the surface. Force must be acting perpendicularly on the surface. Pressure defines how hard the object is pushing something in or out. It is a scalar quantity.  Its unit is or pascal (Pa) in SI system. In FPS system of unit it is measured in which means pounds per square inch. Many units of pressure are still in practice such as torr, bar, mm of Hg., atm., etc. 1 atm is one atmospheric preesure,     How much pressure is applied on the ground by a girl of 50 kg if she is balancing herself by standing on her one shoe heel of area .    The force exerted by the girl on ground is equal to her weight, and, Surface area = Hence, the pressure on the ground is given by .       Archimedes' Principle  When an object is placed in a fluid it experiences an upthrust force called a buoyant force. It is arising due to changes of pressure inside fluid. This phenomenon is known as Archimedes' principle. It states that when a body is fully or partially immersed in a fluid, the fluid exerts an upward force on the body equal to the weight of liquid displaced. That is, a buoyant force ( ) = weight of displaced fluid ( ). Archimedes' principle tells whether the object floats or sinks in the fluid. If weight of the object is greater than the buoyany force, it sinks. If its weight is equal to the buoyant force, it submerges inside the fluid but does not sink. If its weight is less than the buoyant force then it floats on the surface of liquid.   Buoyant force     In this case, volume of displaced liquid is equal to the volume of submerged portion of the object. On this basis, we can tell that if the density of an object is greater than that of fluid, it sinks. If object density is equal to the density of fluid, then object submerges. If object density is less than the density of fluid, then object floats. To make iron ship not to sink in water, it is made with wide surface area and its body is like a hollow shell, so that the density of entire ship is less than the density of water.    Kinetic Theory of Gases  The nature of gas is completely different than solids and liquids. Gas tskes up the entire volume of the container and can be compressed easily. Gas pressure increase or decrease as the temperature of the container change. It diffuses (or leaks out) to air if the container is left open. On such experiences, Kinetic theory of gas is developed to explain the nature of heat and the motion of particles associated with heat energy. According to this theory, gas is composed of large number of very tiny particles called molecules. These molecules are always in random motion with all possible directions and speeds which increases with the increase of temperature. In gases, the molecules are very far away from each other than in solids and liquids and have negligibly small force of attraction between them. Hence they can move freely anywhere within the available space. This explains why a gas has no definite shape and size. To understand the more general behavior of gases kinetic theory of ideal gases is postulated as  All gases are made up of molecules. Molecules are identical, rigid, and perfectly elastic moving in random directions with all possible velocities.  The molecules are very far away from each other but they collide with each other and with walls of the container.  All the collisions are elastic, but time spent during each collision is negligibly small compared to the time spent between the collisions.  Molecules do not interact with each other (no intermolecular force of attraction) except during a collision.  The average kinetic energy of the molecules of any gas depends only on the temperature.  Ideal gas is a hypothetical gas of negligible molecular size and have no interactions among their molecules. In practice, a very dilute gas with extremely large volume of container space can be considered as an ideal gas. Remember the real gas molecules has definite size and may interact with each other. Hence this postulates are just a very simplified model to understand gas laws and need modification for real gas behaviors. To experience the general behavior of gas please play with simultion link here. gas laws     The Gas Laws  From the experience of factors affecting the gas pressure ideal gas law is defined below. Ideal Gas Law or also called equation of state. It is found that the pressure, of the gas is directly proportional to number of molecules, and the absolute temeperature, and inversely proportional to the volume, V of of the gas. That is where is proportionality constant. Therefore For mole of gas, the above equition turns into this equation is know as equation of state. Here, is number of mole of gas in a container and is universal gas constant.  If T is constant in this equation then it is called Boyle's Law  If is constant in this equation then it is called Charle's Law     "
+},
+{
+  "id": "example-31",
+  "level": "2",
+  "url": "sec_fourth-fluid.html#example-31",
+  "type": "Example",
+  "number": "4.2.0.1",
+  "title": "",
+  "body": "  Calculate the mass of water in a container of size 25 cm long, 15 cm wide and is filled with water up to 10 cm high. If the density of water is .    The volume of water, Hence, the mass of water in the container is given by .    "
+},
+{
+  "id": "p-241",
+  "level": "2",
+  "url": "sec_fourth-fluid.html#p-241",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Pressure: "
+},
+{
+  "id": "example-32",
+  "level": "2",
+  "url": "sec_fourth-fluid.html#example-32",
+  "type": "Example",
+  "number": "4.2.0.2",
+  "title": "",
+  "body": "  How much pressure is applied on the ground by a girl of 50 kg if she is balancing herself by standing on her one shoe heel of area .    The force exerted by the girl on ground is equal to her weight, and, Surface area = Hence, the pressure on the ground is given by .    "
+},
+{
+  "id": "figure-16",
+  "level": "2",
+  "url": "sec_fourth-fluid.html#figure-16",
+  "type": "Figure",
+  "number": "4.2.1.1",
+  "title": "",
+  "body": " Buoyant force    "
+},
+{
+  "id": "p-247",
+  "level": "2",
+  "url": "sec_fourth-fluid.html#p-247",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Ideal Gas Law "
 },
 {
   "id": "sec_fourth-examples",
@@ -879,53 +924,89 @@ var ptx_lunr_docs = [
   "url": "sec_fourth-examples.html",
   "type": "Section",
   "number": "4.3",
-  "title": "Example",
-  "body": " Example  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.   Theorem Title   This is the statement of the theorem.    And this is its proof.      A corollary that doesn't need a proof.    Perhaps at the end of the section, you want to add a note to the reader about how what you have fits into the larger scope of mathematics.   Larger Context  Comment to the reader here.   Of course, if you want more information, you might see .  "
+  "title": "Examples",
+  "body": " Examples    Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body            From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand           Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight           Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density           The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.           Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.           Molecular motion of the substance is least possible at which temperature?  .  .  .  .           Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.           At which of the temperature a Celsius thermometer and a Fahrenheit thermometer show the same readings?  40 .  -40 .  40 .  0 .     Consider , then from , we have Solve this equation to find the value of x.         "
 },
 {
-  "id": "example-31",
+  "id": "example-33",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-31",
+  "url": "sec_fourth-examples.html#example-33",
   "type": "Example",
   "number": "4.3.0.1",
   "title": "",
-  "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
+  "body": "  Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body          "
 },
 {
-  "id": "example-32",
+  "id": "example-34",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-32",
+  "url": "sec_fourth-examples.html#example-34",
   "type": "Example",
   "number": "4.3.0.2",
   "title": "",
-  "body": " This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.  "
+  "body": " From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand         "
 },
 {
-  "id": "thm_fourth-examples-theorem",
+  "id": "example-35",
   "level": "2",
-  "url": "sec_fourth-examples.html#thm_fourth-examples-theorem",
-  "type": "Theorem",
+  "url": "sec_fourth-examples.html#example-35",
+  "type": "Example",
   "number": "4.3.0.3",
-  "title": "Theorem Title.",
-  "body": " Theorem Title   This is the statement of the theorem.    And this is its proof.   "
+  "title": "",
+  "body": " Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight         "
 },
 {
-  "id": "cor_fourth-examples-corollary",
+  "id": "example-36",
   "level": "2",
-  "url": "sec_fourth-examples.html#cor_fourth-examples-corollary",
-  "type": "Corollary",
+  "url": "sec_fourth-examples.html#example-36",
+  "type": "Example",
   "number": "4.3.0.4",
   "title": "",
-  "body": "  A corollary that doesn't need a proof.   "
+  "body": " Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density         "
 },
 {
-  "id": "remark_fourth-examples-context",
+  "id": "example-37",
   "level": "2",
-  "url": "sec_fourth-examples.html#remark_fourth-examples-context",
-  "type": "Remark",
+  "url": "sec_fourth-examples.html#example-37",
+  "type": "Example",
   "number": "4.3.0.5",
-  "title": "Larger Context.",
-  "body": " Larger Context  Comment to the reader here.  "
+  "title": "",
+  "body": " The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.         "
+},
+{
+  "id": "example-38",
+  "level": "2",
+  "url": "sec_fourth-examples.html#example-38",
+  "type": "Example",
+  "number": "4.3.0.6",
+  "title": "",
+  "body": " Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.         "
+},
+{
+  "id": "example-39",
+  "level": "2",
+  "url": "sec_fourth-examples.html#example-39",
+  "type": "Example",
+  "number": "4.3.0.7",
+  "title": "",
+  "body": " Molecular motion of the substance is least possible at which temperature?  .  .  .  .         "
+},
+{
+  "id": "example-40",
+  "level": "2",
+  "url": "sec_fourth-examples.html#example-40",
+  "type": "Example",
+  "number": "4.3.0.8",
+  "title": "",
+  "body": " Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.         "
+},
+{
+  "id": "example-41",
+  "level": "2",
+  "url": "sec_fourth-examples.html#example-41",
+  "type": "Example",
+  "number": "4.3.0.9",
+  "title": "",
+  "body": " At which of the temperature a Celsius thermometer and a Fahrenheit thermometer show the same readings?  40 .  -40 .  40 .  0 .     Consider , then from , we have Solve this equation to find the value of x.        "
 },
 {
   "id": "ex_fourth",
@@ -933,8 +1014,8 @@ var ptx_lunr_docs = [
   "url": "ex_fourth.html",
   "type": "Exercises",
   "number": "4.4",
-  "title": "My Exercises",
-  "body": "  My Exercises   Is this an exercise?   Yes.   It is, but not a very good one.    Another, with a hint.   The hint.      "
+  "title": "Exercise",
+  "body": "  Exercise   A person is suffering from fever at 103 . What is his body temperature on the Celsius scale.    The temperature of outer space is about 3K. What is this temperature on  Celsius scale  Fahrenheit scale      How much heat is needed to raise the temperature of 1.0kg of water from room temperature 20 to its boiling point 100 .   What makes 1 g of water steam at 100 more dengeraous than 1 g of water liquid at 100 .  How does heat transfer occur in a gas  How does heat transfer occur in vacuum  Chose the correct option: The fluid at the bottom of the container is  under less pressure than the pressure at the top.  under the same pressure than the pressure at the top.  under more pressure than the pressure at the top.  any one of the above, depending upon circumstances.    Chose the correct option: On molecular level, heat is  kinetic energy.  potential energy.  sum of kinetic and potential energy.  any one of the above, depending upon circumstances.    How much cooking oil you can put in the container of 0.2m long, 0.1m wide, and 0.3 m high? If the density of the oil is .  Water can is heated to boil and then sealed when it is still hot. What reason do you have when cooling can collapses?  Two balls of identical volumes but different masses are being droped from the top of a skyscraper. If air resistance acts same on both the balls which will reaches on the ground first or are they reach together?  "
 },
 {
   "id": "exercise-29",
@@ -943,7 +1024,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.1",
   "title": "",
-  "body": " Is this an exercise?   Yes.   It is, but not a very good one.  "
+  "body": " A person is suffering from fever at 103 . What is his body temperature on the Celsius scale.  "
 },
 {
   "id": "exercise-30",
@@ -952,7 +1033,88 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "4.4.2",
   "title": "",
-  "body": " Another, with a hint.   The hint.  "
+  "body": " The temperature of outer space is about 3K. What is this temperature on  Celsius scale  Fahrenheit scale    "
+},
+{
+  "id": "exercise-31",
+  "level": "2",
+  "url": "ex_fourth.html#exercise-31",
+  "type": "Exercise",
+  "number": "4.4.3",
+  "title": "",
+  "body": " How much heat is needed to raise the temperature of 1.0kg of water from room temperature 20 to its boiling point 100 .  "
+},
+{
+  "id": "exercise-32",
+  "level": "2",
+  "url": "ex_fourth.html#exercise-32",
+  "type": "Exercise",
+  "number": "4.4.4",
+  "title": "",
+  "body": "What makes 1 g of water steam at 100 more dengeraous than 1 g of water liquid at 100 . "
+},
+{
+  "id": "exercise-33",
+  "level": "2",
+  "url": "ex_fourth.html#exercise-33",
+  "type": "Exercise",
+  "number": "4.4.5",
+  "title": "",
+  "body": "How does heat transfer occur in a gas "
+},
+{
+  "id": "exercise-34",
+  "level": "2",
+  "url": "ex_fourth.html#exercise-34",
+  "type": "Exercise",
+  "number": "4.4.6",
+  "title": "",
+  "body": "How does heat transfer occur in vacuum "
+},
+{
+  "id": "exercise-35",
+  "level": "2",
+  "url": "ex_fourth.html#exercise-35",
+  "type": "Exercise",
+  "number": "4.4.7",
+  "title": "",
+  "body": "Chose the correct option: The fluid at the bottom of the container is  under less pressure than the pressure at the top.  under the same pressure than the pressure at the top.  under more pressure than the pressure at the top.  any one of the above, depending upon circumstances.   "
+},
+{
+  "id": "exercise-36",
+  "level": "2",
+  "url": "ex_fourth.html#exercise-36",
+  "type": "Exercise",
+  "number": "4.4.8",
+  "title": "",
+  "body": "Chose the correct option: On molecular level, heat is  kinetic energy.  potential energy.  sum of kinetic and potential energy.  any one of the above, depending upon circumstances.   "
+},
+{
+  "id": "exercise-37",
+  "level": "2",
+  "url": "ex_fourth.html#exercise-37",
+  "type": "Exercise",
+  "number": "4.4.9",
+  "title": "",
+  "body": "How much cooking oil you can put in the container of 0.2m long, 0.1m wide, and 0.3 m high? If the density of the oil is . "
+},
+{
+  "id": "exercise-38",
+  "level": "2",
+  "url": "ex_fourth.html#exercise-38",
+  "type": "Exercise",
+  "number": "4.4.10",
+  "title": "",
+  "body": "Water can is heated to boil and then sealed when it is still hot. What reason do you have when cooling can collapses? "
+},
+{
+  "id": "exercise-39",
+  "level": "2",
+  "url": "ex_fourth.html#exercise-39",
+  "type": "Exercise",
+  "number": "4.4.11",
+  "title": "",
+  "body": "Two balls of identical volumes but different masses are being droped from the top of a skyscraper. If air resistance acts same on both the balls which will reaches on the ground first or are they reach together? "
 },
 {
   "id": "sec_fifth-intro",
@@ -1072,18 +1234,18 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-33",
+  "id": "example-42",
   "level": "2",
-  "url": "sec_features-blocks.html#example-33",
+  "url": "sec_features-blocks.html#example-42",
   "type": "Example",
   "number": "16.1.0.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-16",
+  "id": "figure-17",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-16",
+  "url": "sec_features-blocks.html#figure-17",
   "type": "Figure",
   "number": "16.1.0.3",
   "title": "",
