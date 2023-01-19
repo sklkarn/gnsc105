@@ -322,8 +322,9 @@ window.MathJax = {
 <li>
 <div class="toc-item"><a href="sec_fifth-electr.html" class="internal"><span class="codenumber">5.2</span> <span class="title">Electricity</span></a></div>
 <ul class="structural">
-<li><div class="toc-item"><a href="sec_fifth-electr.html#subsec_5i-subsection" class="internal"><span class="codenumber">5.2.1</span> <span class="title">A subsection</span></a></div></li>
-<li><div class="toc-item"><a href="sec_fifth-electr.html#subsec_5ii-subsection" class="internal"><span class="codenumber">5.2.2</span> <span class="title">Another Subsection</span></a></div></li>
+<li><div class="toc-item"><a href="sec_fifth-electr.html#subsec_5ep-subsection" class="internal"><span class="codenumber">5.2.1</span> <span class="title">Electric Potential (Voltage)</span></a></div></li>
+<li><div class="toc-item"><a href="sec_fifth-electr.html#subsec_5ol-subsection" class="internal"><span class="codenumber">5.2.2</span> <span class="title">Ohm's Law</span></a></div></li>
+<li><div class="toc-item"><a href="sec_fifth-electr.html#subsec-5ec" class="internal"><span class="codenumber">5.2.3</span> <span class="title">Electrical Circuits</span></a></div></li>
 </ul>
 </li>
 <li>
@@ -427,7 +428,15 @@ p_i=p_f\tag{3.2.2.1}
 L=I\omega\tag{3.2.4.1}
 \end{equation}
 </div>
-<div class="para">Where <span class="process-math">\(I\)</span> is called moment of inertia and <span class="process-math">\(\omega\)</span> is called the rotational velocity of the object. Moment of inertia, <span class="process-math">\(I\)</span> tells us that how the mass of a body is distributed relative to the axis of rotation. It is the property of a material that restrict it to have any change in its rotation state of motion.</div>
+<div class="para">Where <span class="process-math">\(I\)</span> is called moment of inertia and <span class="process-math">\(\omega\)</span> is called the rotational velocity of the object. Moment of inertia, <span class="process-math">\(I\)</span> tells us that how the mass of a body is distributed relative to the axis of rotation.  <dfn class="terminology">Moment of Inertia, I:</dfn> is an inability of a material to change its state of rotational motion. It is defined as</div>
+<div class="displaymath process-math" id="mdn-1">
+\begin{align}
+I \amp = mr^2\tag{3.2.4.2}\\
+also, \quad \omega \amp = \frac{v}{r}\tag{3.2.4.3}\\
+therefore \quad L \amp = mvr\tag{3.2.4.4}
+\end{align}
+</div>
+<div class="para">here, <span class="process-math">\(r\)</span> is the object distance from the axis of rotation.</div>
 </div></section><section class="subsection" id="subsec-torque"><h3 class="heading hide-type">
 <span class="type">Subsection</span> <span class="codenumber">3.2.5</span> <span class="title">Torque</span>
 </h3>
@@ -443,16 +452,12 @@ L=I\omega\tag{3.2.4.1}
 </h3>
 <div class="para logical" id="p-178">
 <div class="para">Conservation of angular momentum tells that in rotaiton, initial angular momentum is always equal to final angular momentum of the body if no external torque is acting on it. That is</div>
-<div class="displaymath process-math" id="men-20">
-\begin{equation}
-L_1=L_2\tag{3.2.6.1}
-\end{equation}
-</div>
-<div class="para">or,</div>
-<div class="displaymath process-math">
-\begin{equation*}
-I_1\omega_1 = I_2\omega_2\text{.}
-\end{equation*}
+<div class="displaymath process-math" id="mdn-2">
+\begin{align}
+L_1 \amp =L_2\tag{3.2.6.1}\\
+or, \quad I_1\omega_1 \amp = I_2\omega_2\tag{3.2.6.2}\\
+or, \quad m_1v_1r_1 \amp = m_2v_2r_2\tag{3.2.6.3}
+\end{align}
 </div>
 <div class="para">If the moment of inertia of a rotaing body decreases then rotational velocity is going to increase. For example: 1. when ice skaters spin by pulling their arms inwards their rotational speed increase but their rotational speed decrease when they stretched their arms outwards. 2. A system of planets orbiting around a star has no net external torque acting, so its angular momentum is constant. Hence, when a planet travels along an elliptical orbit, its speed reduces when it is further away from the star and its speed increases as it approaches the star <a class="external" href="https://physics.weber.edu/amiri/director-dcrversion/newversion/kepler/Kepler_1.2.html" target="_blank">star-planet system</a><a href="" data-knowl="" class="id-ref fn-knowl original" data-refid="hk-fn-9" id="fn-9"><sup> 1 </sup></a>. Look at the planetary motion of Nereid (Naptune's moon) in the law of orbits animation.</div>
 </div></section></section><div class="hidden-content tex2jax_ignore" id="hk-fn-8"><div class="fn"><code class="code-inline tex2jax_ignore">www.mathsisfun.com/physics/pendulum.html</code></div></div>
