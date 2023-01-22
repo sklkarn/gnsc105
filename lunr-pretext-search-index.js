@@ -1168,21 +1168,48 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.1",
   "title": "Charges",
-  "body": " Charges   Charge is an entity which provides an electric property of the matter. Charge is of two types, positive charge and negative charge. Electrons in an atom consist of negative charge and protons of the atom consist of positve positive charge. Similar kinds of charges always repel each other and unlike charges attract each other. Charge is a scalar physical quantity. Charge is conserved meaning charge can neither be created nor be destroyed; it can only be transferred from one place to another or from one object to another. The net charge on any system is always constant. All matter is composed of atoms and atoms are composed of three elementary particles, called electrons, protons, and neutrons. Charge is also quantized meaning charge always comes in discrete amounts, and the smallest possible amount of charge that any object could have is . This is the amount of charge oo one electron. Whenever an atom gains or loses an electron, atom is ionized. The ionized atom is always charged. An ion is simply an atom with a net charge. The ion can be positive or negative.    Coulomb's Law  The force of attraction or repulsion between any two point charges is directly proportional to the product of these charges and inversely proportional to the square of distance between them. The direction of force is always acting along the line joining these two point charges. If is a force acting on the charges and , and is a distance between the two charges (see figure below) then from Coulumb's law Here, Coulomb's constant, . This law only works for two point charges at rest. Hence, the Coulomb's law is also known as law of electrostatic force.   Coulomb's force    on unlike charges     on like charges        Electric Field  The space around a charge where force of attraction or repulsion can be experienced by any other charged particle is called an electric field. Electric field is also known as electrostatic field intensity. It is an inherent property of a charge. An electric field is produced by a charge and is experienced by another charge. It is an electric field of a charge which tells another charge how to move in the space if it is free to do so. Electric field is a force acting on a unit charge and is a vector quantity.    Materials on Electrical Point of View  On the basis of electrical behavior there are four types of materials exist in nature they are conductor, insulator, semiconductors, and superconductors.   Conductor: It is a material where charge carriers (electrons or ions) are free to move within it. Copper, aluminum, gold, mercury, iron, water-salt solution, etc. are few examples of conductors. In a conductor outermost electrons of an atom are loosely bounded with its nucleus and hence are free to move throughout the material even at very low temperature. The random motion of electrons causes zero net electric current in a conductor unless an external electric field is applied on it. Insulator: It is a material where electrons are tightly bounded with their atom and can not move very easily. Plastics, glass, rubber, wood, porcelain, etc. are few examples of insulators. Check the simulation link conductor & insulator  Semiconductor: It is a material having properties between insulator and conductor. Silicon and germanium are good example of it. At low temperature this material behaves as an insulator and at high temperature it behaves as a conductor. The conductivity of semiconductor can be increased enormously by doping of this material with a very small amount of suitable dopants such as boron, phosphorous, or arsenic. Superconductor: It is a material which transfers electrons from one atom to another throughout the material without any resistance. No loss of energy can be observed when material conduct electricity. Mercury shows superconducting nature at temperature below 4 Kelvin.   "
+  "body": " Charges   Charge is an entity which provides an electric property of the matter. Charge is of two types, positive charge and negative charge. Electrons in an atom consist of negative charge and protons of the atom consist of positve positive charge. Similar kinds of charges always repel each other and unlike charges attract each other. Charge is a scalar physical quantity. Charge is conserved meaning charge can neither be created nor be destroyed; it can only be transferred from one place to another or from one object to another. The net charge on any system is always constant. All matter is composed of atoms and atoms are composed of three elementary particles, called electrons, protons, and neutrons. Charge is also quantized meaning charge always comes in discrete amounts, and the smallest possible amount of charge that any object could have is . This is the amount of charge on one electron. Whenever an atom gains or loses an electron, atom is ionized. The ionized atom is always charged. An ion is simply an atom with a net charge. The ion can be positive or negative. If is the total negative charge on any object and is the charge of electron, then total number of electron on that object can be find using the following equation. where     A glass is rubbed vigorosly with a fur and found that it gained of charge. Calculate how many electrons has the glass rod lost?        electrons.        Coulomb's Law  The force of attraction or repulsion between any two point charges is directly proportional to the product of these charges and inversely proportional to the square of distance between them. The direction of force is always acting along the line joining these two point charges. If is a force acting on the charges and , and is a distance between the two charges (see figure below) then from Coulumb's law Here, Coulomb's constant, . This law only works for two point charges at rest. Hence, the Coulomb's law is also known as law of electrostatic force.   Coulomb's force    on unlike charges     on like charges        If the distance between an electron and a proton in a hydrogen atom is . Find the electrostatic force acting btween the electron and the proton.        . Negative sign explains that the force is attractive in nature.        Electric Field  The space around a charge where force of attraction or repulsion can be experienced by any other charged particle is called an electric field. Electric field is also known as electrostatic field intensity. It is an inherent property of a charge. An electric field is produced by a charge and is experienced by another charge. It is an electric field of a charge which tells another charge how to move in the space if it is free to do so. Electric field is a force acting on a unit charge and is a vector quantity. Electric field lines: It is an imaginary path of a unit positive charge in an electric field. Electric field lines are aslo known as electric lines of force. It is always pointed radially outward for a positve charge and radially inward for a negative charge as shown in figure below.   Electric Lines of Force    Field lines due to a positive charge     Field lines due to a negative charge     Field lines due to two unlike charges     Field lines due to two like +ve charges        Materials on Electrical Point of View  On the basis of electrical behavior there are four types of materials exist in nature they are conductor, insulator, semiconductors, and superconductors.   Conductor: It is a material where charge carriers (electrons or ions) are free to move within it. Copper, aluminum, gold, mercury, iron, water-salt solution, etc. are few examples of conductors. In a conductor outermost electrons of an atom are loosely bounded with its nucleus and hence are free to move throughout the material even at very low temperature. The random motion of electrons causes zero net electric current in a conductor unless an external electric field is applied on it. Insulator: It is a material where electrons are tightly bounded with their atom and can not move very easily. Plastics, glass, rubber, wood, porcelain, etc. are few examples of insulators. Check the simulation link conductor & insulator  Semiconductor: It is a material having properties between insulator and conductor. Silicon and germanium are good example of it. At low temperature this material behaves as an insulator and at high temperature it behaves as a conductor. The conductivity of semiconductor can be increased enormously by doping of this material with a very small amount of suitable dopants such as boron, phosphorous, or arsenic. Superconductor: It is a material which transfers electrons from one atom to another throughout the material without any resistance. No loss of energy can be observed when material conduct electricity. Mercury shows superconducting nature at temperature below 4 Kelvin.   "
+},
+{
+  "id": "example-43",
+  "level": "2",
+  "url": "sec_fifth-intro.html#example-43",
+  "type": "Example",
+  "number": "5.1.1",
+  "title": "",
+  "body": "  A glass is rubbed vigorosly with a fur and found that it gained of charge. Calculate how many electrons has the glass rod lost?        electrons.     "
 },
 {
   "id": "figure-17",
   "level": "2",
   "url": "sec_fifth-intro.html#figure-17",
   "type": "Figure",
-  "number": "5.1.1",
+  "number": "5.1.2",
   "title": "",
   "body": " Coulomb's force    on unlike charges     on like charges     "
 },
 {
-  "id": "p-285",
+  "id": "example-44",
   "level": "2",
-  "url": "sec_fifth-intro.html#p-285",
+  "url": "sec_fifth-intro.html#example-44",
+  "type": "Example",
+  "number": "5.1.3",
+  "title": "",
+  "body": "  If the distance between an electron and a proton in a hydrogen atom is . Find the electrostatic force acting btween the electron and the proton.        . Negative sign explains that the force is attractive in nature.     "
+},
+{
+  "id": "figure-20",
+  "level": "2",
+  "url": "sec_fifth-intro.html#figure-20",
+  "type": "Figure",
+  "number": "5.1.4",
+  "title": "",
+  "body": " Electric Lines of Force    Field lines due to a positive charge     Field lines due to a negative charge     Field lines due to two unlike charges     Field lines due to two like +ve charges     "
+},
+{
+  "id": "p-291",
+  "level": "2",
+  "url": "sec_fifth-intro.html#p-291",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1198,27 +1225,27 @@ var ptx_lunr_docs = [
   "body": " Electricity   It is a branch of physics which deals with the motion of charges in a conductor. When charge flows from one place to another, an electrical current is formed. An electric current is defined as the rate of flow of charge. If a net charge passes through any conductor in time , then the electric current is given by Its unit is Ampere (A). One ampere of current represents one coulomb of charge passes through a conductor in one second. It is a scalar quantity and its conventional direction is taken as the direction of flow of positive charges. In conductor, current flows solely due to motion of electrons, hence the direction of current is opposite to electrons flow. From the law of conservation of charges current remains constant in a conductor irrespective of the local area of cross-section. When the direction of motion of charge does not change with time, the current is said to be direct current, or DC current. It is commonly used in devices electronic devices like cell phones and computers. If the direction of motion of charges reverses periodically, the current is known as an alternating current, or AC current. It is commonly used in the electrical power systems that supply to homes and commercial applications. AC current goes from positive to negative in a cycle, while DC current is always in the same direction. Current can only exist between two points of different potential (voltage) connected by a conductor and can only exist whenever a conductive path with no breaks is provided. DC & AC Flow of charges in DC current is similar to flowing water, but in AC current, charges do not go any where rather they are oscillating about the mean position at their respective position. Check the simulation link to visualize DC and AC current. DC & AC AC is more efficient to transmit over long distances than DC. This is the reason why AC is used in power transmission and distribution as well as in motors and other equipment. It is also used in many household appliances, such as refrigerators, air conditioners, and washing machines. AC can also be easily transformed to different voltages using a transformer, while this is not easy to achieve with DC. DC voltage can be stored in a device called battery, while AC voltage can not be stored.    Electric Potential (Voltage)  Electric potential, also known as voltage, is a measure of the electric potential energy per unit charge in an electric field. That is, or, . It is the amount of work required to move a unit positive charge from one point to another in an electric field. The unit of electric potential is the volt (V). A higher electric potential difference between two points indicates a greater amount of energy required to move a unit charge between those points. Voltage can be think of like a \"push\" for a charge. The higher the voltage, the more \"push\" the charge experience to flow through wires. Charge can only flow from high potential(voltage) to low potential (voltage). It's important to note that just like water can be dangerous if not handled properly, electricity can also be dangerous if not handled with care.    Ohm's Law  Ohm's law states that the current flowing through a conductor is directly proportional to the voltage across the two ends of the conductor, and inversely proportional to the resistance between them. It can be mathematically expressed as or, here I is the current, V is the voltage, and R is the resistance of the conductor. Resistance: is a restriction imposed by a conductor on the motion of a current. Motion of charge carriers (electrons) are not very smooth in a conductor as they bump onto the other electrons and positive charge residual atoms during their motion. Such restrictions in flow of electrons is measured as a resistance of a conductor in current flow. It is denoted by and its unit is Ohms ( ). Electrical Power: It is the measure of energy transferred or consumed per unit time i.e.,  Hence power is also defined as the product of current and voltage. Its unit is Watts (W). One watt means consuming the one joule of energy every second.   Electrical Shock: According to Ohm's law if resistance of the conductor is low then the higher current can flow through it. High current can be deadly. Actually, a “voltage” does not go “into” your body rather current can pass through it when charges flow toward a lower potential. In order to get electric shock atleast of current must pass through our body. In dry condition, human body has a resistance of about , so to have current flowing through our body we need to touch the voltage source of about , as shown in the calculation below. In wet condition, human body resistance becomes only , so to get current through our body we need to touch the voltage source of about .    Electrical Circuits  Electrical circuit is a network of electrical elements (such as resistance (bulb), battery, conductor, switch, etc.) through which current can flow in a closed path. Electrical circuits can be of two types,  Series Circuit: in this type of circuits all the electrical components are connected one after another in such a way that the same current flows through each components as shown in figuer below. An example of a series circuit is a string of Christmas lights, where each bulb is connected to the next in a line. If one bulb burns out, the entire circuit is broken and none of the lights will turn on.  Series circuit      Parallel Circuit: in this type of circuits all the electrical components are connected side by side in such a way that the voltage across each component is the same as shown in figuer below. An example of a parallel circuit is a house's electrical system, where different appliances are connected to the same circuit but have their own separate paths for current to flow through. If one path is broken or one appliance stops working, it doesn't affect the other appliances or the overall circuit.  Parallel circuit       series & parallel circuit To change from series to parallel circuit, Please hold the bulb and rotate the circuit in the simulation.   "
 },
 {
-  "id": "p-286",
+  "id": "p-292",
   "level": "2",
-  "url": "sec_fifth-electr.html#p-286",
+  "url": "sec_fifth-electr.html#p-292",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "current "
 },
 {
-  "id": "figure-20",
+  "id": "figure-25",
   "level": "2",
-  "url": "sec_fifth-electr.html#figure-20",
+  "url": "sec_fifth-electr.html#figure-25",
   "type": "Figure",
   "number": "5.2.1",
   "title": "",
   "body": " Series circuit    "
 },
 {
-  "id": "figure-21",
+  "id": "figure-26",
   "level": "2",
-  "url": "sec_fifth-electr.html#figure-21",
+  "url": "sec_fifth-electr.html#figure-26",
   "type": "Figure",
   "number": "5.2.2",
   "title": "",
@@ -1231,39 +1258,39 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.3",
   "title": "Magnetism",
-  "body": " Magnetism   It is a branch of physics which deals with magnets and magnetic properties of materials. It defines the magnetic behavior of material which is associated with the motion of electric charge. The motion of charges in a conductor or in space gives rise to magnetic fields and magnetism is a result of magnetic fields. The word ”magnet” is taken from Latin word µαγνήτης λίθoς meaning stones from magnesia. ”Magnetis [líthos]” is sources of lodestones found in Manisa, Turkey. Magnetism is caused by moving charges and is experienced by moving charges. It is a phenomenon of materials by which they attract or repel other materials. The motion of an electron in an orbit around a nucleus or its spin on an axis produces a magnetic field.  The most familiar magnet is a bar magnet. It is a piece of iron bar that has been magnetized. However, other shape of magnets are also available these days such as disk magnet, horseshoe magnet, ring magnet, etc.  Magnets of different shapes    In any magnet, there are two regions (normally at the ends or faces) where magnetic strength is very strong. These stronger regions are called magnetic poles. One is designted as north pole, N and the other as south pole, S . This is because When a magnet is hanged by a thread and allowed to rotate freely, it will align itself in a north-south direction, due to the earth's magnetic field. The north end of the magnet will point towards the Earth's geographic north pole and the south end towards the Earth's geographic south pole. This is why north pole is also known as north seeking pole and the south pole as south seeking pole . The magnet also aligns at an angle itself with the earth's horizontal plane. This angle is known as the angle of dip or inclination , it varies depending on the location on the earth surface. The magnet also aligns itseld at an angle from the true north-south direction. This angle is known as magnetic declinaiton . The magnetic declination is the angle between magnetic north and true north direction. Magnetic north is the direction indicated by a compass, and true north is the direction of the Earth's geographic north pole. This angle can vary depending on location and time. earth as a magnet   Like poles of magnet repel and unlike poles attract. North and south poles always exist in pairs (there are no magnetic monopoles in nature), so if one were to split a permanent magnet in half, two smaller magnets would be created, each with a north pole and south pole. Even if one cuts a magnet into pieces all the way down to a single atom they still get a N pole and a S pole because of orbiting electron in the atom.  Magnet    Just like a graviational force both electric and magnetic forces have an effect on the objects without being in direct contact.    Electromagnetism  Orsted discovered that electric currents can produce magnetic fields and Faraday discovered that magnetic fields can be used to induce electric currents in a circuit. A moving electrical charge also generates a magnetic field just as changing magnetic field induces current in a conductor. In fact, a traditional magnet is the result of individual motion of electrons within the atoms of the magnet. These atoms are so aligned that magnetic field procduced by their electrons are pointed along a uniform direction giving rise to a mangetic field of the magnet. In non-magnetic materials, the electrons move in such a way that the individual magnetic fields point in different directions, so they cancel each other out and the net magnetic field generated is negligible. In normal condition, magnetic fields of the magnetic material are distributed in groups of small region, called domain and magnetic fields of each domain are oriented in different directions to cancel each other effect. This is why iron is just a piece of metal bar unless it is magnetized.  Electromagnetism is considered as the interaction of electric and magnetic effects. It tells that  the moving charges (current) give rise to magnetic fields, current produce magnetic field  and changing magnetic field gives rise to electric current magnetic field generating current  . The direction of the magnetic field produced by a current in wire can be determinded using right hand thumb rule . If fingers of right hand is curl along the direction of current moving then thumb is pointed along the direction of magnetic field produced by the current. In contrary, if thumb is pointed along the direction of current then curled fingers show the direction of magnetic field generated around the wire.  Right Hand Thumb Rule        Transformer  Transformer is an electrical appliance which convert large current at low voltage to low current at high voltage, and vice versa. It uses the principle of electromagnetic induction to transform electrical energy from one circuit to another one. An AC current is needed to operate transformer. In AC current direction of current is keep changing which changes the magnetic field generated in the primary coil of transformer. Such changing magnetic field induces the current in the secondary coil of transformer. A typical transformer consists of a two or more coils of insulated wire wound on a laminated iron core. An alternating (AC) voltage which is to be reduced or increased is connected to the coil, called the primary coil or input coil. This coil magnetizes the iron core. A voltage is then induced in the other coil, called the secondary or output coil. The change of voltage (or voltage ratio) between the primary and secondary depends on the turns ratio of their two coils.   Schematic of Transformer    There are two types of transformer on the basis of their operation. If the number of turns in primary coil is less than that at secondary then it is called a step-up transformer and if number of turns in primary is grater than that in secondary then it is called a step-down transformer. Transformer transfers an electrical power from primary coil to secondary coil hence it also obeys the principle of conservation of energy. That is,  see equation for electrical power.   "
+  "body": " Magnetism   It is a branch of physics which deals with magnets and magnetic properties of materials. It defines the magnetic behavior of material which is associated with the motion of electric charge. The motion of charges in a conductor or in space gives rise to magnetic fields and magnetism is a result of magnetic fields. The word ”magnet” is taken from Latin word µαγνήτης λίθoς meaning stones from magnesia. ”Magnetis [líthos]” is sources of lodestones found in Manisa, Turkey. Magnetism is caused by moving charges and is experienced by moving charges. It is a phenomenon of materials by which they attract or repel other materials. The motion of an electron in an orbit around a nucleus or its spin on an axis produces a magnetic field.  The most familiar magnet is a bar magnet. It is a piece of iron bar that has been magnetized. However, other shape of magnets are also available these days such as disk magnet, horseshoe magnet, ring magnet, etc.  Magnets of different shapes    In any magnet, there are two regions (normally at the ends or faces) where magnetic strength is very strong. These stronger regions are called magnetic poles. One is designted as north pole, N and the other as south pole, S . This is because When a magnet is hanged by a thread and allowed to rotate freely, it will align itself in a north-south direction, due to the earth's magnetic field. The north end of the magnet will point towards the Earth's geographic north pole and the south end towards the Earth's geographic south pole. This is why north pole is also known as north seeking pole and the south pole as south seeking pole . The magnet also aligns at an angle itself with the earth's horizontal plane. This angle is known as the angle of dip or inclination , it varies depending on the location on the earth surface. The magnet also aligns itseld at an angle from the true north-south direction. This angle is known as magnetic declinaiton . The magnetic declination is the angle between magnetic north and true north direction. Magnetic north is the direction indicated by a compass, and true north is the direction of the Earth's geographic north pole. This angle can vary depending on location and time. earth as a magnet   Like poles of magnet repel and unlike poles attract. North and south poles always exist in pairs (there are no magnetic monopoles in nature), so if one were to split a permanent magnet in half, two smaller magnets would be created, each with a north pole and south pole. Even if one cuts a magnet into pieces all the way down to a single atom they still get a N pole and a S pole because of orbiting electron in the atom. Just like a graviational force both electric and magnetic forces can act on the objects without being in direct contact.  Magnet        Electromagnetism  Orsted discovered that electric currents can produce magnetic fields and Faraday discovered that magnetic fields can be used to induce electric currents in a circuit. A moving electrical charge also generates a magnetic field just as changing magnetic field induces current in a conductor. In fact, a traditional magnet is the result of individual motion of electrons within the atoms of the magnet. These atoms are so aligned that magnetic field procduced by their electrons are pointed along a uniform direction giving rise to a mangetic field of the magnet. In non-magnetic materials, the electrons move in such a way that the individual magnetic fields point in different directions, so they cancel each other out and the net magnetic field generated is negligible. In normal condition, magnetic fields of the magnetic material are distributed in groups of small region, called domain and magnetic fields of each domain are oriented in different directions to cancel each other effect. This is why iron is just a piece of metal bar unless it is magnetized.  Electromagnetism is considered as the interaction of electric and magnetic effects. It tells that  the moving charges (current) give rise to magnetic fields, current produce magnetic field  and changing magnetic field gives rise to electric current magnetic field generating current  . The direction of the magnetic field produced by a current in wire can be determinded using right hand thumb rule . If fingers of right hand is curl along the direction of current moving then thumb is pointed along the direction of magnetic field produced by the current. In contrary, if thumb is pointed along the direction of current then curled fingers show the direction of magnetic field generated around the wire.  Right Hand Thumb Rule        Transformer  Transformer is an electrical appliance which convert large current at low voltage to low current at high voltage, and vice versa. It uses the principle of electromagnetic induction to transform electrical energy from one circuit to another one. An AC current is needed to operate transformer. In AC current direction of current is keep changing which changes the magnetic field generated in the primary coil of transformer. Such changing magnetic field induces the current in the secondary coil of transformer. A typical transformer consists of a two or more coils of insulated wire wound on a laminated iron core. An alternating (AC) voltage which is to be reduced or increased is connected to the coil, called the primary coil or input coil. This coil magnetizes the iron core. A voltage is then induced in the other coil, called the secondary or output coil. The change of voltage (or voltage ratio) between the primary and secondary depends on the turns ratio of their two coils.   Schematic of Transformer    There are two types of transformer on the basis of their operation. If the number of turns in primary coil is less than that at secondary then it is called a step-up transformer and if number of turns in primary is grater than that in secondary then it is called a step-down transformer. Transformer transfers an electrical power from primary coil to secondary coil hence it also obeys the principle of conservation of energy. That is,  see equation for electrical power.   "
 },
 {
-  "id": "figure-22",
+  "id": "figure-27",
   "level": "2",
-  "url": "sec_fifth-magnt.html#figure-22",
+  "url": "sec_fifth-magnt.html#figure-27",
   "type": "Figure",
   "number": "5.3.1",
   "title": "",
   "body": " Magnets of different shapes    "
 },
 {
-  "id": "figure-23",
+  "id": "figure-28",
   "level": "2",
-  "url": "sec_fifth-magnt.html#figure-23",
+  "url": "sec_fifth-magnt.html#figure-28",
   "type": "Figure",
   "number": "5.3.2",
   "title": "",
   "body": " Magnet    "
 },
 {
-  "id": "figure-24",
+  "id": "figure-29",
   "level": "2",
-  "url": "sec_fifth-magnt.html#figure-24",
+  "url": "sec_fifth-magnt.html#figure-29",
   "type": "Figure",
   "number": "5.3.3",
   "title": "",
   "body": " Right Hand Thumb Rule    "
 },
 {
-  "id": "figure-25",
+  "id": "figure-30",
   "level": "2",
-  "url": "sec_fifth-magnt.html#figure-25",
+  "url": "sec_fifth-magnt.html#figure-30",
   "type": "Figure",
   "number": "5.3.4",
   "title": "",
@@ -1276,25 +1303,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.4",
   "title": "Examples",
-  "body": " Examples  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.  "
+  "body": " Examples    Find the current in a wire if electrons is passing every second.    See the equations and       Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.   From Ohm's Law      Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.  "
 },
 {
-  "id": "example-43",
+  "id": "example-45",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-43",
+  "url": "sec_fifth-examples.html#example-45",
   "type": "Example",
   "number": "5.4.1",
   "title": "",
-  "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
+  "body": "  Find the current in a wire if electrons is passing every second.    See the equations and     "
 },
 {
-  "id": "example-44",
+  "id": "example-46",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-44",
+  "url": "sec_fifth-examples.html#example-46",
   "type": "Example",
   "number": "5.4.2",
   "title": "",
-  "body": " This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.  "
+  "body": " Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.   From Ohm's Law     "
 },
 {
   "id": "ex_fifth",
@@ -1342,18 +1369,18 @@ var ptx_lunr_docs = [
   "body": " Examples  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.   Theorem Title   This is the statement of the theorem.    And this is its proof.      A corollary that doesn't need a proof.    Perhaps at the end of the section, you want to add a note to the reader about how what you have fits into the larger scope of mathematics.   Larger Context  Comment to the reader here.   Of course, if you want more information, you might see .  "
 },
 {
-  "id": "example-45",
+  "id": "example-47",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-45",
+  "url": "sec_sixth-examples.html#example-47",
   "type": "Example",
   "number": "6.2.1",
   "title": "",
   "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
 },
 {
-  "id": "example-46",
+  "id": "example-48",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-46",
+  "url": "sec_sixth-examples.html#example-48",
   "type": "Example",
   "number": "6.2.2",
   "title": "",
@@ -1513,18 +1540,18 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-47",
+  "id": "example-49",
   "level": "2",
-  "url": "sec_features-blocks.html#example-47",
+  "url": "sec_features-blocks.html#example-49",
   "type": "Example",
   "number": "16.1.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-26",
+  "id": "figure-31",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-26",
+  "url": "sec_features-blocks.html#figure-31",
   "type": "Figure",
   "number": "16.1.3",
   "title": "",
