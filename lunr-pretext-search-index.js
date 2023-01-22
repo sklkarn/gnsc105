@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Significant Figures",
-  "body": " Significant Figures    significant figures Significant figures are the digits which give us useful information about the accuracy of a measurement. The result of a measurement includes digits that are known reliably and the digit that is uncertain. For example, the length of an object measured to be 287.5 cm when measured with a meterstick marked with centimeter (0.1 resolution) and has four significant figures, the digits 2, 8, 7 are certain while the first digit 5 is uncertain. If someone measure the same object with another meterstick marked with millimeters (0.01 resolution) he\/she could have measured the length to be 287.54 cm and that contains 5 significant figures, the digits 2, 8, 7, and 5 are certain while the first digit 4 is uncertain. Each smaller measurement allows observers to determine the length of the object with a bit more accuracy. Maybe someother can measure with great accuracy as 287.542 cm. No matter how accuratly you measure things, there is always some inaccuracy in every measurement. Scientists account for this unavoidable uncertainty in measurement by using significant digits. significant digits do not remove the uncertainty but warn readers to where uncertainty lies.    1000 has one significant digit: only 1 is interesting and reliable. The zeroes may have been just the placeholders; they may have rounded something off to get this value.  1000. : notice that ”point” after the zero! This has four significant digits, because the decimal point tells us that the measurement was made to the nearest unit, so the zero is not just a placeholder.  1000.0 has five significant digits: the ”.0” tells us about the accuracy of the measurement that the measurement is accurate to the tenths place.  In scientific notation if 200 has two significant figures then is used. If it has three sig.fig. then If it had four sig. fig. then 200.0 is sufficient.    Here are some basic rules to determine significant figures:  All nonzero digits are significant; in number 0.003004500 the digits 3, 4, and 5 are significant.  All zeroes between significant digits are significant; in number 0.003004500 the 0, 0 between 3 and 4 are significant.  Trailing zeros in the decimal portion are significant; in number 0.003004500 the 0,0 at end of 5 are significant.  Trailing zeroes in a whole number with no decimal shown are not significant; in number ”540” there are only two sig.fig. 5 and 4, the last 0 is not significant.  Leading zeroes in the decimal portion to the first non-zero digit are not significant; in number 0.003004500 the 0 to the right of decimal point and digits 0, 0 to the left of decimal point before the digit 3 are not significant.  Exponential digits in scientific notation are not significant; has only three significant figures, 1, 3, and 2.      Rounding off the Numbers  When rounding, we examine the digit following to the right of the digit that is to be the last digit in the rounded off number. The digit we are examining is the first digit to be dropped. If digit to be dropped off is less than 5, then drop it off with all the other digits to the right of it. If the digit to be dropped off is greater than 5, then increase the number by 1 to the preceeding digit to be rounded. If the digit to be dropped is 5, then round the preceeding digit so that it will become even number. Zero is considered to be even when rounding off. This is the process of minimizing systematic error.    Round 742,396 to four, three, and two significant digits:   To round to four sig. fig. start with the first significant digit, which is the 7. Then count to the right from there. The first four significant digits of 742,396 are the 7, the 4, the 2, and the 3. Just to the right of the 3 is a 9. Because this value is ”greater than 5”, round the 3 up to 4. Replace the remaining digits (the 9 and the 6) with zeroes. Then: 742,400 (four significant digits).  To round 742,396 to three places, start again with the 7 and include the next two digits, being the 4 and the 2. Since the next digit is a 3, which is ”less than 5”, leave the 2 alone and don't round up. Replace the three digits after the comma with zeroes. Then: 742,000 (three significant digits)  To round 742,396 to two places, use only the first two digits, which are followed by a 2, so don't round up. Instead, just replace the final four digits with zeroes, to get: 740,000 (two significant digits).     Round 0.07284 to four, three, and two significant digits:   To round 0.07284 to four significant digits, start with the first significant digit, which is the 7. (The zero between the decimal point and the 7 is not significant, as it serves only to ”place” the 7 into the hundreds place.) There are only three more digits, so all of them will be included in answer. Since no digit follows the 4, there is no information about rounding, so just leave the 4 as it is. Hence, 0.07284 is four sig-digs.  When rounding 0.07284 to three sig-digs, the final sig-dig is the 8, which is followed by the 4. Since 4 is less than 5, so simply drop it. Because these sig-digs are after the decimal point, not replace the 4 with a zero. Hence, 0.0728 is three sig-digs.  To round 0.07284 to two sig-digs, use the 7 and the 2. Since the 2 is followed by an 8, round the 2 up to 3; drop everything that follows. Hence, 0.073 is two sig-digs.     Round 425.35 to four and two significant digits:   For four sig.fig. this number is 425.4, because the value to be rounded off (3) is ”odd” and followed by a ”5”, then round the 3 up to 4 and remove the remaining digits.  For two sig.fig. it would be 420, because the value to be rounded off (2) is ”even” and followed by a ”5”, then leave 2 as it is and replace the other with zeroes.        Mathematical Operations with Significant Figures    Addition or subtraction: The final result should retain as many decimal places as there are in the number with the least decimal places. For example, the sum of the numbers 436.32 g, 227.2 g and 0.301 g is 663.821 g by mere arithmetic addition but the least precise measurement (227.2 g) is correct to only one decimal place. Therefore, the final result should be rounded off to 663.8 g. Similarly, the difference in length can be expressed as:  Multiplication or division: The final result should retain as many significant figures as are there in the original number with the least significant figures. For example, if mass of an object is measured to be, say, 4.237 g (four significant figures) and its volume is measured to be , then its density, by mere arithmetic division, is upto 11 decimal places. But density should be reported to three significant figures as      Science and Religion  Science is a study of understanding the natural phenomena based on observation and experimental evidence acquired by scientific method. It is always skeptical and never correct to 100%.  Religion on the other hand is understanding the purpose, source, and meaning of our world based on faith. Many principles are accepted without asking any question.   "
+  "body": " Significant Figures    significant figures Significant figures are the digits which give us useful information about the accuracy of a measurement. The result of a measurement includes digits that are known reliably and the digit that is uncertain. For example, the length of an object measured to be 287.5 cm when measured with a meterstick marked with centimeter (0.1 resolution) and has four significant figures, the digits 2, 8, 7 are certain while the first digit 5 is uncertain. If someone measure the same object with another meterstick marked with millimeters (0.01 resolution) he\/she could have measured the length to be 287.54 cm and that contains 5 significant figures, the digits 2, 8, 7, and 5 are certain while the first digit 4 is uncertain. Each smaller measurement allows observers to determine the length of the object with a bit more accuracy. Maybe someother can measure with great accuracy as 287.542 cm. No matter how accuratly you measure things, there is always some inaccuracy in every measurement. Scientists account for this unavoidable uncertainty in measurement by using significant digits. significant digits do not remove the uncertainty but warn readers to where uncertainty lies.    1000 has one significant digit: only 1 is interesting and reliable. The zeroes may have been just the placeholders; they may have rounded something off to get this value.  1000. : notice that ”point” after the zero! This has four significant digits, because the decimal point tells us that the measurement was made to the nearest unit, so the zero is not just a placeholder.  1000.0 has five significant digits: the ”.0” tells us about the accuracy of the measurement that the measurement is accurate to the tenths place.  In scientific notation if 200 has two significant figures then is used. If it has three sig.fig. then If it had four sig. fig. then 200.0 is sufficient.    Here are some basic rules to determine significant figures:  All nonzero digits are significant; in number 0.003004500 the digits 3, 4, and 5 are significant.  All zeroes between significant digits are significant; in number 0.003004500 the 0, 0 between 3 and 4 are significant.  Trailing zeros in the decimal portion are significant; in number 0.003004500 the 0,0 at end of 5 are significant.  Trailing zeroes in a whole number with no decimal shown are not significant; in number ”540” there are only two sig.fig. 5 and 4, the last 0 is not significant.  Leading zeroes in the decimal portion to the first non-zero digit are not significant; in number 0.003004500 the 0 to the right of decimal point and digits 0, 0 to the left of decimal point before the digit 3 are not significant.  Exponential digits in scientific notation are not significant; has only three significant figures, 1, 3, and 2.      Rounding off the Numbers  When rounding, we examine the digit following to the right of the digit that is to be the last digit in the rounded off number. The digit we are examining is the first digit to be dropped. If digit to be dropped off is less than 5, then drop it off with all the other digits to the right of it. If the digit to be dropped off is greater than 5, then increase the number by 1 to the preceeding digit to be rounded. If the digit to be dropped is 5, then round the preceeding digit so that it will become even number. Zero is considered to be even when rounding off. This is the process of minimizing systematic error.    Round 742,396 to four, three, and two significant digits:   To round to four sig. fig. start with the first significant digit, which is the 7. Then count to the right from there. The first four significant digits of 742,396 are the 7, the 4, the 2, and the 3. Just to the right of the 3 is a 9. Because this value is ”greater than 5”, round the 3 up to 4. Replace the remaining digits (the 9 and the 6) with zeroes. Then: 742,400 (four significant digits).  To round 742,396 to three places, start again with the 7 and include the next two digits, being the 4 and the 2. Since the next digit is a 3, which is ”less than 5”, leave the 2 alone and don't round up. Replace the three digits after the comma with zeroes. Then: 742,000 (three significant digits)  To round 742,396 to two places, use only the first two digits, which are followed by a 2, so don't round up. Instead, just replace the final four digits with zeroes, to get: 740,000 (two significant digits).     Round 0.07284 to four, three, and two significant digits:   To round 0.07284 to four significant digits, start with the first significant digit, which is the 7. (The zero between the decimal point and the 7 is not significant, as it serves only to ”place” the 7 into the hundreds place.) There are only three more digits, so all of them will be included in answer. Since no digit follows the 4, there is no information about rounding, so just leave the 4 as it is. Hence, 0.07284 is four sig-digs.  When rounding 0.07284 to three sig-digs, the final sig-dig is the 8, which is followed by the 4. Since 4 is less than 5, so simply drop it. Because these sig-digs are after the decimal point, not replace the 4 with a zero. Hence, 0.0728 is three sig-digs.  To round 0.07284 to two sig-digs, use the 7 and the 2. Since the 2 is followed by an 8, round the 2 up to 3; drop everything that follows. Hence, 0.073 is two sig-digs.     Round 425.35 to four and two significant digits:   For four sig.fig. this number is 425.4, because the value to be rounded off (3) is ”odd” and followed by a ”5”, then round the 3 up to 4 and remove the remaining digits.  For two sig.fig. it would be 420, because the value to be rounded off (2) is ”even” and followed by a ”5”, then leave 2 as it is and replace the other with zeroes.        Mathematical Operations with Significant Figures    Addition or subtraction: The final result should retain as many decimal places as there are in the number with the least decimal places. For example, the sum of the numbers 436.32 g, 227.2 g and 0.301 g is 663.821 g by mere arithmetic addition but the least precise measurement (227.2 g) is correct to only one decimal place. Therefore, the final result should be rounded off to 663.8 g. Similarly, the difference in length can be expressed as:  Multiplication or division: The final result should retain as many significant figures as are there in the original number with the least significant figures. For example, if mass of an object is measured to be, say, 4.237 g (four significant figures) and its volume is measured to be , then its density, by mere arithmetic division, is upto 11 decimal places. But density should be reported to three significant figures as      Science and Religion  Science is a study of understanding the natural phenomena based on observation and experimental evidence acquired by scientific method. It is always skeptical and never correct to 100%. Religion on the other hand is understanding the purpose, source, and meaning of our world based on faith. Many principles are accepted without asking any question.   "
 },
 {
   "id": "sec_first-obs",
@@ -106,7 +106,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Examples",
-  "body": " Examples    Write the sum of the numbers and in a proper significant figures.    The mathematical sum of the numbers is but, the lowest decimal place in the data is one, hence the correct answer would be       Round off the numbers and to the three significant figures.     Write the answer for each expression using scientific notation with the appropriate number of significant figures.                        "
+  "body": " Examples    Write the sum of the numbers and in a proper significant figures.    The mathematical sum of the numbers is but, the lowest decimal place in the data is one, hence the correct answer would be       Write the numbers in correct to its significant figures if is subtracted from .    The mathematical subtraction is but, the lowest decimal place in the data is two, hence the correct answer would be       Round off the numbers and to the three significant figures.   2.57, 2.57, 2.73 (or, 2.72).     Round off the numbers and to the two significant figures.   2100 (or, 2000), 8600, 5700.      Write the answer for each expression using scientific notation with the appropriate number of significant figures.                        "
 },
 {
   "id": "example-3",
@@ -124,7 +124,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "1.4.2",
   "title": "",
-  "body": "  Round off the numbers and to the three significant figures.  "
+  "body": "  Write the numbers in correct to its significant figures if is subtracted from .    The mathematical subtraction is but, the lowest decimal place in the data is two, hence the correct answer would be    "
 },
 {
   "id": "example-5",
@@ -132,6 +132,24 @@ var ptx_lunr_docs = [
   "url": "sec_first-examples.html#example-5",
   "type": "Example",
   "number": "1.4.3",
+  "title": "",
+  "body": "  Round off the numbers and to the three significant figures.   2.57, 2.57, 2.73 (or, 2.72).   "
+},
+{
+  "id": "example-6",
+  "level": "2",
+  "url": "sec_first-examples.html#example-6",
+  "type": "Example",
+  "number": "1.4.4",
+  "title": "",
+  "body": " Round off the numbers and to the two significant figures.   2100 (or, 2000), 8600, 5700.   "
+},
+{
+  "id": "example-7",
+  "level": "2",
+  "url": "sec_first-examples.html#example-7",
+  "type": "Example",
+  "number": "1.4.5",
   "title": "",
   "body": "  Write the answer for each expression using scientific notation with the appropriate number of significant figures.                       "
 },
@@ -208,18 +226,18 @@ var ptx_lunr_docs = [
   "body": " Describing Motion     Distance: It is the length between the change in positions of an object. If is an initial position of the object and is a final position of that object then is the distance travelled by the object. It is a scalar quantity because it does not deal with the direction in which the object is travelling.It's unit is in SI system and in CGS system, and in FPS system.  Displacement: It is a direct distance between initial and final position of the object. It is the shortest path between initial and final positions of the object. It has the same unit as distance. It is a vector quantity because it has only one particular direction between the initial and position of the object. Let's understand by the example here, suppose you started travelling from initial point A and reached to point B by travelling 4 m distance along east. Now from point B you covered a distance of 3 m along north to reach to your final point C. So the direct distance between your initial position and final position is 5m given by Pythagoras theorem along north-east. . See the figure below as reference.  Displacement vector      Speed:The rate of change of position of an object is called a speed. It states that how fast the object is changing its position with respedt to time. In physics, the rate means with respect to time. It is also a scalar quantity. speed is represented by the letter, . If is an initial position and is the final position of the object then . It's unit is m\/s in SI system and cm\/s in CGS system, and ft\/s in FPS system.  Velocity: It is the speed of an object in particular direction. It is a vector quantity. It has the same unit as speed. It is also represented by the letter, .  Acceleration: The rate of change of velocity is called an acceleration. It states that how fast the velocity of an object is being changed. It is also a vector quantity. If is an initial velocity and is the final velocity of the object then the acceleration of the object is given by . It's unit is in SI system. If acceleration is positive then the object is speeding up, if it is negative then the object is slowing down, if it is zero then the object is either moving with uniform velocity or remains at rest. Note: Velocity is always in the same direction as the object is moving, but the acceleration is not.    Vector quantity carries two pieces of information, i.e. magnitude and direction. Vector is often represented by an arrow. A straight line with an arrowhead where the length of the line yields information about MAGNITUDE and the arrow indicates the direction . Mathematical operation is different for vectors than in scalars. It is not just the addition or subtraction of the numbers. We are not going to perform many vector mathematical operations here rather we try to understand addition and subtraction with some simple examples. Addition or subtraction of scalar quantities are just like adding or subtracting the numbers. In vector addition, the vectors are arranged in Head to Tail to find the sum of the vectors. In vector subtraction, the vector to be subtracted is flipped in direction and added to the other vector by arranging them in “Head to Tail” to find the sum of the vectors.     For example: in , the total distance travelled by the object is However, total displacement of the object is only along north-east directin as shown by the arrow AC. . Suppose water is flowing downstream with velocity 2 in a river where you are rowing your boat with 5 downstream. You can find that you are moving with 7 velocity (or speed) downstream. If you want to go upsteam then your velocity (or speed) would be 3 only. If you want to row accross the river then your velocity would be somewhere between 3 to 7 . . Suppose Aron is sweeming in a pool of 100 m wide. He took 5 laps, so he covers total of but his displacement is just zero. Remember one lap is one complete round of trip. However, if he just take a half lap then the distance covered is the same as displacement and are 100 m .      Equations of Motion  There are three equations of motion defined by the above terminologies which can help solve problems of motion. These eqations are obtained by manipulating average velocity and acceleration of the object.     Equations of motion in horizontal direction:   .  .  .    Equations of motion in vertical direction:   .  .  .     Here,  = acceleration due to gracvity, = height attains by the object, and = time taken by the object during its motion.  In vertical direction earth plays a vitol role in the acceleration of object motion. Earth pulls every thing downwards which causes acceleration due to gravity, negative. Accleration due to gravity is the acceleration of the object caused by the earth gravitational field. The value of . In vertical motion, we consider height as positive if going up (y-axis) and height as negative if coming down. But here, we are taking if the object is going vertically up, and for the object falling down. Such conventions allow us to assume h as always positive.  Note: The above equations only work for constant acceleration or acceleration due to gravity.    Free Fall  Objects moving under the influence of gravity only is called a free fall. This means gravity causes a change in the velocity of any object by 9.80 every second. So, drop any object and let it fall toward the ground: After 1s, the speed of the object is 9.80 . After 2s, the speed of the object is 19.6 . Etc. According to Galileo the velocity of a falling object is proportional to the length of time that the object has been falling. From the first equation of motion or,  as is a constant. Hence, the object is falling with higher velocity if it is falling for a long time or from a higher position. Since is constant near the planet all objects fall at the same rate. (Assuming there is no air resistance).    Projectile Motion  In normal day life, we encounter many examples where object moves along both horizontal and verticle direction together. Such type of motion is called projectile motion and the object moving in projectile motion is called a projectile. Hence, projectile is an object which has both horizontal as well as vertical motion. The path taken by the projectile is parabolic in nature. We are not dealing with mathematical operation related to projectile motion here but we try to understand the projectile motion by the following figure.  Projectile motion    Since gravity only acts on the verticle direction the horizontal velocity remains constant always in projectile motion.   "
 },
 {
-  "id": "p-56",
+  "id": "p-60",
   "level": "2",
-  "url": "sec_second-intro.html#p-56",
+  "url": "sec_second-intro.html#p-60",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Note: "
 },
 {
-  "id": "example-6",
+  "id": "example-8",
   "level": "2",
-  "url": "sec_second-intro.html#example-6",
+  "url": "sec_second-intro.html#example-8",
   "type": "Example",
   "number": "2.1.2",
   "title": "",
@@ -244,18 +262,18 @@ var ptx_lunr_docs = [
   "body": " Force   Force is a push or pull. It is a vector quantity. Force is anything that produces a change in the state of motion or shape of an object. Action of force on an object can change the direction of motion or change the velocity of the object. Newton ( ) is an SI unit of force. There are four fundamental forces in nature. They are   Gravitational force or Force of Gravity: The gravitational force exists due to the mass of an object. Gravitational force is the weakest known forces in nature. It is a long range force. It holds all the planets together. We discuss this force later in this section. This force is acting on any object due to attraction of earth. Near the surface of the earth force of gravity is given by its weight, i.e., Foece, = weight = . Where g is the acceleration due to gravity and the direction force is acting along the center of the earth. Weight: It is the force acting on an object due to gravitational acceleration. Weight is the effect of force of gravity on an object located at a particular point. One kg of mass has a weight of about 10 N ( ).    Electromagnetic force: The electromagnetic force exists due to the charge in the object. It is also a long range force but stronger than the gravitational force. It holds all the atoms and molecules together. We discuss this force later in another chapter.    Strong nucleur force: The strong nucleur force is a short range force and it exists only inside the nucleus. It binds all the nucleons together to have atomic existance. It is the strongest force in nature.    Weak nuclear force: The weak nucleur force is also short range force and only exists inside the nucleus. It is weaker than strong nuclear force and electromagnetic force. It is responsible for radioactivity of nucleous. The improper ratio of nucleons may cause the weak nuclear force to exist.     Physical contact of the object is not necessary to experience the fundamental forces. Hoverever, there are many other forces which only act on the object if they are in contact. They are called contact forces (or mechanical forces). Frictional force, normal force, tension, drag force, applied force, etc. are some contact forces.    Contact Forces   Friction: Friction is a resistive force that opposes or tends to oppose relative motion between two objects. It is a force that exists between the surfaces of contact of the two objects. If two systems are in contact and stationary relative to each other, then the friction between them is called static friction . This force arises from mechanical interlocking at the microscopic level plus the electrostatic molecular forces that hold the surfaces themselves together. If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction . This force arises from forming and breaking of microscopic adhesive bonds between atoms on the surfaces plus some mechanical linkage between the small irregularities on the surfaces. Experimentally it is found that frictional force is proportional to normal force, i.e., or, . Where proportionality constant is called the coefficient of friction. It defines the nature of roughness of the surfaces of contact. Friction decreases with increase in smoothness of the surfaces of contact, but if the surfaces are ultra smooth then friction increases because of inter molecular forces starts to act between the two surfaces as they come very close to each other, due to which it becomes harder to make them slide on each other. Friction is a complex force, and its behavior is still not completely understood. On molecular level friction has no existence.  In microscopic level most surfaces look very rough as shown in figure below. Thus, when an object is pushed to move it must raise the object until it can skip the tips of the surface hitting, breaking off the points, or both. A considerable force can be resisted by friction with no apparent motion. Part of the friction is due to adhesive forces between the surface molecules of the two objects, which explains the dependence of friction on the nature of the substances. For example, rubber-soled shoes slip less than those with leather soles. Adhesion varies with substances in contact. Once an object is moving, there are fewer points of contact so less force is required to keep the object moving. At small but nonzero speeds, friction is nearly independent of speed.  Surfaces of contact as seen from microscope      In real life frictional forces are almost always present. Remember the direction of frictional force is always opposite to the direction of motion or the applied force. Friction is bad as it dissipates energy but friction is also good as it allows us to roll, turn, walk, and stop. Friction between two solids does not depend on the surface area in contact. Friction can happen, even between surfaces that are not solid such as air drag. Air resistance (drag) during free fall reduces the weight of the object. Air drag increases with the velocity of the object in free fall and when it becomes equal to the wight of the object net force acting on the object is zero and hence the object starts falling with the constant velocity called Terminal Velocity. Sky diving is a good example of terminal velocity.  Skydiving at terminal velocity       Normal: This is a force of reaction from the surface where the object is placed. It is always perpendicular to the surface of contact. Tension: This force is acting between two objects on opposite ends of the string, in the directions to taut string at the point of contact. This force stretches the string along fixed support. It is a pulling force. Spring force: A spring is a special medium that has ability to restore its shape, if deformed. Any material has elastic property which helps it to restore its shape, if an applied deforming force has been released. From Hook's law a material (spring) exerts a restoring force that is proportional to a deforming force in opposite direction in which it is stretched or compressed. In mathematical form, spring force, where k is a spring's stiffness, also called an elastic constant and is stretch made on spring.    Newton's Laws of Motion  Newton recognized that there are two kinds of motion they are uniform motion and accelerated motion. Uniform motion: the movement of an object traveling in a straight line at a constant speed (no acceleration). Accelerated motion: the movement of an object traveling under the influence of some source of acceleration. On that basis he defined three laws of motion called Newton's laws of motion.  Newton's first law is the definition of a force which states that every object in a state of rest remains at rest or in a state of uniform motion tends to remain in uniform motion along the same direction, unless an external force is applied to it. Force is not required to continue the motion of anything which is already in motion. The first law is also called a law of inertia . Inertia is an ability of an object to resist any changes in its motion. Mass is related to inertia, the bigger the mass the more difficult it is to change the state of rest or motion of an object. Mass: It is the amount of matter in contained in an object. It is also reposible for the force of gravity of the object. Some examples of I law: 1. When the bus driver abruptly applies the breaks, passengers tend to feel a momentary pull in the forward direction. The reason behind this jerk felt by the passengers sitting inside the bus is the law of inertia. Due to inertia, our upper body part continues to maintain a state of motion even after the bus stops, thereby pushing us in the forward direction. 2. A book kept on a bookshelf does not change its shape, size, or position until acted upon by an external force. 3. A runner is not able to stop himself right after crossing the finish line. He\/She tends to take time and cover a few meters of distance running beyond the finish line. This is because the inertia of motion resists a sudden termination of motion and compels the body to maintain its state of motion.  Newton's second law is the measurement of a force which states that the acceleration of the object is directly proportional to the applied force and takes the direction of that force. Newton's II law can be expressed as . Where is the mass of the object.  Newton's third law is the property of force which states that for every action there is an equal and opposite reaction. Force always comes in pair. If an object A applies the action force on the object B then object B also applies the same amount of reaction force on the object A. These forces pair always act on two different objects. If one object exerts a force on a second object, then the second object exerts an equal but oppositely directed force on the first object. Mathematically,  Some examples: 1. Earth exerts force on you because you exert an equal and opposite force on earth. Here your force is your body weight and earth reaction force is a normal force. 2. When the rifle is fired it exerts a force on the bullet and the bullet exerts an equal and opposite force on the rifle. 3. You are able to sweem in water because you pushes water backwardly so apply the force on water and in reaction water also applies the same force on you just in opposite direction so you can sweem nicely.     Momentum  It is the quantity of motion contained in a body. If a body of mass is moving with a velocity then its momentum, . Momentum (also called linear Momentum) is a product of mass and velocity of the object. Momentum is represented by , its SI unit is . Momentum is a vector quantity and its direction is along the velocity of the object.  From Newton's II law:    Here is called impulse and is called change in momentum. They are two different physical quantities but their magnitude remains the same. A force acting on an object for a certain time changes the momentum of that object, such change in momentum is called the Impulse. Impulse is a vector quantity and has the same direction as the average force. SI unit of impulse is .   A 300 kg horse running with 40 m\/s has a momentum of     When a 430 g soccer ball is kicked, the impact lasts for 0.04 s. Find the magnitude of force that is needed to fly off the ball at 8 m\/s.          Uniform Circular Motion  In uniform circular motion an object is moving at a constant speed (not velocity) on a circular path. For an object to be in uniform circular motion, there must be a net force acting on it. This force is called a centripetal force without this force nothing can move in a circular path. This net force is not a physical force of some kind actually some other forces must be there to act like a centripetel force. If the centripetal force vanishes, the object flies off at a tangent to the circle. The centripetal force, where is mass of the object, is speed of the object, and is radius of the circluar path. Because of necessary centripetal force, sometime we feel difficulty to steer our car around a sharp curve. The sharper the curve (i.e., the smaller the radius) the greater the centripetal force required to keep the car on the curved path. Cetripetal means to look towards the center, hence centripetal force is always acting towards the center of the path. Some examples: 1. We may have noticed that when the string breaks for a whirling stone. The stone flies off along the straight line tangential to the circular path. 2. When swinging a yo-yo around in a circle. The force generated by your arm puts the yo-yo itself in motion, and the tension on the string keeps it moving in a circular path as you twirl it. If the string were to break at any given point, the yo-yo would fly off in a direction that is tangent to the point on the circle that the yo-yo was at when the string broke centripetal force .    Newton's Law of Gravitation  Newton observed that when an object falls it was accelerated toward the earth. Since the cause of such acceleration is an unbalanced force, there must be a force pulling that object toward the earth. On this basis, he came up with an idea called Newton's Law of Universal Gravitation. It states that any two masses in the universe attract each other with a force that is directly proportional to the product of the masses and inversely proportional to the square of the distance between them. Mathematically, here, is an universal gravitational constant, and are the masses of two objects, and is the distance between the them.    Gravitational force between two Objects        Escape Velocity  Escape Velocity is the minimum velocity of an object with which it can be thrown out of the planet in such a way so that it can never come back. If a stone of mass m is thrown out from the earth with an escape velocity then it never fall back on the earth again. The escape velocity of earth is 11.2 km\/s.   "
 },
 {
-  "id": "p-67",
+  "id": "p-71",
   "level": "2",
-  "url": "sec_second-force.html#p-67",
+  "url": "sec_second-force.html#p-71",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Force of Gravity: Weight: "
 },
 {
-  "id": "p-73",
+  "id": "p-77",
   "level": "2",
-  "url": "sec_second-force.html#p-73",
+  "url": "sec_second-force.html#p-77",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -280,36 +298,36 @@ var ptx_lunr_docs = [
   "body": " Skydiving at terminal velocity    "
 },
 {
-  "id": "p-76",
+  "id": "p-80",
   "level": "2",
-  "url": "sec_second-force.html#p-76",
+  "url": "sec_second-force.html#p-80",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Normal: Tension: Spring force: "
 },
 {
-  "id": "p-77",
+  "id": "p-81",
   "level": "2",
-  "url": "sec_second-force.html#p-77",
+  "url": "sec_second-force.html#p-81",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "law of inertia Mass: "
 },
 {
-  "id": "example-7",
+  "id": "example-9",
   "level": "2",
-  "url": "sec_second-force.html#example-7",
+  "url": "sec_second-force.html#example-9",
   "type": "Example",
   "number": "2.2.3",
   "title": "",
   "body": " A 300 kg horse running with 40 m\/s has a momentum of   "
 },
 {
-  "id": "example-8",
+  "id": "example-10",
   "level": "2",
-  "url": "sec_second-force.html#example-8",
+  "url": "sec_second-force.html#example-10",
   "type": "Example",
   "number": "2.2.4",
   "title": "",
@@ -334,90 +352,90 @@ var ptx_lunr_docs = [
   "body": " Examples    Special Instruction: To tackle the physical problems the book uses GUESS strategy for a systematic gatheing of information and finding a realistic and logistic solution. Here is what GUESS stands for.  G: Given, identify the given informations.  U: Unknown, identify the unknown that we are looking for.  E: Equation\/s, set up the equation from given information.  S: Substitute, substitute the number\/s in the equation\/s.  S: Solve, solve the equation to obtain the answer.     Here are some examples:    A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .       A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m       A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:              How far you can go in 5 minutes if you are running at 10 ?     First convert the velocity into to and also convert time from minute to second before using equation of motion.   Given:      Which of the following sets of displacements might be able to return a car to its starting point? (a) 4, 6, 8, and 15 km (b) 2, 8, 10, and 25 km. (c) 10, 30, 50, and 120 km (d) 5, 20, 35, and 65 km.  A car can return to its starting point, only when the sum of three displacements is greater than the value of the maximum displacement.    In case (a) sum of 4, 6, 8 =18 km which is greater than 15 km. In case (b) sum of 2, 8, 10 =20 km which is smaller than 25 km and so on.    (a)      A ship travels 25 km to the east and then 50 km to the south. Find the ship's displacement from its starting point.   Draw a diagram to see all the displacements of the ship and then use pythagorous theorem to solve the final displacement.     empty      A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .     A stone dropped from a cliff reaches the ground in 4 s. Find the velocity at which it hits the ground.  Think about stone's initial velocity, use acceleration due to gravity to find final velocity.    A stone has been thrown upward with velocity 50 m\/s.   How long does it take to come back on thrower's hand (find the time of flight)?  What is its velocity then?  How high was it gone?      Before we start solving any problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into    "
 },
 {
-  "id": "p-88",
+  "id": "p-92",
   "level": "2",
-  "url": "sec_second-examples.html#p-88",
+  "url": "sec_second-examples.html#p-92",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Special Instruction: G: Given, U: Unknown, E: Equation\/s, S: Substitute, S: Solve, "
 },
 {
-  "id": "example-9",
+  "id": "example-11",
   "level": "2",
-  "url": "sec_second-examples.html#example-9",
+  "url": "sec_second-examples.html#example-11",
   "type": "Example",
   "number": "2.3.1",
   "title": "",
   "body": "  A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .    "
 },
 {
-  "id": "example-10",
+  "id": "example-12",
   "level": "2",
-  "url": "sec_second-examples.html#example-10",
+  "url": "sec_second-examples.html#example-12",
   "type": "Example",
   "number": "2.3.2",
   "title": "",
   "body": "  A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m    "
 },
 {
-  "id": "example-11",
+  "id": "example-13",
   "level": "2",
-  "url": "sec_second-examples.html#example-11",
+  "url": "sec_second-examples.html#example-13",
   "type": "Example",
   "number": "2.3.3",
   "title": "",
   "body": "  A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:           "
 },
 {
-  "id": "example-12",
+  "id": "example-14",
   "level": "2",
-  "url": "sec_second-examples.html#example-12",
+  "url": "sec_second-examples.html#example-14",
   "type": "Example",
   "number": "2.3.4",
   "title": "",
   "body": "  How far you can go in 5 minutes if you are running at 10 ?     First convert the velocity into to and also convert time from minute to second before using equation of motion.   Given:     "
 },
 {
-  "id": "example-13",
+  "id": "example-15",
   "level": "2",
-  "url": "sec_second-examples.html#example-13",
+  "url": "sec_second-examples.html#example-15",
   "type": "Example",
   "number": "2.3.5",
   "title": "",
   "body": "Which of the following sets of displacements might be able to return a car to its starting point? (a) 4, 6, 8, and 15 km (b) 2, 8, 10, and 25 km. (c) 10, 30, 50, and 120 km (d) 5, 20, 35, and 65 km.  A car can return to its starting point, only when the sum of three displacements is greater than the value of the maximum displacement.    In case (a) sum of 4, 6, 8 =18 km which is greater than 15 km. In case (b) sum of 2, 8, 10 =20 km which is smaller than 25 km and so on.    (a)   "
 },
 {
-  "id": "example-14",
+  "id": "example-16",
   "level": "2",
-  "url": "sec_second-examples.html#example-14",
+  "url": "sec_second-examples.html#example-16",
   "type": "Example",
   "number": "2.3.6",
   "title": "",
   "body": "  A ship travels 25 km to the east and then 50 km to the south. Find the ship's displacement from its starting point.   Draw a diagram to see all the displacements of the ship and then use pythagorous theorem to solve the final displacement.     empty   "
 },
 {
-  "id": "example-15",
+  "id": "example-17",
   "level": "2",
-  "url": "sec_second-examples.html#example-15",
+  "url": "sec_second-examples.html#example-17",
   "type": "Example",
   "number": "2.3.7",
   "title": "",
   "body": "  A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .    "
 },
 {
-  "id": "example-16",
+  "id": "example-18",
   "level": "2",
-  "url": "sec_second-examples.html#example-16",
+  "url": "sec_second-examples.html#example-18",
   "type": "Example",
   "number": "2.3.8",
   "title": "",
   "body": "A stone dropped from a cliff reaches the ground in 4 s. Find the velocity at which it hits the ground.  Think about stone's initial velocity, use acceleration due to gravity to find final velocity.   "
 },
 {
-  "id": "example-17",
+  "id": "example-19",
   "level": "2",
-  "url": "sec_second-examples.html#example-17",
+  "url": "sec_second-examples.html#example-19",
   "type": "Example",
   "number": "2.3.9",
   "title": "",
@@ -523,9 +541,9 @@ var ptx_lunr_docs = [
   "body": "How much braking force is needed to bring a 4000 kg truck to a stop from a speed of 20 m\/s in 5 s? "
 },
 {
-  "id": "example-18",
+  "id": "example-20",
   "level": "2",
-  "url": "ex_second.html#example-18",
+  "url": "ex_second.html#example-20",
   "type": "Example",
   "number": "2.4.1",
   "title": "",
@@ -595,9 +613,9 @@ var ptx_lunr_docs = [
   "body": " Work, Energy, and Power    Work: If an object is displaced along the same direction as of the applied force then work is said to be done by the force. In the figure below force is pushing a block of mass along its direction for a distance of , then work done, by this force can be calculated by Work is a scalar quantity as it is a measure of transfer of energy from one object to another. The SI unit of work is Joule . In FPS system, , and in CGS system, are the work units.   Work done by the forces    Work done by the force     Work done by the slanted force        A horizontal force of moves a block of mass along a horizontal direction for a distance of . How much work is done by the force?         In figure (a) force is along the direction of horizontal and the block is also displaced along the same direction from point A to point B. In this case work done by the force is given by multiplication of force and the displacement . In this figure work done by the weight and normal force is zero as these forces are perpendicular to the displacement . However, in figure (b) work done by the slanted force is not zero but can be determined by the projected force which is not in the scope of this book. Remember for work to be done, foce and displacemenet must be non-zero. Work may be positive, negative, and zero. For example: work done by applied force along the direction of displacement is positive, work done by the frictional force is negative, and work done by the force perpendicular to the displacement is zero.  Energy: The capacity of doing work by a force is called an energy. It is also a scalar quantity and has the same unit as work. There are many forms of energy, but they all fall into two categories: potential energy and kinetic energy. These energies are also called a mechanical energy. Potential energy is the energy of position of the object. It is also a stored energy on the object which is equal to the work done on the object to bring it to this position. There are several forms of potential energy, including: gravitational potential energy, chemical energy, elastic energy, nuclear energy, sound energy, heat energy, light energy, geothermal energy, etc. Chemical energy: It is energy stored in the bonds of atoms and molecules. It is the energy that holds these particles together. Foods, biomass, petroleum, and natural gas are some examples of stored chemical energy. During photosynthesis, sunlight gives plants the energy they need to build complex chemical compounds. When these compounds are later broken down, the stored chemical energy is released as heat, light, motion, and sound. Elastic energy: It is an energy stored in objects by the application of a restoring force. Compressed springs and stretched rubber bands are examples of elastic energy. Nuclear energy: It is an energy stored in the nucleus of an atom that binds the nucleus together. The energy can be released when the nuclei are combined or split apart. Nuclear power plants split the nuclei of uranium atoms in a process called fission reaction fission reaction . The sun combines the nuclei of hydrogen atoms into helium atoms in a process called fusion reaction fusion reaction . In both the fission and fusion reactions, mass is converted into energy, according to Einstein's mass-energy principle. Gravitational potential energy: or Potential energy: It is the energy of position or place. It is the work done in lifting an object against gravity near the earth's surface. Gravitational Potential energy depends only on the distance from the ground, not on the object's motion. It is given by Here is the weight of the object and distance is the height at which the object is lifted. A rock resting at the top of a hill contains gravitational potential energy because of its position. In hydropower dam, water in the reservoir stored a gravitational potential energy. Kinetic energy: It is the energy of a body due to its motion. If a body of mass is moving with a velocity then kinetic energy is given by, .    Work-Energy Theorem  Let us apply Newton's II law into II equation of motion and rearange them.  Here, is final kinetic energy and is initial kinetic energy. Hence, is change in kinetic energy. Therefore, work done = change in kinetic energy. or This is known as work-energy theorem. Meaning the amount of work is done on a body is equal to its change in kinetic energy or vice a versa along the straight line.    A block of mass at rest is being pushed by an unknow force along the horizontal to bring it at 5 velocity.  How much work is done by the force?  If the body moves to a 2 m distance in this process. Find the value of unkown force.      Given: , , , .                 power  The rate of doing work is called power. It is also the rate at which the energy can be transfered. Power tell us that how fast the work has been done. Power can be expressed as  Its SI unit is Watt (w=j\/s).    Find the power a horse who does 7460 J of work in 10 second.      746 watt of power is also called 1 horsepower.       A car engine of 200kW power pushes the car to 25 m\/s. Find the thrust (force) produces by its engine.          "
 },
 {
-  "id": "p-158",
+  "id": "p-162",
   "level": "2",
-  "url": "sec_third-intro.html#p-158",
+  "url": "sec_third-intro.html#p-162",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -613,45 +631,45 @@ var ptx_lunr_docs = [
   "body": " Work done by the forces    Work done by the force     Work done by the slanted force     "
 },
 {
-  "id": "example-19",
+  "id": "example-21",
   "level": "2",
-  "url": "sec_third-intro.html#example-19",
+  "url": "sec_third-intro.html#example-21",
   "type": "Example",
   "number": "3.1.2",
   "title": "",
   "body": "  A horizontal force of moves a block of mass along a horizontal direction for a distance of . How much work is done by the force?        "
 },
 {
-  "id": "p-162",
+  "id": "p-166",
   "level": "2",
-  "url": "sec_third-intro.html#p-162",
+  "url": "sec_third-intro.html#p-166",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Energy: "
 },
 {
-  "id": "example-20",
+  "id": "example-22",
   "level": "2",
-  "url": "sec_third-intro.html#example-20",
+  "url": "sec_third-intro.html#example-22",
   "type": "Example",
   "number": "3.1.3",
   "title": "",
   "body": "  A block of mass at rest is being pushed by an unknow force along the horizontal to bring it at 5 velocity.  How much work is done by the force?  If the body moves to a 2 m distance in this process. Find the value of unkown force.      Given: , , , .              "
 },
 {
-  "id": "example-21",
+  "id": "example-23",
   "level": "2",
-  "url": "sec_third-intro.html#example-21",
+  "url": "sec_third-intro.html#example-23",
   "type": "Example",
   "number": "3.1.4",
   "title": "",
   "body": "  Find the power a horse who does 7460 J of work in 10 second.      746 watt of power is also called 1 horsepower.    "
 },
 {
-  "id": "example-22",
+  "id": "example-24",
   "level": "2",
-  "url": "sec_third-intro.html#example-22",
+  "url": "sec_third-intro.html#example-24",
   "type": "Example",
   "number": "3.1.5",
   "title": "",
@@ -667,18 +685,18 @@ var ptx_lunr_docs = [
   "body": " Conservation Principles   Conservation principles tell that some physical quantities remains constant through the change. Conservation principles began to play a central role in scientific theories from century. Galileo, Descartes, Huygens, Leibniz, and Newton established their approaches to physics on the the principle of inertia: the principle that tells a body will undergo uniform rectilinear motion unless it is disturbed. There are many conservation principles but here we are only discussing three of them.    Principle of Conservation of Energy  It states that in an isolated system, the total energy of the system is conserved. That is energy can neither be created nor be destroyed, it can only be converted from one form of energy to another. For example, when a stone falls from a roof its potential energy is converted into kinetic energy just before it hits the ground. When friction slows down the block to a stop, the kinetic energy is converted into thermal energy. In case of mechanical energy, the sum of kinetic energy and potential energy is conserved. That is, total energy at any moment of time is always same. Mechanical energy is due to the position and motion of the object. Therefore, In simple pendulum, when the bob is left from a displaced position it starts swinging to and fro motion due to conservation of energy. As its potential energy (PE) is converted into kinetic energy (KE) at the mean position acquire maximum velocity and keep moving otherside of mean position due to inertia. Once it reaches to another extrema it falls back again and retraces it path again and again. Click this link simple pendulum and try to understand conservation of energy principle. During the motion of a swinging pendulum, the energy is constantly changing from KE (kinetic energy) to PE (potential energy).  KE is MAX at lowest point,  KE is MIN at the top of the path ( ),  PE is MAX at top of path.      Conservation of Momentum  We have defined momentum in . Momentum, is also called a linear momentum as motion of the object is in straight line path. From Newton's II law we know that . If the force remains zero then, . This tells us that . Meaning, if total external force acting on a system is zero, then total linear momentum of the system, constant. This is known as principle of conservation of momentum. Hence, in the case of conservaiton of mementum, final momentum of the system is equal to the initial momentum of the system i.e.,  Newton's Cradle Click on the link to understand the conservation of linear momentum.    Collision  Momentum conservation is very useful in collision problems because the collision force is internal and hence does not change the total momentum. The impulse of a collision is the total momentum transferred during the collision, where a collision is an event where a very large force is exerted over a body for a very short interval of time, . During that interval magnitude of force is continuously changing. Therefore, the impulse of a force is the product of the average force and the time interval during the contact.   Collision provides a way to better understand the motion. A collision is an interaction between two objects that may or may not have made physical contact. In a collision the colliding objects experience a pair of forces acting on them. The direction of the force on the first object is opposite to the direction of the force on the second object and these forces are equal in magnitude. These forces are Newton's III law pair. In an isolated system, total momentum is always conserved, hence such forces often increase the momentum of one object and decrease the momentum of the other. There are two kinds of collisions, elastic collision and inelastic collision. Elastic collision: objects are not deformed, e.g. bouncing balls, car's bumper, etc. Inelastic collision: objects become permanently deformed, e.g. auto accidents, throwing a mud on wall. Kinetic energy is only conserved in an elastic collission but not in an inelastic collision. However, momentum is conseved in both types of collisions. Total energy remains conserved in both types of collision.    Angular Momentum  Angular momentum is the momentum associated with a body in rotation about some axis. It is also a vector quantity. The direction of angular momentum is parallel to the axis of rotation. Spinning ball or rotating wheel has an angular momentum. Angular momentum is represented by, . Angular momentum is defined by Where is called moment of inertia and is called the rotational velocity of the object. Moment of inertia, tells us that how the mass of a body is distributed relative to the axis of rotation. Moment of Inertia, I: is an inability of a material to change its state of rotational motion. It is defined as here, is the object distance from the axis of rotation.    Torque  Just as force plays a role in moving object in linear motion, torque plays the same role in rotational an object about an axis. Torque in rotational motion is a linear analogue of force. Actually, torque is a turning effect of force which acts on a body in specific direction and at specific position. For example, if a force is applied at the center of mass of a body it will not produce any torque. But, if the same amount of force is acting off center then the body starts rotating about an axis. Just as force is a push or a pull, torque is a twist to an object around a specific axis. The magnitude of torque depends on the magnitude of applied force and the lever arm and ia given by     Conservation of Angular Momentum  Conservation of angular momentum tells that in rotaiton, initial angular momentum is always equal to final angular momentum of the body if no external torque is acting on it. That is If the moment of inertia of a rotaing body decreases then rotational velocity is going to increase. For example: 1. when ice skaters spin by pulling their arms inwards their rotational speed increase but their rotational speed decrease when they stretched their arms outwards. 2. A system of planets orbiting around a star has no net external torque acting, so its angular momentum is constant. Hence, when a planet travels along an elliptical orbit, its speed reduces when it is further away from the star and its speed increases as it approaches the star star-planet system . Look at the planetary motion of Nereid (Naptune's moon) in the law of orbits animation.   "
 },
 {
-  "id": "p-175",
+  "id": "p-179",
   "level": "2",
-  "url": "sec_third-conserv.html#p-175",
+  "url": "sec_third-conserv.html#p-179",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "collision "
 },
 {
-  "id": "p-177",
+  "id": "p-181",
   "level": "2",
-  "url": "sec_third-conserv.html#p-177",
+  "url": "sec_third-conserv.html#p-181",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -694,63 +712,63 @@ var ptx_lunr_docs = [
   "body": " Examples     A moving object does not necessarily have  momentum.  velocity.  kinetic energy.  potential energy.     Think of what if the object is moving on the ground.     d.      What happens when two or more objects collide  the total momentum remains the same of all the objects.  the total kinetic energy remains the same of all the objects.  the momentum of each object never changes.  the kinetic energy of each object never changes.     Read the conservation principles.     a.      You are dropping a golf ball and a ping-pong ball from a high tower on the surface of a planet which has no air. Which of the following quantities remain the same when they have fallen halfway down?  kinetic energy.  potential energy.  speed.  acceleration due to gravity.     Read section      c. and d.      Find the work done by a force if you are holding a 5 kg object 2m above the ground for 40 second.   Read section      Force has not displaced the object, so distance =0. Hence     0.     If the kinetic energy of a bullet of mass 400 g is 50kJ. Find its velocity.   Given: m=400g = 0.4 kg, KE=50 kJ =        500 m\/s.     Find the linear momentum of a 50 kg dog running at 5 m\/s.   Given: m=50 kg, v=5 p =?              Find the recoil velocity of a rocket of mass 100kg when it ejects 50 g of gas from its propulsion pistol at a speed of 50 m\/s.    Use conservation of momentum principle.    Given:       "
 },
 {
-  "id": "example-23",
+  "id": "example-25",
   "level": "2",
-  "url": "sec_third-examples.html#example-23",
+  "url": "sec_third-examples.html#example-25",
   "type": "Example",
   "number": "3.3.1",
   "title": "",
   "body": "  A moving object does not necessarily have  momentum.  velocity.  kinetic energy.  potential energy.     Think of what if the object is moving on the ground.     d.   "
 },
 {
-  "id": "example-24",
+  "id": "example-26",
   "level": "2",
-  "url": "sec_third-examples.html#example-24",
+  "url": "sec_third-examples.html#example-26",
   "type": "Example",
   "number": "3.3.2",
   "title": "",
   "body": "  What happens when two or more objects collide  the total momentum remains the same of all the objects.  the total kinetic energy remains the same of all the objects.  the momentum of each object never changes.  the kinetic energy of each object never changes.     Read the conservation principles.     a.   "
 },
 {
-  "id": "example-25",
+  "id": "example-27",
   "level": "2",
-  "url": "sec_third-examples.html#example-25",
+  "url": "sec_third-examples.html#example-27",
   "type": "Example",
   "number": "3.3.3",
   "title": "",
   "body": "  You are dropping a golf ball and a ping-pong ball from a high tower on the surface of a planet which has no air. Which of the following quantities remain the same when they have fallen halfway down?  kinetic energy.  potential energy.  speed.  acceleration due to gravity.     Read section      c. and d.   "
 },
 {
-  "id": "example-26",
+  "id": "example-28",
   "level": "2",
-  "url": "sec_third-examples.html#example-26",
+  "url": "sec_third-examples.html#example-28",
   "type": "Example",
   "number": "3.3.4",
   "title": "",
   "body": "  Find the work done by a force if you are holding a 5 kg object 2m above the ground for 40 second.   Read section      Force has not displaced the object, so distance =0. Hence     0.   "
 },
 {
-  "id": "example-27",
+  "id": "example-29",
   "level": "2",
-  "url": "sec_third-examples.html#example-27",
+  "url": "sec_third-examples.html#example-29",
   "type": "Example",
   "number": "3.3.5",
   "title": "",
   "body": " If the kinetic energy of a bullet of mass 400 g is 50kJ. Find its velocity.   Given: m=400g = 0.4 kg, KE=50 kJ =        500 m\/s.   "
 },
 {
-  "id": "example-28",
+  "id": "example-30",
   "level": "2",
-  "url": "sec_third-examples.html#example-28",
+  "url": "sec_third-examples.html#example-30",
   "type": "Example",
   "number": "3.3.6",
   "title": "",
   "body": " Find the linear momentum of a 50 kg dog running at 5 m\/s.   Given: m=50 kg, v=5 p =?           "
 },
 {
-  "id": "example-29",
+  "id": "example-31",
   "level": "2",
-  "url": "sec_third-examples.html#example-29",
+  "url": "sec_third-examples.html#example-31",
   "type": "Example",
   "number": "3.3.7",
   "title": "",
@@ -847,18 +865,18 @@ var ptx_lunr_docs = [
   "body": " Thermometers    Fahrenheit     Celsius     Kelvin scale     "
 },
 {
-  "id": "example-30",
+  "id": "example-32",
   "level": "2",
-  "url": "sec_fourth-intro.html#example-30",
+  "url": "sec_fourth-intro.html#example-32",
   "type": "Example",
   "number": "4.1.2",
   "title": "",
   "body": "  Convert into celsius temperature scale.    Here we use the following relationship    "
 },
 {
-  "id": "p-227",
+  "id": "p-231",
   "level": "2",
-  "url": "sec_fourth-intro.html#p-227",
+  "url": "sec_fourth-intro.html#p-231",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -874,36 +892,36 @@ var ptx_lunr_docs = [
   "body": " Specific heats of some common substances    Substance  Specific heat ( )    Water  1    Sand  0.16    iron  0.1    aluminum  0.22    Wood  0.42    Ice  0.5    "
 },
 {
-  "id": "example-31",
+  "id": "example-33",
   "level": "2",
-  "url": "sec_fourth-intro.html#example-31",
+  "url": "sec_fourth-intro.html#example-33",
   "type": "Example",
   "number": "4.1.4",
   "title": "",
   "body": "  How much heat in calorie is needed to heat 50 kg of water from to .    Given: m = 50 kg =50000 g, , , , and Q=?       "
 },
 {
-  "id": "p-234",
+  "id": "p-238",
   "level": "2",
-  "url": "sec_fourth-intro.html#p-234",
+  "url": "sec_fourth-intro.html#p-238",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Conduction: "
 },
 {
-  "id": "p-235",
+  "id": "p-239",
   "level": "2",
-  "url": "sec_fourth-intro.html#p-235",
+  "url": "sec_fourth-intro.html#p-239",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Convection: "
 },
 {
-  "id": "p-236",
+  "id": "p-240",
   "level": "2",
-  "url": "sec_fourth-intro.html#p-236",
+  "url": "sec_fourth-intro.html#p-240",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -919,27 +937,27 @@ var ptx_lunr_docs = [
   "body": " Fluid   Fluid is a material that can flow. Gasses and liquids are fluids. To study fluid it is easier to deal with fluid's volume, density, and pressure rather than its mass and weight. For example, we do transaction of any fluids in terms of their volume (liter) not in their mass (kg). Here, some terminilogies are being introduced to study fluid and its behavior.  Density: It is defined as a mass per unit volume of the fluid. It is a scalar quantity.  Its unit is in SI system, or in cgs system, and in fps system. Any two objects of identical volume the heavier one has higher density than the other. Take two marbles of same size but one is a lead marble and another is a glass marble. Which one do you feel heavier, has the higher density.    Calculate the mass of water in a container of size 25 cm long, 15 cm wide and is filled with water up to 10 cm high. If the density of water is .    The volume of water, Hence, the mass of water in the container is given by .     Pressure: It is defined as a force per unit area of the surface. Force must be acting perpendicularly on the surface. Pressure defines how hard the object is pushing something in or out. It is a scalar quantity.  Its unit is or pascal (Pa) in SI system. In FPS system of unit it is measured in which means pounds per square inch. Many units of pressure are still in practice such as torr, bar, mm of Hg., atm., etc. 1 atm is one atmospheric preesure,     How much pressure is applied on the ground by a girl of 50 kg if she is balancing herself by standing on her one shoe heel of area .    The force exerted by the girl on ground is equal to her weight, and, Surface area = Hence, the pressure on the ground is given by .       Archimedes' Principle  When an object is placed in a fluid it experiences an upthrust force called a buoyant force. It is arising due to changes of pressure inside fluid. This phenomenon is known as Archimedes' principle. It states that when a body is fully or partially immersed in a fluid, the fluid exerts an upward force on the body equal to the weight of liquid displaced. That is, a buoyant force ( ) = weight of displaced fluid ( ). Archimedes' principle tells whether the object floats or sinks in the fluid. If weight of the object is greater than the buoyany force, it sinks. If its weight is equal to the buoyant force, it submerges inside the fluid but does not sink. If its weight is less than the buoyant force then it floats on the surface of liquid.   Buoyant force     In this case, volume of displaced liquid is equal to the volume of submerged portion of the object. On this basis, we can tell that if the density of an object is greater than that of fluid, it sinks. If object density is equal to the density of fluid, then object submerges. If object density is less than the density of fluid, then object floats. To make iron ship not to sink in water, it is made with wide surface area and its body is like a hollow shell, so that the density of entire ship is less than the density of water.    Kinetic Theory of Gases  The nature of gas is completely different than solids and liquids. Gas tskes up the entire volume of the container and can be compressed easily. Gas pressure increase or decrease as the temperature of the container change. It diffuses (or leaks out) to air if the container is left open. On such experiences, Kinetic theory of gas is developed to explain the nature of heat and the motion of particles associated with heat energy. According to this theory, gas is composed of large number of very tiny particles called molecules. These molecules are always in random motion with all possible directions and speeds which increases with the increase of temperature. In gases, the molecules are very far away from each other than in solids and liquids and have negligibly small force of attraction between them. Hence they can move freely anywhere within the available space. This explains why a gas has no definite shape and size. To understand the more general behavior of gases kinetic theory of ideal gases is postulated as  All gases are made up of molecules. Molecules are identical, rigid, and perfectly elastic moving in random directions with all possible velocities.  The molecules are very far away from each other but they collide with each other and with walls of the container.  All the collisions are elastic, but time spent during each collision is negligibly small compared to the time spent between the collisions.  Molecules do not interact with each other (no intermolecular force of attraction) except during a collision.  The average kinetic energy of the molecules of any gas depends only on the temperature.  Ideal gas is a hypothetical gas of negligible molecular size and have no interactions among their molecules. In practice, a very dilute gas with extremely large volume of container space can be considered as an ideal gas. Remember the real gas molecules has definite size and may interact with each other. Hence this postulates are just a very simplified model to understand gas laws and need modification for real gas behaviors. To experience the general behavior of gas please play with simultion link here. gas laws     The Gas Laws  From the experience of factors affecting the gas pressure ideal gas law is defined below. Ideal Gas Law or also called equation of state. It is found that the pressure, of the gas is directly proportional to number of molecules, and the absolute temeperature, and inversely proportional to the volume, V of of the gas. That is where is proportionality constant. Therefore For mole of gas, the above equition turns into this equation is know as equation of state. Here, is number of mole of gas in a container and is universal gas constant.  If T is constant in this equation then it is called Boyle's Law  If is constant in this equation then it is called Charle's Law     "
 },
 {
-  "id": "example-32",
+  "id": "example-34",
   "level": "2",
-  "url": "sec_fourth-fluid.html#example-32",
+  "url": "sec_fourth-fluid.html#example-34",
   "type": "Example",
   "number": "4.2.1",
   "title": "",
   "body": "  Calculate the mass of water in a container of size 25 cm long, 15 cm wide and is filled with water up to 10 cm high. If the density of water is .    The volume of water, Hence, the mass of water in the container is given by .    "
 },
 {
-  "id": "p-242",
+  "id": "p-246",
   "level": "2",
-  "url": "sec_fourth-fluid.html#p-242",
+  "url": "sec_fourth-fluid.html#p-246",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Pressure: "
 },
 {
-  "id": "example-33",
+  "id": "example-35",
   "level": "2",
-  "url": "sec_fourth-fluid.html#example-33",
+  "url": "sec_fourth-fluid.html#example-35",
   "type": "Example",
   "number": "4.2.2",
   "title": "",
@@ -955,9 +973,9 @@ var ptx_lunr_docs = [
   "body": " Buoyant force    "
 },
 {
-  "id": "p-248",
+  "id": "p-252",
   "level": "2",
-  "url": "sec_fourth-fluid.html#p-248",
+  "url": "sec_fourth-fluid.html#p-252",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -973,81 +991,81 @@ var ptx_lunr_docs = [
   "body": " Examples    Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body            From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand           Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight           Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density           The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.           Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.           Molecular motion of the substance is least possible at which temperature?  .  .  .  .           Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.           At which of the temperature a Celsius thermometer and a Fahrenheit thermometer show the same readings?  40 .  -40 .  40 .  0 .     Consider , then from , we have Solve this equation to find the value of x.         "
 },
 {
-  "id": "example-34",
+  "id": "example-36",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-34",
+  "url": "sec_fourth-examples.html#example-36",
   "type": "Example",
   "number": "4.3.1",
   "title": "",
   "body": "  Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body          "
 },
 {
-  "id": "example-35",
+  "id": "example-37",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-35",
+  "url": "sec_fourth-examples.html#example-37",
   "type": "Example",
   "number": "4.3.2",
   "title": "",
   "body": " From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand         "
 },
 {
-  "id": "example-36",
+  "id": "example-38",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-36",
+  "url": "sec_fourth-examples.html#example-38",
   "type": "Example",
   "number": "4.3.3",
   "title": "",
   "body": " Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight         "
 },
 {
-  "id": "example-37",
+  "id": "example-39",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-37",
+  "url": "sec_fourth-examples.html#example-39",
   "type": "Example",
   "number": "4.3.4",
   "title": "",
   "body": " Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density         "
 },
 {
-  "id": "example-38",
+  "id": "example-40",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-38",
+  "url": "sec_fourth-examples.html#example-40",
   "type": "Example",
   "number": "4.3.5",
   "title": "",
   "body": " The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.         "
 },
 {
-  "id": "example-39",
+  "id": "example-41",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-39",
+  "url": "sec_fourth-examples.html#example-41",
   "type": "Example",
   "number": "4.3.6",
   "title": "",
   "body": " Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.         "
 },
 {
-  "id": "example-40",
+  "id": "example-42",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-40",
+  "url": "sec_fourth-examples.html#example-42",
   "type": "Example",
   "number": "4.3.7",
   "title": "",
   "body": " Molecular motion of the substance is least possible at which temperature?  .  .  .  .         "
 },
 {
-  "id": "example-41",
+  "id": "example-43",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-41",
+  "url": "sec_fourth-examples.html#example-43",
   "type": "Example",
   "number": "4.3.8",
   "title": "",
   "body": " Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.         "
 },
 {
-  "id": "example-42",
+  "id": "example-44",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-42",
+  "url": "sec_fourth-examples.html#example-44",
   "type": "Example",
   "number": "4.3.9",
   "title": "",
@@ -1168,12 +1186,12 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.1",
   "title": "Charges",
-  "body": " Charges   Charge is an entity which provides an electric property of the matter. Charge is of two types, positive charge and negative charge. Electrons in an atom consist of negative charge and protons of the atom consist of positve positive charge. Similar kinds of charges always repel each other and unlike charges attract each other. Charge is a scalar physical quantity. Charge is conserved meaning charge can neither be created nor be destroyed; it can only be transferred from one place to another or from one object to another. The net charge on any system is always constant. All matter is composed of atoms and atoms are composed of three elementary particles, called electrons, protons, and neutrons. Charge is also quantized meaning charge always comes in discrete amounts, and the smallest possible amount of charge that any object could have is . This is the amount of charge on one electron. Whenever an atom gains or loses an electron, atom is ionized. The ionized atom is always charged. An ion is simply an atom with a net charge. The ion can be positive or negative. If is the total negative charge on any object and is the charge of electron, then total number of electron on that object can be find using the following equation. where     A glass is rubbed vigorosly with a fur and found that it gained of charge. Calculate how many electrons has the glass rod lost?        electrons.        Coulomb's Law  The force of attraction or repulsion between any two point charges is directly proportional to the product of these charges and inversely proportional to the square of distance between them. The direction of force is always acting along the line joining these two point charges. If is a force acting on the charges and , and is a distance between the two charges (see figure below) then from Coulumb's law Here, Coulomb's constant, . This law only works for two point charges at rest. Hence, the Coulomb's law is also known as law of electrostatic force.   Coulomb's force    on unlike charges     on like charges        If the distance between an electron and a proton in a hydrogen atom is . Find the electrostatic force acting btween the electron and the proton.        . Negative sign explains that the force is attractive in nature.        Electric Field  The space around a charge where force of attraction or repulsion can be experienced by any other charged particle is called an electric field. Electric field is also known as electrostatic field intensity. It is an inherent property of a charge. An electric field is produced by a charge and is experienced by another charge. It is an electric field of a charge which tells another charge how to move in the space if it is free to do so. Electric field is a force acting on a unit charge and is a vector quantity. Electric field lines: It is an imaginary path of a unit positive charge in an electric field. Electric field lines are aslo known as electric lines of force. It is always pointed radially outward for a positve charge and radially inward for a negative charge as shown in figure below.   Electric Lines of Force    Field lines due to a positive charge     Field lines due to a negative charge     Field lines due to two unlike charges     Field lines due to two like +ve charges        Materials on Electrical Point of View  On the basis of electrical behavior there are four types of materials exist in nature they are conductor, insulator, semiconductors, and superconductors.   Conductor: It is a material where charge carriers (electrons or ions) are free to move within it. Copper, aluminum, gold, mercury, iron, water-salt solution, etc. are few examples of conductors. In a conductor outermost electrons of an atom are loosely bounded with its nucleus and hence are free to move throughout the material even at very low temperature. The random motion of electrons causes zero net electric current in a conductor unless an external electric field is applied on it. Insulator: It is a material where electrons are tightly bounded with their atom and can not move very easily. Plastics, glass, rubber, wood, porcelain, etc. are few examples of insulators. Check the simulation link conductor & insulator  Semiconductor: It is a material having properties between insulator and conductor. Silicon and germanium are good example of it. At low temperature this material behaves as an insulator and at high temperature it behaves as a conductor. The conductivity of semiconductor can be increased enormously by doping of this material with a very small amount of suitable dopants such as boron, phosphorous, or arsenic. Superconductor: It is a material which transfers electrons from one atom to another throughout the material without any resistance. No loss of energy can be observed when material conduct electricity. Mercury shows superconducting nature at temperature below 4 Kelvin.   "
+  "body": " Charges   Charge is an entity which provides an electric property of the matter. Charge is of two types, positive charge and negative charge. Electrons in an atom consist of negative charge and protons of the atom consist of positve positive charge. Similar kinds of charges always repel each other and unlike charges attract each other. Charge is a scalar physical quantity. Charge is conserved meaning charge can neither be created nor be destroyed; it can only be transferred from one place to another or from one object to another. The net charge on any system is always constant. All matter is composed of atoms and atoms are composed of three elementary particles, called electrons, protons, and neutrons. Charge is also quantized meaning charge always comes in discrete amounts, and the smallest possible amount of charge that any object could have is . This is the amount of charge on one electron. Whenever an atom gains or loses an electron, atom is ionized. The ionized atom is always charged. An ion is simply an atom with a net charge. The ion can be positive or negative. If is the total negative charge on any object and is the charge of electron, then total number of electron, n on that object can be find using the following equation. where     A glass is rubbed vigorosly with a fur and found that it gained of charge. Calculate how many electrons has the glass rod lost?        electrons.        Coulomb's Law  The force of attraction or repulsion between any two point charges is directly proportional to the product of these charges and inversely proportional to the square of distance between them. The direction of force is always acting along the line joining these two point charges. If is a force acting on the charges and , and is a distance between the two charges (see figure below) then from Coulumb's law Here, Coulomb's constant, . This law only works for two point charges at rest. Hence, the Coulomb's law is also known as law of electrostatic force.   Coulomb's force    on unlike charges     on like charges        If the distance between an electron and a proton in a hydrogen atom is . Find the electrostatic force acting btween the electron and the proton.        . Negative sign explains that the force is attractive in nature.        Electric Field  The space around a charge where force of attraction or repulsion can be experienced by any other charged particle is called an electric field. Electric field is also known as electrostatic field intensity. It is an inherent property of a charge. An electric field is produced by a charge and is experienced by another charge. It is an electric field of a charge which tells another charge how to move in the space if it is free to do so. Electric field is a force acting on a unit charge and is a vector quantity. Electric field lines: It is an imaginary path of a unit positive charge in an electric field. Electric field lines are aslo known as electric lines of force. It is always pointed radially outward for a positve charge and radially inward for a negative charge as shown in figure below.   Electric Lines of Force    Field lines due to a positive charge     Field lines due to a negative charge     Field lines due to two unlike charges     Field lines due to two like +ve charges        Materials on Electrical Point of View  On the basis of electrical behavior there are four types of materials exist in nature they are conductor, insulator, semiconductors, and superconductors.   Conductor: It is a material where charge carriers (electrons or ions) are free to move within it. Copper, aluminum, gold, mercury, iron, water-salt solution, etc. are few examples of conductors. In a conductor outermost electrons of an atom are loosely bounded with its nucleus and hence are free to move throughout the material even at very low temperature. The random motion of electrons causes zero net electric current in a conductor unless an external electric field is applied on it. Insulator: It is a material where electrons are tightly bounded with their atom and can not move very easily. Plastics, glass, rubber, wood, porcelain, etc. are few examples of insulators. Check the simulation link conductor & insulator  Semiconductor: It is a material having properties between insulator and conductor. Silicon and germanium are good example of it. At low temperature this material behaves as an insulator and at high temperature it behaves as a conductor. The conductivity of semiconductor can be increased enormously by doping of this material with a very small amount of suitable dopants such as boron, phosphorous, or arsenic. Superconductor: It is a material which transfers electrons from one atom to another throughout the material without any resistance. No loss of energy can be observed when material conduct electricity. Mercury shows superconducting nature at temperature below 4 Kelvin.   "
 },
 {
-  "id": "example-43",
+  "id": "example-45",
   "level": "2",
-  "url": "sec_fifth-intro.html#example-43",
+  "url": "sec_fifth-intro.html#example-45",
   "type": "Example",
   "number": "5.1.1",
   "title": "",
@@ -1189,9 +1207,9 @@ var ptx_lunr_docs = [
   "body": " Coulomb's force    on unlike charges     on like charges     "
 },
 {
-  "id": "example-44",
+  "id": "example-46",
   "level": "2",
-  "url": "sec_fifth-intro.html#example-44",
+  "url": "sec_fifth-intro.html#example-46",
   "type": "Example",
   "number": "5.1.3",
   "title": "",
@@ -1207,9 +1225,9 @@ var ptx_lunr_docs = [
   "body": " Electric Lines of Force    Field lines due to a positive charge     Field lines due to a negative charge     Field lines due to two unlike charges     Field lines due to two like +ve charges     "
 },
 {
-  "id": "p-291",
+  "id": "p-295",
   "level": "2",
-  "url": "sec_fifth-intro.html#p-291",
+  "url": "sec_fifth-intro.html#p-295",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1222,12 +1240,12 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.2",
   "title": "Electricity",
-  "body": " Electricity   It is a branch of physics which deals with the motion of charges in a conductor. When charge flows from one place to another, an electrical current is formed. An electric current is defined as the rate of flow of charge. If a net charge passes through any conductor in time , then the electric current is given by Its unit is Ampere (A). One ampere of current represents one coulomb of charge passes through a conductor in one second. It is a scalar quantity and its conventional direction is taken as the direction of flow of positive charges. In conductor, current flows solely due to motion of electrons, hence the direction of current is opposite to electrons flow. From the law of conservation of charges current remains constant in a conductor irrespective of the local area of cross-section. When the direction of motion of charge does not change with time, the current is said to be direct current, or DC current. It is commonly used in devices electronic devices like cell phones and computers. If the direction of motion of charges reverses periodically, the current is known as an alternating current, or AC current. It is commonly used in the electrical power systems that supply to homes and commercial applications. AC current goes from positive to negative in a cycle, while DC current is always in the same direction. Current can only exist between two points of different potential (voltage) connected by a conductor and can only exist whenever a conductive path with no breaks is provided. DC & AC Flow of charges in DC current is similar to flowing water, but in AC current, charges do not go any where rather they are oscillating about the mean position at their respective position. Check the simulation link to visualize DC and AC current. DC & AC AC is more efficient to transmit over long distances than DC. This is the reason why AC is used in power transmission and distribution as well as in motors and other equipment. It is also used in many household appliances, such as refrigerators, air conditioners, and washing machines. AC can also be easily transformed to different voltages using a transformer, while this is not easy to achieve with DC. DC voltage can be stored in a device called battery, while AC voltage can not be stored.    Electric Potential (Voltage)  Electric potential, also known as voltage, is a measure of the electric potential energy per unit charge in an electric field. That is, or, . It is the amount of work required to move a unit positive charge from one point to another in an electric field. The unit of electric potential is the volt (V). A higher electric potential difference between two points indicates a greater amount of energy required to move a unit charge between those points. Voltage can be think of like a \"push\" for a charge. The higher the voltage, the more \"push\" the charge experience to flow through wires. Charge can only flow from high potential(voltage) to low potential (voltage). It's important to note that just like water can be dangerous if not handled properly, electricity can also be dangerous if not handled with care.    Ohm's Law  Ohm's law states that the current flowing through a conductor is directly proportional to the voltage across the two ends of the conductor, and inversely proportional to the resistance between them. It can be mathematically expressed as or, here I is the current, V is the voltage, and R is the resistance of the conductor. Resistance: is a restriction imposed by a conductor on the motion of a current. Motion of charge carriers (electrons) are not very smooth in a conductor as they bump onto the other electrons and positive charge residual atoms during their motion. Such restrictions in flow of electrons is measured as a resistance of a conductor in current flow. It is denoted by and its unit is Ohms ( ). Electrical Power: It is the measure of energy transferred or consumed per unit time i.e.,  Hence power is also defined as the product of current and voltage. Its unit is Watts (W). One watt means consuming the one joule of energy every second.   Electrical Shock: According to Ohm's law if resistance of the conductor is low then the higher current can flow through it. High current can be deadly. Actually, a “voltage” does not go “into” your body rather current can pass through it when charges flow toward a lower potential. In order to get electric shock atleast of current must pass through our body. In dry condition, human body has a resistance of about , so to have current flowing through our body we need to touch the voltage source of about , as shown in the calculation below. In wet condition, human body resistance becomes only , so to get current through our body we need to touch the voltage source of about .    Electrical Circuits  Electrical circuit is a network of electrical elements (such as resistance (bulb), battery, conductor, switch, etc.) through which current can flow in a closed path. Electrical circuits can be of two types,  Series Circuit: in this type of circuits all the electrical components are connected one after another in such a way that the same current flows through each components as shown in figuer below. An example of a series circuit is a string of Christmas lights, where each bulb is connected to the next in a line. If one bulb burns out, the entire circuit is broken and none of the lights will turn on.  Series circuit      Parallel Circuit: in this type of circuits all the electrical components are connected side by side in such a way that the voltage across each component is the same as shown in figuer below. An example of a parallel circuit is a house's electrical system, where different appliances are connected to the same circuit but have their own separate paths for current to flow through. If one path is broken or one appliance stops working, it doesn't affect the other appliances or the overall circuit.  Parallel circuit       series & parallel circuit To change from series to parallel circuit, Please hold the bulb and rotate the circuit in the simulation.   "
+  "body": " Electricity   It is a branch of physics which deals with the motion of charges in a conductor. When charge flows from one place to another, an electrical current is formed. An electric current is defined as the rate of flow of charge. If a net charge passes through any conductor in time , then the electric current is given by Its unit is Ampere (A). One ampere of current represents one coulomb of charge passes through a conductor in one second. It is a scalar quantity and its conventional direction is taken as the direction of flow of positive charges. In conductor, current flows solely due to motion of electrons, hence the direction of current is opposite to electrons flow. From the law of conservation of charges current remains constant in a conductor irrespective of the local area of cross-section. When the direction of motion of charge does not change with time, the current is said to be direct current, or DC current. It is commonly used in devices electronic devices like cell phones and computers. If the direction of motion of charges reverses periodically, the current is known as an alternating current, or AC current. It is commonly used in the electrical power systems that supply to homes and commercial applications. AC current goes from positive to negative in a cycle, while DC current is always in the same direction. Current can only exist between two points of different potential (voltage) connected by a conductor and can only exist whenever a conductive path with no breaks is provided. DC & AC Flow of charges in DC current is similar to flowing water, but in AC current, charges do not go any where rather they are oscillating about the mean position at their respective position. Check the simulation link to visualize DC and AC current. DC & AC AC is more efficient to transmit over long distances than DC. This is the reason why AC is used in power transmission and distribution as well as in motors and other equipment. It is also used in many household appliances, such as refrigerators, air conditioners, and washing machines. AC can also be easily transformed to different voltages using a transformer, while this is not easy to achieve with DC. DC voltage can be stored in a device called battery, while AC voltage can not be stored.    Electric Potential (Voltage)  Electric potential, also known as voltage, is a measure of the electric potential energy per unit charge in an electric field. That is, or, . It is the amount of work required to move a unit positive charge from one point to another in an electric field. The unit of electric potential is the volt (V). A higher electric potential difference between two points indicates a greater amount of energy required to move a unit charge between those points. Voltage can be think of like a \"push\" for a charge. The higher the voltage, the more \"push\" the charge experience to flow through wires. Charge can only flow from high potential(voltage) to low potential (voltage). It's important to note that just like water can be dangerous if not handled properly, electricity can also be dangerous if not handled with care.    Ohm's Law  Ohm's law states that the current flowing through a conductor is directly proportional to the voltage across the two ends of the conductor, and inversely proportional to the resistance between them. It can be mathematically expressed as or, here I is the current, V is the voltage, and R is the resistance of the conductor. Resistance: is a restriction imposed by a conductor on the motion of a current. Motion of charge carriers (electrons) are not very smooth in a conductor as they bump onto the other electrons and positive charge residual atoms during their motion. Such restrictions in flow of electrons is measured as a resistance of a conductor in current flow. It is denoted by and its unit is Ohms ( ). Electrical Power: It is the measure of energy transferred or consumed per unit time i.e.,   Hence power is also defined as the product of current and voltage. Its unit is Watts (W). One watt means consuming the one joule of energy every second.   Electrical Shock: According to Ohm's law if resistance of the conductor is low then the higher current can flow through it. High current can be deadly. Actually, a “voltage” does not go “into” your body rather current can pass through it when charges flow toward a lower potential. In order to get electric shock atleast of current must pass through our body. In dry condition, human body has a resistance of about , so to have current flowing through our body we need to touch the voltage source of about , as shown in the calculation below. In wet condition, human body resistance becomes only , so to get current through our body we need to touch the voltage source of about .    Electrical Circuits  Electrical circuit is a network of electrical elements (such as resistance (bulb), battery, conductor, switch, etc.) through which current can flow in a closed path. Electrical circuits can be of two types,  Series Circuit: in this type of circuits all the electrical components are connected one after another in such a way that the same current flows through each components as shown in figuer below. An example of a series circuit is a string of Christmas lights, where each bulb is connected to the next in a line. If one bulb burns out, the entire circuit is broken and none of the lights will turn on.  Series circuit      Parallel Circuit: in this type of circuits all the electrical components are connected side by side in such a way that the voltage across each component is the same as shown in figuer below. An example of a parallel circuit is a house's electrical system, where different appliances are connected to the same circuit but have their own separate paths for current to flow through. If one path is broken or one appliance stops working, it doesn't affect the other appliances or the overall circuit.  Parallel circuit       series & parallel circuit To change from series to parallel circuit, Please hold the bulb and rotate the circuit in the simulation.   "
 },
 {
-  "id": "p-292",
+  "id": "p-296",
   "level": "2",
-  "url": "sec_fifth-electr.html#p-292",
+  "url": "sec_fifth-electr.html#p-296",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1258,7 +1276,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.3",
   "title": "Magnetism",
-  "body": " Magnetism   It is a branch of physics which deals with magnets and magnetic properties of materials. It defines the magnetic behavior of material which is associated with the motion of electric charge. The motion of charges in a conductor or in space gives rise to magnetic fields and magnetism is a result of magnetic fields. The word ”magnet” is taken from Latin word µαγνήτης λίθoς meaning stones from magnesia. ”Magnetis [líthos]” is sources of lodestones found in Manisa, Turkey. Magnetism is caused by moving charges and is experienced by moving charges. It is a phenomenon of materials by which they attract or repel other materials. The motion of an electron in an orbit around a nucleus or its spin on an axis produces a magnetic field.  The most familiar magnet is a bar magnet. It is a piece of iron bar that has been magnetized. However, other shape of magnets are also available these days such as disk magnet, horseshoe magnet, ring magnet, etc.  Magnets of different shapes    In any magnet, there are two regions (normally at the ends or faces) where magnetic strength is very strong. These stronger regions are called magnetic poles. One is designted as north pole, N and the other as south pole, S . This is because When a magnet is hanged by a thread and allowed to rotate freely, it will align itself in a north-south direction, due to the earth's magnetic field. The north end of the magnet will point towards the Earth's geographic north pole and the south end towards the Earth's geographic south pole. This is why north pole is also known as north seeking pole and the south pole as south seeking pole . The magnet also aligns at an angle itself with the earth's horizontal plane. This angle is known as the angle of dip or inclination , it varies depending on the location on the earth surface. The magnet also aligns itseld at an angle from the true north-south direction. This angle is known as magnetic declinaiton . The magnetic declination is the angle between magnetic north and true north direction. Magnetic north is the direction indicated by a compass, and true north is the direction of the Earth's geographic north pole. This angle can vary depending on location and time. earth as a magnet   Like poles of magnet repel and unlike poles attract. North and south poles always exist in pairs (there are no magnetic monopoles in nature), so if one were to split a permanent magnet in half, two smaller magnets would be created, each with a north pole and south pole. Even if one cuts a magnet into pieces all the way down to a single atom they still get a N pole and a S pole because of orbiting electron in the atom. Just like a graviational force both electric and magnetic forces can act on the objects without being in direct contact.  Magnet        Electromagnetism  Orsted discovered that electric currents can produce magnetic fields and Faraday discovered that magnetic fields can be used to induce electric currents in a circuit. A moving electrical charge also generates a magnetic field just as changing magnetic field induces current in a conductor. In fact, a traditional magnet is the result of individual motion of electrons within the atoms of the magnet. These atoms are so aligned that magnetic field procduced by their electrons are pointed along a uniform direction giving rise to a mangetic field of the magnet. In non-magnetic materials, the electrons move in such a way that the individual magnetic fields point in different directions, so they cancel each other out and the net magnetic field generated is negligible. In normal condition, magnetic fields of the magnetic material are distributed in groups of small region, called domain and magnetic fields of each domain are oriented in different directions to cancel each other effect. This is why iron is just a piece of metal bar unless it is magnetized.  Electromagnetism is considered as the interaction of electric and magnetic effects. It tells that  the moving charges (current) give rise to magnetic fields, current produce magnetic field  and changing magnetic field gives rise to electric current magnetic field generating current  . The direction of the magnetic field produced by a current in wire can be determinded using right hand thumb rule . If fingers of right hand is curl along the direction of current moving then thumb is pointed along the direction of magnetic field produced by the current. In contrary, if thumb is pointed along the direction of current then curled fingers show the direction of magnetic field generated around the wire.  Right Hand Thumb Rule        Transformer  Transformer is an electrical appliance which convert large current at low voltage to low current at high voltage, and vice versa. It uses the principle of electromagnetic induction to transform electrical energy from one circuit to another one. An AC current is needed to operate transformer. In AC current direction of current is keep changing which changes the magnetic field generated in the primary coil of transformer. Such changing magnetic field induces the current in the secondary coil of transformer. A typical transformer consists of a two or more coils of insulated wire wound on a laminated iron core. An alternating (AC) voltage which is to be reduced or increased is connected to the coil, called the primary coil or input coil. This coil magnetizes the iron core. A voltage is then induced in the other coil, called the secondary or output coil. The change of voltage (or voltage ratio) between the primary and secondary depends on the turns ratio of their two coils.   Schematic of Transformer    There are two types of transformer on the basis of their operation. If the number of turns in primary coil is less than that at secondary then it is called a step-up transformer and if number of turns in primary is grater than that in secondary then it is called a step-down transformer. Transformer transfers an electrical power from primary coil to secondary coil hence it also obeys the principle of conservation of energy. That is,  see equation for electrical power.   "
+  "body": " Magnetism   It is a branch of physics which deals with magnets and magnetic properties of materials. It defines the magnetic behavior of material which is associated with the motion of electric charge. The motion of charges in a conductor or in space gives rise to magnetic fields and magnetism is a result of magnetic fields. The word ”magnet” is taken from Latin word µαγνήτης λίθoς meaning stones from magnesia. ”Magnetis [líthos]” is sources of lodestones found in Manisa, Turkey. Magnetism is caused by moving charges and is experienced by moving charges. It is a phenomenon of materials by which they attract or repel other materials. The motion of an electron in an orbit around a nucleus or its spin on an axis produces a magnetic field.  The most familiar magnet is a bar magnet. It is a piece of iron bar that has been magnetized. However, other shape of magnets are also available these days such as disk magnet, horseshoe magnet, ring magnet, etc.  Magnets of different shapes    In any magnet, there are two regions (normally at the ends or faces) where magnetic strength is very strong. These stronger regions are called magnetic poles. One is designted as north pole, N and the other as south pole, S . This is because When a magnet is hanged by a thread and allowed to rotate freely, it will align itself in a north-south direction, due to the earth's magnetic field. The north end of the magnet will point towards the Earth's geographic north pole and the south end towards the Earth's geographic south pole. This is why north pole is also known as north seeking pole and the south pole as south seeking pole . The magnet also aligns at an angle itself with the earth's horizontal plane. This angle is known as the angle of dip or inclination , it varies depending on the location on the earth surface. The magnet also aligns itseld at an angle from the true north-south direction. This angle is known as magnetic declinaiton . The magnetic declination is the angle between magnetic north and true north direction. Magnetic north is the direction indicated by a compass, and true north is the direction of the Earth's geographic north pole. This angle can vary depending on location and time. earth as a magnet   Like poles of magnet repel and unlike poles attract. North and south poles always exist in pairs (there are no magnetic monopoles in nature), so if one were to split a permanent magnet in half, two smaller magnets would be created, each with a north pole and south pole. Even if one cuts a magnet into pieces all the way down to a single atom they still get a N pole and a S pole because of orbiting electron in the atom. Just like a graviational force both electric and magnetic forces can act on the objects without being in direct contact.  Magnet        Electromagnetism  Orsted discovered that electric currents can produce magnetic fields and Faraday discovered that magnetic fields can be used to induce electric currents in a circuit. A moving electrical charge also generates a magnetic field just as changing magnetic field induces current in a conductor. In fact, a traditional magnet is the result of individual motion of electrons within the atoms of the magnet. These atoms are so aligned that magnetic field procduced by their electrons are pointed along a uniform direction giving rise to a mangetic field of the magnet. In non-magnetic materials, the electrons move in such a way that the individual magnetic fields point in different directions, so they cancel each other out and the net magnetic field generated is negligible. In normal condition, magnetic fields of the magnetic material are distributed in groups of small region, called domain and magnetic fields of each domain are oriented in different directions to cancel each other effect. This is why iron is just a piece of metal bar unless it is magnetized.  Electromagnetism is considered as the interaction of electric and magnetic effects. It tells that  the moving charges (current) give rise to magnetic fields, current produce magnetic field  and changing magnetic field gives rise to electric current magnetic field generating current  . The direction of the magnetic field produced by a current in wire can be determinded using right hand thumb rule . If fingers of right hand is curl along the direction of current moving then thumb is pointed along the direction of magnetic field produced by the current. In contrary, if thumb is pointed along the direction of current then curled fingers show the direction of magnetic field generated around the wire.  Right Hand Thumb Rule       Electromagnet  An electromagnet typically consists of a coil of wire, often wrapped around a ferromagnetic core, such as iron. When an electric current is passed through the coil, it creates a magnetic field around the core. This magnetic field can be used to attract or repel ferromagnetic materials. The strength of the magnetic field is directly proportional to the amount of current flowing through the coil. Electromagnets are used in a wide range of applications, including electric motors, generators, and audio speakers. They can also be used to create temporary or adjustable magnetic fields, making them useful in scientific and industrial settings. electromagnet      Transformer  Transformer is an electrical appliance which convert large current at low voltage to low current at high voltage, and vice versa. It uses the principle of electromagnetic induction to transform electrical energy from one circuit to another one. An AC current is needed to operate transformer. In AC current direction of current is keep changing which changes the magnetic field generated in the primary coil of transformer. Such changing magnetic field induces the current in the secondary coil of transformer. A typical transformer consists of a two or more coils of insulated wire wound on a laminated iron core. An alternating (AC) voltage which is to be reduced or increased is connected to the coil, called the primary coil or input coil. This coil magnetizes the iron core. A voltage is then induced in the other coil, called the secondary or output coil. The change of voltage (or voltage ratio) between the primary and secondary depends on the turns ratio of their two coils.   Schematic of Transformer    There are two types of transformer on the basis of their operation. If the number of turns in primary coil is less than that at secondary then it is called a step-up transformer and if number of turns in primary is grater than that in secondary then it is called a step-down transformer. Transformer transfers an electrical power from primary coil to secondary coil hence it also obeys the principle of conservation of energy. That is,  see equation for electrical power.   "
 },
 {
   "id": "figure-27",
@@ -1303,25 +1321,34 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.4",
   "title": "Examples",
-  "body": " Examples    Find the current in a wire if electrons is passing every second.    See the equations and       Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.   From Ohm's Law      Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.  "
+  "body": " Examples    Find the current in a wire if electrons is passing every second.    See the equations and       Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.   From Ohm's Law       If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.   Here = 20 mint\/day = = 10 h. Now from , we have In an electric bill one unit of electrical energy is Hence, the total cost of bill is = .    "
 },
 {
-  "id": "example-45",
+  "id": "example-47",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-45",
+  "url": "sec_fifth-examples.html#example-47",
   "type": "Example",
   "number": "5.4.1",
   "title": "",
   "body": "  Find the current in a wire if electrons is passing every second.    See the equations and     "
 },
 {
-  "id": "example-46",
+  "id": "example-48",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-46",
+  "url": "sec_fifth-examples.html#example-48",
   "type": "Example",
   "number": "5.4.2",
   "title": "",
   "body": " Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.   From Ohm's Law     "
+},
+{
+  "id": "example-49",
+  "level": "2",
+  "url": "sec_fifth-examples.html#example-49",
+  "type": "Example",
+  "number": "5.4.3",
+  "title": "",
+  "body": " If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.   Here = 20 mint\/day = = 10 h. Now from , we have In an electric bill one unit of electrical energy is Hence, the total cost of bill is = .   "
 },
 {
   "id": "ex_fifth",
@@ -1369,18 +1396,18 @@ var ptx_lunr_docs = [
   "body": " Examples  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.   Theorem Title   This is the statement of the theorem.    And this is its proof.      A corollary that doesn't need a proof.    Perhaps at the end of the section, you want to add a note to the reader about how what you have fits into the larger scope of mathematics.   Larger Context  Comment to the reader here.   Of course, if you want more information, you might see .  "
 },
 {
-  "id": "example-47",
+  "id": "example-50",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-47",
+  "url": "sec_sixth-examples.html#example-50",
   "type": "Example",
   "number": "6.2.1",
   "title": "",
   "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
 },
 {
-  "id": "example-48",
+  "id": "example-51",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-48",
+  "url": "sec_sixth-examples.html#example-51",
   "type": "Example",
   "number": "6.2.2",
   "title": "",
@@ -1540,9 +1567,9 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-49",
+  "id": "example-52",
   "level": "2",
-  "url": "sec_features-blocks.html#example-49",
+  "url": "sec_features-blocks.html#example-52",
   "type": "Example",
   "number": "16.1.2",
   "title": "",
