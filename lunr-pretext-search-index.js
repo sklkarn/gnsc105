@@ -59,7 +59,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_first-obs.html#figure-1",
   "type": "Figure",
-  "number": "1.2.0.1",
+  "number": "1.2.1",
   "title": "",
   "body": " Solar System    "
 },
@@ -77,7 +77,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_unit_convers.html#table-1",
   "type": "Table",
-  "number": "1.3.0.1",
+  "number": "1.3.1",
   "title": "The Systems of Units",
   "body": " The Systems of Units    Base Quantity  SI Units  SI Symbol    Mass  Kilogram  kg    Length  Meter  m    Time  Second  s    Amount of Substance  Mole  mol    Electric Current  Ampere  A    Temperature  Kelvin  K    Luminous Intensity  Candela  cd    "
 },
@@ -86,7 +86,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_unit_convers.html#example-1",
   "type": "Example",
-  "number": "1.3.1.1",
+  "number": "1.3.2",
   "title": "",
   "body": "   . Hence the SI unit of area is .  . Hence the SI unit of density is . . Hence the SI unit of speed is .   "
 },
@@ -95,7 +95,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_unit_convers.html#example-2",
   "type": "Example",
-  "number": "1.3.2.1",
+  "number": "1.3.3",
   "title": "",
   "body": "    Convert 50 into . Convert 50 into . Convert 2 into .             "
 },
@@ -113,7 +113,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_first-examples.html#example-3",
   "type": "Example",
-  "number": "1.4.0.1",
+  "number": "1.4.1",
   "title": "",
   "body": "  Write the sum of the numbers and in a proper significant figures.    The mathematical sum of the numbers is but, the lowest decimal place in the data is one, hence the correct answer would be    "
 },
@@ -122,7 +122,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_first-examples.html#example-4",
   "type": "Example",
-  "number": "1.4.0.2",
+  "number": "1.4.2",
   "title": "",
   "body": "  Round off the numbers and to the three significant figures.  "
 },
@@ -131,7 +131,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_first-examples.html#example-5",
   "type": "Example",
-  "number": "1.4.0.3",
+  "number": "1.4.3",
   "title": "",
   "body": "  Write the answer for each expression using scientific notation with the appropriate number of significant figures.                       "
 },
@@ -221,7 +221,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-intro.html#example-6",
   "type": "Example",
-  "number": "2.1.0.2",
+  "number": "2.1.2",
   "title": "",
   "body": "   For example: in , the total distance travelled by the object is However, total displacement of the object is only along north-east directin as shown by the arrow AC. . Suppose water is flowing downstream with velocity 2 in a river where you are rowing your boat with 5 downstream. You can find that you are moving with 7 velocity (or speed) downstream. If you want to go upsteam then your velocity (or speed) would be 3 only. If you want to row accross the river then your velocity would be somewhere between 3 to 7 . . Suppose Aron is sweeming in a pool of 100 m wide. He took 5 laps, so he covers total of but his displacement is just zero. Remember one lap is one complete round of trip. However, if he just take a half lap then the distance covered is the same as displacement and are 100 m .   "
 },
@@ -230,7 +230,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-intro.html#fig2c",
   "type": "Figure",
-  "number": "2.1.3.1",
+  "number": "2.1.3",
   "title": "",
   "body": " Projectile motion    "
 },
@@ -266,7 +266,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-force.html#figure-5",
   "type": "Figure",
-  "number": "2.2.1.1",
+  "number": "2.2.1",
   "title": "",
   "body": " Surfaces of contact as seen from microscope    "
 },
@@ -275,7 +275,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-force.html#figure-6",
   "type": "Figure",
-  "number": "2.2.1.2",
+  "number": "2.2.2",
   "title": "",
   "body": " Skydiving at terminal velocity    "
 },
@@ -302,7 +302,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-force.html#example-7",
   "type": "Example",
-  "number": "2.2.3.1",
+  "number": "2.2.3",
   "title": "",
   "body": " A 300 kg horse running with 40 m\/s has a momentum of   "
 },
@@ -311,7 +311,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-force.html#example-8",
   "type": "Example",
-  "number": "2.2.3.2",
+  "number": "2.2.4",
   "title": "",
   "body": " When a 430 g soccer ball is kicked, the impact lasts for 0.04 s. Find the magnitude of force that is needed to fly off the ball at 8 m\/s.       "
 },
@@ -320,7 +320,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-force.html#figure-7",
   "type": "Figure",
-  "number": "2.2.5.1",
+  "number": "2.2.5",
   "title": "",
   "body": " Gravitational force between two Objects    "
 },
@@ -331,7 +331,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.3",
   "title": "Examples",
-  "body": " Examples    Special Instruction: To tackle the physical problems the book uses GUESS strategy for a systematic gatheing of information and finding a realistic and logistic solution. Here is what GUESS stands for.  G: Given, identify the given informations.  U: Unknown, identify the unknown that we are looking for.  E: Equation\/s, set up the equation from given information.  S: Substitute, substitute the number\/s in the equation\/s.  S: Solve, solve the equation to obtain the answer.     Here are some examples:    A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .       A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m       A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:              How far you can go in 5 minutes if you are running at 10 ?     First convert the velocity into to and also convert time from minute to second before using equation of motion.   Given:      Which of the following sets of displacements might be able to return a car to its starting point? (a) 4, 6, 8, and 15 km (b) 2, 8, 10, and 25 km. (c) 10, 30, 50, and 120 km (d) 5, 20, 35, and 65 km.  A car can return to its starting point, only when the sum of three displacements is greater than the value of the maximum displacement.    In case (a) sum of 4, 6, 8 =18 km which is greater than 15 km. In case (b) sum of 2, 8, 10 =20 km which is smaller than 25 km and so on.    (a)      A ship travels 25 km to the east and then 50 km to the south. Find the ship's displacement from its starting point.   Draw a diagram to see all the displacements of the ship and then use pythagorous theorem to solve the final displacement.     empty      A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .     A stone dropped from a cliff reaches the ground in 4 s. Find the velocity at which it hits the ground.  Think about stone's initial velocity, use acceleration due to gravity to find final velocity.     Before we start solving the problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into    "
+  "body": " Examples    Special Instruction: To tackle the physical problems the book uses GUESS strategy for a systematic gatheing of information and finding a realistic and logistic solution. Here is what GUESS stands for.  G: Given, identify the given informations.  U: Unknown, identify the unknown that we are looking for.  E: Equation\/s, set up the equation from given information.  S: Substitute, substitute the number\/s in the equation\/s.  S: Solve, solve the equation to obtain the answer.     Here are some examples:    A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .       A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m       A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:              How far you can go in 5 minutes if you are running at 10 ?     First convert the velocity into to and also convert time from minute to second before using equation of motion.   Given:      Which of the following sets of displacements might be able to return a car to its starting point? (a) 4, 6, 8, and 15 km (b) 2, 8, 10, and 25 km. (c) 10, 30, 50, and 120 km (d) 5, 20, 35, and 65 km.  A car can return to its starting point, only when the sum of three displacements is greater than the value of the maximum displacement.    In case (a) sum of 4, 6, 8 =18 km which is greater than 15 km. In case (b) sum of 2, 8, 10 =20 km which is smaller than 25 km and so on.    (a)      A ship travels 25 km to the east and then 50 km to the south. Find the ship's displacement from its starting point.   Draw a diagram to see all the displacements of the ship and then use pythagorous theorem to solve the final displacement.     empty      A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .     A stone dropped from a cliff reaches the ground in 4 s. Find the velocity at which it hits the ground.  Think about stone's initial velocity, use acceleration due to gravity to find final velocity.    A stone has been thrown upward with velocity 50 m\/s.   How long does it take to come back on thrower's hand (find the time of flight)?  What is its velocity then?  How high was it gone?      Before we start solving any problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into    "
 },
 {
   "id": "p-88",
@@ -347,7 +347,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-examples.html#example-9",
   "type": "Example",
-  "number": "2.3.0.1",
+  "number": "2.3.1",
   "title": "",
   "body": "  A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .    "
 },
@@ -356,7 +356,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-examples.html#example-10",
   "type": "Example",
-  "number": "2.3.0.2",
+  "number": "2.3.2",
   "title": "",
   "body": "  A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m    "
 },
@@ -365,7 +365,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-examples.html#example-11",
   "type": "Example",
-  "number": "2.3.0.3",
+  "number": "2.3.3",
   "title": "",
   "body": "  A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:           "
 },
@@ -374,7 +374,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-examples.html#example-12",
   "type": "Example",
-  "number": "2.3.0.4",
+  "number": "2.3.4",
   "title": "",
   "body": "  How far you can go in 5 minutes if you are running at 10 ?     First convert the velocity into to and also convert time from minute to second before using equation of motion.   Given:     "
 },
@@ -383,7 +383,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-examples.html#example-13",
   "type": "Example",
-  "number": "2.3.0.5",
+  "number": "2.3.5",
   "title": "",
   "body": "Which of the following sets of displacements might be able to return a car to its starting point? (a) 4, 6, 8, and 15 km (b) 2, 8, 10, and 25 km. (c) 10, 30, 50, and 120 km (d) 5, 20, 35, and 65 km.  A car can return to its starting point, only when the sum of three displacements is greater than the value of the maximum displacement.    In case (a) sum of 4, 6, 8 =18 km which is greater than 15 km. In case (b) sum of 2, 8, 10 =20 km which is smaller than 25 km and so on.    (a)   "
 },
@@ -392,7 +392,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-examples.html#example-14",
   "type": "Example",
-  "number": "2.3.0.6",
+  "number": "2.3.6",
   "title": "",
   "body": "  A ship travels 25 km to the east and then 50 km to the south. Find the ship's displacement from its starting point.   Draw a diagram to see all the displacements of the ship and then use pythagorous theorem to solve the final displacement.     empty   "
 },
@@ -401,7 +401,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-examples.html#example-15",
   "type": "Example",
-  "number": "2.3.0.7",
+  "number": "2.3.7",
   "title": "",
   "body": "  A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .    "
 },
@@ -410,18 +410,27 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_second-examples.html#example-16",
   "type": "Example",
-  "number": "2.3.0.8",
+  "number": "2.3.8",
   "title": "",
   "body": "A stone dropped from a cliff reaches the ground in 4 s. Find the velocity at which it hits the ground.  Think about stone's initial velocity, use acceleration due to gravity to find final velocity.   "
+},
+{
+  "id": "example-17",
+  "level": "2",
+  "url": "sec_second-examples.html#example-17",
+  "type": "Example",
+  "number": "2.3.9",
+  "title": "",
+  "body": "A stone has been thrown upward with velocity 50 m\/s.   How long does it take to come back on thrower's hand (find the time of flight)?  What is its velocity then?  How high was it gone?    "
 },
 {
   "id": "remark_second-examples-context",
   "level": "2",
   "url": "sec_second-examples.html#remark_second-examples-context",
   "type": "Remark",
-  "number": "2.3.0.9",
+  "number": "2.3.10",
   "title": "",
-  "body": " Before we start solving the problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into   "
+  "body": " Before we start solving any problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into   "
 },
 {
   "id": "ex_second",
@@ -514,11 +523,11 @@ var ptx_lunr_docs = [
   "body": "How much braking force is needed to bring a 4000 kg truck to a stop from a speed of 20 m\/s in 5 s? "
 },
 {
-  "id": "example-17",
+  "id": "example-18",
   "level": "2",
-  "url": "ex_second.html#example-17",
+  "url": "ex_second.html#example-18",
   "type": "Example",
-  "number": "2.4.0.1",
+  "number": "2.4.1",
   "title": "",
   "body": " A 300 g ball is struck with a bat with a force of 150 N. If the bat was in contact with the ball for 0.02 s, find the velocity at which the ball flew off?  "
 },
@@ -586,9 +595,9 @@ var ptx_lunr_docs = [
   "body": " Work, Energy, and Power    Work: If an object is displaced along the same direction as of the applied force then work is said to be done by the force. In the figure below force is pushing a block of mass along its direction for a distance of , then work done, by this force can be calculated by Work is a scalar quantity as it is a measure of transfer of energy from one object to another. The SI unit of work is Joule . In FPS system, , and in CGS system, are the work units.   Work done by the forces    Work done by the force     Work done by the slanted force        A horizontal force of moves a block of mass along a horizontal direction for a distance of . How much work is done by the force?         In figure (a) force is along the direction of horizontal and the block is also displaced along the same direction from point A to point B. In this case work done by the force is given by multiplication of force and the displacement . In this figure work done by the weight and normal force is zero as these forces are perpendicular to the displacement . However, in figure (b) work done by the slanted force is not zero but can be determined by the projected force which is not in the scope of this book. Remember for work to be done, foce and displacemenet must be non-zero. Work may be positive, negative, and zero. For example: work done by applied force along the direction of displacement is positive, work done by the frictional force is negative, and work done by the force perpendicular to the displacement is zero.  Energy: The capacity of doing work by a force is called an energy. It is also a scalar quantity and has the same unit as work. There are many forms of energy, but they all fall into two categories: potential energy and kinetic energy. These energies are also called a mechanical energy. Potential energy is the energy of position of the object. It is also a stored energy on the object which is equal to the work done on the object to bring it to this position. There are several forms of potential energy, including: gravitational potential energy, chemical energy, elastic energy, nuclear energy, sound energy, heat energy, light energy, geothermal energy, etc. Chemical energy: It is energy stored in the bonds of atoms and molecules. It is the energy that holds these particles together. Foods, biomass, petroleum, and natural gas are some examples of stored chemical energy. During photosynthesis, sunlight gives plants the energy they need to build complex chemical compounds. When these compounds are later broken down, the stored chemical energy is released as heat, light, motion, and sound. Elastic energy: It is an energy stored in objects by the application of a restoring force. Compressed springs and stretched rubber bands are examples of elastic energy. Nuclear energy: It is an energy stored in the nucleus of an atom that binds the nucleus together. The energy can be released when the nuclei are combined or split apart. Nuclear power plants split the nuclei of uranium atoms in a process called fission reaction fission reaction . The sun combines the nuclei of hydrogen atoms into helium atoms in a process called fusion reaction fusion reaction . In both the fission and fusion reactions, mass is converted into energy, according to Einstein's mass-energy principle. Gravitational potential energy: or Potential energy: It is the energy of position or place. It is the work done in lifting an object against gravity near the earth's surface. Gravitational Potential energy depends only on the distance from the ground, not on the object's motion. It is given by Here is the weight of the object and distance is the height at which the object is lifted. A rock resting at the top of a hill contains gravitational potential energy because of its position. In hydropower dam, water in the reservoir stored a gravitational potential energy. Kinetic energy: It is the energy of a body due to its motion. If a body of mass is moving with a velocity then kinetic energy is given by, .    Work-Energy Theorem  Let us apply Newton's II law into II equation of motion and rearange them.  Here, is final kinetic energy and is initial kinetic energy. Hence, is change in kinetic energy. Therefore, work done = change in kinetic energy. or This is known as work-energy theorem. Meaning the amount of work is done on a body is equal to its change in kinetic energy or vice a versa along the straight line.    A block of mass at rest is being pushed by an unknow force along the horizontal to bring it at 5 velocity.  How much work is done by the force?  If the body moves to a 2 m distance in this process. Find the value of unkown force.      Given: , , , .                 power  The rate of doing work is called power. It is also the rate at which the energy can be transfered. Power tell us that how fast the work has been done. Power can be expressed as  Its SI unit is Watt (w=j\/s).    Find the power a horse who does 7460 J of work in 10 second.      746 watt of power is also called 1 horsepower.       A car engine of 200kW power pushes the car to 25 m\/s. Find the thrust (force) produces by its engine.          "
 },
 {
-  "id": "p-157",
+  "id": "p-158",
   "level": "2",
-  "url": "sec_third-intro.html#p-157",
+  "url": "sec_third-intro.html#p-158",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -599,52 +608,52 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_third-intro.html#figure-8",
   "type": "Figure",
-  "number": "3.1.0.1",
+  "number": "3.1.1",
   "title": "",
   "body": " Work done by the forces    Work done by the force     Work done by the slanted force     "
-},
-{
-  "id": "example-18",
-  "level": "2",
-  "url": "sec_third-intro.html#example-18",
-  "type": "Example",
-  "number": "3.1.0.2",
-  "title": "",
-  "body": "  A horizontal force of moves a block of mass along a horizontal direction for a distance of . How much work is done by the force?        "
-},
-{
-  "id": "p-161",
-  "level": "2",
-  "url": "sec_third-intro.html#p-161",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Energy: "
 },
 {
   "id": "example-19",
   "level": "2",
   "url": "sec_third-intro.html#example-19",
   "type": "Example",
-  "number": "3.1.1.1",
+  "number": "3.1.2",
   "title": "",
-  "body": "  A block of mass at rest is being pushed by an unknow force along the horizontal to bring it at 5 velocity.  How much work is done by the force?  If the body moves to a 2 m distance in this process. Find the value of unkown force.      Given: , , , .              "
+  "body": "  A horizontal force of moves a block of mass along a horizontal direction for a distance of . How much work is done by the force?        "
+},
+{
+  "id": "p-162",
+  "level": "2",
+  "url": "sec_third-intro.html#p-162",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Energy: "
 },
 {
   "id": "example-20",
   "level": "2",
   "url": "sec_third-intro.html#example-20",
   "type": "Example",
-  "number": "3.1.2.1",
+  "number": "3.1.3",
   "title": "",
-  "body": "  Find the power a horse who does 7460 J of work in 10 second.      746 watt of power is also called 1 horsepower.    "
+  "body": "  A block of mass at rest is being pushed by an unknow force along the horizontal to bring it at 5 velocity.  How much work is done by the force?  If the body moves to a 2 m distance in this process. Find the value of unkown force.      Given: , , , .              "
 },
 {
   "id": "example-21",
   "level": "2",
   "url": "sec_third-intro.html#example-21",
   "type": "Example",
-  "number": "3.1.2.2",
+  "number": "3.1.4",
+  "title": "",
+  "body": "  Find the power a horse who does 7460 J of work in 10 second.      746 watt of power is also called 1 horsepower.    "
+},
+{
+  "id": "example-22",
+  "level": "2",
+  "url": "sec_third-intro.html#example-22",
+  "type": "Example",
+  "number": "3.1.5",
   "title": "",
   "body": "  A car engine of 200kW power pushes the car to 25 m\/s. Find the thrust (force) produces by its engine.        "
 },
@@ -658,18 +667,18 @@ var ptx_lunr_docs = [
   "body": " Conservation Principles   Conservation principles tell that some physical quantities remains constant through the change. Conservation principles began to play a central role in scientific theories from century. Galileo, Descartes, Huygens, Leibniz, and Newton established their approaches to physics on the the principle of inertia: the principle that tells a body will undergo uniform rectilinear motion unless it is disturbed. There are many conservation principles but here we are only discussing three of them.    Principle of Conservation of Energy  It states that in an isolated system, the total energy of the system is conserved. That is energy can neither be created nor be destroyed, it can only be converted from one form of energy to another. For example, when a stone falls from a roof its potential energy is converted into kinetic energy just before it hits the ground. When friction slows down the block to a stop, the kinetic energy is converted into thermal energy. In case of mechanical energy, the sum of kinetic energy and potential energy is conserved. That is, total energy at any moment of time is always same. Mechanical energy is due to the position and motion of the object. Therefore, In simple pendulum, when the bob is left from a displaced position it starts swinging to and fro motion due to conservation of energy. As its potential energy (PE) is converted into kinetic energy (KE) at the mean position acquire maximum velocity and keep moving otherside of mean position due to inertia. Once it reaches to another extrema it falls back again and retraces it path again and again. Click this link simple pendulum and try to understand conservation of energy principle. During the motion of a swinging pendulum, the energy is constantly changing from KE (kinetic energy) to PE (potential energy).  KE is MAX at lowest point,  KE is MIN at the top of the path ( ),  PE is MAX at top of path.      Conservation of Momentum  We have defined momentum in . Momentum, is also called a linear momentum as motion of the object is in straight line path. From Newton's II law we know that . If the force remains zero then, . This tells us that . Meaning, if total external force acting on a system is zero, then total linear momentum of the system, constant. This is known as principle of conservation of momentum. Hence, in the case of conservaiton of mementum, final momentum of the system is equal to the initial momentum of the system i.e.,  Newton's Cradle Click on the link to understand the conservation of linear momentum.    Collision  Momentum conservation is very useful in collision problems because the collision force is internal and hence does not change the total momentum. The impulse of a collision is the total momentum transferred during the collision, where a collision is an event where a very large force is exerted over a body for a very short interval of time, . During that interval magnitude of force is continuously changing. Therefore, the impulse of a force is the product of the average force and the time interval during the contact.   Collision provides a way to better understand the motion. A collision is an interaction between two objects that may or may not have made physical contact. In a collision the colliding objects experience a pair of forces acting on them. The direction of the force on the first object is opposite to the direction of the force on the second object and these forces are equal in magnitude. These forces are Newton's III law pair. In an isolated system, total momentum is always conserved, hence such forces often increase the momentum of one object and decrease the momentum of the other. There are two kinds of collisions, elastic collision and inelastic collision. Elastic collision: objects are not deformed, e.g. bouncing balls, car's bumper, etc. Inelastic collision: objects become permanently deformed, e.g. auto accidents, throwing a mud on wall. Kinetic energy is only conserved in an elastic collission but not in an inelastic collision. However, momentum is conseved in both types of collisions. Total energy remains conserved in both types of collision.    Angular Momentum  Angular momentum is the momentum associated with a body in rotation about some axis. It is also a vector quantity. The direction of angular momentum is parallel to the axis of rotation. Spinning ball or rotating wheel has an angular momentum. Angular momentum is represented by, . Angular momentum is defined by Where is called moment of inertia and is called the rotational velocity of the object. Moment of inertia, tells us that how the mass of a body is distributed relative to the axis of rotation. Moment of Inertia, I: is an inability of a material to change its state of rotational motion. It is defined as here, is the object distance from the axis of rotation.    Torque  Just as force plays a role in moving object in linear motion, torque plays the same role in rotational an object about an axis. Torque in rotational motion is a linear analogue of force. Actually, torque is a turning effect of force which acts on a body in specific direction and at specific position. For example, if a force is applied at the center of mass of a body it will not produce any torque. But, if the same amount of force is acting off center then the body starts rotating about an axis. Just as force is a push or a pull, torque is a twist to an object around a specific axis. The magnitude of torque depends on the magnitude of applied force and the lever arm and ia given by     Conservation of Angular Momentum  Conservation of angular momentum tells that in rotaiton, initial angular momentum is always equal to final angular momentum of the body if no external torque is acting on it. That is If the moment of inertia of a rotaing body decreases then rotational velocity is going to increase. For example: 1. when ice skaters spin by pulling their arms inwards their rotational speed increase but their rotational speed decrease when they stretched their arms outwards. 2. A system of planets orbiting around a star has no net external torque acting, so its angular momentum is constant. Hence, when a planet travels along an elliptical orbit, its speed reduces when it is further away from the star and its speed increases as it approaches the star star-planet system . Look at the planetary motion of Nereid (Naptune's moon) in the law of orbits animation.   "
 },
 {
-  "id": "p-174",
+  "id": "p-175",
   "level": "2",
-  "url": "sec_third-conserv.html#p-174",
+  "url": "sec_third-conserv.html#p-175",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "collision "
 },
 {
-  "id": "p-176",
+  "id": "p-177",
   "level": "2",
-  "url": "sec_third-conserv.html#p-176",
+  "url": "sec_third-conserv.html#p-177",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -685,65 +694,65 @@ var ptx_lunr_docs = [
   "body": " Examples     A moving object does not necessarily have  momentum.  velocity.  kinetic energy.  potential energy.     Think of what if the object is moving on the ground.     d.      What happens when two or more objects collide  the total momentum remains the same of all the objects.  the total kinetic energy remains the same of all the objects.  the momentum of each object never changes.  the kinetic energy of each object never changes.     Read the conservation principles.     a.      You are dropping a golf ball and a ping-pong ball from a high tower on the surface of a planet which has no air. Which of the following quantities remain the same when they have fallen halfway down?  kinetic energy.  potential energy.  speed.  acceleration due to gravity.     Read section      c. and d.      Find the work done by a force if you are holding a 5 kg object 2m above the ground for 40 second.   Read section      Force has not displaced the object, so distance =0. Hence     0.     If the kinetic energy of a bullet of mass 400 g is 50kJ. Find its velocity.   Given: m=400g = 0.4 kg, KE=50 kJ =        500 m\/s.     Find the linear momentum of a 50 kg dog running at 5 m\/s.   Given: m=50 kg, v=5 p =?              Find the recoil velocity of a rocket of mass 100kg when it ejects 50 g of gas from its propulsion pistol at a speed of 50 m\/s.    Use conservation of momentum principle.    Given:       "
 },
 {
-  "id": "example-22",
-  "level": "2",
-  "url": "sec_third-examples.html#example-22",
-  "type": "Example",
-  "number": "3.3.0.1",
-  "title": "",
-  "body": "  A moving object does not necessarily have  momentum.  velocity.  kinetic energy.  potential energy.     Think of what if the object is moving on the ground.     d.   "
-},
-{
   "id": "example-23",
   "level": "2",
   "url": "sec_third-examples.html#example-23",
   "type": "Example",
-  "number": "3.3.0.2",
+  "number": "3.3.1",
   "title": "",
-  "body": "  What happens when two or more objects collide  the total momentum remains the same of all the objects.  the total kinetic energy remains the same of all the objects.  the momentum of each object never changes.  the kinetic energy of each object never changes.     Read the conservation principles.     a.   "
+  "body": "  A moving object does not necessarily have  momentum.  velocity.  kinetic energy.  potential energy.     Think of what if the object is moving on the ground.     d.   "
 },
 {
   "id": "example-24",
   "level": "2",
   "url": "sec_third-examples.html#example-24",
   "type": "Example",
-  "number": "3.3.0.3",
+  "number": "3.3.2",
   "title": "",
-  "body": "  You are dropping a golf ball and a ping-pong ball from a high tower on the surface of a planet which has no air. Which of the following quantities remain the same when they have fallen halfway down?  kinetic energy.  potential energy.  speed.  acceleration due to gravity.     Read section      c. and d.   "
+  "body": "  What happens when two or more objects collide  the total momentum remains the same of all the objects.  the total kinetic energy remains the same of all the objects.  the momentum of each object never changes.  the kinetic energy of each object never changes.     Read the conservation principles.     a.   "
 },
 {
   "id": "example-25",
   "level": "2",
   "url": "sec_third-examples.html#example-25",
   "type": "Example",
-  "number": "3.3.0.4",
+  "number": "3.3.3",
   "title": "",
-  "body": "  Find the work done by a force if you are holding a 5 kg object 2m above the ground for 40 second.   Read section      Force has not displaced the object, so distance =0. Hence     0.   "
+  "body": "  You are dropping a golf ball and a ping-pong ball from a high tower on the surface of a planet which has no air. Which of the following quantities remain the same when they have fallen halfway down?  kinetic energy.  potential energy.  speed.  acceleration due to gravity.     Read section      c. and d.   "
 },
 {
   "id": "example-26",
   "level": "2",
   "url": "sec_third-examples.html#example-26",
   "type": "Example",
-  "number": "3.3.0.5",
+  "number": "3.3.4",
   "title": "",
-  "body": " If the kinetic energy of a bullet of mass 400 g is 50kJ. Find its velocity.   Given: m=400g = 0.4 kg, KE=50 kJ =        500 m\/s.   "
+  "body": "  Find the work done by a force if you are holding a 5 kg object 2m above the ground for 40 second.   Read section      Force has not displaced the object, so distance =0. Hence     0.   "
 },
 {
   "id": "example-27",
   "level": "2",
   "url": "sec_third-examples.html#example-27",
   "type": "Example",
-  "number": "3.3.0.6",
+  "number": "3.3.5",
   "title": "",
-  "body": " Find the linear momentum of a 50 kg dog running at 5 m\/s.   Given: m=50 kg, v=5 p =?           "
+  "body": " If the kinetic energy of a bullet of mass 400 g is 50kJ. Find its velocity.   Given: m=400g = 0.4 kg, KE=50 kJ =        500 m\/s.   "
 },
 {
   "id": "example-28",
   "level": "2",
   "url": "sec_third-examples.html#example-28",
   "type": "Example",
-  "number": "3.3.0.7",
+  "number": "3.3.6",
+  "title": "",
+  "body": " Find the linear momentum of a 50 kg dog running at 5 m\/s.   Given: m=50 kg, v=5 p =?           "
+},
+{
+  "id": "example-29",
+  "level": "2",
+  "url": "sec_third-examples.html#example-29",
+  "type": "Example",
+  "number": "3.3.7",
   "title": "",
   "body": "  Find the recoil velocity of a rocket of mass 100kg when it ejects 50 g of gas from its propulsion pistol at a speed of 50 m\/s.    Use conservation of momentum principle.    Given:     "
 },
@@ -833,23 +842,23 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_fourth-intro.html#figure-11",
   "type": "Figure",
-  "number": "4.1.0.1",
+  "number": "4.1.1",
   "title": "",
   "body": " Thermometers    Fahrenheit     Celsius     Kelvin scale     "
 },
 {
-  "id": "example-29",
+  "id": "example-30",
   "level": "2",
-  "url": "sec_fourth-intro.html#example-29",
+  "url": "sec_fourth-intro.html#example-30",
   "type": "Example",
-  "number": "4.1.0.2",
+  "number": "4.1.2",
   "title": "",
   "body": "  Convert into celsius temperature scale.    Here we use the following relationship    "
 },
 {
-  "id": "p-226",
+  "id": "p-227",
   "level": "2",
-  "url": "sec_fourth-intro.html#p-226",
+  "url": "sec_fourth-intro.html#p-227",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -860,27 +869,18 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_fourth-intro.html#table-2",
   "type": "Table",
-  "number": "4.1.2.1",
+  "number": "4.1.3",
   "title": "Specific heats of some common substances",
   "body": " Specific heats of some common substances    Substance  Specific heat ( )    Water  1    Sand  0.16    iron  0.1    aluminum  0.22    Wood  0.42    Ice  0.5    "
 },
 {
-  "id": "example-30",
+  "id": "example-31",
   "level": "2",
-  "url": "sec_fourth-intro.html#example-30",
+  "url": "sec_fourth-intro.html#example-31",
   "type": "Example",
-  "number": "4.1.2.2",
+  "number": "4.1.4",
   "title": "",
   "body": "  How much heat in calorie is needed to heat 50 kg of water from to .    Given: m = 50 kg =50000 g, , , , and Q=?       "
-},
-{
-  "id": "p-233",
-  "level": "2",
-  "url": "sec_fourth-intro.html#p-233",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Conduction: "
 },
 {
   "id": "p-234",
@@ -889,12 +889,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Convection: "
+  "body": "Conduction: "
 },
 {
   "id": "p-235",
   "level": "2",
   "url": "sec_fourth-intro.html#p-235",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Convection: "
+},
+{
+  "id": "p-236",
+  "level": "2",
+  "url": "sec_fourth-intro.html#p-236",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -910,29 +919,29 @@ var ptx_lunr_docs = [
   "body": " Fluid   Fluid is a material that can flow. Gasses and liquids are fluids. To study fluid it is easier to deal with fluid's volume, density, and pressure rather than its mass and weight. For example, we do transaction of any fluids in terms of their volume (liter) not in their mass (kg). Here, some terminilogies are being introduced to study fluid and its behavior.  Density: It is defined as a mass per unit volume of the fluid. It is a scalar quantity.  Its unit is in SI system, or in cgs system, and in fps system. Any two objects of identical volume the heavier one has higher density than the other. Take two marbles of same size but one is a lead marble and another is a glass marble. Which one do you feel heavier, has the higher density.    Calculate the mass of water in a container of size 25 cm long, 15 cm wide and is filled with water up to 10 cm high. If the density of water is .    The volume of water, Hence, the mass of water in the container is given by .     Pressure: It is defined as a force per unit area of the surface. Force must be acting perpendicularly on the surface. Pressure defines how hard the object is pushing something in or out. It is a scalar quantity.  Its unit is or pascal (Pa) in SI system. In FPS system of unit it is measured in which means pounds per square inch. Many units of pressure are still in practice such as torr, bar, mm of Hg., atm., etc. 1 atm is one atmospheric preesure,     How much pressure is applied on the ground by a girl of 50 kg if she is balancing herself by standing on her one shoe heel of area .    The force exerted by the girl on ground is equal to her weight, and, Surface area = Hence, the pressure on the ground is given by .       Archimedes' Principle  When an object is placed in a fluid it experiences an upthrust force called a buoyant force. It is arising due to changes of pressure inside fluid. This phenomenon is known as Archimedes' principle. It states that when a body is fully or partially immersed in a fluid, the fluid exerts an upward force on the body equal to the weight of liquid displaced. That is, a buoyant force ( ) = weight of displaced fluid ( ). Archimedes' principle tells whether the object floats or sinks in the fluid. If weight of the object is greater than the buoyany force, it sinks. If its weight is equal to the buoyant force, it submerges inside the fluid but does not sink. If its weight is less than the buoyant force then it floats on the surface of liquid.   Buoyant force     In this case, volume of displaced liquid is equal to the volume of submerged portion of the object. On this basis, we can tell that if the density of an object is greater than that of fluid, it sinks. If object density is equal to the density of fluid, then object submerges. If object density is less than the density of fluid, then object floats. To make iron ship not to sink in water, it is made with wide surface area and its body is like a hollow shell, so that the density of entire ship is less than the density of water.    Kinetic Theory of Gases  The nature of gas is completely different than solids and liquids. Gas tskes up the entire volume of the container and can be compressed easily. Gas pressure increase or decrease as the temperature of the container change. It diffuses (or leaks out) to air if the container is left open. On such experiences, Kinetic theory of gas is developed to explain the nature of heat and the motion of particles associated with heat energy. According to this theory, gas is composed of large number of very tiny particles called molecules. These molecules are always in random motion with all possible directions and speeds which increases with the increase of temperature. In gases, the molecules are very far away from each other than in solids and liquids and have negligibly small force of attraction between them. Hence they can move freely anywhere within the available space. This explains why a gas has no definite shape and size. To understand the more general behavior of gases kinetic theory of ideal gases is postulated as  All gases are made up of molecules. Molecules are identical, rigid, and perfectly elastic moving in random directions with all possible velocities.  The molecules are very far away from each other but they collide with each other and with walls of the container.  All the collisions are elastic, but time spent during each collision is negligibly small compared to the time spent between the collisions.  Molecules do not interact with each other (no intermolecular force of attraction) except during a collision.  The average kinetic energy of the molecules of any gas depends only on the temperature.  Ideal gas is a hypothetical gas of negligible molecular size and have no interactions among their molecules. In practice, a very dilute gas with extremely large volume of container space can be considered as an ideal gas. Remember the real gas molecules has definite size and may interact with each other. Hence this postulates are just a very simplified model to understand gas laws and need modification for real gas behaviors. To experience the general behavior of gas please play with simultion link here. gas laws     The Gas Laws  From the experience of factors affecting the gas pressure ideal gas law is defined below. Ideal Gas Law or also called equation of state. It is found that the pressure, of the gas is directly proportional to number of molecules, and the absolute temeperature, and inversely proportional to the volume, V of of the gas. That is where is proportionality constant. Therefore For mole of gas, the above equition turns into this equation is know as equation of state. Here, is number of mole of gas in a container and is universal gas constant.  If T is constant in this equation then it is called Boyle's Law  If is constant in this equation then it is called Charle's Law     "
 },
 {
-  "id": "example-31",
+  "id": "example-32",
   "level": "2",
-  "url": "sec_fourth-fluid.html#example-31",
+  "url": "sec_fourth-fluid.html#example-32",
   "type": "Example",
-  "number": "4.2.0.1",
+  "number": "4.2.1",
   "title": "",
   "body": "  Calculate the mass of water in a container of size 25 cm long, 15 cm wide and is filled with water up to 10 cm high. If the density of water is .    The volume of water, Hence, the mass of water in the container is given by .    "
 },
 {
-  "id": "p-241",
+  "id": "p-242",
   "level": "2",
-  "url": "sec_fourth-fluid.html#p-241",
+  "url": "sec_fourth-fluid.html#p-242",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Pressure: "
 },
 {
-  "id": "example-32",
+  "id": "example-33",
   "level": "2",
-  "url": "sec_fourth-fluid.html#example-32",
+  "url": "sec_fourth-fluid.html#example-33",
   "type": "Example",
-  "number": "4.2.0.2",
+  "number": "4.2.2",
   "title": "",
   "body": "  How much pressure is applied on the ground by a girl of 50 kg if she is balancing herself by standing on her one shoe heel of area .    The force exerted by the girl on ground is equal to her weight, and, Surface area = Hence, the pressure on the ground is given by .    "
 },
@@ -941,14 +950,14 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_fourth-fluid.html#figure-16",
   "type": "Figure",
-  "number": "4.2.1.1",
+  "number": "4.2.3",
   "title": "",
   "body": " Buoyant force    "
 },
 {
-  "id": "p-247",
+  "id": "p-248",
   "level": "2",
-  "url": "sec_fourth-fluid.html#p-247",
+  "url": "sec_fourth-fluid.html#p-248",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -964,83 +973,83 @@ var ptx_lunr_docs = [
   "body": " Examples    Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body            From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand           Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight           Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density           The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.           Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.           Molecular motion of the substance is least possible at which temperature?  .  .  .  .           Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.           At which of the temperature a Celsius thermometer and a Fahrenheit thermometer show the same readings?  40 .  -40 .  40 .  0 .     Consider , then from , we have Solve this equation to find the value of x.         "
 },
 {
-  "id": "example-33",
-  "level": "2",
-  "url": "sec_fourth-examples.html#example-33",
-  "type": "Example",
-  "number": "4.3.0.1",
-  "title": "",
-  "body": "  Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body          "
-},
-{
   "id": "example-34",
   "level": "2",
   "url": "sec_fourth-examples.html#example-34",
   "type": "Example",
-  "number": "4.3.0.2",
+  "number": "4.3.1",
   "title": "",
-  "body": " From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand         "
+  "body": "  Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body          "
 },
 {
   "id": "example-35",
   "level": "2",
   "url": "sec_fourth-examples.html#example-35",
   "type": "Example",
-  "number": "4.3.0.3",
+  "number": "4.3.2",
   "title": "",
-  "body": " Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight         "
+  "body": " From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand         "
 },
 {
   "id": "example-36",
   "level": "2",
   "url": "sec_fourth-examples.html#example-36",
   "type": "Example",
-  "number": "4.3.0.4",
+  "number": "4.3.3",
   "title": "",
-  "body": " Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density         "
+  "body": " Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight         "
 },
 {
   "id": "example-37",
   "level": "2",
   "url": "sec_fourth-examples.html#example-37",
   "type": "Example",
-  "number": "4.3.0.5",
+  "number": "4.3.4",
   "title": "",
-  "body": " The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.         "
+  "body": " Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density         "
 },
 {
   "id": "example-38",
   "level": "2",
   "url": "sec_fourth-examples.html#example-38",
   "type": "Example",
-  "number": "4.3.0.6",
+  "number": "4.3.5",
   "title": "",
-  "body": " Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.         "
+  "body": " The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.         "
 },
 {
   "id": "example-39",
   "level": "2",
   "url": "sec_fourth-examples.html#example-39",
   "type": "Example",
-  "number": "4.3.0.7",
+  "number": "4.3.6",
   "title": "",
-  "body": " Molecular motion of the substance is least possible at which temperature?  .  .  .  .         "
+  "body": " Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.         "
 },
 {
   "id": "example-40",
   "level": "2",
   "url": "sec_fourth-examples.html#example-40",
   "type": "Example",
-  "number": "4.3.0.8",
+  "number": "4.3.7",
   "title": "",
-  "body": " Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.         "
+  "body": " Molecular motion of the substance is least possible at which temperature?  .  .  .  .         "
 },
 {
   "id": "example-41",
   "level": "2",
   "url": "sec_fourth-examples.html#example-41",
   "type": "Example",
-  "number": "4.3.0.9",
+  "number": "4.3.8",
+  "title": "",
+  "body": " Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.         "
+},
+{
+  "id": "example-42",
+  "level": "2",
+  "url": "sec_fourth-examples.html#example-42",
+  "type": "Example",
+  "number": "4.3.9",
   "title": "",
   "body": " At which of the temperature a Celsius thermometer and a Fahrenheit thermometer show the same readings?  40 .  -40 .  40 .  0 .     Consider , then from , we have Solve this equation to find the value of x.        "
 },
@@ -1166,14 +1175,14 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_fifth-intro.html#figure-17",
   "type": "Figure",
-  "number": "5.1.1.1",
+  "number": "5.1.1",
   "title": "",
   "body": " Coulomb's force    on unlike charges     on like charges     "
 },
 {
-  "id": "p-284",
+  "id": "p-285",
   "level": "2",
-  "url": "sec_fifth-intro.html#p-284",
+  "url": "sec_fifth-intro.html#p-285",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1189,9 +1198,9 @@ var ptx_lunr_docs = [
   "body": " Electricity   It is a branch of physics which deals with the motion of charges in a conductor. When charge flows from one place to another, an electrical current is formed. An electric current is defined as the rate of flow of charge. If a net charge passes through any conductor in time , then the electric current is given by Its unit is Ampere (A). One ampere of current represents one coulomb of charge passes through a conductor in one second. It is a scalar quantity and its conventional direction is taken as the direction of flow of positive charges. In conductor, current flows solely due to motion of electrons, hence the direction of current is opposite to electrons flow. From the law of conservation of charges current remains constant in a conductor irrespective of the local area of cross-section. When the direction of motion of charge does not change with time, the current is said to be direct current, or DC current. It is commonly used in devices electronic devices like cell phones and computers. If the direction of motion of charges reverses periodically, the current is known as an alternating current, or AC current. It is commonly used in the electrical power systems that supply to homes and commercial applications. AC current goes from positive to negative in a cycle, while DC current is always in the same direction. Current can only exist between two points of different potential (voltage) connected by a conductor and can only exist whenever a conductive path with no breaks is provided. DC & AC Flow of charges in DC current is similar to flowing water, but in AC current, charges do not go any where rather they are oscillating about the mean position at their respective position. Check the simulation link to visualize DC and AC current. DC & AC AC is more efficient to transmit over long distances than DC. This is the reason why AC is used in power transmission and distribution as well as in motors and other equipment. It is also used in many household appliances, such as refrigerators, air conditioners, and washing machines. AC can also be easily transformed to different voltages using a transformer, while this is not easy to achieve with DC. DC voltage can be stored in a device called battery, while AC voltage can not be stored.    Electric Potential (Voltage)  Electric potential, also known as voltage, is a measure of the electric potential energy per unit charge in an electric field. That is, or, . It is the amount of work required to move a unit positive charge from one point to another in an electric field. The unit of electric potential is the volt (V). A higher electric potential difference between two points indicates a greater amount of energy required to move a unit charge between those points. Voltage can be think of like a \"push\" for a charge. The higher the voltage, the more \"push\" the charge experience to flow through wires. Charge can only flow from high potential(voltage) to low potential (voltage). It's important to note that just like water can be dangerous if not handled properly, electricity can also be dangerous if not handled with care.    Ohm's Law  Ohm's law states that the current flowing through a conductor is directly proportional to the voltage across the two ends of the conductor, and inversely proportional to the resistance between them. It can be mathematically expressed as or, here I is the current, V is the voltage, and R is the resistance of the conductor. Resistance: is a restriction imposed by a conductor on the motion of a current. Motion of charge carriers (electrons) are not very smooth in a conductor as they bump onto the other electrons and positive charge residual atoms during their motion. Such restrictions in flow of electrons is measured as a resistance of a conductor in current flow. It is denoted by and its unit is Ohms ( ). Electrical Power: It is the measure of energy transferred or consumed per unit time i.e.,  Hence power is also defined as the product of current and voltage. Its unit is Watts (W). One watt means consuming the one joule of energy every second.   Electrical Shock: According to Ohm's law if resistance of the conductor is low then the higher current can flow through it. High current can be deadly. Actually, a “voltage” does not go “into” your body rather current can pass through it when charges flow toward a lower potential. In order to get electric shock atleast of current must pass through our body. In dry condition, human body has a resistance of about , so to have current flowing through our body we need to touch the voltage source of about , as shown in the calculation below. In wet condition, human body resistance becomes only , so to get current through our body we need to touch the voltage source of about .    Electrical Circuits  Electrical circuit is a network of electrical elements (such as resistance (bulb), battery, conductor, switch, etc.) through which current can flow in a closed path. Electrical circuits can be of two types,  Series Circuit: in this type of circuits all the electrical components are connected one after another in such a way that the same current flows through each components as shown in figuer below. An example of a series circuit is a string of Christmas lights, where each bulb is connected to the next in a line. If one bulb burns out, the entire circuit is broken and none of the lights will turn on.  Series circuit      Parallel Circuit: in this type of circuits all the electrical components are connected side by side in such a way that the voltage across each component is the same as shown in figuer below. An example of a parallel circuit is a house's electrical system, where different appliances are connected to the same circuit but have their own separate paths for current to flow through. If one path is broken or one appliance stops working, it doesn't affect the other appliances or the overall circuit.  Parallel circuit       series & parallel circuit To change from series to parallel circuit, Please hold the bulb and rotate the circuit in the simulation.   "
 },
 {
-  "id": "p-285",
+  "id": "p-286",
   "level": "2",
-  "url": "sec_fifth-electr.html#p-285",
+  "url": "sec_fifth-electr.html#p-286",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1202,7 +1211,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_fifth-electr.html#figure-20",
   "type": "Figure",
-  "number": "5.2.3.1",
+  "number": "5.2.1",
   "title": "",
   "body": " Series circuit    "
 },
@@ -1211,7 +1220,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_fifth-electr.html#figure-21",
   "type": "Figure",
-  "number": "5.2.3.2",
+  "number": "5.2.2",
   "title": "",
   "body": " Parallel circuit    "
 },
@@ -1229,7 +1238,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_fifth-magnt.html#figure-22",
   "type": "Figure",
-  "number": "5.3.0.1",
+  "number": "5.3.1",
   "title": "",
   "body": " Magnets of different shapes    "
 },
@@ -1238,7 +1247,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_fifth-magnt.html#figure-23",
   "type": "Figure",
-  "number": "5.3.0.2",
+  "number": "5.3.2",
   "title": "",
   "body": " Magnet    "
 },
@@ -1247,7 +1256,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_fifth-magnt.html#figure-24",
   "type": "Figure",
-  "number": "5.3.1.1",
+  "number": "5.3.3",
   "title": "",
   "body": " Right Hand Thumb Rule    "
 },
@@ -1256,7 +1265,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_fifth-magnt.html#figure-25",
   "type": "Figure",
-  "number": "5.3.2.1",
+  "number": "5.3.4",
   "title": "",
   "body": " Schematic of Transformer    "
 },
@@ -1270,20 +1279,20 @@ var ptx_lunr_docs = [
   "body": " Examples  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.  "
 },
 {
-  "id": "example-42",
-  "level": "2",
-  "url": "sec_fifth-examples.html#example-42",
-  "type": "Example",
-  "number": "5.4.0.1",
-  "title": "",
-  "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
-},
-{
   "id": "example-43",
   "level": "2",
   "url": "sec_fifth-examples.html#example-43",
   "type": "Example",
-  "number": "5.4.0.2",
+  "number": "5.4.1",
+  "title": "",
+  "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
+},
+{
+  "id": "example-44",
+  "level": "2",
+  "url": "sec_fifth-examples.html#example-44",
+  "type": "Example",
+  "number": "5.4.2",
   "title": "",
   "body": " This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.  "
 },
@@ -1333,20 +1342,20 @@ var ptx_lunr_docs = [
   "body": " Examples  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.   Theorem Title   This is the statement of the theorem.    And this is its proof.      A corollary that doesn't need a proof.    Perhaps at the end of the section, you want to add a note to the reader about how what you have fits into the larger scope of mathematics.   Larger Context  Comment to the reader here.   Of course, if you want more information, you might see .  "
 },
 {
-  "id": "example-44",
-  "level": "2",
-  "url": "sec_sixth-examples.html#example-44",
-  "type": "Example",
-  "number": "6.2.0.1",
-  "title": "",
-  "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
-},
-{
   "id": "example-45",
   "level": "2",
   "url": "sec_sixth-examples.html#example-45",
   "type": "Example",
-  "number": "6.2.0.2",
+  "number": "6.2.1",
+  "title": "",
+  "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
+},
+{
+  "id": "example-46",
+  "level": "2",
+  "url": "sec_sixth-examples.html#example-46",
+  "type": "Example",
+  "number": "6.2.2",
   "title": "",
   "body": " This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.  "
 },
@@ -1355,7 +1364,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_sixth-examples.html#thm_sixth-examples-theorem",
   "type": "Theorem",
-  "number": "6.2.0.3",
+  "number": "6.2.3",
   "title": "Theorem Title.",
   "body": " Theorem Title   This is the statement of the theorem.    And this is its proof.   "
 },
@@ -1364,7 +1373,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_sixth-examples.html#cor_sixth-examples-corollary",
   "type": "Corollary",
-  "number": "6.2.0.4",
+  "number": "6.2.4",
   "title": "",
   "body": "  A corollary that doesn't need a proof.   "
 },
@@ -1373,7 +1382,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_sixth-examples.html#remark_sixth-examples-context",
   "type": "Remark",
-  "number": "6.2.0.5",
+  "number": "6.2.5",
   "title": "Larger Context.",
   "body": " Larger Context  Comment to the reader here.  "
 },
@@ -1499,16 +1508,16 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_features-blocks.html#thm_features-blocks-my-theorem",
   "type": "Theorem",
-  "number": "16.1.0.1",
+  "number": "16.1.1",
   "title": "My Theorem.",
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-46",
+  "id": "example-47",
   "level": "2",
-  "url": "sec_features-blocks.html#example-46",
+  "url": "sec_features-blocks.html#example-47",
   "type": "Example",
-  "number": "16.1.0.2",
+  "number": "16.1.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
@@ -1517,7 +1526,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_features-blocks.html#figure-26",
   "type": "Figure",
-  "number": "16.1.0.3",
+  "number": "16.1.3",
   "title": "",
   "body": " A frog   A nice-looking frog with a longish description.   "
 },
