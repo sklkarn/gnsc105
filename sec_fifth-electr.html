@@ -60,7 +60,7 @@ window.MathJax = {
 <link href="https://pretextbook.org/css/0.6/toc_default.css" rel="stylesheet" type="text/css">
 <link href="https://pretextbook.org/css/0.6/knowls_default.css" rel="stylesheet" type="text/css">
 <link href="https://pretextbook.org/css/0.6/style_default.css" rel="stylesheet" type="text/css">
-<link href="https://pretextbook.org/css/0.6/colors_blue_red.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/colors_blue_green.css" rel="stylesheet" type="text/css">
 <link href="https://pretextbook.org/css/0.6/setcolors.css" rel="stylesheet" type="text/css">
 </head>
 <body class="pretext book ignore-math">
@@ -330,11 +330,9 @@ window.MathJax = {
 <li>
 <div class="toc-item"><a href="sec_fifth-magnt.html" class="internal"><span class="codenumber">5.3</span> <span class="title">Magnetism</span></a></div>
 <ul class="structural">
-<li>
-<div class="toc-item"><a href="sec_fifth-magnt.html#subsec_5em-subsection" class="internal"><span class="codenumber">5.3.1</span> <span class="title">Electromagnetism</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="sec_fifth-magnt.html#subsubsec-Electmag" class="internal"><span class="title">Electromagnet</span></a></div></li></ul>
-</li>
-<li><div class="toc-item"><a href="sec_fifth-magnt.html#subsec_5trnfr-subsection" class="internal"><span class="codenumber">5.3.2</span> <span class="title">Transformer</span></a></div></li>
+<li><div class="toc-item"><a href="sec_fifth-magnt.html#subsec_5em-subsection" class="internal"><span class="codenumber">5.3.1</span> <span class="title">Electromagnetism</span></a></div></li>
+<li><div class="toc-item"><a href="sec_fifth-magnt.html#subsec-Electmag" class="internal"><span class="codenumber">5.3.2</span> <span class="title">Electromagnet</span></a></div></li>
+<li><div class="toc-item"><a href="sec_fifth-magnt.html#subsec_5trnfr-subsection" class="internal"><span class="codenumber">5.3.3</span> <span class="title">Transformer</span></a></div></li>
 </ul>
 </li>
 <li><div class="toc-item"><a href="sec_fifth-examples.html" class="internal"><span class="codenumber">5.4</span> <span class="title">Examples</span></a></div></li>
@@ -446,6 +444,26 @@ or, \quad P \amp = \frac{qV}{t}
 <div class="para">Hence power is also defined as the product of current and voltage. Its unit is Watts (W). One watt means consuming the one joule of energy every second.</div>
 </div>
 <div class="para logical" id="p-299">
+<div class="para">Now from Ohm's law, <a href="" class="xref" data-knowl="./knowl/eqn-ohm.html" title="Equation 5.2.3">(5.2.3)</a>
+</div>
+<div class="displaymath process-math" data-contains-math-knowls="./knowl/eqn-ohm.html">
+\begin{equation*}
+V=IR
+\end{equation*}
+</div>
+<div class="para">Hence, the power of electrical circuit is given as</div>
+<div class="displaymath process-math" data-contains-math-knowls="./knowl/eqn-ohm.html" id="eqn-PIR">
+\begin{equation}
+P = IV = I\times IR = I^2R\tag{5.2.6}
+\end{equation}
+</div>
+<div class="displaymath process-math" data-contains-math-knowls="./knowl/eqn-ohm.html" id="eqn-PVR">
+\begin{equation}
+P = IV = \frac{V^2}{R}\tag{5.2.7}
+\end{equation}
+</div>
+</div>
+<div class="para logical" id="p-300">
 <div class="para">
 <em class="alert">Electrical Shock:</em> According to Ohm's law if resistance of the conductor is low then the higher current can flow through it. High current can be deadly. Actually, a “voltage” does not go “into” your body rather current can pass through it when charges flow toward a lower potential. In order to get electric shock atleast <span class="process-math">\(1mA\)</span> of current must pass through our body. In dry condition, human body has a resistance of about <span class="process-math">\(50000\Omega\text{,}\)</span> so to have <span class="process-math">\(1mA\)</span> current flowing through our body we need to touch the voltage source of about <span class="process-math">\(50 V\text{,}\)</span> as shown in the calculation below.</div>
 <div class="displaymath process-math" id="md-34">
@@ -460,7 +478,7 @@ or, \quad V \amp = 1\times 10^{-3}\times 50000\\
 </div></section><section class="subsection" id="subsec-5ec"><h3 class="heading hide-type">
 <span class="type">Subsection</span> <span class="codenumber">5.2.3</span> <span class="title">Electrical Circuits</span>
 </h3>
-<div class="para logical" id="p-300">
+<div class="para logical" id="p-301">
 <div class="para">Electrical circuit is a network of electrical elements (such as resistance (bulb), battery, conductor, switch, etc.) through which current can flow in a closed path. Electrical circuits can be of two types,</div>
 <ol class="upper-roman">
 <li id="li-197">Series Circuit: in this type of circuits all the electrical components are connected one after another in such a way that the same current flows through each components as shown in figuer below.  An example of a series circuit is a string of Christmas lights, where each bulb is connected to the next in a line. If one bulb burns out, the entire circuit is broken and none of the lights will turn on. <figure class="figure figure-like" id="figure-25"><div class="image-box" style="width: 40%; margin-left: 30%; margin-right: 30%;"><img src="external/fig5c.png" class="contained"></div>

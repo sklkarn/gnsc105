@@ -1240,7 +1240,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.2",
   "title": "Electricity",
-  "body": " Electricity   It is a branch of physics which deals with the motion of charges in a conductor. When charge flows from one place to another, an electrical current is formed. An electric current is defined as the rate of flow of charge. If a net charge passes through any conductor in time , then the electric current is given by Its unit is Ampere (A). One ampere of current represents one coulomb of charge passes through a conductor in one second. It is a scalar quantity and its conventional direction is taken as the direction of flow of positive charges. In conductor, current flows solely due to motion of electrons, hence the direction of current is opposite to electrons flow. From the law of conservation of charges current remains constant in a conductor irrespective of the local area of cross-section. When the direction of motion of charge does not change with time, the current is said to be direct current, or DC current. It is commonly used in devices electronic devices like cell phones and computers. If the direction of motion of charges reverses periodically, the current is known as an alternating current, or AC current. It is commonly used in the electrical power systems that supply to homes and commercial applications. AC current goes from positive to negative in a cycle, while DC current is always in the same direction. Current can only exist between two points of different potential (voltage) connected by a conductor and can only exist whenever a conductive path with no breaks is provided. DC & AC Flow of charges in DC current is similar to flowing water, but in AC current, charges do not go any where rather they are oscillating about the mean position at their respective position. Check the simulation link to visualize DC and AC current. DC & AC AC is more efficient to transmit over long distances than DC. This is the reason why AC is used in power transmission and distribution as well as in motors and other equipment. It is also used in many household appliances, such as refrigerators, air conditioners, and washing machines. AC can also be easily transformed to different voltages using a transformer, while this is not easy to achieve with DC. DC voltage can be stored in a device called battery, while AC voltage can not be stored.    Electric Potential (Voltage)  Electric potential, also known as voltage, is a measure of the electric potential energy per unit charge in an electric field. That is, or, . It is the amount of work required to move a unit positive charge from one point to another in an electric field. The unit of electric potential is the volt (V). A higher electric potential difference between two points indicates a greater amount of energy required to move a unit charge between those points. Voltage can be think of like a \"push\" for a charge. The higher the voltage, the more \"push\" the charge experience to flow through wires. Charge can only flow from high potential(voltage) to low potential (voltage). It's important to note that just like water can be dangerous if not handled properly, electricity can also be dangerous if not handled with care.    Ohm's Law  Ohm's law states that the current flowing through a conductor is directly proportional to the voltage across the two ends of the conductor, and inversely proportional to the resistance between them. It can be mathematically expressed as or, here I is the current, V is the voltage, and R is the resistance of the conductor. Resistance: is a restriction imposed by a conductor on the motion of a current. Motion of charge carriers (electrons) are not very smooth in a conductor as they bump onto the other electrons and positive charge residual atoms during their motion. Such restrictions in flow of electrons is measured as a resistance of a conductor in current flow. It is denoted by and its unit is Ohms ( ). Electrical Power: It is the measure of energy transferred or consumed per unit time i.e.,   Hence power is also defined as the product of current and voltage. Its unit is Watts (W). One watt means consuming the one joule of energy every second.   Electrical Shock: According to Ohm's law if resistance of the conductor is low then the higher current can flow through it. High current can be deadly. Actually, a “voltage” does not go “into” your body rather current can pass through it when charges flow toward a lower potential. In order to get electric shock atleast of current must pass through our body. In dry condition, human body has a resistance of about , so to have current flowing through our body we need to touch the voltage source of about , as shown in the calculation below. In wet condition, human body resistance becomes only , so to get current through our body we need to touch the voltage source of about .    Electrical Circuits  Electrical circuit is a network of electrical elements (such as resistance (bulb), battery, conductor, switch, etc.) through which current can flow in a closed path. Electrical circuits can be of two types,  Series Circuit: in this type of circuits all the electrical components are connected one after another in such a way that the same current flows through each components as shown in figuer below. An example of a series circuit is a string of Christmas lights, where each bulb is connected to the next in a line. If one bulb burns out, the entire circuit is broken and none of the lights will turn on.  Series circuit      Parallel Circuit: in this type of circuits all the electrical components are connected side by side in such a way that the voltage across each component is the same as shown in figuer below. An example of a parallel circuit is a house's electrical system, where different appliances are connected to the same circuit but have their own separate paths for current to flow through. If one path is broken or one appliance stops working, it doesn't affect the other appliances or the overall circuit.  Parallel circuit       series & parallel circuit To change from series to parallel circuit, Please hold the bulb and rotate the circuit in the simulation.   "
+  "body": " Electricity   It is a branch of physics which deals with the motion of charges in a conductor. When charge flows from one place to another, an electrical current is formed. An electric current is defined as the rate of flow of charge. If a net charge passes through any conductor in time , then the electric current is given by Its unit is Ampere (A). One ampere of current represents one coulomb of charge passes through a conductor in one second. It is a scalar quantity and its conventional direction is taken as the direction of flow of positive charges. In conductor, current flows solely due to motion of electrons, hence the direction of current is opposite to electrons flow. From the law of conservation of charges current remains constant in a conductor irrespective of the local area of cross-section. When the direction of motion of charge does not change with time, the current is said to be direct current, or DC current. It is commonly used in devices electronic devices like cell phones and computers. If the direction of motion of charges reverses periodically, the current is known as an alternating current, or AC current. It is commonly used in the electrical power systems that supply to homes and commercial applications. AC current goes from positive to negative in a cycle, while DC current is always in the same direction. Current can only exist between two points of different potential (voltage) connected by a conductor and can only exist whenever a conductive path with no breaks is provided. DC & AC Flow of charges in DC current is similar to flowing water, but in AC current, charges do not go any where rather they are oscillating about the mean position at their respective position. Check the simulation link to visualize DC and AC current. DC & AC AC is more efficient to transmit over long distances than DC. This is the reason why AC is used in power transmission and distribution as well as in motors and other equipment. It is also used in many household appliances, such as refrigerators, air conditioners, and washing machines. AC can also be easily transformed to different voltages using a transformer, while this is not easy to achieve with DC. DC voltage can be stored in a device called battery, while AC voltage can not be stored.    Electric Potential (Voltage)  Electric potential, also known as voltage, is a measure of the electric potential energy per unit charge in an electric field. That is, or, . It is the amount of work required to move a unit positive charge from one point to another in an electric field. The unit of electric potential is the volt (V). A higher electric potential difference between two points indicates a greater amount of energy required to move a unit charge between those points. Voltage can be think of like a \"push\" for a charge. The higher the voltage, the more \"push\" the charge experience to flow through wires. Charge can only flow from high potential(voltage) to low potential (voltage). It's important to note that just like water can be dangerous if not handled properly, electricity can also be dangerous if not handled with care.    Ohm's Law  Ohm's law states that the current flowing through a conductor is directly proportional to the voltage across the two ends of the conductor, and inversely proportional to the resistance between them. It can be mathematically expressed as or, here I is the current, V is the voltage, and R is the resistance of the conductor. Resistance: is a restriction imposed by a conductor on the motion of a current. Motion of charge carriers (electrons) are not very smooth in a conductor as they bump onto the other electrons and positive charge residual atoms during their motion. Such restrictions in flow of electrons is measured as a resistance of a conductor in current flow. It is denoted by and its unit is Ohms ( ). Electrical Power: It is the measure of energy transferred or consumed per unit time i.e.,   Hence power is also defined as the product of current and voltage. Its unit is Watts (W). One watt means consuming the one joule of energy every second.  Now from Ohm's law,  Hence, the power of electrical circuit is given as     Electrical Shock: According to Ohm's law if resistance of the conductor is low then the higher current can flow through it. High current can be deadly. Actually, a “voltage” does not go “into” your body rather current can pass through it when charges flow toward a lower potential. In order to get electric shock atleast of current must pass through our body. In dry condition, human body has a resistance of about , so to have current flowing through our body we need to touch the voltage source of about , as shown in the calculation below. In wet condition, human body resistance becomes only , so to get current through our body we need to touch the voltage source of about .    Electrical Circuits  Electrical circuit is a network of electrical elements (such as resistance (bulb), battery, conductor, switch, etc.) through which current can flow in a closed path. Electrical circuits can be of two types,  Series Circuit: in this type of circuits all the electrical components are connected one after another in such a way that the same current flows through each components as shown in figuer below. An example of a series circuit is a string of Christmas lights, where each bulb is connected to the next in a line. If one bulb burns out, the entire circuit is broken and none of the lights will turn on.  Series circuit      Parallel Circuit: in this type of circuits all the electrical components are connected side by side in such a way that the voltage across each component is the same as shown in figuer below. An example of a parallel circuit is a house's electrical system, where different appliances are connected to the same circuit but have their own separate paths for current to flow through. If one path is broken or one appliance stops working, it doesn't affect the other appliances or the overall circuit.  Parallel circuit       series & parallel circuit To change from series to parallel circuit, Please hold the bulb and rotate the circuit in the simulation.   "
 },
 {
   "id": "p-296",
@@ -1276,7 +1276,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.3",
   "title": "Magnetism",
-  "body": " Magnetism   It is a branch of physics which deals with magnets and magnetic properties of materials. It defines the magnetic behavior of material which is associated with the motion of electric charge. The motion of charges in a conductor or in space gives rise to magnetic fields and magnetism is a result of magnetic fields. The word ”magnet” is taken from Latin word µαγνήτης λίθoς meaning stones from magnesia. ”Magnetis [líthos]” is sources of lodestones found in Manisa, Turkey. Magnetism is caused by moving charges and is experienced by moving charges. It is a phenomenon of materials by which they attract or repel other materials. The motion of an electron in an orbit around a nucleus or its spin on an axis produces a magnetic field.  The most familiar magnet is a bar magnet. It is a piece of iron bar that has been magnetized. However, other shape of magnets are also available these days such as disk magnet, horseshoe magnet, ring magnet, etc.  Magnets of different shapes    In any magnet, there are two regions (normally at the ends or faces) where magnetic strength is very strong. These stronger regions are called magnetic poles. One is designted as north pole, N and the other as south pole, S . This is because When a magnet is hanged by a thread and allowed to rotate freely, it will align itself in a north-south direction, due to the earth's magnetic field. The north end of the magnet will point towards the Earth's geographic north pole and the south end towards the Earth's geographic south pole. This is why north pole is also known as north seeking pole and the south pole as south seeking pole . The magnet also aligns at an angle itself with the earth's horizontal plane. This angle is known as the angle of dip or inclination , it varies depending on the location on the earth surface. The magnet also aligns itseld at an angle from the true north-south direction. This angle is known as magnetic declinaiton . The magnetic declination is the angle between magnetic north and true north direction. Magnetic north is the direction indicated by a compass, and true north is the direction of the Earth's geographic north pole. This angle can vary depending on location and time. earth as a magnet   Like poles of magnet repel and unlike poles attract. North and south poles always exist in pairs (there are no magnetic monopoles in nature), so if one were to split a permanent magnet in half, two smaller magnets would be created, each with a north pole and south pole. Even if one cuts a magnet into pieces all the way down to a single atom they still get a N pole and a S pole because of orbiting electron in the atom. Just like a graviational force both electric and magnetic forces can act on the objects without being in direct contact.  Magnet        Electromagnetism  Orsted discovered that electric currents can produce magnetic fields and Faraday discovered that magnetic fields can be used to induce electric currents in a circuit. A moving electrical charge also generates a magnetic field just as changing magnetic field induces current in a conductor. In fact, a traditional magnet is the result of individual motion of electrons within the atoms of the magnet. These atoms are so aligned that magnetic field procduced by their electrons are pointed along a uniform direction giving rise to a mangetic field of the magnet. In non-magnetic materials, the electrons move in such a way that the individual magnetic fields point in different directions, so they cancel each other out and the net magnetic field generated is negligible. In normal condition, magnetic fields of the magnetic material are distributed in groups of small region, called domain and magnetic fields of each domain are oriented in different directions to cancel each other effect. This is why iron is just a piece of metal bar unless it is magnetized.  Electromagnetism is considered as the interaction of electric and magnetic effects. It tells that  the moving charges (current) give rise to magnetic fields, current produce magnetic field  and changing magnetic field gives rise to electric current magnetic field generating current  . The direction of the magnetic field produced by a current in wire can be determinded using right hand thumb rule . If fingers of right hand is curl along the direction of current moving then thumb is pointed along the direction of magnetic field produced by the current. In contrary, if thumb is pointed along the direction of current then curled fingers show the direction of magnetic field generated around the wire.  Right Hand Thumb Rule       Electromagnet  An electromagnet typically consists of a coil of wire, often wrapped around a ferromagnetic core, such as iron. When an electric current is passed through the coil, it creates a magnetic field around the core. This magnetic field can be used to attract or repel ferromagnetic materials. The strength of the magnetic field is directly proportional to the amount of current flowing through the coil. Electromagnets are used in a wide range of applications, including electric motors, generators, and audio speakers. They can also be used to create temporary or adjustable magnetic fields, making them useful in scientific and industrial settings. electromagnet      Transformer  Transformer is an electrical appliance which convert large current at low voltage to low current at high voltage, and vice versa. It uses the principle of electromagnetic induction to transform electrical energy from one circuit to another one. An AC current is needed to operate transformer. In AC current direction of current is keep changing which changes the magnetic field generated in the primary coil of transformer. Such changing magnetic field induces the current in the secondary coil of transformer. A typical transformer consists of a two or more coils of insulated wire wound on a laminated iron core. An alternating (AC) voltage which is to be reduced or increased is connected to the coil, called the primary coil or input coil. This coil magnetizes the iron core. A voltage is then induced in the other coil, called the secondary or output coil. The change of voltage (or voltage ratio) between the primary and secondary depends on the turns ratio of their two coils.   Schematic of Transformer    There are two types of transformer on the basis of their operation. If the number of turns in primary coil is less than that at secondary then it is called a step-up transformer and if number of turns in primary is grater than that in secondary then it is called a step-down transformer. Transformer transfers an electrical power from primary coil to secondary coil hence it also obeys the principle of conservation of energy. That is,  see equation for electrical power.   "
+  "body": " Magnetism   It is a branch of physics which deals with magnets and magnetic properties of materials. It defines the magnetic behavior of material which is associated with the motion of electric charge. The motion of charges in a conductor or in space gives rise to magnetic fields and magnetism is a result of magnetic fields. The word ”magnet” is taken from Latin word µαγνήτης λίθoς meaning stones from magnesia. ”Magnetis [líthos]” is sources of lodestones found in Manisa, Turkey. Magnetism is caused by moving charges and is experienced by moving charges. It is a phenomenon of materials by which they attract or repel other materials. The motion of an electron in an orbit around a nucleus or its spin on an axis produces a magnetic field.  The most familiar magnet is a bar magnet. It is a piece of iron bar that has been magnetized. However, other shape of magnets are also available these days such as disk magnet, horseshoe magnet, ring magnet, etc.  Magnets of different shapes    In any magnet, there are two regions (normally at the ends or faces) where magnetic strength is very strong. These stronger regions are called magnetic poles. One is designted as north pole, N and the other as south pole, S . This is because When a magnet is hanged by a thread and allowed to rotate freely, it will align itself in a north-south direction, due to the earth's magnetic field. The north end of the magnet will point towards the Earth's geographic north pole and the south end towards the Earth's geographic south pole. This is why north pole is also known as north seeking pole and the south pole as south seeking pole . The magnet also aligns at an angle itself with the earth's horizontal plane. This angle is known as the angle of dip or inclination , it varies depending on the location on the earth surface. The magnet also aligns itseld at an angle from the true north-south direction. This angle is known as magnetic declinaiton . The magnetic declination is the angle between magnetic north and true north direction. Magnetic north is the direction indicated by a compass, and true north is the direction of the Earth's geographic north pole. This angle can vary depending on location and time. earth as a magnet   Like poles of magnet repel and unlike poles attract. North and south poles always exist in pairs (there are no magnetic monopoles in nature), so if one were to split a permanent magnet in half, two smaller magnets would be created, each with a north pole and south pole. Even if one cuts a magnet into pieces all the way down to a single atom they still get a N pole and a S pole because of orbiting electron in the atom. Just like a graviational force both electric and magnetic forces can act on the objects without being in direct contact.  Magnet        Electromagnetism  Orsted discovered that electric currents can produce magnetic fields and Faraday discovered that magnetic fields can be used to induce electric currents in a circuit. A moving electrical charge also generates a magnetic field just as changing magnetic field induces current in a conductor. In fact, a traditional magnet is the result of individual motion of electrons within the atoms of the magnet. These atoms are so aligned that magnetic field procduced by their electrons are pointed along a uniform direction giving rise to a mangetic field of the magnet. In non-magnetic materials, the electrons move in such a way that the individual magnetic fields point in different directions, so they cancel each other out and the net magnetic field generated is negligible. In normal condition, magnetic fields of the magnetic material are distributed in groups of small region, called domain and magnetic fields of each domain are oriented in different directions to cancel each other effect. This is why iron is just a piece of metal bar unless it is magnetized.  Electromagnetism is considered as the interaction of electric and magnetic effects. It tells that  the moving charges (current) give rise to magnetic fields, current produce magnetic field  and changing magnetic field gives rise to electric current magnetic field generating current  . The direction of the magnetic field produced by a current in wire can be determinded using right hand thumb rule . If fingers of right hand is curl along the direction of current moving then thumb is pointed along the direction of magnetic field produced by the current. In contrary, if thumb is pointed along the direction of current then curled fingers show the direction of magnetic field generated around the wire.  Right Hand Thumb Rule        Electromagnet  An electromagnet typically consists of a coil of wire, often wrapped around a ferromagnetic core, such as iron. When an electric current is passed through the coil, it creates a magnetic field around the core. This magnetic field can be used to attract or repel ferromagnetic materials. The strength of the magnetic field is directly proportional to the amount of current flowing through the coil. Electromagnets are used in a wide range of applications, including electric motors, generators, and audio speakers. They can also be used to create temporary or adjustable magnetic fields, making them useful in scientific and industrial settings. electromagnet     Transformer  Transformer is an electrical appliance which convert large current at low voltage to low current at high voltage, and vice versa. It uses the principle of electromagnetic induction to transform electrical energy from one circuit to another one. An AC current is needed to operate transformer. In AC current direction of current is keep changing which changes the magnetic field generated in the primary coil of transformer. Such changing magnetic field induces the current in the secondary coil of transformer. A typical transformer consists of a two or more coils of insulated wire wound on a laminated iron core. An alternating (AC) voltage which is to be reduced or increased is connected to the coil, called the primary coil or input coil. This coil magnetizes the iron core. A voltage is then induced in the other coil, called the secondary or output coil. The change of voltage (or voltage ratio) between the primary and secondary depends on the turns ratio of their two coils.   Schematic of Transformer    There are two types of transformer on the basis of their operation. If the number of turns in primary coil is less than that at secondary then it is called a step-up transformer and if number of turns in primary is grater than that in secondary then it is called a step-down transformer. Transformer transfers an electrical power from primary coil to secondary coil hence it also obeys the principle of conservation of energy. That is,  see equation for electrical power.   "
 },
 {
   "id": "figure-27",
@@ -1321,7 +1321,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.4",
   "title": "Examples",
-  "body": " Examples    Find the current in a wire if electrons is passing every second.    See the equations and       Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.   From Ohm's Law       If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.   Here = 20 mint\/day = = 10 h. Now from , we have In an electric bill one unit of electrical energy is Hence, the total cost of bill is = .    "
+  "body": " Examples    Find the current in a wire if electrons is passing every second.    See the equations and        Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.    From Ohm's Law        If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.    Here = 20 mint\/day = = 10 h. Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = .      How much current is passing through the ciruit if electric heater is running at 120 V?    From equation        What is the resistance of 50 W light bulb filament running at 120V?    From equation        Find an electric energy stored in a 10V laptop battery rated at 13000 mAh.    using equations and , we have      Here, , remember large unit of charge is also Ah by using eqation . Hence, from equation  by using equation where,    Hence, Energy, E= 130Wh. [since, ]       The primary coil of a transformer has 500 turns and its secondary coil has 50 turns. If the current in the secondary coil is 25 A, find the current in its primary coil.    Given: , , ,  From equation      "
 },
 {
   "id": "example-47",
@@ -1339,7 +1339,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "5.4.2",
   "title": "",
-  "body": " Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.   From Ohm's Law     "
+  "body": "  Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.    From Ohm's Law     "
 },
 {
   "id": "example-49",
@@ -1348,7 +1348,43 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "5.4.3",
   "title": "",
-  "body": " If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.   Here = 20 mint\/day = = 10 h. Now from , we have In an electric bill one unit of electrical energy is Hence, the total cost of bill is = .   "
+  "body": "  If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.    Here = 20 mint\/day = = 10 h. Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = .   "
+},
+{
+  "id": "example-50",
+  "level": "2",
+  "url": "sec_fifth-examples.html#example-50",
+  "type": "Example",
+  "number": "5.4.4",
+  "title": "",
+  "body": "  How much current is passing through the ciruit if electric heater is running at 120 V?    From equation     "
+},
+{
+  "id": "example-51",
+  "level": "2",
+  "url": "sec_fifth-examples.html#example-51",
+  "type": "Example",
+  "number": "5.4.5",
+  "title": "",
+  "body": "  What is the resistance of 50 W light bulb filament running at 120V?    From equation     "
+},
+{
+  "id": "example-52",
+  "level": "2",
+  "url": "sec_fifth-examples.html#example-52",
+  "type": "Example",
+  "number": "5.4.6",
+  "title": "",
+  "body": "  Find an electric energy stored in a 10V laptop battery rated at 13000 mAh.    using equations and , we have      Here, , remember large unit of charge is also Ah by using eqation . Hence, from equation  by using equation where,    Hence, Energy, E= 130Wh. [since, ]    "
+},
+{
+  "id": "example-53",
+  "level": "2",
+  "url": "sec_fifth-examples.html#example-53",
+  "type": "Example",
+  "number": "5.4.7",
+  "title": "",
+  "body": "  The primary coil of a transformer has 500 turns and its secondary coil has 50 turns. If the current in the secondary coil is 25 A, find the current in its primary coil.    Given: , , ,  From equation     "
 },
 {
   "id": "ex_fifth",
@@ -1357,7 +1393,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "5.5",
   "title": "Exercise",
-  "body": "  Exercise   Is this an exercise?   Yes.   It is, but not a very good one.    Another, with a hint.   The hint.      "
+  "body": "  Exercise  An atom or a molecule when lost an electron it becomes a  positive ion  negative ion  neutral  conductor    Ohms law defines current flow through what type of substance?  Conductor  Insulator  Non-conductor  Both a. and b.    Which of the following is the symbol of ohms?        What substance is attracted to a magnet?  iron and its alloys.  silver.  water.  all substances.    What happens to the magnetic field when a magnet is strongly heated or hammered?  becomes weaker.  is unchanged.  becomes stronger.  reverses its direction.    What is the direction of the magnetic field under the power line if a current is flowing through it towards south?  east.  west.  north.  south.    Calculate the force of repulsion between two charges of placed at apart.  If two charges placed at 2 cm experience 5 N force. what would be the magnitude of this force if the charges are shifted to 10 cm apart.     "
 },
 {
   "id": "exercise-40",
@@ -1366,7 +1402,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.1",
   "title": "",
-  "body": " Is this an exercise?   Yes.   It is, but not a very good one.  "
+  "body": "An atom or a molecule when lost an electron it becomes a  positive ion  negative ion  neutral  conductor   "
 },
 {
   "id": "exercise-41",
@@ -1375,7 +1411,61 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.2",
   "title": "",
-  "body": " Another, with a hint.   The hint.  "
+  "body": "Ohms law defines current flow through what type of substance?  Conductor  Insulator  Non-conductor  Both a. and b.   "
+},
+{
+  "id": "exercise-42",
+  "level": "2",
+  "url": "ex_fifth.html#exercise-42",
+  "type": "Exercise",
+  "number": "5.5.3",
+  "title": "",
+  "body": "Which of the following is the symbol of ohms?       "
+},
+{
+  "id": "exercise-43",
+  "level": "2",
+  "url": "ex_fifth.html#exercise-43",
+  "type": "Exercise",
+  "number": "5.5.4",
+  "title": "",
+  "body": "What substance is attracted to a magnet?  iron and its alloys.  silver.  water.  all substances.   "
+},
+{
+  "id": "exercise-44",
+  "level": "2",
+  "url": "ex_fifth.html#exercise-44",
+  "type": "Exercise",
+  "number": "5.5.5",
+  "title": "",
+  "body": "What happens to the magnetic field when a magnet is strongly heated or hammered?  becomes weaker.  is unchanged.  becomes stronger.  reverses its direction.   "
+},
+{
+  "id": "exercise-45",
+  "level": "2",
+  "url": "ex_fifth.html#exercise-45",
+  "type": "Exercise",
+  "number": "5.5.6",
+  "title": "",
+  "body": "What is the direction of the magnetic field under the power line if a current is flowing through it towards south?  east.  west.  north.  south.   "
+},
+{
+  "id": "exercise-46",
+  "level": "2",
+  "url": "ex_fifth.html#exercise-46",
+  "type": "Exercise",
+  "number": "5.5.7",
+  "title": "",
+  "body": "Calculate the force of repulsion between two charges of placed at apart. "
+},
+{
+  "id": "exercise-47",
+  "level": "2",
+  "url": "ex_fifth.html#exercise-47",
+  "type": "Exercise",
+  "number": "5.5.8",
+  "title": "",
+  "body": "If two charges placed at 2 cm experience 5 N force. what would be the magnitude of this force if the charges are shifted to 10 cm apart. "
 },
 {
   "id": "sec_sixth-intro",
@@ -1396,18 +1486,18 @@ var ptx_lunr_docs = [
   "body": " Examples  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.   Theorem Title   This is the statement of the theorem.    And this is its proof.      A corollary that doesn't need a proof.    Perhaps at the end of the section, you want to add a note to the reader about how what you have fits into the larger scope of mathematics.   Larger Context  Comment to the reader here.   Of course, if you want more information, you might see .  "
 },
 {
-  "id": "example-50",
+  "id": "example-54",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-50",
+  "url": "sec_sixth-examples.html#example-54",
   "type": "Example",
   "number": "6.2.1",
   "title": "",
   "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
 },
 {
-  "id": "example-51",
+  "id": "example-55",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-51",
+  "url": "sec_sixth-examples.html#example-55",
   "type": "Example",
   "number": "6.2.2",
   "title": "",
@@ -1450,18 +1540,18 @@ var ptx_lunr_docs = [
   "body": "  My Exercises   Is this an exercise?   Yes.   It is, but not a very good one.    Another, with a hint.   The hint.      "
 },
 {
-  "id": "exercise-42",
+  "id": "exercise-48",
   "level": "2",
-  "url": "ex_sixth.html#exercise-42",
+  "url": "ex_sixth.html#exercise-48",
   "type": "Exercise",
   "number": "6.3.1",
   "title": "",
   "body": " Is this an exercise?   Yes.   It is, but not a very good one.  "
 },
 {
-  "id": "exercise-43",
+  "id": "exercise-49",
   "level": "2",
-  "url": "ex_sixth.html#exercise-43",
+  "url": "ex_sixth.html#exercise-49",
   "type": "Exercise",
   "number": "6.3.2",
   "title": "",
@@ -1567,9 +1657,9 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-52",
+  "id": "example-56",
   "level": "2",
-  "url": "sec_features-blocks.html#example-52",
+  "url": "sec_features-blocks.html#example-56",
   "type": "Example",
   "number": "16.1.2",
   "title": "",
