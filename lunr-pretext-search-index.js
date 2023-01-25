@@ -1509,8 +1509,26 @@ var ptx_lunr_docs = [
   "url": "sec_sixth-intro.html",
   "type": "Section",
   "number": "6.1",
-  "title": "Introduction to Sixth Chapter",
-  "body": " Introduction to Sixth Chapter   Intro to section, because we will have subsections.  Another paragraph of the introduction.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion.   "
+  "title": "Introduction to Wave",
+  "body": " Introduction to Wave   When a stone is thrown in a quiet pond a number of nice circular rings, called ripples emerge on the surface of water which grow gently and move across the pond in a concentric pattern. These growing ripples are called a wave which carries energy from the point of stone thrown to the edge of a pond. Hence a wave can be defined as a disturbance in space that can carry energy from one location to another. A wave creates in a medium when a medium is trying to regain its equilibrium state (normal position). When a stone is thrown it transfers its energy to the surface of water due to which water layer stretches downwards till stone dips down that layer of water. When stone leaves the water layer, water wants to recover its original position to maintain equilibrium due to surface tension but as it reaches to the original position it keeps raising upward because of inertia and stretches the water surface again till it reaches the maximum height. Now due to surface tension this layer of water gets pulled down again and starts falling down below the equilibrium position due to inertia such procedure is the cause of waves (disturbances) on water. Energy propagates two ways in water one way is due to vertical up and down motion of water surface and another way is a back and forth motion of water molecules inside the water. Similar to concentric circles on water surface energy transmitted in space in the form of concentric spheres. Figure below ripples in wave shows the same disturbances traveling away from the center as a series of successive wavefronts labeled crests and troughs. A wavefront is a locus of points along which all phases and displacements are identical. The solid circles depict the outward-moving wave crests; the dashed circles represent wave troughs. Adjacent crests are always a wavelength apart, as are the adjacent troughs.  Waves    Ripples on Water Surface     Schematics of ripples       On the basis of particle motion relative to the direction of energy propagation there are two forms of waves.  Longitudinal wave, and  Transverse wave.  In longitudinal wave the medium particles vibrate parallel to the motion of the energy. Longitudinal waves are also called pressure waves. As a layer of one part of a medium creates pressure on the other part of the medium. Sound waves in any medium, waves propagating along spring are an example of such wave. In transverse wave the medium particles vibrate perpendicular to the motion of the energy propagation. Movement of a wave through a solid object like a stretched rope or a trampoline is an example of such wave.  On the basis of requirements of medium to propagate energy there are two types of waves.  Mechanical wave, and  Electromagnetic wave.  Mechanical waves require material medium to propagate such as sound waves, water waves, string waves, seismic waves, etc. Electromagnetic waves on the other hand do not need any medium but can propagate both in vacuum and in a medium, such as light waves, heat waves, radio waves, etc. Electromagnetic (em) waves are transverse in nature where electric field and magnetic field are perpendicular to each other and are also perpendicular to the direction of energy propagatation. Longitudinal waves occur when a spring is fixed at one end and pulled back and forth by the other end as shown in figure below. Transverse waves occur when a spring or string is fixed at one end and wiggled up and down by the other end as shown in figure below. Both the waves can be easily described by a transverse nature as they are periodic in nature. The crest is the highest point on a wave. The trough is the valley between two waves, is the lowest point. The wavelength, is the distance, either between the crests or troughs of two consecutive waves. It is the length of one complete wave. The amplitude, A is the peak value (either positive or negative) of a wave. The distance from the undisturbed level (equilibrium position) to the trough or crest. The compression is the part of the longitudinal wave where the particles are crowded together. The rarefaction is the part of the longitudinal wave where the particles are spread apart. The wavelength is the distance from compression to compression or rarefaction to rarefaction in a pressure (longitudinal) wave. The frequency, is a number of complete waves per second.  Representation of waves    Longitudinal wave     Transverse wave     If is a time period to generate one complete wave then . Its unit is Hertz (Hz), i.e. cycles per second.  There is a third kind of new wave just been discovered, known as a gravitaional wave. It is a disturbance in spacetime and can pass through anything undisturbed. It travels with the velocity of light. It stretches and squashes the spacetime during propagation.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion.   "
+},
+{
+  "id": "figure-35",
+  "level": "2",
+  "url": "sec_sixth-intro.html#figure-35",
+  "type": "Figure",
+  "number": "6.1.1",
+  "title": "",
+  "body": " Waves    Ripples on Water Surface     Schematics of ripples     "
+},
+{
+  "id": "figure-38",
+  "level": "2",
+  "url": "sec_sixth-intro.html#figure-38",
+  "type": "Figure",
+  "number": "6.1.2",
+  "title": "",
+  "body": " Representation of waves    Longitudinal wave     Transverse wave     "
 },
 {
   "id": "sec_sixth-examples",
@@ -1702,9 +1720,9 @@ var ptx_lunr_docs = [
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-35",
+  "id": "figure-41",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-35",
+  "url": "sec_features-blocks.html#figure-41",
   "type": "Figure",
   "number": "16.1.3",
   "title": "",
