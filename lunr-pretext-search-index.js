@@ -349,7 +349,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.3",
   "title": "Examples",
-  "body": " Examples    Special Instruction: To tackle the physical problems the book uses GUESS strategy for a systematic gatheing of information and finding a realistic and logistic solution. Here is what GUESS stands for.  G: Given, identify the given informations.  U: Unknown, identify the unknown that we are looking for.  E: Equation\/s, set up the equation from given information.  S: Substitute, substitute the number\/s in the equation\/s.  S: Solve, solve the equation to obtain the answer.     Here are some examples:    A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .       A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m       A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:              How far you can go in 5 minutes if you are running at 10 ?     First convert the velocity into to and also convert time from minute to second before using equation of motion.   Given:      Which of the following sets of displacements might be able to return a car to its starting point? (a) 4, 6, 8, and 15 km (b) 2, 8, 10, and 25 km. (c) 10, 30, 50, and 120 km (d) 5, 20, 35, and 65 km.  A car can return to its starting point, only when the sum of three displacements is greater than the value of the maximum displacement.    In case (a) sum of 4, 6, 8 =18 km which is greater than 15 km. In case (b) sum of 2, 8, 10 =20 km which is smaller than 25 km and so on.    (a)      A ship travels 25 km to the east and then 50 km to the south. Find the ship's displacement from its starting point.   Draw a diagram to see all the displacements of the ship and then use pythagorous theorem to solve the final displacement.     empty      A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .     A stone dropped from a cliff reaches the ground in 4 s. Find the velocity at which it hits the ground.  Think about stone's initial velocity, use acceleration due to gravity to find final velocity.    A stone has been thrown upward with velocity 50 m\/s.   How long does it take to come back on thrower's hand (find the time of flight)?  What is its velocity then?  How high was it gone?      Before we start solving any problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into    "
+  "body": " Examples    Special Instruction: To tackle the physical problems the book uses GUESS strategy for a systematic gatheing of information and finding a realistic and logistic solution. Here is what GUESS stands for.  G: Given, identify the given informations.  U: Unknown, identify the unknown that we are looking for.  E: Equation\/s, set up the equation from given information.  S: Substitute, substitute the number\/s in the equation\/s.  S: Solve, solve the equation to obtain the answer.       A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .       A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m       A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:              How far you can go in 5 minutes if you are running at 10 ?     First convert the velocity into to and also convert time from minute to second before using equation of motion.   Given:        Which of the following sets of displacements might be able to return a car to its starting point?  4, 6, 8, and 15 km  2, 8, 10, and 25 km.  10, 30, 50, and 120 km  5, 20, 35, and 65 km.      A car can return to its starting point, only when the sum of three displacements is greater than the value of the maximum displacement.    In case (a) sum of 4, 6, 8 =18 km which is greater than 15 km.  In case (b) sum of 2, 8, 10 =20 km which is smaller than 25 km and so on.    a.      A ship travels 25 km to the east and then 50 km to the south. Find the ship's displacement from its starting point.    Draw a diagram to see all the displacements of the ship and then use pythagorous theorem to solve the final displacement.    empty      A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .       A stone dropped from a cliff reaches the ground in 4 s. Find the velocity at which it hits the ground.    Think about stone's initial velocity, use acceleration due to gravity to find final velocity.    A stone has been thrown upward with velocity 50 m\/s.   How long does it take to come back on thrower's hand (find the time of flight)?  What is its velocity then?  How high was it gone?      Before we start solving any problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into    "
 },
 {
   "id": "p-92",
@@ -403,7 +403,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "2.3.5",
   "title": "",
-  "body": "Which of the following sets of displacements might be able to return a car to its starting point? (a) 4, 6, 8, and 15 km (b) 2, 8, 10, and 25 km. (c) 10, 30, 50, and 120 km (d) 5, 20, 35, and 65 km.  A car can return to its starting point, only when the sum of three displacements is greater than the value of the maximum displacement.    In case (a) sum of 4, 6, 8 =18 km which is greater than 15 km. In case (b) sum of 2, 8, 10 =20 km which is smaller than 25 km and so on.    (a)   "
+  "body": "  Which of the following sets of displacements might be able to return a car to its starting point?  4, 6, 8, and 15 km  2, 8, 10, and 25 km.  10, 30, 50, and 120 km  5, 20, 35, and 65 km.      A car can return to its starting point, only when the sum of three displacements is greater than the value of the maximum displacement.    In case (a) sum of 4, 6, 8 =18 km which is greater than 15 km.  In case (b) sum of 2, 8, 10 =20 km which is smaller than 25 km and so on.    a.   "
 },
 {
   "id": "example-16",
@@ -412,7 +412,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "2.3.6",
   "title": "",
-  "body": "  A ship travels 25 km to the east and then 50 km to the south. Find the ship's displacement from its starting point.   Draw a diagram to see all the displacements of the ship and then use pythagorous theorem to solve the final displacement.     empty   "
+  "body": "  A ship travels 25 km to the east and then 50 km to the south. Find the ship's displacement from its starting point.    Draw a diagram to see all the displacements of the ship and then use pythagorous theorem to solve the final displacement.    empty   "
 },
 {
   "id": "example-17",
@@ -430,7 +430,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "2.3.8",
   "title": "",
-  "body": "A stone dropped from a cliff reaches the ground in 4 s. Find the velocity at which it hits the ground.  Think about stone's initial velocity, use acceleration due to gravity to find final velocity.   "
+  "body": "  A stone dropped from a cliff reaches the ground in 4 s. Find the velocity at which it hits the ground.    Think about stone's initial velocity, use acceleration due to gravity to find final velocity.   "
 },
 {
   "id": "example-19",
@@ -613,9 +613,9 @@ var ptx_lunr_docs = [
   "body": " Work, Energy, and Power    Work: If an object is displaced along the same direction as of the applied force then work is said to be done by the force. In the figure below force is pushing a block of mass along its direction for a distance of , then work done, by this force can be calculated by Work is a scalar quantity as it is a measure of transfer of energy from one object to another. The SI unit of work is Joule . In FPS system, , and in CGS system, are the work units.   Work done by the forces    Work done by the force     Work done by the slanted force        A horizontal force of moves a block of mass along a horizontal direction for a distance of . How much work is done by the force?         In figure (a) force is along the direction of horizontal and the block is also displaced along the same direction from point A to point B. In this case work done by the force is given by multiplication of force and the displacement . In this figure work done by the weight and normal force is zero as these forces are perpendicular to the displacement . However, in figure (b) work done by the slanted force is not zero but can be determined by the projected force which is not in the scope of this book. Remember for work to be done, foce and displacemenet must be non-zero. Work may be positive, negative, and zero. For example: work done by applied force along the direction of displacement is positive, work done by the frictional force is negative, and work done by the force perpendicular to the displacement is zero.  Energy: The capacity of doing work by a force is called an energy. It is also a scalar quantity and has the same unit as work. There are many forms of energy, but they all fall into two categories: potential energy and kinetic energy. These energies are also called a mechanical energy. Potential energy is the energy of position of the object. It is also a stored energy on the object which is equal to the work done on the object to bring it to this position. There are several forms of potential energy, including: gravitational potential energy, chemical energy, elastic energy, nuclear energy, sound energy, heat energy, light energy, geothermal energy, etc. Chemical energy: It is energy stored in the bonds of atoms and molecules. It is the energy that holds these particles together. Foods, biomass, petroleum, and natural gas are some examples of stored chemical energy. During photosynthesis, sunlight gives plants the energy they need to build complex chemical compounds. When these compounds are later broken down, the stored chemical energy is released as heat, light, motion, and sound. Elastic energy: It is an energy stored in objects by the application of a restoring force. Compressed springs and stretched rubber bands are examples of elastic energy. Nuclear energy: It is an energy stored in the nucleus of an atom that binds the nucleus together. The energy can be released when the nuclei are combined or split apart. Nuclear power plants split the nuclei of uranium atoms in a process called fission reaction fission reaction . The sun combines the nuclei of hydrogen atoms into helium atoms in a process called fusion reaction fusion reaction . In both the fission and fusion reactions, mass is converted into energy, according to Einstein's mass-energy principle. Gravitational potential energy: or Potential energy: It is the energy of position or place. It is the work done in lifting an object against gravity near the earth's surface. Gravitational Potential energy depends only on the distance from the ground, not on the object's motion. It is given by Here is the weight of the object and distance is the height at which the object is lifted. A rock resting at the top of a hill contains gravitational potential energy because of its position. In hydropower dam, water in the reservoir stored a gravitational potential energy. Kinetic energy: It is the energy of a body due to its motion. If a body of mass is moving with a velocity then kinetic energy is given by, .    Work-Energy Theorem  Let us apply Newton's II law into II equation of motion and rearange them.  Here, is final kinetic energy and is initial kinetic energy. Hence, is change in kinetic energy. Therefore, work done = change in kinetic energy. or This is known as work-energy theorem. Meaning the amount of work is done on a body is equal to its change in kinetic energy or vice a versa along the straight line.    A block of mass at rest is being pushed by an unknow force along the horizontal to bring it at 5 velocity.  How much work is done by the force?  If the body moves to a 2 m distance in this process. Find the value of unkown force.      Given: , , , .                 power  The rate of doing work is called power. It is also the rate at which the energy can be transfered. Power tell us that how fast the work has been done. Power can be expressed as  Its SI unit is Watt (w=j\/s).    Find the power a horse who does 7460 J of work in 10 second.      746 watt of power is also called 1 horsepower.       A car engine of 200kW power pushes the car to 25 m\/s. Find the thrust (force) produces by its engine.          "
 },
 {
-  "id": "p-162",
+  "id": "p-164",
   "level": "2",
-  "url": "sec_third-intro.html#p-162",
+  "url": "sec_third-intro.html#p-164",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -640,9 +640,9 @@ var ptx_lunr_docs = [
   "body": "  A horizontal force of moves a block of mass along a horizontal direction for a distance of . How much work is done by the force?        "
 },
 {
-  "id": "p-166",
+  "id": "p-168",
   "level": "2",
-  "url": "sec_third-intro.html#p-166",
+  "url": "sec_third-intro.html#p-168",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -685,18 +685,18 @@ var ptx_lunr_docs = [
   "body": " Conservation Principles   Conservation principles tell that some physical quantities remains constant through the change. Conservation principles began to play a central role in scientific theories from century. Galileo, Descartes, Huygens, Leibniz, and Newton established their approaches to physics on the the principle of inertia: the principle that tells a body will undergo uniform rectilinear motion unless it is disturbed. There are many conservation principles but here we are only discussing three of them.    Principle of Conservation of Energy  It states that in an isolated system, the total energy of the system is conserved. That is energy can neither be created nor be destroyed, it can only be converted from one form of energy to another. For example, when a stone falls from a roof its potential energy is converted into kinetic energy just before it hits the ground. When friction slows down the block to a stop, the kinetic energy is converted into thermal energy. In case of mechanical energy, the sum of kinetic energy and potential energy is conserved. That is, total energy at any moment of time is always same. Mechanical energy is due to the position and motion of the object. Therefore, In simple pendulum, when the bob is left from a displaced position it starts swinging to and fro motion due to conservation of energy. As its potential energy (PE) is converted into kinetic energy (KE) at the mean position acquire maximum velocity and keep moving otherside of mean position due to inertia. Once it reaches to another extrema it falls back again and retraces it path again and again. Click this link simple pendulum and try to understand conservation of energy principle. During the motion of a swinging pendulum, the energy is constantly changing from KE (kinetic energy) to PE (potential energy).  KE is MAX at lowest point,  KE is MIN at the top of the path ( ),  PE is MAX at top of path.      Conservation of Momentum  We have defined momentum in . Momentum, is also called a linear momentum as motion of the object is in straight line path. From Newton's II law we know that . If the force remains zero then, . This tells us that . Meaning, if total external force acting on a system is zero, then total linear momentum of the system, constant. This is known as principle of conservation of momentum. Hence, in the case of conservaiton of mementum, final momentum of the system is equal to the initial momentum of the system i.e.,  Newton's Cradle Click on the link to understand the conservation of linear momentum.    Collision  Momentum conservation is very useful in collision problems because the collision force is internal and hence does not change the total momentum. The impulse of a collision is the total momentum transferred during the collision, where a collision is an event where a very large force is exerted over a body for a very short interval of time, . During that interval magnitude of force is continuously changing. Therefore, the impulse of a force is the product of the average force and the time interval during the contact.   Collision provides a way to better understand the motion. A collision is an interaction between two objects that may or may not have made physical contact. In a collision the colliding objects experience a pair of forces acting on them. The direction of the force on the first object is opposite to the direction of the force on the second object and these forces are equal in magnitude. These forces are Newton's III law pair. In an isolated system, total momentum is always conserved, hence such forces often increase the momentum of one object and decrease the momentum of the other. There are two kinds of collisions, elastic collision and inelastic collision. Elastic collision: objects are not deformed, e.g. bouncing balls, car's bumper, etc. Inelastic collision: objects become permanently deformed, e.g. auto accidents, throwing a mud on wall. Kinetic energy is only conserved in an elastic collission but not in an inelastic collision. However, momentum is conseved in both types of collisions. Total energy remains conserved in both types of collision.    Angular Momentum  Angular momentum is the momentum associated with a body in rotation about some axis. It is also a vector quantity. The direction of angular momentum is parallel to the axis of rotation. Spinning ball or rotating wheel has an angular momentum. Angular momentum is represented by, . Angular momentum is defined by Where is called moment of inertia and is called the rotational velocity of the object. Moment of inertia, tells us that how the mass of a body is distributed relative to the axis of rotation. Moment of Inertia, I: is an inability of a material to change its state of rotational motion. It is defined as here, is the object distance from the axis of rotation.    Torque  Just as force plays a role in moving object in linear motion, torque plays the same role in rotational an object about an axis. Torque in rotational motion is a linear analogue of force. Actually, torque is a turning effect of force which acts on a body in specific direction and at specific position. For example, if a force is applied at the center of mass of a body it will not produce any torque. But, if the same amount of force is acting off center then the body starts rotating about an axis. Just as force is a push or a pull, torque is a twist to an object around a specific axis. The magnitude of torque depends on the magnitude of applied force and the lever arm and ia given by     Conservation of Angular Momentum  Conservation of angular momentum tells that in rotaiton, initial angular momentum is always equal to final angular momentum of the body if no external torque is acting on it. That is If the moment of inertia of a rotaing body decreases then rotational velocity is going to increase. For example: 1. when ice skaters spin by pulling their arms inwards their rotational speed increase but their rotational speed decrease when they stretched their arms outwards. 2. A system of planets orbiting around a star has no net external torque acting, so its angular momentum is constant. Hence, when a planet travels along an elliptical orbit, its speed reduces when it is further away from the star and its speed increases as it approaches the star star-planet system . Look at the planetary motion of Nereid (Naptune's moon) in the law of orbits animation.   "
 },
 {
-  "id": "p-179",
+  "id": "p-181",
   "level": "2",
-  "url": "sec_third-conserv.html#p-179",
+  "url": "sec_third-conserv.html#p-181",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "collision "
 },
 {
-  "id": "p-181",
+  "id": "p-183",
   "level": "2",
-  "url": "sec_third-conserv.html#p-181",
+  "url": "sec_third-conserv.html#p-183",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -709,7 +709,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.3",
   "title": "Examples",
-  "body": " Examples     A moving object does not necessarily have  momentum.  velocity.  kinetic energy.  potential energy.     Think of what if the object is moving on the ground.     d.      What happens when two or more objects collide  the total momentum remains the same of all the objects.  the total kinetic energy remains the same of all the objects.  the momentum of each object never changes.  the kinetic energy of each object never changes.     Read the conservation principles.     a.      You are dropping a golf ball and a ping-pong ball from a high tower on the surface of a planet which has no air. Which of the following quantities remain the same when they have fallen halfway down?  kinetic energy.  potential energy.  speed.  acceleration due to gravity.     Read section      c. and d.      Find the work done by a force if you are holding a 5 kg object 2m above the ground for 40 second.   Read section      Force has not displaced the object, so distance =0. Hence     0.     If the kinetic energy of a bullet of mass 400 g is 50kJ. Find its velocity.   Given: m=400g = 0.4 kg, KE=50 kJ =        500 m\/s.     Find the linear momentum of a 50 kg dog running at 5 m\/s.   Given: m=50 kg, v=5 p =?              Find the recoil velocity of a rocket of mass 100kg when it ejects 50 g of gas from its propulsion pistol at a speed of 50 m\/s.    Use conservation of momentum principle.    Given:       "
+  "body": " Examples     A moving object may or may not have  momentum.  velocity.  kinetic energy.  potential energy.      Think of what if the object is moving on the ground.    d.      When two or more objects collide their  total momentum remains the same.  total kinetic energy remains the same.  momentum of each object never changes.  kinetic energy of each object never changes.      Read the conservation principles.    a.      Two objects of same volume but different masses are bing dropped from the top of a building onto the ground. Which of the following quantities remains the same when they have fallen halfway down? Neglect air resistance.  kinetic energy.  potential energy.  speed.  acceleration due to gravity.      Read section     c. and d.      If a book of mass 2 kg is hold at 2m above the ground for 40 seconds. How much is the work done?    Read section     Force has not displaced the object, so distance =0. Hence     0.      Find the velocity of 400 g bullet if its kinetic energy is 50kJ.    Given: m=400g = 0.4 kg, KE=50 kJ =        500 m\/s.     Find the linear momentum of a 50 kg dog running at 5 m\/s.   Given: m=50 kg, v=5 p =?              Find the recoil velocity of a rocket of mass 100kg when it ejects 50 g of gas from its propulsion pistol at a speed of 50 m\/s.    Use conservation of momentum principle.    Given:       "
 },
 {
   "id": "example-25",
@@ -718,7 +718,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "3.3.1",
   "title": "",
-  "body": "  A moving object does not necessarily have  momentum.  velocity.  kinetic energy.  potential energy.     Think of what if the object is moving on the ground.     d.   "
+  "body": "  A moving object may or may not have  momentum.  velocity.  kinetic energy.  potential energy.      Think of what if the object is moving on the ground.    d.   "
 },
 {
   "id": "example-26",
@@ -727,7 +727,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "3.3.2",
   "title": "",
-  "body": "  What happens when two or more objects collide  the total momentum remains the same of all the objects.  the total kinetic energy remains the same of all the objects.  the momentum of each object never changes.  the kinetic energy of each object never changes.     Read the conservation principles.     a.   "
+  "body": "  When two or more objects collide their  total momentum remains the same.  total kinetic energy remains the same.  momentum of each object never changes.  kinetic energy of each object never changes.      Read the conservation principles.    a.   "
 },
 {
   "id": "example-27",
@@ -736,7 +736,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "3.3.3",
   "title": "",
-  "body": "  You are dropping a golf ball and a ping-pong ball from a high tower on the surface of a planet which has no air. Which of the following quantities remain the same when they have fallen halfway down?  kinetic energy.  potential energy.  speed.  acceleration due to gravity.     Read section      c. and d.   "
+  "body": "  Two objects of same volume but different masses are bing dropped from the top of a building onto the ground. Which of the following quantities remains the same when they have fallen halfway down? Neglect air resistance.  kinetic energy.  potential energy.  speed.  acceleration due to gravity.      Read section     c. and d.   "
 },
 {
   "id": "example-28",
@@ -745,7 +745,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "3.3.4",
   "title": "",
-  "body": "  Find the work done by a force if you are holding a 5 kg object 2m above the ground for 40 second.   Read section      Force has not displaced the object, so distance =0. Hence     0.   "
+  "body": "  If a book of mass 2 kg is hold at 2m above the ground for 40 seconds. How much is the work done?    Read section     Force has not displaced the object, so distance =0. Hence     0.   "
 },
 {
   "id": "example-29",
@@ -754,7 +754,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "3.3.5",
   "title": "",
-  "body": " If the kinetic energy of a bullet of mass 400 g is 50kJ. Find its velocity.   Given: m=400g = 0.4 kg, KE=50 kJ =        500 m\/s.   "
+  "body": "  Find the velocity of 400 g bullet if its kinetic energy is 50kJ.    Given: m=400g = 0.4 kg, KE=50 kJ =        500 m\/s.   "
 },
 {
   "id": "example-30",
@@ -874,9 +874,9 @@ var ptx_lunr_docs = [
   "body": "  Convert into celsius temperature scale.    Here we use the following relationship    "
 },
 {
-  "id": "p-231",
+  "id": "p-233",
   "level": "2",
-  "url": "sec_fourth-intro.html#p-231",
+  "url": "sec_fourth-intro.html#p-233",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -901,27 +901,27 @@ var ptx_lunr_docs = [
   "body": "  How much heat in calorie is needed to heat 50 kg of water from to .    Given: m = 50 kg =50000 g, , , , and Q=?       "
 },
 {
-  "id": "p-238",
+  "id": "p-240",
   "level": "2",
-  "url": "sec_fourth-intro.html#p-238",
+  "url": "sec_fourth-intro.html#p-240",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Conduction: "
 },
 {
-  "id": "p-239",
+  "id": "p-241",
   "level": "2",
-  "url": "sec_fourth-intro.html#p-239",
+  "url": "sec_fourth-intro.html#p-241",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Convection: "
 },
 {
-  "id": "p-240",
+  "id": "p-242",
   "level": "2",
-  "url": "sec_fourth-intro.html#p-240",
+  "url": "sec_fourth-intro.html#p-242",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -946,9 +946,9 @@ var ptx_lunr_docs = [
   "body": "  Calculate the mass of water in a container of size 25 cm long, 15 cm wide and is filled with water up to 10 cm high. If the density of water is .    The volume of water, Hence, the mass of water in the container is given by .    "
 },
 {
-  "id": "p-246",
+  "id": "p-248",
   "level": "2",
-  "url": "sec_fourth-fluid.html#p-246",
+  "url": "sec_fourth-fluid.html#p-248",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -973,9 +973,9 @@ var ptx_lunr_docs = [
   "body": " Buoyant force    "
 },
 {
-  "id": "p-252",
+  "id": "p-254",
   "level": "2",
-  "url": "sec_fourth-fluid.html#p-252",
+  "url": "sec_fourth-fluid.html#p-254",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1186,7 +1186,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.1",
   "title": "Charges",
-  "body": " Charges   Charge is an entity which provides an electric property of the matter. Charge is of two types, positive charge and negative charge. Electrons in an atom consist of negative charge and protons of the atom consist of positve positive charge. Similar kinds of charges always repel each other and unlike charges attract each other. Charge is a scalar physical quantity. Charge is conserved meaning charge can neither be created nor be destroyed; it can only be transferred from one place to another or from one object to another. The net charge on any system is always constant. All matter is composed of atoms and atoms are composed of three elementary particles, called electrons, protons, and neutrons. Charge is also quantized meaning charge always comes in discrete amounts, and the smallest possible amount of charge that any object could have is . This is the amount of charge on one electron. Whenever an atom gains or loses an electron, atom is ionized. The ionized atom is always charged. An ion is simply an atom with a net charge. The ion can be positive or negative. If is the total negative charge on any object and is the charge of electron, then total number of electron, n on that object can be find using the following equation. where     A glass is rubbed vigorosly with a fur and found that it gained of charge. Calculate how many electrons has the glass rod lost?        electrons.        Coulomb's Law  The force of attraction or repulsion between any two point charges is directly proportional to the product of these charges and inversely proportional to the square of distance between them. The direction of force is always acting along the line joining these two point charges. If is a force acting on the charges and , and is a distance between the two charges (see figure below) then from Coulumb's law Here, Coulomb's constant, . This law only works for two point charges at rest. Hence, the Coulomb's law is also known as law of electrostatic force.   Coulomb's force    on unlike charges     on like charges        If the distance between an electron and a proton in a hydrogen atom is . Find the electrostatic force acting btween the electron and the proton.        . Negative sign explains that the force is attractive in nature.        Electric Field  The space around a charge where force of attraction or repulsion can be experienced by any other charged particle is called an electric field. Electric field is also known as electrostatic field intensity. It is an inherent property of a charge. An electric field is produced by a charge and is experienced by another charge. It is an electric field of a charge which tells another charge how to move in the space if it is free to do so. Electric field is a force acting on a unit charge and is a vector quantity. Electric field lines: It is an imaginary path of a unit positive charge in an electric field. Electric field lines are aslo known as electric lines of force. It is always pointed radially outward for a positve charge and radially inward for a negative charge as shown in figure below.   Electric Lines of Force    Field lines due to a positive charge     Field lines due to a negative charge     Field lines due to two unlike charges     Field lines due to two like +ve charges        Materials on Electrical Point of View  On the basis of electrical behavior there are four types of materials exist in nature they are conductor, insulator, semiconductors, and superconductors.   Conductor: It is a material where charge carriers (electrons or ions) are free to move within it. Copper, aluminum, gold, mercury, iron, water-salt solution, etc. are few examples of conductors. In a conductor outermost electrons of an atom are loosely bounded with its nucleus and hence are free to move throughout the material even at very low temperature. The random motion of electrons causes zero net electric current in a conductor unless an external electric field is applied on it. Insulator: It is a material where electrons are tightly bounded with their atom and can not move very easily. Plastics, glass, rubber, wood, porcelain, etc. are few examples of insulators. Check the simulation link conductor & insulator  Semiconductor: It is a material having properties between insulator and conductor. Silicon and germanium are good example of it. At low temperature this material behaves as an insulator and at high temperature it behaves as a conductor. The conductivity of semiconductor can be increased enormously by doping of this material with a very small amount of suitable dopants such as boron, phosphorous, or arsenic. Superconductor: It is a material which transfers electrons from one atom to another throughout the material without any resistance. No loss of energy can be observed when material conduct electricity. Mercury shows superconducting nature at temperature below 4 Kelvin.   "
+  "body": " Charges   Charge is an entity which provides an electric property of the matter. Charge is of two types, positive charge and negative charge. Electrons in an atom consist of negative charge and protons of the atom consist of positve positive charge. Similar kinds of charges always repel each other and unlike charges attract each other. Charge is a scalar physical quantity. Charge is conserved meaning charge can neither be created nor be destroyed; it can only be transferred from one place to another or from one object to another. The net charge on any system is always constant. All matter is composed of atoms and atoms are composed of three elementary particles, called electrons, protons, and neutrons. Charge is also quantized meaning charge always comes in discrete amounts, and the smallest possible amount of charge that any object could have is . This is the amount of charge on one electron. Whenever an atom gains or loses an electron, atom is ionized. The ionized atom is always charged. An ion is simply an atom with a net charge. The ion can be positive or negative. If is the total negative charge on any object and is the charge of electron, then total number of electron, n on that object can be find using the following equation. where     A glass is rubbed vigorosly with a fur and found that it gained of charge. Calculate how many electrons has the glass rod lost?        electrons.        Coulomb's Law  The force of attraction or repulsion between any two point charges is directly proportional to the product of these charges and inversely proportional to the square of distance between them. The direction of force is always acting along the line joining these two point charges. If is a force acting on the charges and , and is a distance between the two charges (see figure below) then from Coulumb's law Here, Coulomb's constant, . This law only works for two point charges at rest. Hence, the Coulomb's law is also known as law of electrostatic force.   Coulomb's force    on unlike charges     on like charges        If the distance between an electron and a proton in a hydrogen atom is . Find the electrostatic force acting btween the electron and the proton.        . Negative sign explains that the force is attractive in nature.        Electric Field  The space around a charge where force of attraction or repulsion can be experienced by any other charged particle is called an electric field. Electric field is also known as electrostatic field intensity. It is an inherent property of a charge. An electric field is produced by a charge and is experienced by another charge. It is an electric field of a charge which tells another charge how to move in the space if it is free to do so. Electric field is a force acting on a unit charge and is a vector quantity. Electric field lines: It is an imaginary path of a unit positive charge in an electric field. Electric field lines are aslo known as electric lines of force. It is always pointed radially outward for a positve charge and radially inward for a negative charge as shown in figure below.   Electric Lines of Force    due to a +ve charge     due to a -ve charge     due to two unlike charges     due to two like +ve charges        Materials on Electrical Point of View  On the basis of electrical behavior there are four types of materials exist in nature they are conductor, insulator, semiconductors, and superconductors.   Conductor: It is a material where charge carriers (electrons or ions) are free to move within it. Copper, aluminum, gold, mercury, iron, water-salt solution, etc. are few examples of conductors. In a conductor outermost electrons of an atom are loosely bounded with its nucleus and hence are free to move throughout the material even at very low temperature. The random motion of electrons causes zero net electric current in a conductor unless an external electric field is applied on it. Insulator: It is a material where electrons are tightly bounded with their atom and can not move very easily. Plastics, glass, rubber, wood, porcelain, etc. are few examples of insulators. Check the simulation link conductor & insulator  Semiconductor: It is a material having properties between insulator and conductor. Silicon and germanium are good example of it. At low temperature this material behaves as an insulator and at high temperature it behaves as a conductor. The conductivity of semiconductor can be increased enormously by doping of this material with a very small amount of suitable dopants such as boron, phosphorous, or arsenic. Superconductor: It is a material which transfers electrons from one atom to another throughout the material without any resistance. No loss of energy can be observed when material conduct electricity. Mercury shows superconducting nature at temperature below 4 Kelvin.   "
 },
 {
   "id": "example-45",
@@ -1222,12 +1222,12 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "5.1.4",
   "title": "",
-  "body": " Electric Lines of Force    Field lines due to a positive charge     Field lines due to a negative charge     Field lines due to two unlike charges     Field lines due to two like +ve charges     "
+  "body": " Electric Lines of Force    due to a +ve charge     due to a -ve charge     due to two unlike charges     due to two like +ve charges     "
 },
 {
-  "id": "p-295",
+  "id": "p-297",
   "level": "2",
-  "url": "sec_fifth-intro.html#p-295",
+  "url": "sec_fifth-intro.html#p-297",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1243,9 +1243,9 @@ var ptx_lunr_docs = [
   "body": " Electricity   It is a branch of physics which deals with the motion of charges in a conductor. When charge flows from one place to another, an electrical current is formed. An electric current is defined as the rate of flow of charge. If a net charge passes through any conductor in time , then the electric current is given by Its unit is Ampere (A). One ampere of current represents one coulomb of charge passes through a conductor in one second. It is a scalar quantity and its conventional direction is taken as the direction of flow of positive charges. In conductor, current flows solely due to motion of electrons, hence the direction of current is opposite to electrons flow. From the law of conservation of charges current remains constant in a conductor irrespective of the local area of cross-section. When the direction of motion of charge does not change with time, the current is said to be direct current, or DC current. It is commonly used in devices electronic devices like cell phones and computers. If the direction of motion of charges reverses periodically, the current is known as an alternating current, or AC current. It is commonly used in the electrical power systems that supply to homes and commercial applications. AC current goes from positive to negative in a cycle, while DC current is always in the same direction. Current can only exist between two points of different potential (voltage) connected by a conductor and can only exist whenever a conductive path with no breaks is provided. DC & AC Flow of charges in DC current is similar to flowing water, but in AC current, charges do not go any where rather they are oscillating about the mean position at their respective position. Check the simulation link to visualize DC and AC current. DC & AC AC is more efficient to transmit over long distances than DC. This is the reason why AC is used in power transmission and distribution as well as in motors and other equipment. It is also used in many household appliances, such as refrigerators, air conditioners, and washing machines. AC can also be easily transformed to different voltages using a transformer, while this is not easy to achieve with DC. DC voltage can be stored in a device called battery, while AC voltage can not be stored.    Electric Potential (Voltage)  Electric potential, also known as voltage, is a measure of the electric potential energy per unit charge in an electric field. That is, or, . It is the amount of work required to move a unit positive charge from one point to another in an electric field. The unit of electric potential is the volt (V). A higher electric potential difference between two points indicates a greater amount of energy required to move a unit charge between those points. Voltage can be think of like a \"push\" for a charge. The higher the voltage, the more \"push\" the charge experience to flow through wires. Charge can only flow from high potential(voltage) to low potential (voltage). It's important to note that just like water can be dangerous if not handled properly, electricity can also be dangerous if not handled with care.    Ohm's Law  Ohm's law states that the current flowing through a conductor is directly proportional to the voltage across the two ends of the conductor, and inversely proportional to the resistance between them. It can be mathematically expressed as or, here I is the current, V is the voltage, and R is the resistance of the conductor. Resistance: is a restriction imposed by a conductor on the motion of a current. Motion of charge carriers (electrons) are not very smooth in a conductor as they bump onto the other electrons and positive charge residual atoms during their motion. Such restrictions in flow of electrons is measured as a resistance of a conductor in current flow. It is denoted by and its unit is Ohms ( ). Electrical Power: It is the measure of energy transferred or consumed per unit time i.e.,   Hence power is also defined as the product of current and voltage. Its unit is Watts (W). One watt means consuming the one joule of energy every second.  Now from Ohm's law,  Hence, the power of electrical circuit is given as     Electrical Shock: According to Ohm's law if resistance of the conductor is low then the higher current can flow through it. High current can be deadly. Actually, a “voltage” does not go “into” your body rather current can pass through it when charges flow toward a lower potential. In order to get electric shock atleast of current must pass through our body. In dry condition, human body has a resistance of about , so to have current flowing through our body we need to touch the voltage source of about , as shown in the calculation below. In wet condition, human body resistance becomes only , so to get current through our body we need to touch the voltage source of about .    Electrical Circuits  Electrical circuit is a network of electrical elements (such as resistance (bulb), battery, conductor, switch, etc.) through which current can flow in a closed path. Electrical circuits can be of two types,  Series Circuit: in this type of circuits all the electrical components are connected one after another in such a way that the same current flows through each components as shown in figuer below. An example of a series circuit is a string of Christmas lights, where each bulb is connected to the next in a line. If one bulb burns out, the entire circuit is broken and none of the lights will turn on.  Series circuit      Parallel Circuit: in this type of circuits all the electrical components are connected side by side in such a way that the voltage across each component is the same as shown in figuer below. An example of a parallel circuit is a house's electrical system, where different appliances are connected to the same circuit but have their own separate paths for current to flow through. If one path is broken or one appliance stops working, it doesn't affect the other appliances or the overall circuit.  Parallel circuit       series & parallel circuit To change from series to parallel circuit, Please hold the bulb and rotate the circuit in the simulation.   "
 },
 {
-  "id": "p-296",
+  "id": "p-298",
   "level": "2",
-  "url": "sec_fifth-electr.html#p-296",
+  "url": "sec_fifth-electr.html#p-298",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1321,7 +1321,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.4",
   "title": "Examples",
-  "body": " Examples    Find the current in a wire if electrons is passing every second.    See the equations and        Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.    From Ohm's Law        If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.    Here = 20 mint\/day = = 10 h. Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = .      How much current is passing through the ciruit if electric heater is running at 120 V?    From equation        What is the resistance of 50 W light bulb filament running at 120V?    From equation        Find an electric energy stored in a 10V laptop battery rated at 13000 mAh.    using equations and , we have      Here, , remember large unit of charge is also Ah by using eqation . Hence, from equation  by using equation where,    Hence, Energy, E= 130Wh. [since, ]       The primary coil of a transformer has 500 turns and its secondary coil has 50 turns. If the current in the secondary coil is 25 A, find the current in its primary coil.    Given: , , ,  From equation      "
+  "body": " Examples    Find the current in a wire if electrons is passing every second.    See the equations and        Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.    From Ohm's Law        If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.    Here = 20 mint\/day = = 10 h.  Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = \\(225 cents = $2.25\\).      How much current is passing through the ciruit if electric heater is running at 120 V?    From equation        What is the resistance of 50 W light bulb filament running at 120V?    From equation        Find an electric energy stored in a 10V laptop battery rated at 13000 mAh.    using equations and , we have      Here, , remember large unit of charge is also Ah by using eqation . Hence, from equation  by using equation where,    Hence, Energy, E= 130Wh. [since, ]       The primary coil of a transformer has 500 turns and its secondary coil has 50 turns. If the current in the secondary coil is 25 A, find the current in its primary coil.    Given: , , ,  From equation      "
 },
 {
   "id": "example-47",
@@ -1348,7 +1348,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "5.4.3",
   "title": "",
-  "body": "  If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.    Here = 20 mint\/day = = 10 h. Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = .   "
+  "body": "  If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.    Here = 20 mint\/day = = 10 h.  Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = \\(225 cents = $2.25\\).   "
 },
 {
   "id": "example-50",
@@ -1393,7 +1393,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "5.5",
   "title": "Exercise",
-  "body": "  Exercise  An atom or a molecule when lost an electron it becomes a  positive ion  negative ion  neutral  conductor    Ohms law defines current flow through what type of substance?  Conductor  Insulator  Non-conductor  Both a. and b.    Which of the following is the symbol of ohms?        What substance is attracted to a magnet?  iron and its alloys.  silver.  water.  all substances.    What happens to the magnetic field when a magnet is strongly heated or hammered?  becomes weaker.  is unchanged.  becomes stronger.  reverses its direction.    What is the direction of the magnetic field under the power line if a current is flowing through it towards south?  east.  west.  north.  south.    Calculate the force of repulsion between two charges of placed at apart.  If two charges placed at 2 cm experience 5 N force. what would be the magnitude of this force if the charges are shifted to 10 cm apart.     "
+  "body": "  Exercise  An atom or a molecule when lost an electron it becomes a  positive ion  negative ion  neutral  conductor    Ohms law defines current flow through what type of substance?  Conductor  Insulator  Non-conductor  Both a. and b.    Which of the following is the symbol of ohms?        What substance is attracted to a magnet?  iron and its alloys.  silver.  water.  all substances.    What happens to the magnetic field when a magnet is strongly heated or hammered?  becomes weaker.  is unchanged.  becomes stronger.  reverses its direction.    What is the direction of the magnetic field under the power line if a current is flowing through it towards south?  east.  west.  north.  south.    A transformer has more turns on its primary coil than on the secondary coil. It is a  step up transformer  step down transformer  None of the above  both step up and step down transformer.    Calculate the force of repulsion between two charges of placed at apart.  If two charges placed at 2 cm experience 5 N force. what would be the magnitude of this force if the charges are shifted to 10 cm apart.  Calculate the force of repulsion between two charges of placed at apart.  A transformer has 500 turns in its primary coil and connected to 400 V. Find the votage in the secondary coil if it has 25 turns.  Recognize the series and parallel circuits from the ciruit diagrams given below.  DC circuits                    "
 },
 {
   "id": "exercise-40",
@@ -1456,7 +1456,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.7",
   "title": "",
-  "body": "Calculate the force of repulsion between two charges of placed at apart. "
+  "body": "A transformer has more turns on its primary coil than on the secondary coil. It is a  step up transformer  step down transformer  None of the above  both step up and step down transformer.   "
 },
 {
   "id": "exercise-47",
@@ -1465,7 +1465,43 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.5.8",
   "title": "",
+  "body": "Calculate the force of repulsion between two charges of placed at apart. "
+},
+{
+  "id": "exercise-48",
+  "level": "2",
+  "url": "ex_fifth.html#exercise-48",
+  "type": "Exercise",
+  "number": "5.5.9",
+  "title": "",
   "body": "If two charges placed at 2 cm experience 5 N force. what would be the magnitude of this force if the charges are shifted to 10 cm apart. "
+},
+{
+  "id": "exercise-49",
+  "level": "2",
+  "url": "ex_fifth.html#exercise-49",
+  "type": "Exercise",
+  "number": "5.5.10",
+  "title": "",
+  "body": "Calculate the force of repulsion between two charges of placed at apart. "
+},
+{
+  "id": "exercise-50",
+  "level": "2",
+  "url": "ex_fifth.html#exercise-50",
+  "type": "Exercise",
+  "number": "5.5.11",
+  "title": "",
+  "body": "A transformer has 500 turns in its primary coil and connected to 400 V. Find the votage in the secondary coil if it has 25 turns. "
+},
+{
+  "id": "exercise-51",
+  "level": "2",
+  "url": "ex_fifth.html#exercise-51",
+  "type": "Exercise",
+  "number": "5.5.12",
+  "title": "",
+  "body": "Recognize the series and parallel circuits from the ciruit diagrams given below.  DC circuits                "
 },
 {
   "id": "sec_sixth-intro",
@@ -1540,18 +1576,18 @@ var ptx_lunr_docs = [
   "body": "  My Exercises   Is this an exercise?   Yes.   It is, but not a very good one.    Another, with a hint.   The hint.      "
 },
 {
-  "id": "exercise-48",
+  "id": "exercise-52",
   "level": "2",
-  "url": "ex_sixth.html#exercise-48",
+  "url": "ex_sixth.html#exercise-52",
   "type": "Exercise",
   "number": "6.3.1",
   "title": "",
   "body": " Is this an exercise?   Yes.   It is, but not a very good one.  "
 },
 {
-  "id": "exercise-49",
+  "id": "exercise-53",
   "level": "2",
-  "url": "ex_sixth.html#exercise-49",
+  "url": "ex_sixth.html#exercise-53",
   "type": "Exercise",
   "number": "6.3.2",
   "title": "",
@@ -1666,9 +1702,9 @@ var ptx_lunr_docs = [
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-31",
+  "id": "figure-35",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-31",
+  "url": "sec_features-blocks.html#figure-35",
   "type": "Figure",
   "number": "16.1.3",
   "title": "",

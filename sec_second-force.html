@@ -183,7 +183,7 @@ window.MathJax = {
 \newcommand{\Z}{\mathbb Z}
 \newcommand{\Q}{\mathbb Q}
 \newcommand{\R}{\mathbb R}
-\newcommand{\H}{\mathcal H}
+\newcommand{\T}{\mathcal T}
 \newcommand{\lt}{&lt;}
 \newcommand{\gt}{&gt;}
 \newcommand{\amp}{&amp;}
@@ -399,7 +399,7 @@ window.MathJax = {
 <dfn class="terminology">Friction:</dfn> Friction is a resistive force that opposes or tends to oppose relative motion between two objects. It is a force that exists between the surfaces of contact of the two objects. If two systems are in contact and stationary relative to each other, then the friction between them is called <em class="emphasis">static friction</em>. This force arises from mechanical interlocking at the microscopic level plus the electrostatic molecular forces that hold the surfaces themselves together. If two systems are in contact and moving relative to one another, then the friction between them is called <em class="emphasis">kinetic friction</em>. This force arises from forming and breaking of microscopic adhesive bonds between atoms on the surfaces plus some mechanical linkage between the small irregularities on the surfaces. Experimentally it is found that frictional force is proportional to normal force, i.e., <span class="process-math">\(f \propto N \)</span> or,</div>
 <div class="displaymath process-math" id="men-3">
 \begin{equation}
-f = \mu N\text{.}\tag{2.2.1}
+f = \mu N\text{.}\tag{2.3}
 \end{equation}
 </div>
 <div class="para">Where proportionality constant <span class="process-math">\(\mu\)</span> is called the coefficient of friction. It defines the nature of roughness of the surfaces of contact. Friction decreases with increase in smoothness of the surfaces of contact, but if the surfaces are ultra smooth then friction increases because of inter molecular forces starts to act between the two surfaces as they come very close to each other, due to which it becomes harder to make them slide on each other. Friction is a complex force, and its behavior is still not completely understood. On molecular level friction has no existence.</div>
@@ -415,7 +415,7 @@ f = \mu N\text{.}\tag{2.2.1}
 <dfn class="terminology">Normal:</dfn> This is a force of reaction from the surface where the object is placed. It is always perpendicular to the surface of contact. <dfn class="terminology">Tension:</dfn> This force is acting between two objects on opposite ends of the string, in the directions to taut string at the point of contact. This force stretches the string along fixed support. It is a pulling force. <dfn class="terminology">Spring force:</dfn> A spring is a special medium that has ability to restore its shape, if deformed. Any material has elastic property which helps it to restore its shape, if an applied deforming force has been released. From Hook's law a material (spring) exerts a restoring force that is proportional to a deforming force in opposite direction in which it is stretched or compressed. In mathematical form, spring force,</div>
 <div class="displaymath process-math" id="men-4">
 \begin{equation}
-F=-kx\tag{2.2.2}
+F=-kx\tag{2.4}
 \end{equation}
 </div>
 <div class="para">where k is a spring's stiffness, also called an elastic constant and <span class="process-math">\(x\)</span> is stretch made on spring.</div>
@@ -430,7 +430,7 @@ F=-kx\tag{2.2.2}
 <li id="li-88"><div class="para" id="p-derived-li-88">
 <em class="alert">Newton's second law</em> is the measurement of a force which states that the acceleration of the object is directly proportional to the applied force and takes the direction of that force. Newton's II law can be expressed as<div class="displaymath process-math" id="men-5">
 \begin{equation}
-F=ma\text{.}\tag{2.2.3}
+F=ma\text{.}\tag{2.5}
 \end{equation}
 </div>Where <span class="process-math">\(m\)</span> is the mass of the object.</div></li>
 <li id="li-89"><div class="para" id="p-derived-li-89">
@@ -450,33 +450,32 @@ F =\frac{m\Delta v}{t}
 </div>
 <div class="displaymath process-math" id="men-6">
 \begin{equation}
-\therefore Ft = \Delta mv\tag{2.2.4}
+\therefore Ft = \Delta mv\tag{2.6}
 \end{equation}
 </div>
 <div class="para" id="p-84">Here <span class="process-math">\(Ft=I\)</span> is called impulse and <span class="process-math">\(\Delta mv\)</span> is called change in momentum. They are two different physical quantities but their magnitude remains the same. A force acting on an object for a certain time changes the momentum of that object, such change in momentum is called the Impulse. Impulse is a vector quantity and has the same direction as the average force. SI unit of impulse is <span class="process-math">\(Ns\text{.}\)</span>
 </div>
-<article class="example example-like" id="example-9"><h4 class="heading">
+<article class="example example-like" id="example-9"><a href="" data-knowl="" class="id-ref example-knowl original" data-refid="hk-example-9"><h4 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">2.2.3</span><span class="period">.</span>
-</h4>
-<div class="para" id="p-85">A 300 kg horse running with 40 m/s has a momentum of <span class="process-math">\(p=300\times 40 = 12000 kgm/s.\)</span>
-</div></article><article class="example example-like" id="example-10"><h4 class="heading">
+</h4></a></article><div class="hidden-content tex2jax_ignore" id="hk-example-9"><article class="example example-like"><div class="para" id="p-85">A 300 kg horse running with 40 m/s has a momentum of <span class="process-math">\(p=300\times 40 = 12000 kgm/s.\)</span>
+</div></article></div>
+<article class="example example-like" id="example-10"><a href="" data-knowl="" class="id-ref example-knowl original" data-refid="hk-example-10"><h4 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">2.2.4</span><span class="period">.</span>
-</h4>
-<div class="para" id="p-86">When a 430 g soccer ball is kicked, the impact lasts for 0.04 s. Find the magnitude of force that is needed to fly off the ball at 8 m/s.</div> <a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-8" id="solution-8"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-8"><div class="solution solution-like"><div class="para logical" id="p-87"><div class="displaymath process-math" id="md-1">
+</h4></a></article><div class="hidden-content tex2jax_ignore" id="hk-example-10"><article class="example example-like"><div class="para" id="p-86">When a 430 g soccer ball is kicked, the impact lasts for 0.04 s. Find the magnitude of force that is needed to fly off the ball at 8 m/s.</div> <a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-8" id="solution-8"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-8"><div class="solution solution-like"><div class="para logical" id="p-87"><div class="displaymath process-math" id="md-1">
 \begin{align*}
 Ft \amp= \Delta mv\\
 or, Ft \amp= m (v_f-v_i)\\
 or, F\times 0.04 s \amp= 0.43 kg (8 m/s-0)\\
 \therefore F\amp= 86 N
 \end{align*}
-</div></div></div></div></article></section><section class="subsection" id="subsec-ucm-subsection"><h3 class="heading hide-type">
+</div></div></div></div></article></div></section><section class="subsection" id="subsec-ucm-subsection"><h3 class="heading hide-type">
 <span class="type">Subsection</span> <span class="codenumber">2.2.4</span> <span class="title">Uniform Circular Motion</span>
 </h3>
 <div class="para logical" id="p-88">
 <div class="para">In uniform circular motion an object is moving at a constant speed (not velocity) on a circular path. For an object to be in uniform circular motion, there must be a net force acting on it. This force is called a <em class="alert">centripetal force</em> without this force nothing can move in a circular path. This net force is not a physical force of some kind actually some other forces must be there to act like a centripetel force. If the centripetal force vanishes, the object flies off at a tangent to the circle. The centripetal force,</div>
 <div class="displaymath process-math" id="men-7">
 \begin{equation}
-F=\frac{mv^2}{r}\tag{2.2.5}
+F=\frac{mv^2}{r}\tag{2.7}
 \end{equation}
 </div>
 <div class="para">where <span class="process-math">\(m\)</span> is mass of the object, <span class="process-math">\(v\)</span> is speed of the object, and <span class="process-math">\(r\)</span> is radius of the circluar path. Because of necessary centripetal force, sometime we feel difficulty to steer our car around a sharp curve. The sharper the curve (i.e., the smaller the radius) the greater the centripetal force required to keep the car on the curved path. Cetripetal means to look towards the center, hence centripetal force is always acting towards the center of the path. <em class="emphasis">Some examples:</em> 1. We may have noticed that when the string breaks for a whirling stone. The stone flies off along the straight line tangential to the circular path. 2. When swinging a yo-yo around in a circle. The force generated by your arm puts the yo-yo itself in motion, and the tension on the string keeps it moving in a circular path as you twirl it. If the string were to break at any given point, the yo-yo would fly off in a direction that is tangent to the point on the circle that the yo-yo was at when the string broke <a class="external" href="https://xmphysics.com/2022/12/22/centripetal-force/" target="_blank">centripetal force</a><a href="" data-knowl="" class="id-ref fn-knowl original" data-refid="hk-fn-7" id="fn-7"><sup> 1 </sup></a>.</div>
@@ -487,7 +486,7 @@ F=\frac{mv^2}{r}\tag{2.2.5}
 <div class="para">Newton observed that when an object falls it was accelerated toward the earth. Since the cause of such acceleration is an unbalanced force, there must be a force pulling that object toward the earth. On this basis, he came up with an idea called Newton's Law of Universal Gravitation. It states that any two masses in the universe attract each other with a force that is directly proportional to the product of the masses and inversely proportional to the square of the distance between them. Mathematically,</div>
 <div class="displaymath process-math" id="men-8">
 \begin{equation}
-F = G\frac{m_1\times m_2}{d^2}\tag{2.2.6}
+F = G\frac{m_1\times m_2}{d^2}\tag{2.8}
 \end{equation}
 </div>
 <div class="para">here, <span class="process-math">\(G=6.67\times 10^{-11} Nm^2/kg^2\)</span> is an universal gravitational constant, <span class="process-math">\(m_1\)</span> and <span class="process-math">\(m_2\)</span> are the masses of two objects, and <span class="process-math">\(d\)</span> is the distance between the them.</div>
