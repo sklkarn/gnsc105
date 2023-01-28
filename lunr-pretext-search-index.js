@@ -439,7 +439,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "2.4",
   "title": "Exercise",
-  "body": "  Exercise  A car starts from rest accelerated for 5 minutes to achieve 25 velocity. Find its accleration.  A ball thrown upward at 30 m\/s will continue to rise for about how long?  Find the maximum height attained by the ball if it is thrown vertically up with 30 m\/s velocity.  A car starts from rest with a constant acceleration of 4 . How much time does the car take to cover the first 160 m?  A break is applied in car moving at 10 undergoes an acceleration of .  How far does the car travel in the next 5 s?  How far does the car travel before it comes to stop?    When a 20 N force is applied on an object it starts acceleratinf by . What net force would give the same object an acceleration of ?  A 3000 kg truck accelerates from 5 m\/s to 25 m\/s in 8 s. How much is the net force acting on the truck?  A force of 2 N acts on a 2 kg object, initially at rest, for 2 s. How far does the object move during that time?  How much braking force is needed to bring a 4000 kg truck to a stop from a speed of 20 m\/s in 5 s?   A 300 g ball is struck with a bat with a force of 150 N. If the bat was in contact with the ball for 0.02 s, find the velocity at which the ball flew off?    From the roof of house one stone is thrown upward and another identical stone is dropped down. What will happen to both the stones when they reach the ground?    They will have the same velocity.  They will have the same acceleration.  They reach the ground at the same time.  None of the choices are correct.     Answer: b. They will have the same acceleration when reach the ground.    What will happen to the two balls, when first ball A is thrown horizontally and second ball B is thrown upward?    Ball A will have the greater downward acceleration.  Ball B will have the greater downward acceleration.  Neither will have any downward acceleration.  They will have the same downward acceleration.     What is the mass of an elephant who weighs 10000 N?   An object moving in a circle at constant speed is accelerated    toward the center of the circle.  in the direction of its motion.  away from the center of the circle.  Any of these choices, depending on the circumstances.     Find the centripetal force on the ball of mass 200 g moving in a circle 20 cm in radius at a speed of 4 m\/s.  Find the weight of a person whose mass is 80 kg on the earth is now on a spacecraft at a height of 2 earth radii above the earth's surface.  "
+  "body": "  Exercise  A car starts from rest accelerated for 5 minutes to achieve 25 velocity. Find its accleration.  A ball thrown upward at 30 m\/s will continue to rise for about how long?  Find the maximum height attained by the ball if it is thrown vertically up with 30 m\/s velocity.  A car starts from rest with a constant acceleration of 4 . How much time does the car take to cover the first 160 m?  A break is applied in car moving at 10 undergoes an acceleration of .  How far does the car travel in the next 5 s?  How far does the car travel before it comes to stop?    When a 20 N force is applied on an object it starts accelerating by . What net force would give the same object an acceleration of ?  A 3000 kg truck accelerates from 5 m\/s to 25 m\/s in 8 s. How much is the net force acting on the truck?  A force of 2 N acts on a 2 kg object, initially at rest, for 2 s. How far does the object move during that time?  How much braking force is needed to bring a 4000 kg truck to a stop from a speed of 20 m\/s in 5 s?  A 300 g ball is struck with a bat with a force of 150 N. If the bat was in contact with the ball for 0.02 s, find the velocity at which the ball flew off?   From the roof of house one stone is thrown upward and another identical stone is dropped down. What will happen to both the stones when they reach the ground?    They will have the same velocity.  They will have the same acceleration.  They reach the ground at the same time.  None of the choices are correct.     Answer: b. They will have the same acceleration when reach the ground.    What will happen to the two balls, when first ball A is thrown horizontally and second ball B is thrown upward?    Ball A will have the greater downward acceleration.  Ball B will have the greater downward acceleration.  Neither will have any downward acceleration.  They will have the same downward acceleration.     What is the mass of an elephant who weighs 10000 N?   An object moving in a circle at constant speed is accelerated    toward the center of the circle.  in the direction of its motion.  away from the center of the circle.  Any of these choices, depending on the circumstances.     Find the centripetal force on the ball of mass 200 g moving in a circle 20 cm in radius at a speed of 4 m\/s.  Find the weight of a person whose mass is 80 kg on the earth is now on a spacecraft at a height of 2 earth radii above the earth's surface.  "
 },
 {
   "id": "exercise-7",
@@ -493,7 +493,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2.4.6",
   "title": "",
-  "body": "When a 20 N force is applied on an object it starts acceleratinf by . What net force would give the same object an acceleration of ? "
+  "body": "When a 20 N force is applied on an object it starts accelerating by . What net force would give the same object an acceleration of ? "
 },
 {
   "id": "exercise-13",
@@ -523,22 +523,13 @@ var ptx_lunr_docs = [
   "body": "How much braking force is needed to bring a 4000 kg truck to a stop from a speed of 20 m\/s in 5 s? "
 },
 {
-  "id": "example-20",
-  "level": "2",
-  "url": "ex_second.html#example-20",
-  "type": "Example",
-  "number": "2.4.1",
-  "title": "",
-  "body": " A 300 g ball is struck with a bat with a force of 150 N. If the bat was in contact with the ball for 0.02 s, find the velocity at which the ball flew off?  "
-},
-{
   "id": "exercise-16",
   "level": "2",
   "url": "ex_second.html#exercise-16",
   "type": "Exercise",
   "number": "2.4.10",
   "title": "",
-  "body": " From the roof of house one stone is thrown upward and another identical stone is dropped down. What will happen to both the stones when they reach the ground?    They will have the same velocity.  They will have the same acceleration.  They reach the ground at the same time.  None of the choices are correct.     Answer: b. They will have the same acceleration when reach the ground.  "
+  "body": "A 300 g ball is struck with a bat with a force of 150 N. If the bat was in contact with the ball for 0.02 s, find the velocity at which the ball flew off? "
 },
 {
   "id": "exercise-17",
@@ -547,7 +538,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2.4.11",
   "title": "",
-  "body": " What will happen to the two balls, when first ball A is thrown horizontally and second ball B is thrown upward?    Ball A will have the greater downward acceleration.  Ball B will have the greater downward acceleration.  Neither will have any downward acceleration.  They will have the same downward acceleration.    "
+  "body": " From the roof of house one stone is thrown upward and another identical stone is dropped down. What will happen to both the stones when they reach the ground?    They will have the same velocity.  They will have the same acceleration.  They reach the ground at the same time.  None of the choices are correct.     Answer: b. They will have the same acceleration when reach the ground.  "
 },
 {
   "id": "exercise-18",
@@ -556,7 +547,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2.4.12",
   "title": "",
-  "body": "What is the mass of an elephant who weighs 10000 N? "
+  "body": " What will happen to the two balls, when first ball A is thrown horizontally and second ball B is thrown upward?    Ball A will have the greater downward acceleration.  Ball B will have the greater downward acceleration.  Neither will have any downward acceleration.  They will have the same downward acceleration.    "
 },
 {
   "id": "exercise-19",
@@ -565,7 +556,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2.4.13",
   "title": "",
-  "body": " An object moving in a circle at constant speed is accelerated    toward the center of the circle.  in the direction of its motion.  away from the center of the circle.  Any of these choices, depending on the circumstances.    "
+  "body": "What is the mass of an elephant who weighs 10000 N? "
 },
 {
   "id": "exercise-20",
@@ -574,7 +565,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "2.4.14",
   "title": "",
-  "body": "Find the centripetal force on the ball of mass 200 g moving in a circle 20 cm in radius at a speed of 4 m\/s. "
+  "body": " An object moving in a circle at constant speed is accelerated    toward the center of the circle.  in the direction of its motion.  away from the center of the circle.  Any of these choices, depending on the circumstances.    "
 },
 {
   "id": "exercise-21",
@@ -582,6 +573,15 @@ var ptx_lunr_docs = [
   "url": "ex_second.html#exercise-21",
   "type": "Exercise",
   "number": "2.4.15",
+  "title": "",
+  "body": "Find the centripetal force on the ball of mass 200 g moving in a circle 20 cm in radius at a speed of 4 m\/s. "
+},
+{
+  "id": "exercise-22",
+  "level": "2",
+  "url": "ex_second.html#exercise-22",
+  "type": "Exercise",
+  "number": "2.4.16",
   "title": "",
   "body": "Find the weight of a person whose mass is 80 kg on the earth is now on a spacecraft at a height of 2 earth radii above the earth's surface. "
 },
@@ -613,9 +613,9 @@ var ptx_lunr_docs = [
   "body": " Work done by the forces    Work done by the force     Work done by the slanted force     "
 },
 {
-  "id": "example-21",
+  "id": "example-20",
   "level": "2",
-  "url": "sec_third-intro.html#example-21",
+  "url": "sec_third-intro.html#example-20",
   "type": "Example",
   "number": "3.1.2",
   "title": "",
@@ -631,27 +631,27 @@ var ptx_lunr_docs = [
   "body": "Energy: "
 },
 {
-  "id": "example-22",
+  "id": "example-21",
   "level": "2",
-  "url": "sec_third-intro.html#example-22",
+  "url": "sec_third-intro.html#example-21",
   "type": "Example",
   "number": "3.1.3",
   "title": "",
   "body": "  A block of mass at rest is being pushed by an unknow force along the horizontal to bring it at 5 velocity.  How much work is done by the force?  If the body moves to a 2 m distance in this process. Find the value of unkown force.      Given: , , , .              "
 },
 {
-  "id": "example-23",
+  "id": "example-22",
   "level": "2",
-  "url": "sec_third-intro.html#example-23",
+  "url": "sec_third-intro.html#example-22",
   "type": "Example",
   "number": "3.1.4",
   "title": "",
   "body": "  Find the power a horse who does 7460 J of work in 10 second.      746 watt of power is also called 1 horsepower.    "
 },
 {
-  "id": "example-24",
+  "id": "example-23",
   "level": "2",
-  "url": "sec_third-intro.html#example-24",
+  "url": "sec_third-intro.html#example-23",
   "type": "Example",
   "number": "3.1.5",
   "title": "",
@@ -694,63 +694,63 @@ var ptx_lunr_docs = [
   "body": " Examples     A moving object may or may not have  momentum.  velocity.  kinetic energy.  potential energy.      Think of what if the object is moving on the ground.    d.      When two or more objects collide their  total momentum remains the same.  total kinetic energy remains the same.  momentum of each object never changes.  kinetic energy of each object never changes.      Read the conservation principles.    a.      Two objects of same volume but different masses are bing dropped from the top of a building onto the ground. Which of the following quantities remains the same when they have fallen halfway down? Neglect air resistance.  kinetic energy.  potential energy.  speed.  acceleration due to gravity.      Read section     c. and d.      If a book of mass 2 kg is hold at 2m above the ground for 40 seconds. How much is the work done?    Read section     Force has not displaced the object, so distance =0. Hence     0.      Find the velocity of 400 g bullet if its kinetic energy is 50kJ.    Given: m=400g = 0.4 kg, KE=50 kJ =        500 m\/s.     Find the linear momentum of a 50 kg dog running at 5 m\/s.   Given: m=50 kg, v=5 p =?              Find the recoil velocity of a rocket of mass 100kg when it ejects 50 g of gas from its propulsion pistol at a speed of 50 m\/s.    Use conservation of momentum principle.    Given:       "
 },
 {
-  "id": "example-25",
+  "id": "example-24",
   "level": "2",
-  "url": "sec_third-examples.html#example-25",
+  "url": "sec_third-examples.html#example-24",
   "type": "Example",
   "number": "3.3.1",
   "title": "",
   "body": "  A moving object may or may not have  momentum.  velocity.  kinetic energy.  potential energy.      Think of what if the object is moving on the ground.    d.   "
 },
 {
-  "id": "example-26",
+  "id": "example-25",
   "level": "2",
-  "url": "sec_third-examples.html#example-26",
+  "url": "sec_third-examples.html#example-25",
   "type": "Example",
   "number": "3.3.2",
   "title": "",
   "body": "  When two or more objects collide their  total momentum remains the same.  total kinetic energy remains the same.  momentum of each object never changes.  kinetic energy of each object never changes.      Read the conservation principles.    a.   "
 },
 {
-  "id": "example-27",
+  "id": "example-26",
   "level": "2",
-  "url": "sec_third-examples.html#example-27",
+  "url": "sec_third-examples.html#example-26",
   "type": "Example",
   "number": "3.3.3",
   "title": "",
   "body": "  Two objects of same volume but different masses are bing dropped from the top of a building onto the ground. Which of the following quantities remains the same when they have fallen halfway down? Neglect air resistance.  kinetic energy.  potential energy.  speed.  acceleration due to gravity.      Read section     c. and d.   "
 },
 {
-  "id": "example-28",
+  "id": "example-27",
   "level": "2",
-  "url": "sec_third-examples.html#example-28",
+  "url": "sec_third-examples.html#example-27",
   "type": "Example",
   "number": "3.3.4",
   "title": "",
   "body": "  If a book of mass 2 kg is hold at 2m above the ground for 40 seconds. How much is the work done?    Read section     Force has not displaced the object, so distance =0. Hence     0.   "
 },
 {
-  "id": "example-29",
+  "id": "example-28",
   "level": "2",
-  "url": "sec_third-examples.html#example-29",
+  "url": "sec_third-examples.html#example-28",
   "type": "Example",
   "number": "3.3.5",
   "title": "",
   "body": "  Find the velocity of 400 g bullet if its kinetic energy is 50kJ.    Given: m=400g = 0.4 kg, KE=50 kJ =        500 m\/s.   "
 },
 {
-  "id": "example-30",
+  "id": "example-29",
   "level": "2",
-  "url": "sec_third-examples.html#example-30",
+  "url": "sec_third-examples.html#example-29",
   "type": "Example",
   "number": "3.3.6",
   "title": "",
   "body": " Find the linear momentum of a 50 kg dog running at 5 m\/s.   Given: m=50 kg, v=5 p =?           "
 },
 {
-  "id": "example-31",
+  "id": "example-30",
   "level": "2",
-  "url": "sec_third-examples.html#example-31",
+  "url": "sec_third-examples.html#example-30",
   "type": "Example",
   "number": "3.3.7",
   "title": "",
@@ -766,63 +766,63 @@ var ptx_lunr_docs = [
   "body": "  Exercise   What is the unit of Power?   Choose one of the following.    Joule (J)  Watt (W)  Newton (N)      What is the power output of a person of mass 80 kg who can climb on the pine tree with 0.4 m\/s.   Find the relatin between power and velocity.    What is the power output of a person who can lift 100 kg wheel to 2m height in 4 second.   Use the definition of power.    Find the speed of an object which weighs 10N and has the kinetic energy of 20 J.   Find mass of the object from its weight using Newton's II law and then apply kinetic energy formula to find the speed.    A 2 kg ball is pushed by a horizontal force all the way to 4 m on the ground when the ball starts moving with 8 m\/s. Find the magnitude of the force.    A 50 kg box is lifted vertically to a height of 10m. Fing the energy spent in this work.    When a cannon shell explodes in mid-air: choose all that applies.     total momentum of the system remains the same.  total kinetic energy of the system remains the same  total kinetic energy of the system decreases  total kinetic energy of the system increases     a. and d.   "
 },
 {
-  "id": "exercise-22",
+  "id": "exercise-23",
   "level": "2",
-  "url": "ex_third.html#exercise-22",
+  "url": "ex_third.html#exercise-23",
   "type": "Exercise",
   "number": "3.4.1",
   "title": "",
   "body": " What is the unit of Power?   Choose one of the following.    Joule (J)  Watt (W)  Newton (N)    "
 },
 {
-  "id": "exercise-23",
+  "id": "exercise-24",
   "level": "2",
-  "url": "ex_third.html#exercise-23",
+  "url": "ex_third.html#exercise-24",
   "type": "Exercise",
   "number": "3.4.2",
   "title": "",
   "body": " What is the power output of a person of mass 80 kg who can climb on the pine tree with 0.4 m\/s.   Find the relatin between power and velocity.  "
 },
 {
-  "id": "exercise-24",
+  "id": "exercise-25",
   "level": "2",
-  "url": "ex_third.html#exercise-24",
+  "url": "ex_third.html#exercise-25",
   "type": "Exercise",
   "number": "3.4.3",
   "title": "",
   "body": " What is the power output of a person who can lift 100 kg wheel to 2m height in 4 second.   Use the definition of power.  "
 },
 {
-  "id": "exercise-25",
+  "id": "exercise-26",
   "level": "2",
-  "url": "ex_third.html#exercise-25",
+  "url": "ex_third.html#exercise-26",
   "type": "Exercise",
   "number": "3.4.4",
   "title": "",
   "body": " Find the speed of an object which weighs 10N and has the kinetic energy of 20 J.   Find mass of the object from its weight using Newton's II law and then apply kinetic energy formula to find the speed.  "
 },
 {
-  "id": "exercise-26",
+  "id": "exercise-27",
   "level": "2",
-  "url": "ex_third.html#exercise-26",
+  "url": "ex_third.html#exercise-27",
   "type": "Exercise",
   "number": "3.4.5",
   "title": "",
   "body": " A 2 kg ball is pushed by a horizontal force all the way to 4 m on the ground when the ball starts moving with 8 m\/s. Find the magnitude of the force.  "
 },
 {
-  "id": "exercise-27",
+  "id": "exercise-28",
   "level": "2",
-  "url": "ex_third.html#exercise-27",
+  "url": "ex_third.html#exercise-28",
   "type": "Exercise",
   "number": "3.4.6",
   "title": "",
   "body": " A 50 kg box is lifted vertically to a height of 10m. Fing the energy spent in this work.  "
 },
 {
-  "id": "exercise-28",
+  "id": "exercise-29",
   "level": "2",
-  "url": "ex_third.html#exercise-28",
+  "url": "ex_third.html#exercise-29",
   "type": "Exercise",
   "number": "3.4.7",
   "title": "",
@@ -847,9 +847,9 @@ var ptx_lunr_docs = [
   "body": " Thermometers    Fahrenheit     Celsius     Kelvin scale     "
 },
 {
-  "id": "example-32",
+  "id": "example-31",
   "level": "2",
-  "url": "sec_fourth-intro.html#example-32",
+  "url": "sec_fourth-intro.html#example-31",
   "type": "Example",
   "number": "4.1.2",
   "title": "",
@@ -874,9 +874,9 @@ var ptx_lunr_docs = [
   "body": " Specific heats of some common substances    Substance  Specific heat ( )    Water  1    Sand  0.16    iron  0.1    aluminum  0.22    Wood  0.42    Ice  0.5    "
 },
 {
-  "id": "example-33",
+  "id": "example-32",
   "level": "2",
-  "url": "sec_fourth-intro.html#example-33",
+  "url": "sec_fourth-intro.html#example-32",
   "type": "Example",
   "number": "4.1.4",
   "title": "",
@@ -919,9 +919,9 @@ var ptx_lunr_docs = [
   "body": " Fluid   Fluid is a material that can flow. Gasses and liquids are fluids. To study fluid it is easier to deal with fluid's volume, density, and pressure rather than its mass and weight. For example, we do transaction of any fluids in terms of their volume (liter) not in their mass (kg). Here, some terminilogies are being introduced to study fluid and its behavior.  Density: It is defined as a mass per unit volume of the fluid. It is a scalar quantity.  Its unit is in SI system, or in cgs system, and in fps system. Any two objects of identical volume the heavier one has higher density than the other. Take two marbles of same size but one is a lead marble and another is a glass marble. Which one do you feel heavier, has the higher density.    Calculate the mass of water in a container of size 25 cm long, 15 cm wide and is filled with water up to 10 cm high. If the density of water is .    The volume of water, Hence, the mass of water in the container is given by .     Pressure: It is defined as a force per unit area of the surface. Force must be acting perpendicularly on the surface. Pressure defines how hard the object is pushing something in or out. It is a scalar quantity.  Its unit is or pascal (Pa) in SI system. In FPS system of unit it is measured in which means pounds per square inch. Many units of pressure are still in practice such as torr, bar, mm of Hg., atm., etc. 1 atm is one atmospheric preesure,     How much pressure is applied on the ground by a girl of 50 kg if she is balancing herself by standing on her one shoe heel of area .    The force exerted by the girl on ground is equal to her weight, and, Surface area = Hence, the pressure on the ground is given by .       Archimedes' Principle  When an object is placed in a fluid it experiences an upthrust force called a buoyant force. It is arising due to changes of pressure inside fluid. This phenomenon is known as Archimedes' principle. It states that when a body is fully or partially immersed in a fluid, the fluid exerts an upward force on the body equal to the weight of liquid displaced. That is, a buoyant force ( ) = weight of displaced fluid ( ). Archimedes' principle tells whether the object floats or sinks in the fluid. If weight of the object is greater than the buoyany force, it sinks. If its weight is equal to the buoyant force, it submerges inside the fluid but does not sink. If its weight is less than the buoyant force then it floats on the surface of liquid.   Buoyant force     In this case, volume of displaced liquid is equal to the volume of submerged portion of the object. On this basis, we can tell that if the density of an object is greater than that of fluid, it sinks. If object density is equal to the density of fluid, then object submerges. If object density is less than the density of fluid, then object floats. To make iron ship not to sink in water, it is made with wide surface area and its body is like a hollow shell, so that the density of entire ship is less than the density of water.    Kinetic Theory of Gases  The nature of gas is completely different than solids and liquids. Gas tskes up the entire volume of the container and can be compressed easily. Gas pressure increase or decrease as the temperature of the container change. It diffuses (or leaks out) to air if the container is left open. On such experiences, Kinetic theory of gas is developed to explain the nature of heat and the motion of particles associated with heat energy. According to this theory, gas is composed of large number of very tiny particles called molecules. These molecules are always in random motion with all possible directions and speeds which increases with the increase of temperature. In gases, the molecules are very far away from each other than in solids and liquids and have negligibly small force of attraction between them. Hence they can move freely anywhere within the available space. This explains why a gas has no definite shape and size. To understand the more general behavior of gases kinetic theory of ideal gases is postulated as  All gases are made up of molecules. Molecules are identical, rigid, and perfectly elastic moving in random directions with all possible velocities.  The molecules are very far away from each other but they collide with each other and with walls of the container.  All the collisions are elastic, but time spent during each collision is negligibly small compared to the time spent between the collisions.  Molecules do not interact with each other (no intermolecular force of attraction) except during a collision.  The average kinetic energy of the molecules of any gas depends only on the temperature.  Ideal gas is a hypothetical gas of negligible molecular size and have no interactions among their molecules. In practice, a very dilute gas with extremely large volume of container space can be considered as an ideal gas. Remember the real gas molecules has definite size and may interact with each other. Hence this postulates are just a very simplified model to understand gas laws and need modification for real gas behaviors. To experience the general behavior of gas please play with simultion link here. gas laws     The Gas Laws  From the experience of factors affecting the gas pressure ideal gas law is defined below. Ideal Gas Law or also called equation of state. It is found that the pressure, of the gas is directly proportional to number of molecules, and the absolute temeperature, and inversely proportional to the volume, V of of the gas. That is where is proportionality constant. Therefore For mole of gas, the above equition turns into this equation is know as equation of state. Here, is number of mole of gas in a container and is universal gas constant.  If T is constant in this equation then it is called Boyle's Law  If is constant in this equation then it is called Charle's Law     "
 },
 {
-  "id": "example-34",
+  "id": "example-33",
   "level": "2",
-  "url": "sec_fourth-fluid.html#example-34",
+  "url": "sec_fourth-fluid.html#example-33",
   "type": "Example",
   "number": "4.2.1",
   "title": "",
@@ -937,9 +937,9 @@ var ptx_lunr_docs = [
   "body": "Pressure: "
 },
 {
-  "id": "example-35",
+  "id": "example-34",
   "level": "2",
-  "url": "sec_fourth-fluid.html#example-35",
+  "url": "sec_fourth-fluid.html#example-34",
   "type": "Example",
   "number": "4.2.2",
   "title": "",
@@ -973,81 +973,81 @@ var ptx_lunr_docs = [
   "body": " Examples    Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body            From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand           Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight           Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density           The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.           Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.           Molecular motion of the substance is least possible at which temperature?  .  .  .  .           Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.           At which of the temperature a Celsius thermometer and a Fahrenheit thermometer show the same readings?  40 .  -40 .  40 .  0 .     Consider , then from , we have Solve this equation to find the value of x.         "
 },
 {
-  "id": "example-36",
+  "id": "example-35",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-36",
+  "url": "sec_fourth-examples.html#example-35",
   "type": "Example",
   "number": "4.3.1",
   "title": "",
   "body": "  Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body          "
 },
 {
-  "id": "example-37",
+  "id": "example-36",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-37",
+  "url": "sec_fourth-examples.html#example-36",
   "type": "Example",
   "number": "4.3.2",
   "title": "",
   "body": " From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand         "
 },
 {
-  "id": "example-38",
+  "id": "example-37",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-38",
+  "url": "sec_fourth-examples.html#example-37",
   "type": "Example",
   "number": "4.3.3",
   "title": "",
   "body": " Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight         "
 },
 {
-  "id": "example-39",
+  "id": "example-38",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-39",
+  "url": "sec_fourth-examples.html#example-38",
   "type": "Example",
   "number": "4.3.4",
   "title": "",
   "body": " Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density         "
 },
 {
-  "id": "example-40",
+  "id": "example-39",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-40",
+  "url": "sec_fourth-examples.html#example-39",
   "type": "Example",
   "number": "4.3.5",
   "title": "",
   "body": " The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.         "
 },
 {
-  "id": "example-41",
+  "id": "example-40",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-41",
+  "url": "sec_fourth-examples.html#example-40",
   "type": "Example",
   "number": "4.3.6",
   "title": "",
   "body": " Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.         "
 },
 {
-  "id": "example-42",
+  "id": "example-41",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-42",
+  "url": "sec_fourth-examples.html#example-41",
   "type": "Example",
   "number": "4.3.7",
   "title": "",
   "body": " Molecular motion of the substance is least possible at which temperature?  .  .  .  .         "
 },
 {
-  "id": "example-43",
+  "id": "example-42",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-43",
+  "url": "sec_fourth-examples.html#example-42",
   "type": "Example",
   "number": "4.3.8",
   "title": "",
   "body": " Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.         "
 },
 {
-  "id": "example-44",
+  "id": "example-43",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-44",
+  "url": "sec_fourth-examples.html#example-43",
   "type": "Example",
   "number": "4.3.9",
   "title": "",
@@ -1063,99 +1063,99 @@ var ptx_lunr_docs = [
   "body": "  Exercise   A person is suffering from fever at 103 . What is his body temperature on the Celsius scale.    The temperature of outer space is about 3K. What is this temperature on  Celsius scale  Fahrenheit scale      How much heat is needed to raise the temperature of 1.0kg of water from room temperature 20 to its boiling point 100 .   What makes 1 g of water steam at 100 more dengeraous than 1 g of water liquid at 100 .  How does heat transfer occur in a gas  How does heat transfer occur in vacuum  Chose the correct option: The fluid at the bottom of the container is  under less pressure than the pressure at the top.  under the same pressure than the pressure at the top.  under more pressure than the pressure at the top.  any one of the above, depending upon circumstances.    Chose the correct option: On molecular level, heat is  kinetic energy.  potential energy.  sum of kinetic and potential energy.  any one of the above, depending upon circumstances.    How much cooking oil you can put in the container of 0.2m long, 0.1m wide, and 0.3 m high? If the density of the oil is .  Water can is heated to boil and then sealed when it is still hot. What reason do you have when cooling can collapses?  Two balls of identical volumes but different masses are being droped from the top of a skyscraper. If air resistance acts same on both the balls which will reaches on the ground first or are they reach together?  "
 },
 {
-  "id": "exercise-29",
+  "id": "exercise-30",
   "level": "2",
-  "url": "ex_fourth.html#exercise-29",
+  "url": "ex_fourth.html#exercise-30",
   "type": "Exercise",
   "number": "4.4.1",
   "title": "",
   "body": " A person is suffering from fever at 103 . What is his body temperature on the Celsius scale.  "
 },
 {
-  "id": "exercise-30",
+  "id": "exercise-31",
   "level": "2",
-  "url": "ex_fourth.html#exercise-30",
+  "url": "ex_fourth.html#exercise-31",
   "type": "Exercise",
   "number": "4.4.2",
   "title": "",
   "body": " The temperature of outer space is about 3K. What is this temperature on  Celsius scale  Fahrenheit scale    "
 },
 {
-  "id": "exercise-31",
+  "id": "exercise-32",
   "level": "2",
-  "url": "ex_fourth.html#exercise-31",
+  "url": "ex_fourth.html#exercise-32",
   "type": "Exercise",
   "number": "4.4.3",
   "title": "",
   "body": " How much heat is needed to raise the temperature of 1.0kg of water from room temperature 20 to its boiling point 100 .  "
 },
 {
-  "id": "exercise-32",
+  "id": "exercise-33",
   "level": "2",
-  "url": "ex_fourth.html#exercise-32",
+  "url": "ex_fourth.html#exercise-33",
   "type": "Exercise",
   "number": "4.4.4",
   "title": "",
   "body": "What makes 1 g of water steam at 100 more dengeraous than 1 g of water liquid at 100 . "
 },
 {
-  "id": "exercise-33",
+  "id": "exercise-34",
   "level": "2",
-  "url": "ex_fourth.html#exercise-33",
+  "url": "ex_fourth.html#exercise-34",
   "type": "Exercise",
   "number": "4.4.5",
   "title": "",
   "body": "How does heat transfer occur in a gas "
 },
 {
-  "id": "exercise-34",
+  "id": "exercise-35",
   "level": "2",
-  "url": "ex_fourth.html#exercise-34",
+  "url": "ex_fourth.html#exercise-35",
   "type": "Exercise",
   "number": "4.4.6",
   "title": "",
   "body": "How does heat transfer occur in vacuum "
 },
 {
-  "id": "exercise-35",
+  "id": "exercise-36",
   "level": "2",
-  "url": "ex_fourth.html#exercise-35",
+  "url": "ex_fourth.html#exercise-36",
   "type": "Exercise",
   "number": "4.4.7",
   "title": "",
   "body": "Chose the correct option: The fluid at the bottom of the container is  under less pressure than the pressure at the top.  under the same pressure than the pressure at the top.  under more pressure than the pressure at the top.  any one of the above, depending upon circumstances.   "
 },
 {
-  "id": "exercise-36",
+  "id": "exercise-37",
   "level": "2",
-  "url": "ex_fourth.html#exercise-36",
+  "url": "ex_fourth.html#exercise-37",
   "type": "Exercise",
   "number": "4.4.8",
   "title": "",
   "body": "Chose the correct option: On molecular level, heat is  kinetic energy.  potential energy.  sum of kinetic and potential energy.  any one of the above, depending upon circumstances.   "
 },
 {
-  "id": "exercise-37",
+  "id": "exercise-38",
   "level": "2",
-  "url": "ex_fourth.html#exercise-37",
+  "url": "ex_fourth.html#exercise-38",
   "type": "Exercise",
   "number": "4.4.9",
   "title": "",
   "body": "How much cooking oil you can put in the container of 0.2m long, 0.1m wide, and 0.3 m high? If the density of the oil is . "
 },
 {
-  "id": "exercise-38",
+  "id": "exercise-39",
   "level": "2",
-  "url": "ex_fourth.html#exercise-38",
+  "url": "ex_fourth.html#exercise-39",
   "type": "Exercise",
   "number": "4.4.10",
   "title": "",
   "body": "Water can is heated to boil and then sealed when it is still hot. What reason do you have when cooling can collapses? "
 },
 {
-  "id": "exercise-39",
+  "id": "exercise-40",
   "level": "2",
-  "url": "ex_fourth.html#exercise-39",
+  "url": "ex_fourth.html#exercise-40",
   "type": "Exercise",
   "number": "4.4.11",
   "title": "",
@@ -1171,9 +1171,9 @@ var ptx_lunr_docs = [
   "body": " Charges   Charge is an entity which provides an electric property of the matter. Charge is of two types, positive charge and negative charge. Electrons in an atom consist of negative charge and protons of the atom consist of positve positive charge. Similar kinds of charges always repel each other and unlike charges attract each other. Charge is a scalar physical quantity. Charge is conserved meaning charge can neither be created nor be destroyed; it can only be transferred from one place to another or from one object to another. The net charge on any system is always constant. All matter is composed of atoms and atoms are composed of three elementary particles, called electrons, protons, and neutrons. Charge is also quantized meaning charge always comes in discrete amounts, and the smallest possible amount of charge that any object could have is . This is the amount of charge on one electron. Whenever an atom gains or loses an electron, atom is ionized. The ionized atom is always charged. An ion is simply an atom with a net charge. The ion can be positive or negative. If is the total negative charge on any object and is the charge of electron, then total number of electron, n on that object can be find using the following equation. where     A glass is rubbed vigorosly with a fur and found that it gained of charge. Calculate how many electrons has the glass rod lost?        electrons.        Coulomb's Law  The force of attraction or repulsion between any two point charges is directly proportional to the product of these charges and inversely proportional to the square of distance between them. The direction of force is always acting along the line joining these two point charges. If is a force acting on the charges and , and is a distance between the two charges (see figure below) then from Coulumb's law Here, Coulomb's constant, . This law only works for two point charges at rest. Hence, the Coulomb's law is also known as law of electrostatic force.   Coulomb's force    on unlike charges     on like charges        If the distance between an electron and a proton in a hydrogen atom is . Find the electrostatic force acting btween the electron and the proton.        . Negative sign explains that the force is attractive in nature.        Electric Field  The space around a charge where force of attraction or repulsion can be experienced by any other charged particle is called an electric field. Electric field is also known as electrostatic field intensity. It is an inherent property of a charge. An electric field is produced by a charge and is experienced by another charge. It is an electric field of a charge which tells another charge how to move in the space if it is free to do so. Electric field is a force acting on a unit charge and is a vector quantity. Electric field lines: It is an imaginary path of a unit positive charge in an electric field. Electric field lines are aslo known as electric lines of force. It is always pointed radially outward for a positve charge and radially inward for a negative charge as shown in figure below.   Electric Lines of Force    due to a +ve charge     due to a -ve charge     due to two unlike charges     due to two like +ve charges        Materials on Electrical Point of View  On the basis of electrical behavior there are four types of materials exist in nature they are conductor, insulator, semiconductors, and superconductors.   Conductor: It is a material where charge carriers (electrons or ions) are free to move within it. Copper, aluminum, gold, mercury, iron, water-salt solution, etc. are few examples of conductors. In a conductor outermost electrons of an atom are loosely bounded with its nucleus and hence are free to move throughout the material even at very low temperature. The random motion of electrons causes zero net electric current in a conductor unless an external electric field is applied on it. Insulator: It is a material where electrons are tightly bounded with their atom and can not move very easily. Plastics, glass, rubber, wood, porcelain, etc. are few examples of insulators. Check the simulation link conductor & insulator  Semiconductor: It is a material having properties between insulator and conductor. Silicon and germanium are good example of it. At low temperature this material behaves as an insulator and at high temperature it behaves as a conductor. The conductivity of semiconductor can be increased enormously by doping of this material with a very small amount of suitable dopants such as boron, phosphorous, or arsenic. Superconductor: It is a material which transfers electrons from one atom to another throughout the material without any resistance. No loss of energy can be observed when material conduct electricity. Mercury shows superconducting nature at temperature below 4 Kelvin.   "
 },
 {
-  "id": "example-45",
+  "id": "example-44",
   "level": "2",
-  "url": "sec_fifth-intro.html#example-45",
+  "url": "sec_fifth-intro.html#example-44",
   "type": "Example",
   "number": "5.1.1",
   "title": "",
@@ -1189,9 +1189,9 @@ var ptx_lunr_docs = [
   "body": " Coulomb's force    on unlike charges     on like charges     "
 },
 {
-  "id": "example-46",
+  "id": "example-45",
   "level": "2",
-  "url": "sec_fifth-intro.html#example-46",
+  "url": "sec_fifth-intro.html#example-45",
   "type": "Example",
   "number": "5.1.3",
   "title": "",
@@ -1306,63 +1306,63 @@ var ptx_lunr_docs = [
   "body": " Examples    Find the current in a wire if electrons is passing every second.    See the equations and        Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.    From Ohm's Law        If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.    Here = 20 mint\/day = = 10 h.  Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = \\(225 cents = $2.25\\).      How much current is passing through the ciruit if electric heater is running at 120 V?    From equation        What is the resistance of 50 W light bulb filament running at 120V?    From equation        Find an electric energy stored in a 10V laptop battery rated at 13000 mAh.    using equations and , we have      Here, , remember large unit of charge is also Ah by using eqation . Hence, from equation  by using equation where,    Hence, Energy, E= 130Wh. [since, ]       The primary coil of a transformer has 500 turns and its secondary coil has 50 turns. If the current in the secondary coil is 25 A, find the current in its primary coil.    Given: , , ,  From equation      "
 },
 {
-  "id": "example-47",
+  "id": "example-46",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-47",
+  "url": "sec_fifth-examples.html#example-46",
   "type": "Example",
   "number": "5.4.1",
   "title": "",
   "body": "  Find the current in a wire if electrons is passing every second.    See the equations and     "
 },
 {
-  "id": "example-48",
+  "id": "example-47",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-48",
+  "url": "sec_fifth-examples.html#example-47",
   "type": "Example",
   "number": "5.4.2",
   "title": "",
   "body": "  Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.    From Ohm's Law     "
 },
 {
-  "id": "example-49",
+  "id": "example-48",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-49",
+  "url": "sec_fifth-examples.html#example-48",
   "type": "Example",
   "number": "5.4.3",
   "title": "",
   "body": "  If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.    Here = 20 mint\/day = = 10 h.  Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = \\(225 cents = $2.25\\).   "
 },
 {
-  "id": "example-50",
+  "id": "example-49",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-50",
+  "url": "sec_fifth-examples.html#example-49",
   "type": "Example",
   "number": "5.4.4",
   "title": "",
   "body": "  How much current is passing through the ciruit if electric heater is running at 120 V?    From equation     "
 },
 {
-  "id": "example-51",
+  "id": "example-50",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-51",
+  "url": "sec_fifth-examples.html#example-50",
   "type": "Example",
   "number": "5.4.5",
   "title": "",
   "body": "  What is the resistance of 50 W light bulb filament running at 120V?    From equation     "
 },
 {
-  "id": "example-52",
+  "id": "example-51",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-52",
+  "url": "sec_fifth-examples.html#example-51",
   "type": "Example",
   "number": "5.4.6",
   "title": "",
   "body": "  Find an electric energy stored in a 10V laptop battery rated at 13000 mAh.    using equations and , we have      Here, , remember large unit of charge is also Ah by using eqation . Hence, from equation  by using equation where,    Hence, Energy, E= 130Wh. [since, ]    "
 },
 {
-  "id": "example-53",
+  "id": "example-52",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-53",
+  "url": "sec_fifth-examples.html#example-52",
   "type": "Example",
   "number": "5.4.7",
   "title": "",
@@ -1378,108 +1378,108 @@ var ptx_lunr_docs = [
   "body": "  Exercise  An atom or a molecule when lost an electron it becomes a  positive ion  negative ion  neutral  conductor    Ohms law defines current flow through what type of substance?  Conductor  Insulator  Non-conductor  Both a. and b.    Which of the following is the symbol of ohms?        What substance is attracted to a magnet?  iron and its alloys.  silver.  water.  all substances.    What happens to the magnetic field when a magnet is strongly heated or hammered?  becomes weaker.  is unchanged.  becomes stronger.  reverses its direction.    What is the direction of the magnetic field under the power line if a current is flowing through it towards south?  east.  west.  north.  south.    A transformer has more turns on its primary coil than on the secondary coil. It is a  step up transformer  step down transformer  None of the above  both step up and step down transformer.    Calculate the force of repulsion between two charges of placed at apart.  If two charges placed at 2 cm experience 5 N force. what would be the magnitude of this force if the charges are shifted to 10 cm apart.  Calculate the force of repulsion between two charges of placed at apart.  A transformer has 500 turns in its primary coil and connected to 400 V. Find the votage in the secondary coil if it has 25 turns.  Recognize the series and parallel circuits from the ciruit diagrams given below.  DC circuits                    "
 },
 {
-  "id": "exercise-40",
+  "id": "exercise-41",
   "level": "2",
-  "url": "ex_fifth.html#exercise-40",
+  "url": "ex_fifth.html#exercise-41",
   "type": "Exercise",
   "number": "5.5.1",
   "title": "",
   "body": "An atom or a molecule when lost an electron it becomes a  positive ion  negative ion  neutral  conductor   "
 },
 {
-  "id": "exercise-41",
+  "id": "exercise-42",
   "level": "2",
-  "url": "ex_fifth.html#exercise-41",
+  "url": "ex_fifth.html#exercise-42",
   "type": "Exercise",
   "number": "5.5.2",
   "title": "",
   "body": "Ohms law defines current flow through what type of substance?  Conductor  Insulator  Non-conductor  Both a. and b.   "
 },
 {
-  "id": "exercise-42",
+  "id": "exercise-43",
   "level": "2",
-  "url": "ex_fifth.html#exercise-42",
+  "url": "ex_fifth.html#exercise-43",
   "type": "Exercise",
   "number": "5.5.3",
   "title": "",
   "body": "Which of the following is the symbol of ohms?       "
 },
 {
-  "id": "exercise-43",
+  "id": "exercise-44",
   "level": "2",
-  "url": "ex_fifth.html#exercise-43",
+  "url": "ex_fifth.html#exercise-44",
   "type": "Exercise",
   "number": "5.5.4",
   "title": "",
   "body": "What substance is attracted to a magnet?  iron and its alloys.  silver.  water.  all substances.   "
 },
 {
-  "id": "exercise-44",
+  "id": "exercise-45",
   "level": "2",
-  "url": "ex_fifth.html#exercise-44",
+  "url": "ex_fifth.html#exercise-45",
   "type": "Exercise",
   "number": "5.5.5",
   "title": "",
   "body": "What happens to the magnetic field when a magnet is strongly heated or hammered?  becomes weaker.  is unchanged.  becomes stronger.  reverses its direction.   "
 },
 {
-  "id": "exercise-45",
+  "id": "exercise-46",
   "level": "2",
-  "url": "ex_fifth.html#exercise-45",
+  "url": "ex_fifth.html#exercise-46",
   "type": "Exercise",
   "number": "5.5.6",
   "title": "",
   "body": "What is the direction of the magnetic field under the power line if a current is flowing through it towards south?  east.  west.  north.  south.   "
 },
 {
-  "id": "exercise-46",
+  "id": "exercise-47",
   "level": "2",
-  "url": "ex_fifth.html#exercise-46",
+  "url": "ex_fifth.html#exercise-47",
   "type": "Exercise",
   "number": "5.5.7",
   "title": "",
   "body": "A transformer has more turns on its primary coil than on the secondary coil. It is a  step up transformer  step down transformer  None of the above  both step up and step down transformer.   "
 },
 {
-  "id": "exercise-47",
+  "id": "exercise-48",
   "level": "2",
-  "url": "ex_fifth.html#exercise-47",
+  "url": "ex_fifth.html#exercise-48",
   "type": "Exercise",
   "number": "5.5.8",
   "title": "",
   "body": "Calculate the force of repulsion between two charges of placed at apart. "
 },
 {
-  "id": "exercise-48",
+  "id": "exercise-49",
   "level": "2",
-  "url": "ex_fifth.html#exercise-48",
+  "url": "ex_fifth.html#exercise-49",
   "type": "Exercise",
   "number": "5.5.9",
   "title": "",
   "body": "If two charges placed at 2 cm experience 5 N force. what would be the magnitude of this force if the charges are shifted to 10 cm apart. "
 },
 {
-  "id": "exercise-49",
+  "id": "exercise-50",
   "level": "2",
-  "url": "ex_fifth.html#exercise-49",
+  "url": "ex_fifth.html#exercise-50",
   "type": "Exercise",
   "number": "5.5.10",
   "title": "",
   "body": "Calculate the force of repulsion between two charges of placed at apart. "
 },
 {
-  "id": "exercise-50",
+  "id": "exercise-51",
   "level": "2",
-  "url": "ex_fifth.html#exercise-50",
+  "url": "ex_fifth.html#exercise-51",
   "type": "Exercise",
   "number": "5.5.11",
   "title": "",
   "body": "A transformer has 500 turns in its primary coil and connected to 400 V. Find the votage in the secondary coil if it has 25 turns. "
 },
 {
-  "id": "exercise-51",
+  "id": "exercise-52",
   "level": "2",
-  "url": "ex_fifth.html#exercise-51",
+  "url": "ex_fifth.html#exercise-52",
   "type": "Exercise",
   "number": "5.5.12",
   "title": "",
@@ -1537,7 +1537,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.2",
   "title": "Light",
-  "body": " Light   Light is a form of energy. It excites the sensation of vision when strikes the eye retina. To see things around having only eye is not very important but also the presence of light is very important. A blind person can not see anything even if the room is full of light just as a normal person can not see anything if room is completely dark. Light coming from an object when falls on the surface of eye retina we can see that object. Even though light helps us see things around light itself is invisible. However, we divide light into two categories, the visible light and the invisible light. It is not because we can or can not see the light rather it is based on the sensation of vision produced by these light in our eye. Light which can help sensation of vision is called a visible light and that which which can not stimulate the sensation of vision is called an invisble light. Light is an electromagnetic radiation which consists of the ranges of waves from gamma rays to radio waves. The so called visible light is a very small portion of an electromagnetic radiation.  Electromagnetic Spectrum NASA       Geometrical Optics  Geometric optics is based on the principle of rectilinear propagation of light in which light is considered as a ray which travels in a straight line. Anything which emits light is known as object. Objects that emit light on their own are called a luminous (or self-luminous) objects such as sun, stars, light bulb, fireflies, etc. Objects that do not emit but reflect light are known as non-luminous objects such as moon, planets, wood, plastics, metals, etc.  Light travels in straight lines until it encounters with some obstacle. Hence we can approximate light by considering it as a ray. The physics which deals with light in the form of a ray is called geometrical optics. Light bents from its straight path when it strikes on the surface of another medium such as in reflection and refraction. When light strikes on the surface of material three phenomena happen. That is,  light reflects from the material  light transmitts throgh the material, and  light is absorbed by the the material.      Reflection of Light  When light travels in one medium strikes onto the surface of another medium it bounces off to the same medium is known as reflection. It is the reflection which helps us to see our image in the mirror. There are two types of reflection, specular (regular) reflection and diffuse (irregular) reflection. Both types of reflection obey the laws of reflection. Reflection of Light    Laws of Reflection:    The first law of reflection states that the incident ray, the reflected ray, and the normal to the point of incident all lie in the same plane.    The second law of reflection states that the angle of reflection is equal to the angle of incidence.   Consider a light ray, AO is incident on a smooth surface, like morror at an angle and bounces off, then from law of reflection   Reflection of Light    Name of light rays     Regular reflection     Irregular reflection         Refraction of Light  The phenomenon of bending of light ray as it goes from one medium to another is called a refraction. The velocity of light depends on the medium it is propagating which causes the refraction. The measure of an obstacle that a medium impose on the velocity of light is known as refractive index of that medium. Refraction of Light     Dispersion of Light  jjjjjjj   "
+  "body": " Light   Light is a form of energy. It excites the sensation of vision when strikes the eye retina. To see things around having only eye is not very important but also the presence of light is very important. A blind person can not see anything even if the room is full of light just as a normal person can not see anything if room is completely dark. Light coming from an object when falls on the surface of eye retina we can see that object. Even though light helps us see things around light itself is invisible. However, we divide light into two categories, the visible light and the invisible light. It is not because we can or can not see the light rather it is based on the sensation of vision produced by these light in our eye. Light which can help sensation of vision is called a visible light and that which which can not stimulate the sensation of vision is called an invisble light. Light is an electromagnetic radiation which consists of the ranges of waves from gamma rays to radio waves. The so called visible light is a very small portion of an electromagnetic radiation.  Electromagnetic Spectrum NASA       Geometrical Optics  Geometric optics is based on the principle of rectilinear propagation of light in which light is considered as a ray which travels in a straight line. Anything which emits light is known as object. Objects that emit light on their own are called a luminous (or self-luminous) objects such as sun, stars, light bulb, fireflies, etc. Objects that do not emit but reflect light are known as non-luminous objects such as moon, planets, wood, plastics, metals, etc.  Light travels in straight lines until it encounters with some obstacle. Hence we can approximate light by considering it as a ray. The physics which deals with light in the form of a ray is called geometrical optics. Light bents from its straight path when it strikes on the surface of another medium such as in reflection and refraction. When light strikes on the surface of material three phenomena happen. That is,  light reflects from the material  light transmitts throgh the material, and  light is absorbed by the the material.      Reflection of Light  When light travels in one medium strikes onto the surface of another medium it bounces off to the same medium is known as reflection. It is the reflection which helps us to see our image in the mirror. There are two types of reflection, specular (regular) reflection and diffuse (irregular) reflection. Both types of reflection obey the laws of reflection. Reflection of Light    Laws of Reflection:    The first law of reflection states that the incident ray, the reflected ray, and the normal to the point of incident all lie in the same plane.    The second law of reflection states that the angle of reflection is equal to the angle of incidence.   Consider a light ray, AO is incident on a smooth surface, like morror at an angle and bounces off, then from law of reflection      Reflection of light     Regular reflection     Irregular reflection         Refraction of Light  The phenomenon of bending of light ray as it goes from one medium to another is called a refraction. The velocity of light depends on the medium it is propagating which causes the refraction. The measure of an obstacle that a medium impose on the velocity of light is known as refractive index of that medium. Refraction of Light      Refraction of light     Bent Pencil         Dispersion of Light  The phenomenon of splitting of white light into its constituent colors is known as dispersion. When white light passes through a prism it splitted into seven colors due to dispersion of light. The images of this color patterns formed on a screen is called a spectrum. The spectrum consists of a visible and invisible regions of light. The principal colors of light in the visible spectrum are given as \"VIBGYOR\" (Violet, Indigo, Blue, Green, Yellow, Orange, and Red). The deviation occurred in violet light is maximum and that for red light is minimum as shown in figure . In the invisible regions, the spectrum of wavelengths shorter than violet is called an ultraviolet light and that for longer than red is called an infrared light. The color of light is dependent on its wavelength, . Here is a list of wavelengths of visible light   Dispersion of light                Scattering of Light  It is a phenomenon where light is redirected in different directions when it interacts with small particles or irregular surfaces. This can cause the light to appear hazy or dispersed. Due to scattering sky looks bluish as blue colors cattered more in sky than any other colors from the visible spectrum of light. In fact, violet light scattered more than blue but our eyes are more sensitive o blue color than violet light hence blue colors are much more prevailed than others in sky. At sunset and sunrise, the sunlight has to travel longer distance in the atmosphere which causes most of the blue and other shorter wavelengths to scatter in the sky and only red color can reach to our eyes hence the sun appears reddish in color.   "
 },
 {
   "id": "figure-39",
@@ -1558,6 +1558,24 @@ var ptx_lunr_docs = [
   "body": "Laws of Reflection: "
 },
 {
+  "id": "figure-44",
+  "level": "2",
+  "url": "sec_sixth-light.html#figure-44",
+  "type": "Figure",
+  "number": "6.2.3",
+  "title": "",
+  "body": "    Refraction of light     Bent Pencil     "
+},
+{
+  "id": "fig-dspr",
+  "level": "2",
+  "url": "sec_sixth-light.html#fig-dspr",
+  "type": "Figure",
+  "number": "6.2.4",
+  "title": "",
+  "body": " Dispersion of light            "
+},
+{
   "id": "sec_sixth-examples",
   "level": "1",
   "url": "sec_sixth-examples.html",
@@ -1567,18 +1585,18 @@ var ptx_lunr_docs = [
   "body": " Examples  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.   Theorem Title   This is the statement of the theorem.    And this is its proof.      A corollary that doesn't need a proof.    Perhaps at the end of the section, you want to add a note to the reader about how what you have fits into the larger scope of mathematics.   Larger Context  Comment to the reader here.   Of course, if you want more information, you might see .  "
 },
 {
-  "id": "example-54",
+  "id": "example-53",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-54",
+  "url": "sec_sixth-examples.html#example-53",
   "type": "Example",
   "number": "6.3.1",
   "title": "",
   "body": "  The statement of the example, since it will have a solution. What is the solution?    This is the solution.   "
 },
 {
-  "id": "example-55",
+  "id": "example-54",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-55",
+  "url": "sec_sixth-examples.html#example-54",
   "type": "Example",
   "number": "6.3.2",
   "title": "",
@@ -1621,18 +1639,18 @@ var ptx_lunr_docs = [
   "body": "  My Exercises   Is this an exercise?   Yes.   It is, but not a very good one.    Another, with a hint.   The hint.      "
 },
 {
-  "id": "exercise-52",
+  "id": "exercise-53",
   "level": "2",
-  "url": "ex_sixth.html#exercise-52",
+  "url": "ex_sixth.html#exercise-53",
   "type": "Exercise",
   "number": "6.4.1",
   "title": "",
   "body": " Is this an exercise?   Yes.   It is, but not a very good one.  "
 },
 {
-  "id": "exercise-53",
+  "id": "exercise-54",
   "level": "2",
-  "url": "ex_sixth.html#exercise-53",
+  "url": "ex_sixth.html#exercise-54",
   "type": "Exercise",
   "number": "6.4.2",
   "title": "",
@@ -1738,18 +1756,18 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-56",
+  "id": "example-55",
   "level": "2",
-  "url": "sec_features-blocks.html#example-56",
+  "url": "sec_features-blocks.html#example-55",
   "type": "Example",
   "number": "16.1.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-44",
+  "id": "figure-50",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-44",
+  "url": "sec_features-blocks.html#figure-50",
   "type": "Figure",
   "number": "16.1.3",
   "title": "",
