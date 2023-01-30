@@ -1537,7 +1537,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.2",
   "title": "Light",
-  "body": " Light   Light is a form of energy. It excites the sensation of vision when strikes the eye retina. To see things around having only eye is not very important but also the presence of light is very important. A blind person can not see anything even if the room is full of light just as a normal person can not see anything if room is completely dark. Light coming from an object when falls on the surface of eye retina we can see that object. Even though light helps us see things around light itself is invisible. However, we divide light into two categories, the visible light and the invisible light. It is not because we can or can not see the light rather it is based on the sensation of vision produced by these light in our eye. Light which can help sensation of vision is called a visible light and that which which can not stimulate the sensation of vision is called an invisble light. Light is an electromagnetic radiation which consists of the ranges of waves from gamma rays to radio waves. The so called visible light is a very small portion of an electromagnetic radiation.  Electromagnetic Spectrum NASA       Geometrical Optics  Geometric optics is based on the principle of rectilinear propagation of light in which light is considered as a ray which travels in a straight line. Anything which emits light is known as object. Objects that emit light on their own are called a luminous (or self-luminous) objects such as sun, stars, light bulb, fireflies, etc. Objects that do not emit but reflect light are known as non-luminous objects such as moon, planets, wood, plastics, metals, etc.  Light travels in straight lines until it encounters with some obstacle. Hence we can approximate light by considering it as a ray. The physics which deals with light in the form of a ray is called geometrical optics. Light bents from its straight path when it strikes on the surface of another medium such as in reflection and refraction. When light strikes on the surface of material three phenomena happen. That is,  light reflects from the material  light transmitts throgh the material, and  light is absorbed by the the material.      Reflection of Light  When light travels in one medium strikes onto the surface of another medium it bounces off to the same medium is known as reflection. It is the reflection which helps us to see our image in the mirror. There are two types of reflection, specular (regular) reflection and diffuse (irregular) reflection. Both types of reflection obey the laws of reflection. Reflection of Light    Laws of Reflection:    The first law of reflection states that the incident ray, the reflected ray, and the normal to the point of incident all lie in the same plane.    The second law of reflection states that the angle of reflection is equal to the angle of incidence.   Consider a light ray, AO is incident on a smooth surface, like morror at an angle and bounces off, then from law of reflection      Reflection of light     Regular reflection     Irregular reflection         Refraction of Light  The phenomenon of bending of light ray as it goes from one medium to another is called a refraction. The velocity of light depends on the medium it is propagating which causes the refraction. The measure of an obstacle that a medium impose on the velocity of light is known as refractive index of that medium. Refraction of Light      Refraction of light     Bent Pencil         Dispersion of Light  The phenomenon of splitting of white light into its constituent colors is known as dispersion. When white light passes through a prism it splitted into seven colors due to dispersion of light. The images of this color patterns formed on a screen is called a spectrum. The spectrum consists of a visible and invisible regions of light. The principal colors of light in the visible spectrum are given as \"VIBGYOR\" (Violet, Indigo, Blue, Green, Yellow, Orange, and Red). The deviation occurred in violet light is maximum and that for red light is minimum as shown in figure . In the invisible regions, the spectrum of wavelengths shorter than violet is called an ultraviolet light and that for longer than red is called an infrared light. The color of light is dependent on its wavelength, . Here is a list of wavelengths of visible light   Dispersion of light                Scattering of Light  It is a phenomenon where light is redirected in different directions when it interacts with small particles or irregular surfaces. This can cause the light to appear hazy or dispersed. Due to scattering sky looks bluish as blue colors cattered more in sky than any other colors from the visible spectrum of light. In fact, violet light scattered more than blue but our eyes are more sensitive o blue color than violet light hence blue colors are much more prevailed than others in sky. At sunset and sunrise, the sunlight has to travel longer distance in the atmosphere which causes most of the blue and other shorter wavelengths to scatter in the sky and only red color can reach to our eyes hence the sun appears reddish in color.   "
+  "body": " Light   Light is a form of energy. It excites the sensation of vision when strikes the eye retina. To see things around having only eye is not very important but also the presence of light is very important. A blind person can not see anything even if the room is full of light just as a normal person can not see anything if room is completely dark. Light coming from an object when falls on the surface of eye retina we can see that object. Even though light helps us see things around light itself is invisible. However, we divide light into two categories, the visible light and the invisible light. It is not because we can or can not see the light rather it is based on the sensation of vision produced by these light in our eye. Light which can help sensation of vision is called a visible light and that which which can not stimulate the sensation of vision is called an invisble light. Light is an electromagnetic radiation which consists of the ranges of waves from gamma rays to radio waves. The so called visible light is a very small portion of an electromagnetic radiation.  Electromagnetic Spectrum NASA       Geometrical Optics  Geometric optics is based on the principle of rectilinear propagation of light in which light is considered as a ray which travels in a straight line. Anything which emits light is known as object. Objects that emit light on their own are called a luminous (or self-luminous) objects such as sun, stars, light bulb, fireflies, etc. Objects that do not emit but reflect light are known as non-luminous objects such as moon, planets, wood, plastics, metals, etc.  Light travels in straight lines until it encounters with some obstacle. Hence we can approximate light by considering it as a ray. The physics which deals with light in the form of a ray is called geometrical optics. Light bents from its straight path when it strikes on the surface of another medium such as in reflection and refraction. When light strikes on the surface of material three phenomena happen. That is,  light reflects from the material  light transmitts throgh the material, and  light is absorbed by the the material.      Reflection of Light  When light travels in one medium strikes onto the surface of another medium it bounces off to the same medium is known as reflection. It is the reflection which helps us to see our image in the mirror. There are two types of reflection, specular (regular) reflection and diffuse (irregular) reflection. Both types of reflection obey the laws of reflection. Reflection of Light    Laws of Reflection:    The first law of reflection states that the incident ray, the reflected ray, and the normal to the point of incident all lie in the same plane.    The second law of reflection states that the angle of reflection is equal to the angle of incidence.   Consider a light ray, AO is incident on a smooth surface, like morror at an angle and bounces off, then from law of reflection      Reflection of light     Regular reflection     Irregular reflection         Refraction of Light  The phenomenon of bending of light ray as it goes from one medium to another is called a refraction. The velocity of light depends on the medium it is propagating which causes the refraction. The measure of an obstacle that a medium impose on the velocity of light is known as refractive index of that medium. Refraction of Light      Refraction of light     Bent Pencil         Dispersion of Light  The phenomenon of splitting of white light into its constituent colors is known as dispersion. When white light passes through a prism it splitted into seven colors due to dispersion of light. The images of this color patterns formed on a screen is called a spectrum. The spectrum consists of a visible and invisible regions of light. The principal colors of light in the visible spectrum are given as \"VIBGYOR\" (Violet, Indigo, Blue, Green, Yellow, Orange, and Red). The deviation occurred in violet light is maximum and that for red light is minimum as shown in figure . In the invisible regions, the spectrum of wavelengths shorter than violet is called an ultraviolet light and that for longer than red is called an infrared light. The color of light is dependent on its wavelength, . Here is a list of wavelengths of visible light   Dispersion of light     Rainbow is formed when sunlight is dispersed by rain droplets which are suspended in air. When sunlight enters the raindrop it refracts then it undergoes dispersion and total internal reflection from the rear end of the droplet surface and again refracted out in the atmosphere and that's how we see a rainbow. So all the given process i.e total internal reflection, refraction, and dispersion take place in the rainbow formation as shown in figure . Scattering of light doesn't take place in the process of formation of a rainbow.  Dispersion of light      Scattering of Light  It is a phenomenon of redirected light in different directions when it interacts with small particles or irregular surfaces. This can cause the light to appear hazy or dispersed. Due to scattering sky looks bluish as blue colors scattered more in sky than any other colors from the visible spectrum of light. In fact, violet light scattered more than blue but our eyes are more sensitive o blue color than violet light hence blue colors are much more prevailed than others in sky. At sunset and sunrise, the sunlight has to travel longer distance in the atmosphere which causes most of the blue and other shorter wavelengths to scatter in the sky and only red color can reach to our eyes hence the sun appears reddish in color.   "
 },
 {
   "id": "figure-37",
@@ -1573,7 +1573,16 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "6.2.4",
   "title": "",
-  "body": " Dispersion of light            "
+  "body": " Dispersion of light   "
+},
+{
+  "id": "fig-dspr2",
+  "level": "2",
+  "url": "sec_sixth-light.html#fig-dspr2",
+  "type": "Figure",
+  "number": "6.2.5",
+  "title": "",
+  "body": " Dispersion of light   "
 },
 {
   "id": "sec_sixth-examples",
@@ -1582,7 +1591,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.3",
   "title": "Examples",
-  "body": " Examples    The speed of sound is fastest in  liquids.  solids.  gases.  vacuum.      b.      The frequency of a sound determines its quality and the amplitude of the sound determines its .  timber.  frequency.  loudness.  pitch.      c.      which wave given below is partly longitudinal and partly transverse?  light wave.  sound wave.  water wave.  string wave.      c.      When a wave goes from one medium to another medium, which quantity of wave does not change?  frequency.  speed.  amplitude.  wavelength.      a.      Indicate the amplitude of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.      Indicate the wavelength of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.      How far inside the plane mirror your image appears?  As far as I am standing infront of the mirror.  Just double the distance I am standing infront of the mirror.  Cannot be determined.  depends upon my size.      empty.      What causes the pool of water appears to be less deep than what it actually is  Reflection.  Refraction.  Dispersion.  Scattering.      empty.    "
+  "body": " Examples    The speed of sound is fastest in  liquids.  solids.  gases.  vacuum.      b.      The frequency of a sound determines its quality and the amplitude of the sound determines its .  timber.  frequency.  loudness.  pitch.      c.      which wave given below is partly longitudinal and partly transverse?  light wave.  sound wave.  water wave.  string wave.      c.      When a wave goes from one medium to another medium, which quantity of wave does not change?  frequency.  speed.  amplitude.  wavelength.      a.      Indicate the amplitude of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.      Indicate the wavelength of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.      How far inside the plane mirror your image appears?  As far as I am standing infront of the mirror.  Just double the distance I am standing infront of the mirror.  Cannot be determined.  depends upon my size.      empty.      What causes the pool of water appears to be less deep than it actually is  Reflection.  Refraction.  Dispersion.  Scattering.      empty.      What causes light to refract to form rainbow in the sky?  glass prisms.  sunlight rays  small raindrops  air molecules.      c.      why does the fork look larger under water?  light is refracted at an angle.  light cannot pass through the glass.  the amount of light increases when going through water.  the wavelength of light increases in the process.      a.      When light passes through a prism the light splits into the visible spectrum. What color bends the most and has the shortest wavelength?  red.  violet.  yellow.  blue.      a.      The color of object you see is the color that is   absorbed by the object.  reflected by the object.      empty.      What is the speed of wave which completes one full cycle in and has a wavelength of ?         Given: , ,  From equation , we have and from equation , we have     "
 },
 {
   "id": "example-53",
@@ -1654,7 +1663,52 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "6.3.10",
   "title": "",
-  "body": "  What causes the pool of water appears to be less deep than what it actually is  Reflection.  Refraction.  Dispersion.  Scattering.      empty.   "
+  "body": "  What causes the pool of water appears to be less deep than it actually is  Reflection.  Refraction.  Dispersion.  Scattering.      empty.   "
+},
+{
+  "id": "example-61",
+  "level": "2",
+  "url": "sec_sixth-examples.html#example-61",
+  "type": "Example",
+  "number": "6.3.11",
+  "title": "",
+  "body": "  What causes light to refract to form rainbow in the sky?  glass prisms.  sunlight rays  small raindrops  air molecules.      c.   "
+},
+{
+  "id": "example-62",
+  "level": "2",
+  "url": "sec_sixth-examples.html#example-62",
+  "type": "Example",
+  "number": "6.3.12",
+  "title": "",
+  "body": "  why does the fork look larger under water?  light is refracted at an angle.  light cannot pass through the glass.  the amount of light increases when going through water.  the wavelength of light increases in the process.      a.   "
+},
+{
+  "id": "example-63",
+  "level": "2",
+  "url": "sec_sixth-examples.html#example-63",
+  "type": "Example",
+  "number": "6.3.13",
+  "title": "",
+  "body": "  When light passes through a prism the light splits into the visible spectrum. What color bends the most and has the shortest wavelength?  red.  violet.  yellow.  blue.      a.   "
+},
+{
+  "id": "example-64",
+  "level": "2",
+  "url": "sec_sixth-examples.html#example-64",
+  "type": "Example",
+  "number": "6.3.14",
+  "title": "",
+  "body": "  The color of object you see is the color that is   absorbed by the object.  reflected by the object.      empty.   "
+},
+{
+  "id": "example-65",
+  "level": "2",
+  "url": "sec_sixth-examples.html#example-65",
+  "type": "Example",
+  "number": "6.3.15",
+  "title": "",
+  "body": "  What is the speed of wave which completes one full cycle in and has a wavelength of ?         Given: , ,  From equation , we have and from equation , we have    "
 },
 {
   "id": "ex_sixth",
@@ -1662,8 +1716,8 @@ var ptx_lunr_docs = [
   "url": "ex_sixth.html",
   "type": "Exercises",
   "number": "6.4",
-  "title": "My Exercises",
-  "body": "  My Exercises   Is this an exercise?   Yes.   It is, but not a very good one.    Another, with a hint.   The hint.      "
+  "title": "Exercises",
+  "body": "  Exercises   Why does the letter appears like when placed infront of a plane mirror?    Why do the stars twinkle in a night sky? How about the same stars if seen from international space station?   ` What makes setting sun appear red?   scattering of light from the atmospheric air molecules.    Why do we see objects as white?    The American flag appears when viewed in blue light.  red and blue.  blue and black  all blue.  red, white, and blue.     White is a combination of all the colours, and black is the absense of all colours. When viewed in the blue light only blue light reflects. The blue parts are not affected, the red parts are black now, and the white parts are blue now.    Find the wavelengths of sound which have a speed of and frequencies of          Which of the following is not a reason behind rainbow formation?  Reflection.  Refraction.  Dispersion.  Scattering.     "
 },
 {
   "id": "exercise-53",
@@ -1672,7 +1726,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.1",
   "title": "",
-  "body": " Is this an exercise?   Yes.   It is, but not a very good one.  "
+  "body": " Why does the letter appears like when placed infront of a plane mirror?  "
 },
 {
   "id": "exercise-54",
@@ -1681,7 +1735,52 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.2",
   "title": "",
-  "body": " Another, with a hint.   The hint.  "
+  "body": " Why do the stars twinkle in a night sky? How about the same stars if seen from international space station?  "
+},
+{
+  "id": "exercise-55",
+  "level": "2",
+  "url": "ex_sixth.html#exercise-55",
+  "type": "Exercise",
+  "number": "6.4.3",
+  "title": "",
+  "body": "` What makes setting sun appear red?   scattering of light from the atmospheric air molecules.  "
+},
+{
+  "id": "exercise-56",
+  "level": "2",
+  "url": "ex_sixth.html#exercise-56",
+  "type": "Exercise",
+  "number": "6.4.4",
+  "title": "",
+  "body": " Why do we see objects as white?  "
+},
+{
+  "id": "exercise-57",
+  "level": "2",
+  "url": "ex_sixth.html#exercise-57",
+  "type": "Exercise",
+  "number": "6.4.5",
+  "title": "",
+  "body": " The American flag appears when viewed in blue light.  red and blue.  blue and black  all blue.  red, white, and blue.     White is a combination of all the colours, and black is the absense of all colours. When viewed in the blue light only blue light reflects. The blue parts are not affected, the red parts are black now, and the white parts are blue now.  "
+},
+{
+  "id": "exercise-58",
+  "level": "2",
+  "url": "ex_sixth.html#exercise-58",
+  "type": "Exercise",
+  "number": "6.4.6",
+  "title": "",
+  "body": " Find the wavelengths of sound which have a speed of and frequencies of        "
+},
+{
+  "id": "exercise-59",
+  "level": "2",
+  "url": "ex_sixth.html#exercise-59",
+  "type": "Exercise",
+  "number": "6.4.7",
+  "title": "",
+  "body": " Which of the following is not a reason behind rainbow formation?  Reflection.  Refraction.  Dispersion.  Scattering.    "
 },
 {
   "id": "ch_seventh",
@@ -1783,18 +1882,18 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-61",
+  "id": "example-66",
   "level": "2",
-  "url": "sec_features-blocks.html#example-61",
+  "url": "sec_features-blocks.html#example-66",
   "type": "Example",
   "number": "16.1.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-50",
+  "id": "figure-49",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-50",
+  "url": "sec_features-blocks.html#figure-49",
   "type": "Figure",
   "number": "16.1.3",
   "title": "",
