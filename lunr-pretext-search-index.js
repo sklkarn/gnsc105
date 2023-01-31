@@ -1717,7 +1717,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "6.4",
   "title": "Exercises",
-  "body": "  Exercises   Why does the letter appears like when placed infront of a plane mirror?    Why do the stars twinkle in a night sky? How about the same stars if seen from international space station?   ` What makes setting sun appear red?   scattering of light from the atmospheric air molecules.    Why do we see objects as white?    The American flag appears when viewed in blue light.  red and blue.  blue and black  all blue.  red, white, and blue.     White is a combination of all the colours, and black is the absense of all colours. When viewed in the blue light only blue light reflects. The blue parts are not affected, the red parts are black now, and the white parts are blue now.    Find the wavelengths of sound which have a speed of and frequencies of          Which of the following is not a reason behind rainbow formation?  Reflection.  Refraction.  Dispersion.  Scattering.     "
+  "body": "  Exercises   Why does the letter appears like when placed infront of a plane mirror?    Why do the stars twinkle in a night sky? How about the same stars if seen from international space station?   ` What makes setting sun appear red?   scattering of light from the atmospheric air molecules.    Why do we see objects as white?    The American flag appears when viewed in blue light.  red and blue.  blue and black  all blue.  red, white, and blue.     White is a combination of all the colors, and black is the absense of all colors. When viewed in the blue light only blue light reflects. The blue parts are not affected, the red parts are black now, and the white parts are blue now.    Find the wavelengths of sound which have a speed of and frequencies of          Which of the following is not a reason behind rainbow formation?  Reflection.  Refraction.  Dispersion.  Scattering.      Scattering is responsible for the color of the daytime sky.  red  blue  orange  white      Scattering occurs when light waves are forced to depart from a path due to imperfections in the medium.  curved  straight  angled      Refraction occurs  when waves changed speed  only with light waves  at any unpredictable time      What causes wet spot mirage on the high way road?  Reflection  Refraction  Dispersion  Scattering      Different colors of light waves travell with different speeds in transparent medium. How they travell in vacuum?  At different speeds.  At same speed.  Both a and b.  None of the above.      My radio station is tuned at 90MHz frequency. What is the wavelength of that radio wave. The velocity of electromagnetic wave is    Given: , ,     "
 },
 {
   "id": "exercise-53",
@@ -1762,7 +1762,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.5",
   "title": "",
-  "body": " The American flag appears when viewed in blue light.  red and blue.  blue and black  all blue.  red, white, and blue.     White is a combination of all the colours, and black is the absense of all colours. When viewed in the blue light only blue light reflects. The blue parts are not affected, the red parts are black now, and the white parts are blue now.  "
+  "body": " The American flag appears when viewed in blue light.  red and blue.  blue and black  all blue.  red, white, and blue.     White is a combination of all the colors, and black is the absense of all colors. When viewed in the blue light only blue light reflects. The blue parts are not affected, the red parts are black now, and the white parts are blue now.  "
 },
 {
   "id": "exercise-58",
@@ -1783,13 +1783,85 @@ var ptx_lunr_docs = [
   "body": " Which of the following is not a reason behind rainbow formation?  Reflection.  Refraction.  Dispersion.  Scattering.    "
 },
 {
+  "id": "exercise-60",
+  "level": "2",
+  "url": "ex_sixth.html#exercise-60",
+  "type": "Exercise",
+  "number": "6.4.8",
+  "title": "",
+  "body": " Scattering is responsible for the color of the daytime sky.  red  blue  orange  white    "
+},
+{
+  "id": "exercise-61",
+  "level": "2",
+  "url": "ex_sixth.html#exercise-61",
+  "type": "Exercise",
+  "number": "6.4.9",
+  "title": "",
+  "body": " Scattering occurs when light waves are forced to depart from a path due to imperfections in the medium.  curved  straight  angled    "
+},
+{
+  "id": "exercise-62",
+  "level": "2",
+  "url": "ex_sixth.html#exercise-62",
+  "type": "Exercise",
+  "number": "6.4.10",
+  "title": "",
+  "body": " Refraction occurs  when waves changed speed  only with light waves  at any unpredictable time    "
+},
+{
+  "id": "exercise-63",
+  "level": "2",
+  "url": "ex_sixth.html#exercise-63",
+  "type": "Exercise",
+  "number": "6.4.11",
+  "title": "",
+  "body": " What causes wet spot mirage on the high way road?  Reflection  Refraction  Dispersion  Scattering    "
+},
+{
+  "id": "exercise-64",
+  "level": "2",
+  "url": "ex_sixth.html#exercise-64",
+  "type": "Exercise",
+  "number": "6.4.12",
+  "title": "",
+  "body": " Different colors of light waves travell with different speeds in transparent medium. How they travell in vacuum?  At different speeds.  At same speed.  Both a and b.  None of the above.    "
+},
+{
+  "id": "exercise-65",
+  "level": "2",
+  "url": "ex_sixth.html#exercise-65",
+  "type": "Exercise",
+  "number": "6.4.13",
+  "title": "",
+  "body": " My radio station is tuned at 90MHz frequency. What is the wavelength of that radio wave. The velocity of electromagnetic wave is    Given: , ,    "
+},
+{
   "id": "ch_seventh",
   "level": "1",
   "url": "ch_seventh.html",
   "type": "Chapter",
   "number": "7",
   "title": "Atoms and Nucleus",
-  "body": " Atoms and Nucleus   Try adding your own content here!   "
+  "body": " Atoms and Nucleus   An atom is the basic unit of matter and the defining structure of elements. The term \"atom\" comes from the Greek word for indivisible, because it was once thought that atoms were the smallest things in the universe and could not be divided. However, we now know that atoms are made up of smaller particles such as electrons, protons, and neutrons. The number of protons in an atom's nucleus determines what element the atom is. Atoms form molecules through chemical bonds and make up all matter in the universe. They play a crucial role in many processes, such as chemical reactions, combustion, and the transmission of signals in living organisms. Understanding the properties of atoms and how they interact with each other is essential for fields such as chemistry, physics, and materials science. The study of atoms is called atomic physics. It wasn't until the 19th century that the idea of atoms gained widespread acceptance in the scientific community. In 1897, J.J. Thomson discovered the electron and showed that atoms were made up of negatively charged particles. Then, in 1909, Ernest Rutherford demonstrated that atoms also contained a positive nucleus. In 1913, Niels Bohr proposed a model for the atomic structure that explained the periodic table of elements and the spectra of light emitted by atoms. Throughout the 20th century, scientists continued to study atoms and their components, leading to the development of quantum mechanics and a deeper understanding of atomic structure and behavior. This research has numerous applications in fields such as energy production, electronics, and medicine.  The Nucleus of an atom refers to the central, positively charged part of an atom that contains protons and neutrons (collectively called nucleons). The number of protons in the nucleus, known as the atomic number, determines the element to which the atom belongs. The nucleus is surrounded by negatively charged electrons in orbital shells. The properties of an element are determined by the arrangement of its electrons and its atomic number. The nucleus of an atom is very small compared to the overall size of the atom, but contains most of the atom's mass. The strong force, also known as the nuclear force, holds the protons and neutrons together in the nucleus. The nucleus can undergo various types of changes, such as fusion (combining of two nuclei) or fission (splitting of a nucleus). The study of atomic nuclei is called nuclear physics. The isotopes of an element are atoms with the same number of protons but different number of neutrons in their nucleus.   "
+},
+{
+  "id": "p-408",
+  "level": "2",
+  "url": "ch_seventh.html#p-408",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "atom "
+},
+{
+  "id": "p-409",
+  "level": "2",
+  "url": "ch_seventh.html#p-409",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Nucleus "
 },
 {
   "id": "ch_eighth",
@@ -1798,7 +1870,16 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "8",
   "title": "The Chemical Elements",
-  "body": " The Chemical Elements   Try adding your own content here!   "
+  "body": " The Chemical Elements   Try adding your own content here!    (for accessibility)     "
+},
+{
+  "id": "fig-ptable",
+  "level": "2",
+  "url": "ch_eighth.html#fig-ptable",
+  "type": "Figure",
+  "number": "8.0.1",
+  "title": "",
+  "body": "  (for accessibility)   "
 },
 {
   "id": "ch_ninth",
@@ -1891,9 +1972,9 @@ var ptx_lunr_docs = [
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-49",
+  "id": "figure-50",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-49",
+  "url": "sec_features-blocks.html#figure-50",
   "type": "Figure",
   "number": "16.1.3",
   "title": "",
