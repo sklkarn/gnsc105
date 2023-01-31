@@ -1870,7 +1870,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "8",
   "title": "The Chemical Elements",
-  "body": " The Chemical Elements   Try adding your own content here!    (for accessibility)     "
+  "body": " The Chemical Elements   Try adding your own content here!    The Periodic Table of Elements      "
 },
 {
   "id": "fig-ptable",
@@ -1879,7 +1879,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "8.0.1",
   "title": "",
-  "body": "  (for accessibility)   "
+  "body": "  The Periodic Table of Elements    "
 },
 {
   "id": "ch_ninth",
