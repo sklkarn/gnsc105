@@ -214,7 +214,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Describing Motion",
-  "body": " Describing Motion     Distance: It is the length between the change in positions of an object. If is an initial position of the object and is a final position of that object then is the distance travelled by the object. It is a scalar quantity because it does not deal with the direction in which the object is travelling.It's unit is in SI system and in CGS system, and in FPS system.  Displacement: It is a direct distance between initial and final position of the object. It is the shortest path between initial and final positions of the object. It has the same unit as distance. It is a vector quantity because it has only one particular direction between the initial and position of the object. Let's understand by the example here, suppose you started travelling from initial point A and reached to point B by travelling 4 m distance along east. Now from point B you covered a distance of 3 m along north to reach to your final point C. So the direct distance between your initial position and final position is 5m given by Pythagoras theorem along north-east. . See the figure below as reference.  Displacement vector      Speed:The rate of change of position of an object is called a speed. It states that how fast the object is changing its position with respedt to time. In physics, the rate means with respect to time. It is also a scalar quantity. speed is represented by the letter, . If is an initial position and is the final position of the object then . It's unit is m\/s in SI system and cm\/s in CGS system, and ft\/s in FPS system.  Velocity: It is the speed of an object in particular direction. It is a vector quantity. It has the same unit as speed. It is also represented by the letter, .  Acceleration: The rate of change of velocity is called an acceleration. It states that how fast the velocity of an object is being changed. It is also a vector quantity. If is an initial velocity and is the final velocity of the object then the acceleration of the object is given by . It's unit is in SI system. If acceleration is positive then the object is speeding up, if it is negative then the object is slowing down, if it is zero then the object is either moving with uniform velocity or remains at rest. Note: Velocity is always in the same direction as the object is moving, but the acceleration is not.    Vector quantity carries two pieces of information, i.e. magnitude and direction. Vector is often represented by an arrow. A straight line with an arrowhead where the length of the line yields information about MAGNITUDE and the arrow indicates the direction . Mathematical operation is different for vectors than in scalars. It is not just the addition or subtraction of the numbers. We are not going to perform many vector mathematical operations here rather we try to understand addition and subtraction with some simple examples. Addition or subtraction of scalar quantities are just like adding or subtracting the numbers. In vector addition, the vectors are arranged in Head to Tail to find the sum of the vectors. In vector subtraction, the vector to be subtracted is flipped in direction and added to the other vector by arranging them in “Head to Tail” to find the sum of the vectors.     For example: in , the total distance travelled by the object is However, total displacement of the object is only along north-east directin as shown by the arrow AC. . Suppose water is flowing downstream with velocity 2 in a river where you are rowing your boat with 5 downstream. You can find that you are moving with 7 velocity (or speed) downstream. If you want to go upsteam then your velocity (or speed) would be 3 only. If you want to row accross the river then your velocity would be somewhere between 3 to 7 . . Suppose Aron is sweeming in a pool of 100 m wide. He took 5 laps, so he covers total of but his displacement is just zero. Remember one lap is one complete round of trip. However, if he just take a half lap then the distance covered is the same as displacement and are 100 m .      Equations of Motion  There are three equations of motion defined by the above terminologies which can help solve problems of motion. These eqations are obtained by manipulating average velocity and acceleration of the object.     Equations of motion in horizontal direction:   .  .  .    Equations of motion in vertical direction:   .  .  .     Here,  = acceleration due to gracvity, = height attains by the object, and = time taken by the object during its motion.  In vertical direction earth plays a vitol role in the acceleration of object motion. Earth pulls every thing downwards which causes acceleration due to gravity, negative. Accleration due to gravity is the acceleration of the object caused by the earth gravitational field. The value of . In vertical motion, we consider height as positive if going up (y-axis) and height as negative if coming down. But here, we are taking if the object is going vertically up, and for the object falling down. Such conventions allow us to assume h as always positive.  Note: The above equations only work for constant acceleration or acceleration due to gravity.    Free Fall  Objects moving under the influence of gravity only is called a free fall. This means gravity causes a change in the velocity of any object by 9.80 every second. So, drop any object and let it fall toward the ground: After 1s, the speed of the object is 9.80 . After 2s, the speed of the object is 19.6 . Etc. According to Galileo the velocity of a falling object is proportional to the length of time that the object has been falling. From the first equation of motion or,  as is a constant. Hence, the object is falling with higher velocity if it is falling for a long time or from a higher position. Since is constant near the planet all objects fall at the same rate. (Assuming there is no air resistance).    Projectile Motion  In normal day life, we encounter many examples where object moves along both horizontal and verticle direction together. Such type of motion is called projectile motion and the object moving in projectile motion is called a projectile. Hence, projectile is an object which has both horizontal as well as vertical motion. The path taken by the projectile is parabolic in nature. We are not dealing with mathematical operation related to projectile motion here but we try to understand the projectile motion by the following figure.  Projectile motion    Since gravity only acts on the verticle direction the horizontal velocity remains constant always in projectile motion.   "
+  "body": " Describing Motion     Distance: It is the length between the change in positions of an object. If is an initial position of the object and is a final position of that object then is the distance travelled by the object. It is a scalar quantity because it does not deal with the direction in which the object is travelling.It's unit is in SI system and in CGS system, and in FPS system.  Displacement: It is a direct distance between initial and final position of the object. It is the shortest path between initial and final positions of the object. It has the same unit as distance. It is a vector quantity because it has only one particular direction between the initial and position of the object. Let's understand by the example here, suppose you started travelling from initial point A and reached to point B by travelling 4 m distance along east. Now from point B you covered a distance of 3 m along north to reach to your final point C. So the direct distance between your initial position and final position is 5m given by Pythagoras theorem along north-east. . See the figure below as reference.  Displacement vector      Speed:The rate of change of position of an object is called a speed. It states that how fast the object is changing its position with respedt to time. In physics, the rate means with respect to time. It is also a scalar quantity. speed is represented by the letter, . If is an initial position and is the final position of the object then . It's unit is m\/s in SI system and cm\/s in CGS system, and ft\/s in FPS system.  Velocity: It is the speed of an object in particular direction. It is a vector quantity. It has the same units as speed. It is also represented by the letter, .  Acceleration: The rate of change of velocity is called an acceleration. It states that how fast the velocity of an object is being changed. It is also a vector quantity. If is an initial velocity and is the final velocity of the object then the acceleration of the object is given by . It's unit is in SI system. If acceleration is positive then the object is speeding up, if it is negative then the object is slowing down, if it is zero then the object is either moving with uniform velocity or remains at rest. Note: Velocity is always in the same direction as the object is moving, but the acceleration is not.    Vector quantity carries two pieces of information, i.e. magnitude and direction. Vector is often represented by an arrow. A straight line with an arrowhead where the length of the line yields information about magnitude and the arrow indicates the direction . Mathematical operation is different for vectors than in scalars. It is not just the addition or subtraction of the numbers. We are not going to perform many vector mathematical operations here rather we try to understand addition and subtraction with some simple examples. Addition or subtraction of scalar quantities are just like adding or subtracting the numbers. In vector addition, the vectors are arranged in Head to Tail to find the sum of the vectors. In vector subtraction, the vector to be subtracted is flipped in direction and added to the other vector by arranging them in “Head to Tail” to find the sum of the vectors.     For example: in , the total distance travelled by the object is However, total displacement of the object is only along north-east directin as shown by the arrow AC. . Suppose water is flowing downstream with velocity 2 in a river where you are rowing your boat with 5 downstream. You can find that you are moving with 7 velocity (or speed) downstream. If you want to go upsteam then your velocity (or speed) would be 3 only. If you want to row accross the river then your velocity would be somewhere between 3 to 7 . . Suppose Aron is sweeming in a pool of 100 m wide. He took 5 laps, so he covers total of but his displacement is just zero. Remember one lap is one complete round of trip. However, if he just take a half lap then the distance covered is the same as displacement and are 100 m .      Equations of Motion  There are three equations of motion defined by the above terminologies which can help solve problems of motion. These eqations are obtained by manipulating average velocity and acceleration of the object.     Equations of motion in horizontal direction:   .  .  .    Equations of motion in vertical direction:   .  .  .     Here,  = acceleration due to gracvity, = height attains by the object, and = time taken by the object during its motion.  In vertical direction earth plays a vitol role in the acceleration of object motion. Earth pulls every thing downwards which causes acceleration due to gravity, negative. Accleration due to gravity is the acceleration of the object caused by the earth gravitational field. The value of . In vertical motion, we consider height as positive if going up (y-axis) and height as negative if coming down. But here, we are taking if the object is going vertically up, and for the object falling down. Such conventions allow us to assume h as always positive.  Note: The above equations only work for constant acceleration or acceleration due to gravity.    Free Fall  Objects moving under the influence of only gravity is called a free fall. This means gravity causes a change in the velocity of any object by 9.80 every second. So, drop any object and let it fall toward the ground: After 1s, the speed of the object is 9.80 . After 2s, the speed of the object is 19.6 . Etc. According to Galileo the velocity of a falling object is proportional to the length of time that the object has been falling. From the first equation of motion or,  as is a constant. Hence, the object is falling with higher velocity if it is falling for a long time or from a higher position. Since is constant near the planet all objects fall at the same rate. (Assuming there is no air resistance).    Projectile Motion  In normal day life, we encounter many examples where object moves along both horizontal and verticle direction together. Such type of motion is called projectile motion and the object moving in projectile motion is called a projectile. Hence, projectile is an object which has both horizontal as well as vertical motion. The path taken by the projectile is parabolic in nature. We are not dealing with mathematical operation related to projectile motion here but we try to understand the projectile motion by the following figure.  Projectile motion    Since gravity only acts on the verticle direction the horizontal velocity remains constant always in projectile motion.   "
 },
 {
   "id": "p-59",
@@ -250,7 +250,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.2",
   "title": "Force",
-  "body": " Force   Force is a push or pull. It is a vector quantity. Force is anything that produces a change in the state of motion or shape of an object. Action of force on an object can change the direction of motion or change the velocity of the object. Newton ( ) is an SI unit of force. There are four fundamental forces in nature. They are   Gravitational force or Force of Gravity: The gravitational force exists due to the mass of an object. Gravitational force is the weakest known forces in nature. It is a long range force. It holds all the planets together. We discuss this force later in this section. This force is acting on any object due to attraction of earth. Near the surface of the earth force of gravity is given by its weight, i.e., Foece, = weight = . Where g is the acceleration due to gravity and the direction force is acting along the center of the earth. Weight: It is the force acting on an object due to gravitational acceleration. Weight is the effect of force of gravity on an object located at a particular point. One kg of mass has a weight of about 10 N ( ).    Electromagnetic force: The electromagnetic force exists due to the charge in the object. It is also a long range force but stronger than the gravitational force. It holds all the atoms and molecules together. We discuss this force later in another chapter.    Strong nucleur force: The strong nucleur force is a short range force and it exists only inside the nucleus. It binds all the nucleons together to have atomic existance. It is the strongest force in nature.    Weak nuclear force: The weak nucleur force is also short range force and only exists inside the nucleus. It is weaker than strong nuclear force and electromagnetic force. It is responsible for radioactivity of nucleous. The improper ratio of nucleons may cause the weak nuclear force to exist.     Physical contact of the object is not necessary to experience the fundamental forces. Hoverever, there are many other forces which only act on the object if they are in contact. They are called contact forces (or mechanical forces). Frictional force, normal force, tension, drag force, applied force, etc. are some contact forces.    Contact Forces   Friction: Friction is a resistive force that opposes or tends to oppose relative motion between two objects. It is a force that exists between the surfaces of contact of the two objects. If two systems are in contact and stationary relative to each other, then the friction between them is called static friction . This force arises from mechanical interlocking at the microscopic level plus the electrostatic molecular forces that hold the surfaces themselves together. If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction . This force arises from forming and breaking of microscopic adhesive bonds between atoms on the surfaces plus some mechanical linkage between the small irregularities on the surfaces. Experimentally it is found that frictional force is proportional to normal force, i.e., or, . Where proportionality constant is called the coefficient of friction. It defines the nature of roughness of the surfaces of contact. Friction decreases with increase in smoothness of the surfaces of contact, but if the surfaces are ultra smooth then friction increases because of inter molecular forces starts to act between the two surfaces as they come very close to each other, due to which it becomes harder to make them slide on each other. Friction is a complex force, and its behavior is still not completely understood. On molecular level friction has no existence.  In microscopic level most surfaces look very rough as shown in figure below. Thus, when an object is pushed to move it must raise the object until it can skip the tips of the surface hitting, breaking off the points, or both. A considerable force can be resisted by friction with no apparent motion. Part of the friction is due to adhesive forces between the surface molecules of the two objects, which explains the dependence of friction on the nature of the substances. For example, rubber-soled shoes slip less than those with leather soles. Adhesion varies with substances in contact. Once an object is moving, there are fewer points of contact so less force is required to keep the object moving. At small but nonzero speeds, friction is nearly independent of speed.  Surfaces of contact as seen from microscope      In real life frictional forces are almost always present. Remember the direction of frictional force is always opposite to the direction of motion or the applied force. Friction is bad as it dissipates energy but friction is also good as it allows us to roll, turn, walk, and stop. Friction between two solids does not depend on the surface area in contact. Friction can happen, even between surfaces that are not solid such as air drag. Air resistance (drag) during free fall reduces the weight of the object. Air drag increases with the velocity of the object in free fall and when it becomes equal to the wight of the object net force acting on the object is zero and hence the object starts falling with the constant velocity called Terminal Velocity. Skydiving is a good example of terminal velocity.   Normal: This is a force of reaction from the surface where the object is placed. It is always perpendicular to the surface of contact. Tension: This force is acting between two objects on opposite ends of the string, in the directions to taut string at the point of contact. This force stretches the string along fixed support. It is a pulling force. Spring force: A spring is a special medium that has ability to restore its shape, if deformed. Any material has elastic property which helps it to restore its shape, if an applied deforming force has been released. From Hook's law a material (spring) exerts a restoring force that is proportional to a deforming force in opposite direction in which it is stretched or compressed. In mathematical form, spring force, where k is a spring's stiffness, also called an elastic constant and is stretch made on spring.    Newton's Laws of Motion  Newton recognized that there are two kinds of motion they are uniform motion and accelerated motion. Uniform motion: the movement of an object traveling in a straight line at a constant speed (no acceleration). Accelerated motion: the movement of an object traveling under the influence of some source of acceleration. On that basis he defined three laws of motion called Newton's laws of motion.  Newton's first law is the definition of a force which states that every object in a state of rest remains at rest or in a state of uniform motion tends to remain in uniform motion along the same direction, unless an external force is applied to it. Force is not required to continue the motion of anything which is already in motion. The first law is also called a law of inertia . Inertia is an ability of an object to resist any changes in its motion. Mass is related to inertia, the bigger the mass the more difficult it is to change the state of rest or motion of an object. Mass: It is the amount of matter in contained in an object. It is also reposible for the force of gravity of the object. Some examples of I law: 1. When the bus driver abruptly applies the breaks, passengers tend to feel a momentary pull in the forward direction. The reason behind this jerk felt by the passengers sitting inside the bus is the law of inertia. Due to inertia, our upper body part continues to maintain a state of motion even after the bus stops, thereby pushing us in the forward direction. 2. A book kept on a bookshelf does not change its shape, size, or position until acted upon by an external force. 3. A runner is not able to stop himself right after crossing the finish line. He\/She tends to take time and cover a few meters of distance running beyond the finish line. This is because the inertia of motion resists a sudden termination of motion and compels the body to maintain its state of motion.  Newton's second law is the measurement of a force which states that the acceleration of the object is directly proportional to the applied force and takes the direction of that force. Newton's II law can be expressed as . Where is the mass of the object.  Newton's third law is the property of force which states that for every action there is an equal and opposite reaction. Force always comes in pair. If an object A applies the action force on the object B then object B also applies the same amount of reaction force on the object A. These forces pair always act on two different objects. If one object exerts a force on a second object, then the second object exerts an equal but oppositely directed force on the first object. Mathematically,  Some examples: 1. Earth exerts force on you because you exert an equal and opposite force on earth. Here your force is your body weight and earth reaction force is a normal force. 2. When the rifle is fired it exerts a force on the bullet and the bullet exerts an equal and opposite force on the rifle. 3. You are able to sweem in water because you pushes water backwardly so apply the force on water and in reaction water also applies the same force on you just in opposite direction so you can sweem nicely.     Momentum  It is the quantity of motion contained in a body. If a body of mass is moving with a velocity then its momentum, . Momentum (also called linear Momentum) is a product of mass and velocity of the object. Momentum is represented by , its SI unit is . Momentum is a vector quantity and its direction is along the velocity of the object.  From Newton's II law:    Here is called impulse and is called change in momentum. They are two different physical quantities but their magnitude remains the same. A force acting on an object for a certain time changes the momentum of that object, such change in momentum is called the Impulse. Impulse is a vector quantity and has the same direction as the average force. SI unit of impulse is .   A 300 kg horse running with 40 m\/s has a momentum of     When a 430 g soccer ball is kicked, the impact lasts for 0.04 s. Find the magnitude of force that is needed to fly off the ball at 8 m\/s.          Uniform Circular Motion  In uniform circular motion an object is moving at a constant speed (not velocity) on a circular path. For an object to be in uniform circular motion, there must be a net force acting on it. This force is called a centripetal force without this force nothing can move in a circular path. This net force is not a physical force of some kind actually some other forces must be there to act like a centripetel force. If the centripetal force vanishes, the object flies off at a tangent to the circle. The centripetal force, where is mass of the object, is speed of the object, and is radius of the circluar path. Because of necessary centripetal force, sometime we feel difficulty to steer our car around a sharp curve. The sharper the curve (i.e., the smaller the radius) the greater the centripetal force required to keep the car on the curved path. Cetripetal means to look towards the center, hence centripetal force is always acting towards the center of the path. Some examples: 1. We may have noticed that when the string breaks for a whirling stone. The stone flies off along the straight line tangential to the circular path. 2. When swinging a yo-yo around in a circle. The force generated by your arm puts the yo-yo itself in motion, and the tension on the string keeps it moving in a circular path as you twirl it. If the string were to break at any given point, the yo-yo would fly off in a direction that is tangent to the point on the circle that the yo-yo was at when the string broke centripetal force .    Newton's Law of Gravitation  Newton observed that when an object falls it was accelerated toward the earth. Since the cause of such acceleration is an unbalanced force, there must be a force pulling that object toward the earth. On this basis, he came up with an idea called Newton's Law of Universal Gravitation. It states that any two masses in the universe attract each other with a force that is directly proportional to the product of the masses and inversely proportional to the square of the distance between them. Mathematically, here, is an universal gravitational constant, and are the masses of two objects, and is the distance between the them.    Gravitational force between two Objects        Escape Velocity  Escape Velocity is the minimum velocity of an object with which it can be thrown out of the planet in such a way so that it can never come back. If a stone of mass m is thrown out from the earth with an escape velocity then it never fall back on the earth again. The escape velocity of earth is 11.2 km\/s.   "
+  "body": " Force   Force is a push or pull. It is a vector quantity. Force is anything that produces a change in the state of motion or shape of an object. Action of force on an object can change the direction of motion or change the velocity of the object. Newton ( ) is an SI unit of force. There are four fundamental forces in nature. They are   Gravitational force or Force of Gravity: The gravitational force exists due to the mass of an object. Gravitational force is the weakest known forces in nature. It is a long range force. It holds all the planets together. We discuss this force later in this section. This force is acting on any object due to attraction of earth. Near the surface of the earth force of gravity is given by its weight, i.e., Foece, = weight = . Where g is the acceleration due to gravity and the direction force is acting along the center of the earth. Weight: It is the force acting on an object due to gravitational acceleration. Weight is the effect of force of gravity on an object located at a particular point. One kg of mass has a weight of about 10 N ( ).    Electromagnetic force: The electromagnetic force exists due to the charge in the object. It is also a long range force but stronger than the gravitational force. It holds all the atoms and molecules together. We discuss this force later in another chapter.    Strong nucleur force: The strong nucleur force is a short range force and it exists only inside the nucleus. It binds all the nucleons together to have atomic existance. It is the strongest force in nature.    Weak nuclear force: The weak nucleur force is also short range force and only exists inside the nucleus. It is weaker than strong nuclear force and electromagnetic force. It is responsible for radioactivity of nucleous. The improper ratio of nucleons may cause the weak nuclear force to exist.     Physical contact of the object is not necessary to experience the fundamental forces. Hoverever, there are many other forces which only act on the object if they are in contact. They are called contact forces (or mechanical forces). Frictional force, normal force, tension, drag force, applied force, etc. are some contact forces.    Contact Forces   Friction: Friction is a resistive force that opposes or tends to oppose relative motion between two objects. It is a force that exists between the surfaces of contact of the two objects. If two systems are in contact and stationary relative to each other, then the friction between them is called static friction . This force arises from mechanical interlocking at the microscopic level plus the electrostatic molecular forces that hold the surfaces themselves together. If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction . This force arises from forming and breaking of microscopic adhesive bonds between atoms on the surfaces plus some mechanical linkage between the small irregularities on the surfaces. Experimentally it is found that frictional force is proportional to normal force, i.e., or, . Where proportionality constant is called the coefficient of friction. It defines the nature of roughness of the surfaces of contact. Friction decreases with increase in smoothness of the surfaces of contact, but if the surfaces are ultra smooth then friction increases because of inter molecular forces starts to act between the two surfaces as they come very close to each other, due to which it becomes harder to make them slide on each other. Friction is a complex force, and its behavior is still not completely understood. On molecular level friction has no existence.  In microscopic level most surfaces look very rough as shown in figure . Thus, when an object is pushed to move, it must glideover these humppy, bumppy, and ditch types interlock to skip the tips of the surface. A considerable force can be resisted by friction with no apparent motion. Part of the friction is due to adhesive forces between the surface molecules of the two objects, which explains the dependence of friction on the nature of the substances. For example, rubber-soled shoes slip less than those with leather soles. Adhesion varies with substances in contact. Once an object is moving, there are fewer points of contact so less force is required to keep the object moving. At small but nonzero speeds, friction is nearly independent of speed.  Surfaces of contact as seen from microscope      In real life frictional forces are almost always present. Remember the direction of frictional force is always opposite to the direction of motion or the applied force. Friction is bad as it dissipates energy but friction is also good as it allows us to roll, turn, walk, and stop. Friction between two solids does not depend on the surface area in contact. Friction can happen, even between surfaces that are not solid such as air drag. Air resistance (drag) during free fall reduces the weight of the object. Air drag (resistance) increases with the velocity of the object in free fall and when it becomes equal to the wight of the object, net force acting on the object is zero and hence the object starts falling with the constant velocity called Terminal Velocity. Skydiving is a good example of terminal velocity.   Normal: This is a force of reaction from the surface where the object is placed. It is always perpendicular to the surface of contact. Tension: is a pulling force. It is a force acting between two objects on opposite ends of the string and acting along the directions to taut string at the point of contact. This force stretches the string along fixed support. Spring force: A spring is a special medium that has ability to restore its shape, if deformed. The elastic property in a material has the ability to restore its shape, if an applied deforming force has been released. From Hook's law a material (spring) exerts a restoring force that is proportional to a deforming force in opposite direction in which it is stretched or compressed. In mathematical form, spring force, where k is a spring's stiffness, also called an elastic constant and is stretch made on spring.    Newton's Laws of Motion  Newton recognized that there are two kinds of motion they are uniform motion and accelerated motion. Uniform motion: the movement of an object traveling in a straight line at a constant speed (no acceleration). Accelerated motion: the movement of an object traveling under the influence of some source of acceleration. On that basis he defined three laws of motion called Newton's laws of motion.  Newton's first law is the definition of a force which states that every object in a state of rest remains at rest or in a state of uniform motion tends to remain in uniform motion along the same direction, unless an external force is applied to it. Force is not required to continue the motion of anything which is already in motion. The first law is also called a law of inertia . Inertia is an ability of an object to resist any changes in its motion. Mass is related to inertia, the bigger the mass the more difficult it is to change the state of rest or motion of an object. Mass: It is the amount of matter in contained in an object. It is also reposible for the force of gravity of the object. Some examples of I law: 1. When the bus driver abruptly applies the breaks, passengers tend to feel a momentary pull in the forward direction. The reason behind this jerk felt by the passengers sitting inside the bus is the law of inertia. Due to inertia, our upper body part continues to maintain a state of motion even after the bus stops, thereby pushing us in the forward direction. 2. A book kept on a bookshelf does not change its shape, size, or position until acted upon by an external force. 3. A runner is not able to stop himself right after crossing the finish line. He\/She tends to take time and cover a few meters of distance running beyond the finish line. This is because the inertia of motion resists a sudden termination of motion and compels the body to maintain its state of motion.  Newton's second law is the measurement of a force which states that the acceleration of the object is directly proportional to the applied force and takes the direction of that force. Newton's II law can be expressed as . Where is the mass of the object.  Newton's third law is the property of force which states that for every action there is an equal and opposite reaction. Force always comes in pair. If an object A applies the action force on the object B then object B also applies the same amount of reaction force on the object A. These forces pair always act on two different objects. If one object exerts a force on a second object, then the second object exerts an equal but oppositely directed force on the first object. Mathematically,  Some examples: 1. Earth exerts force on you because you exert an equal and opposite force on earth. Here your force is your body weight and earth reaction force is a normal force. 2. When the rifle is fired it exerts a force on the bullet and the bullet exerts an equal and opposite force on the rifle. 3. You are able to sweem in water because you pushes water backwardly so apply the force on water and in reaction water also applies the same force on you just in opposite direction so you can sweem nicely.     Momentum  It is the quantity of motion contained in a body. If a body of mass is moving with a velocity then its momentum is . Momentum (also called linear Momentum) is a product of mass and velocity of the object. Momentum is represented by , its SI unit is . Momentum is a vector quantity and its direction is along the velocity of the object.  From Newton's II law:    Here is called impulse and is called change in momentum. They are two different physical quantities but their magnitude remains the same. A force acting on an object for a certain time changes the momentum of that object, such change in momentum is called the Impulse. Impulse is a vector quantity and has the same direction as the average force. SI unit of impulse is .   A 300 kg horse running with 40 m\/s has a momentum of     When a 430 g soccer ball is kicked, the impact lasts for 0.04 s. Find the magnitude of force that is needed to fly off the ball at 8 m\/s.          Uniform Circular Motion  In uniform circular motion an object is moving at a constant speed (not velocity) on a circular path. For an object to be in uniform circular motion, there must be a net force acting on it. This force is called a centripetal force without this force nothing can move in a circular path. This net force is not a physical force of some kind actually some other forces must be there to act like a centripetel force. If the centripetal force vanishes, the object flies off at a tangent to the circle. The centripetal force, where is mass of the object, is speed of the object, and is radius of the circluar path. Because of necessary centripetal force, sometime we feel difficulty to steer our car around a sharp curve. The sharper the curve (i.e., the smaller the radius) the greater the centripetal force required to keep the car on the curved path. Cetripetal means to look towards the center, hence centripetal force is always acting towards the center of the path. Some examples: 1. We may have noticed that when the string breaks for a whirling stone. The stone flies off along the straight line tangential to the circular path. 2. When swinging a yo-yo around in a circle. The force generated by your arm puts the yo-yo itself in motion, and the tension on the string keeps it moving in a circular path as you twirl it. If the string were to break at any given point, the yo-yo would fly off in a direction that is tangent to the point on the circle that the yo-yo was at when the string broke centripetal force .    Newton's Law of Gravitation  Newton observed that when an object falls it was accelerated toward the earth. Since the cause of such acceleration is an unbalanced force, there must be a force pulling that object toward the earth. On this basis, he came up with an idea called Newton's Law of Universal Gravitation. It states that any two masses in the universe attract each other with a force that is directly proportional to the product of the masses and inversely proportional to the square of the distance between them. Mathematically, here, is an universal gravitational constant, and are the masses of two objects, and is the distance between the them.    Gravitational force between two Objects        Escape Velocity  Escape Velocity is the minimum velocity of an object with which it can be thrown out of the planet in such a way so that it can never come back. If a stone of mass m is thrown out from the earth with an escape velocity then it never fall back on the earth again. The escape velocity of earth is 11.2 km\/s.   "
 },
 {
   "id": "p-70",
@@ -271,9 +271,9 @@ var ptx_lunr_docs = [
   "body": "Friction: "
 },
 {
-  "id": "figure-4",
+  "id": "fig-friction",
   "level": "2",
-  "url": "sec_second-force.html#figure-4",
+  "url": "sec_second-force.html#fig-friction",
   "type": "Figure",
   "number": "2.2.1",
   "title": "",
@@ -970,7 +970,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.3",
   "title": "Examples",
-  "body": " Examples    Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body            From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand           Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight           Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density           The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.           Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.           Molecular motion of the substance is least possible at which temperature?  .  .  .  .           Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.           At which of the temperature a Celsius thermometer and a Fahrenheit thermometer show the same readings?  40 .  -40 .  40 .  0 .     Consider , then from , we have Solve this equation to find the value of x.         "
+  "body": " Examples    Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body            From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand           How much heat is needed to boil 500 gram of water initially at . The specific heat capacity of water is .   Given: , , , , .  From equation , we have      Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight           Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density           The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.           What is the mass of water that can be stored in an aquarium of 60 cm long, 30 cm wide, and 20 cm high. The density of water is    Find the volume of the container and calulate the mass using mass, volume, and density relationship.     Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.           Molecular motion of the substance is least possible at which temperature?  .  .  .  .           Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.           At which of the temperature a Celsius thermometer and a Fahrenheit thermometer show the same readings?  40 .  -40 .  40 .  0 .     Consider , then from , we have Solve this equation to find the value of x.         "
 },
 {
   "id": "example-35",
@@ -997,7 +997,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "4.3.3",
   "title": "",
-  "body": " Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight         "
+  "body": " How much heat is needed to boil 500 gram of water initially at . The specific heat capacity of water is .   Given: , , , , .  From equation , we have    "
 },
 {
   "id": "example-38",
@@ -1006,7 +1006,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "4.3.4",
   "title": "",
-  "body": " Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density         "
+  "body": " Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight         "
 },
 {
   "id": "example-39",
@@ -1015,7 +1015,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "4.3.5",
   "title": "",
-  "body": " The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.         "
+  "body": " Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density         "
 },
 {
   "id": "example-40",
@@ -1024,7 +1024,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "4.3.6",
   "title": "",
-  "body": " Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.         "
+  "body": " The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.         "
 },
 {
   "id": "example-41",
@@ -1033,7 +1033,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "4.3.7",
   "title": "",
-  "body": " Molecular motion of the substance is least possible at which temperature?  .  .  .  .         "
+  "body": " What is the mass of water that can be stored in an aquarium of 60 cm long, 30 cm wide, and 20 cm high. The density of water is    Find the volume of the container and calulate the mass using mass, volume, and density relationship.   "
 },
 {
   "id": "example-42",
@@ -1042,7 +1042,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "4.3.8",
   "title": "",
-  "body": " Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.         "
+  "body": " Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.         "
 },
 {
   "id": "example-43",
@@ -1050,6 +1050,24 @@ var ptx_lunr_docs = [
   "url": "sec_fourth-examples.html#example-43",
   "type": "Example",
   "number": "4.3.9",
+  "title": "",
+  "body": " Molecular motion of the substance is least possible at which temperature?  .  .  .  .         "
+},
+{
+  "id": "example-44",
+  "level": "2",
+  "url": "sec_fourth-examples.html#example-44",
+  "type": "Example",
+  "number": "4.3.10",
+  "title": "",
+  "body": " Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.         "
+},
+{
+  "id": "example-45",
+  "level": "2",
+  "url": "sec_fourth-examples.html#example-45",
+  "type": "Example",
+  "number": "4.3.11",
   "title": "",
   "body": " At which of the temperature a Celsius thermometer and a Fahrenheit thermometer show the same readings?  40 .  -40 .  40 .  0 .     Consider , then from , we have Solve this equation to find the value of x.        "
 },
@@ -1171,9 +1189,9 @@ var ptx_lunr_docs = [
   "body": " Charges   Charge is an entity which provides an electric property of the matter. Charge is of two types, positive charge and negative charge. Electrons in an atom consist of negative charge and protons of the atom consist of positve positive charge. Similar kinds of charges always repel each other and unlike charges attract each other. Charge is a scalar physical quantity. Charge is conserved meaning charge can neither be created nor be destroyed; it can only be transferred from one place to another or from one object to another. The net charge on any system is always constant. All matter is composed of atoms and atoms are composed of three elementary particles, called electrons, protons, and neutrons. Charge is also quantized meaning charge always comes in discrete amounts, and the smallest possible amount of charge that any object could have is . This is the amount of charge on one electron. Whenever an atom gains or loses an electron, atom is ionized. The ionized atom is always charged. An ion is simply an atom with a net charge. The ion can be positive or negative. If is the total negative charge on any object and is the charge of electron, then total number of electron, n on that object can be find using the following equation. where     A glass is rubbed vigorosly with a fur and found that it gained of charge. Calculate how many electrons has the glass rod lost?        electrons.        Coulomb's Law  The force of attraction or repulsion between any two point charges is directly proportional to the product of these charges and inversely proportional to the square of distance between them. The direction of force is always acting along the line joining these two point charges. If is a force acting on the charges and , and is a distance between the two charges (see figure below) then from Coulumb's law Here, Coulomb's constant, . This law only works for two point charges at rest. Hence, the Coulomb's law is also known as law of electrostatic force on   Coulomb's force    unlike charges     like charges        If the distance between an electron and a proton in a hydrogen atom is . Find the electrostatic force acting btween the electron and the proton.        . Negative sign explains that the force is attractive in nature.        Electric Field  The space around a charge where force of attraction or repulsion can be experienced by any other charged particle is called an electric field. Electric field is also known as electrostatic field intensity. It is an inherent property of a charge. An electric field is produced by a charge and is experienced by another charge. It is an electric field of a charge which tells another charge how to move in the space if it is free to do so. Electric field is a force acting on a unit charge and is a vector quantity. Electric field lines: It is an imaginary path of a unit positive charge in an electric field. Electric field lines are aslo known as electric lines of force. It is always pointed radially outward for a positve charge and radially inward for a negative charge as shown in figure .   Electric Lines of Force    due to a +ve charge     due to a -ve charge     due to two unlike charges     due to two like +ve charges        Materials on Electrical Point of View  On the basis of electrical behavior there are four types of materials exist in nature they are conductor, insulator, semiconductors, and superconductors.   Conductor: It is a material where charge carriers (electrons or ions) are free to move within it. Copper, aluminum, gold, mercury, iron, water-salt solution, etc. are few examples of conductors. In a conductor outermost electrons of an atom are loosely bounded with its nucleus and hence are free to move throughout the material even at very low temperature. The random motion of electrons causes zero net electric current in a conductor unless an external electric field is applied on it. Insulator: It is a material where electrons are tightly bounded with their atom and can not move very easily. Plastics, glass, rubber, wood, porcelain, etc. are few examples of insulators. Check the simulation link conductor & insulator  Semiconductor: It is a material having properties between insulator and conductor. Silicon and germanium are good example of it. At low temperature this material behaves as an insulator and at high temperature it behaves as a conductor. The conductivity of semiconductor can be increased enormously by doping of this material with a very small amount of suitable dopants such as boron, phosphorous, or arsenic. Superconductor: It is a material which transfers electrons from one atom to another throughout the material without any resistance. No loss of energy can be observed when material conduct electricity. Mercury shows superconducting nature at temperature below 4 Kelvin.   "
 },
 {
-  "id": "example-44",
+  "id": "example-46",
   "level": "2",
-  "url": "sec_fifth-intro.html#example-44",
+  "url": "sec_fifth-intro.html#example-46",
   "type": "Example",
   "number": "5.1.1",
   "title": "",
@@ -1189,9 +1207,9 @@ var ptx_lunr_docs = [
   "body": " Coulomb's force    unlike charges     like charges     "
 },
 {
-  "id": "example-45",
+  "id": "example-47",
   "level": "2",
-  "url": "sec_fifth-intro.html#example-45",
+  "url": "sec_fifth-intro.html#example-47",
   "type": "Example",
   "number": "5.1.3",
   "title": "",
@@ -1207,9 +1225,9 @@ var ptx_lunr_docs = [
   "body": " Electric Lines of Force    due to a +ve charge     due to a -ve charge     due to two unlike charges     due to two like +ve charges     "
 },
 {
-  "id": "p-296",
+  "id": "p-301",
   "level": "2",
-  "url": "sec_fifth-intro.html#p-296",
+  "url": "sec_fifth-intro.html#p-301",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1225,9 +1243,9 @@ var ptx_lunr_docs = [
   "body": " Electricity   It is a branch of physics which deals with the motion of charges in a conductor. When charge flows from one place to another, an electrical current is formed. An electric current is defined as the rate of flow of charge. If a net charge passes through any conductor in time , then the electric current is given by Its unit is Ampere (A). One ampere of current represents one coulomb of charge passes through a conductor in one second. It is a scalar quantity and its conventional direction is taken as the direction of flow of positive charges. In conductor, current flows solely due to motion of electrons, hence the direction of current is opposite to electrons flow. From the law of conservation of charges current remains constant in a conductor irrespective of the local area of cross-section. When the direction of motion of charge does not change with time, the current is said to be direct current, or DC current. It is commonly used in devices electronic devices like cell phones and computers. If the direction of motion of charges reverses periodically, the current is known as an alternating current, or AC current. It is commonly used in the electrical power systems that supply to homes and commercial applications. AC current goes from positive to negative in a cycle, while DC current is always in the same direction. Current can only exist between two points of different potential (voltage) connected by a conductor and can only exist whenever a conductive path with no breaks is provided. DC & AC Flow of charges in DC current is similar to flowing water, but in AC current, charges do not go any where rather they are oscillating about the mean position at their respective position. Check the simulation link to visualize DC and AC current. DC & AC AC is more efficient to transmit over long distances than DC. This is the reason why AC is used in power transmission and distribution as well as in motors and other equipment. It is also used in many household appliances, such as refrigerators, air conditioners, and washing machines. AC can also be easily transformed to different voltages using a transformer, while this is not easy to achieve with DC. DC voltage can be stored in a device called battery, while AC voltage can not be stored.    Electric Potential (Voltage)  Electric potential, also known as voltage, is a measure of the electric potential energy per unit charge in an electric field. That is, or, . It is the amount of work required to move a unit positive charge from one point to another in an electric field. The unit of electric potential is the volt (V). A higher electric potential difference between two points indicates a greater amount of energy required to move a unit charge between those points. Voltage can be think of like a \"push\" for a charge. The higher the voltage, the more \"push\" the charge experience to flow through wires. Charge can only flow from high potential(voltage) to low potential (voltage). It's important to note that just like water can be dangerous if not handled properly, electricity can also be dangerous if not handled with care.    Ohm's Law  Ohm's law states that the current flowing through a conductor is directly proportional to the voltage across the two ends of the conductor, and inversely proportional to the resistance between them. It can be mathematically expressed as or, here I is the current, V is the voltage, and R is the resistance of the conductor. Resistance: is a restriction imposed by a conductor on the motion of a current. Motion of charge carriers (electrons) are not very smooth in a conductor as they bump onto the other electrons and positive charge residual atoms during their motion. Such restrictions in flow of electrons is measured as a resistance of a conductor in current flow. It is denoted by and its unit is Ohms ( ). Electrical Power: It is the measure of energy transferred or consumed per unit time i.e.,   Hence power is also defined as the product of current and voltage. Its unit is Watts (W). One watt means consuming the one joule of energy every second.  Now from Ohm's law,  Hence, the power of electrical circuit is given as     Electrical Shock: According to Ohm's law if resistance of the conductor is low then the higher current can flow through it. High current can be deadly. Actually, a “voltage” does not go “into” your body rather current can pass through it when charges flow toward a lower potential. In order to get electric shock atleast of current must pass through our body. In dry condition, human body has a resistance of about , so to have current flowing through our body we need to touch the voltage source of about , as shown in the calculation below. In wet condition, human body resistance becomes only , so to get current through our body we need to touch the voltage source of about .    Electrical Circuits  Electrical circuit is a network of electrical elements (such as resistance (bulb), battery, conductor, switch, etc.) through which current can flow in a closed path. Electrical circuits can be of two types,  Series Circuit: in this type of circuits all the electrical components are connected one after another in such a way that the same current flows through each components as shown in figuer below. An example of a series circuit is a string of Christmas lights, where each bulb is connected to the next in a line. If one bulb burns out, the entire circuit is broken and none of the lights will turn on.  Series circuit      Parallel Circuit: in this type of circuits all the electrical components are connected side by side in such a way that the voltage across each component is the same as shown in figuer below. An example of a parallel circuit is a house's electrical system, where different appliances are connected to the same circuit but have their own separate paths for current to flow through. If one path is broken or one appliance stops working, it doesn't affect the other appliances or the overall circuit.  Parallel circuit       series & parallel circuit To change from series to parallel circuit, Please hold the bulb and rotate the circuit in the simulation.   "
 },
 {
-  "id": "p-297",
+  "id": "p-302",
   "level": "2",
-  "url": "sec_fifth-electr.html#p-297",
+  "url": "sec_fifth-electr.html#p-302",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1306,63 +1324,63 @@ var ptx_lunr_docs = [
   "body": " Examples    Find the current in a wire if electrons is passing every second.    See the equations and        Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.    From Ohm's Law        If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.    Here = 20 mint\/day = = 10 h.  Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = \\(225 cents = $2.25\\).      How much current is passing through the ciruit if electric heater is running at 120 V?    From equation        What is the resistance of 50 W light bulb filament running at 120V?    From equation        Find an electric energy stored in a 10V laptop battery rated at 13000 mAh.    using equations and , we have      Here, , remember large unit of charge is also Ah by using eqation . Hence, from equation  by using equation where,    Hence, Energy, E= 130Wh. [since, ]       The primary coil of a transformer has 500 turns and its secondary coil has 50 turns. If the current in the secondary coil is 25 A, find the current in its primary coil.    Given: , , ,  From equation      "
 },
 {
-  "id": "example-46",
+  "id": "example-48",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-46",
+  "url": "sec_fifth-examples.html#example-48",
   "type": "Example",
   "number": "5.4.1",
   "title": "",
   "body": "  Find the current in a wire if electrons is passing every second.    See the equations and     "
 },
 {
-  "id": "example-47",
+  "id": "example-49",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-47",
+  "url": "sec_fifth-examples.html#example-49",
   "type": "Example",
   "number": "5.4.2",
   "title": "",
   "body": "  Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.    From Ohm's Law     "
 },
 {
-  "id": "example-48",
+  "id": "example-50",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-48",
+  "url": "sec_fifth-examples.html#example-50",
   "type": "Example",
   "number": "5.4.3",
   "title": "",
   "body": "  If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.    Here = 20 mint\/day = = 10 h.  Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = \\(225 cents = $2.25\\).   "
 },
 {
-  "id": "example-49",
+  "id": "example-51",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-49",
+  "url": "sec_fifth-examples.html#example-51",
   "type": "Example",
   "number": "5.4.4",
   "title": "",
   "body": "  How much current is passing through the ciruit if electric heater is running at 120 V?    From equation     "
 },
 {
-  "id": "example-50",
+  "id": "example-52",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-50",
+  "url": "sec_fifth-examples.html#example-52",
   "type": "Example",
   "number": "5.4.5",
   "title": "",
   "body": "  What is the resistance of 50 W light bulb filament running at 120V?    From equation     "
 },
 {
-  "id": "example-51",
+  "id": "example-53",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-51",
+  "url": "sec_fifth-examples.html#example-53",
   "type": "Example",
   "number": "5.4.6",
   "title": "",
   "body": "  Find an electric energy stored in a 10V laptop battery rated at 13000 mAh.    using equations and , we have      Here, , remember large unit of charge is also Ah by using eqation . Hence, from equation  by using equation where,    Hence, Energy, E= 130Wh. [since, ]    "
 },
 {
-  "id": "example-52",
+  "id": "example-54",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-52",
+  "url": "sec_fifth-examples.html#example-54",
   "type": "Example",
   "number": "5.4.7",
   "title": "",
@@ -1504,9 +1522,9 @@ var ptx_lunr_docs = [
   "body": " Waves    Ripples on Water Surface     Schematics of ripples     "
 },
 {
-  "id": "p-342",
+  "id": "p-347",
   "level": "2",
-  "url": "sec_sixth-intro.html#p-342",
+  "url": "sec_sixth-intro.html#p-347",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1522,9 +1540,9 @@ var ptx_lunr_docs = [
   "body": " Representation of waves    Longitudinal wave     Transverse wave     "
 },
 {
-  "id": "p-346",
+  "id": "p-351",
   "level": "2",
-  "url": "sec_sixth-intro.html#p-346",
+  "url": "sec_sixth-intro.html#p-351",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1549,9 +1567,9 @@ var ptx_lunr_docs = [
   "body": " Electromagnetic Spectrum NASA   "
 },
 {
-  "id": "p-355",
+  "id": "p-360",
   "level": "2",
-  "url": "sec_sixth-light.html#p-355",
+  "url": "sec_sixth-light.html#p-360",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1594,117 +1612,117 @@ var ptx_lunr_docs = [
   "body": " Examples    The speed of sound is fastest in  liquids.  solids.  gases.  vacuum.      b.      The frequency of a sound determines its quality and the amplitude of the sound determines its .  timber.  frequency.  loudness.  pitch.      c.      which wave given below is partly longitudinal and partly transverse?  light wave.  sound wave.  water wave.  string wave.      c.      When a wave goes from one medium to another medium, which quantity of wave does not change?  frequency.  speed.  amplitude.  wavelength.      a.      Indicate the amplitude of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.      Indicate the wavelength of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.      How far inside the plane mirror your image appears?  As far as I am standing infront of the mirror.  Just double the distance I am standing infront of the mirror.  Cannot be determined.  depends upon my size.      empty.      What causes the pool of water appears to be less deep than it actually is  Reflection.  Refraction.  Dispersion.  Scattering.      empty.      What causes light to refract to form rainbow in the sky?  glass prisms.  sunlight rays  small raindrops  air molecules.      c.      why does the fork look larger under water?  light is refracted at an angle.  light cannot pass through the glass.  the amount of light increases when going through water.  the wavelength of light increases in the process.      a.      When light passes through a prism the light splits into the visible spectrum. What color bends the most and has the shortest wavelength?  red.  violet.  yellow.  blue.      a.      The color of object you see is the color that is   absorbed by the object.  reflected by the object.      empty.      What is the speed of wave which completes one full cycle in and has a wavelength of ?         Given: , ,  From equation , we have and from equation , we have     "
 },
 {
-  "id": "example-53",
+  "id": "example-55",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-53",
+  "url": "sec_sixth-examples.html#example-55",
   "type": "Example",
   "number": "6.3.1",
   "title": "",
   "body": "  The speed of sound is fastest in  liquids.  solids.  gases.  vacuum.      b.   "
 },
 {
-  "id": "example-54",
+  "id": "example-56",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-54",
+  "url": "sec_sixth-examples.html#example-56",
   "type": "Example",
   "number": "6.3.2",
   "title": "",
   "body": "  The frequency of a sound determines its quality and the amplitude of the sound determines its .  timber.  frequency.  loudness.  pitch.      c.   "
 },
 {
-  "id": "example-55",
+  "id": "example-57",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-55",
+  "url": "sec_sixth-examples.html#example-57",
   "type": "Example",
   "number": "6.3.3",
   "title": "",
   "body": "  which wave given below is partly longitudinal and partly transverse?  light wave.  sound wave.  water wave.  string wave.      c.   "
 },
 {
-  "id": "example-56",
+  "id": "example-58",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-56",
+  "url": "sec_sixth-examples.html#example-58",
   "type": "Example",
   "number": "6.3.4",
   "title": "",
   "body": "  When a wave goes from one medium to another medium, which quantity of wave does not change?  frequency.  speed.  amplitude.  wavelength.      a.   "
 },
 {
-  "id": "example-57",
+  "id": "example-59",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-57",
+  "url": "sec_sixth-examples.html#example-59",
   "type": "Example",
   "number": "6.3.5",
   "title": "",
   "body": "  Indicate the amplitude of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.   "
 },
 {
-  "id": "example-58",
+  "id": "example-60",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-58",
+  "url": "sec_sixth-examples.html#example-60",
   "type": "Example",
   "number": "6.3.7",
   "title": "",
   "body": "  Indicate the wavelength of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.   "
 },
 {
-  "id": "example-59",
+  "id": "example-61",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-59",
+  "url": "sec_sixth-examples.html#example-61",
   "type": "Example",
   "number": "6.3.9",
   "title": "",
   "body": "  How far inside the plane mirror your image appears?  As far as I am standing infront of the mirror.  Just double the distance I am standing infront of the mirror.  Cannot be determined.  depends upon my size.      empty.   "
 },
 {
-  "id": "example-60",
+  "id": "example-62",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-60",
+  "url": "sec_sixth-examples.html#example-62",
   "type": "Example",
   "number": "6.3.10",
   "title": "",
   "body": "  What causes the pool of water appears to be less deep than it actually is  Reflection.  Refraction.  Dispersion.  Scattering.      empty.   "
 },
 {
-  "id": "example-61",
+  "id": "example-63",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-61",
+  "url": "sec_sixth-examples.html#example-63",
   "type": "Example",
   "number": "6.3.11",
   "title": "",
   "body": "  What causes light to refract to form rainbow in the sky?  glass prisms.  sunlight rays  small raindrops  air molecules.      c.   "
 },
 {
-  "id": "example-62",
+  "id": "example-64",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-62",
+  "url": "sec_sixth-examples.html#example-64",
   "type": "Example",
   "number": "6.3.12",
   "title": "",
   "body": "  why does the fork look larger under water?  light is refracted at an angle.  light cannot pass through the glass.  the amount of light increases when going through water.  the wavelength of light increases in the process.      a.   "
 },
 {
-  "id": "example-63",
+  "id": "example-65",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-63",
+  "url": "sec_sixth-examples.html#example-65",
   "type": "Example",
   "number": "6.3.13",
   "title": "",
   "body": "  When light passes through a prism the light splits into the visible spectrum. What color bends the most and has the shortest wavelength?  red.  violet.  yellow.  blue.      a.   "
 },
 {
-  "id": "example-64",
+  "id": "example-66",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-64",
+  "url": "sec_sixth-examples.html#example-66",
   "type": "Example",
   "number": "6.3.14",
   "title": "",
   "body": "  The color of object you see is the color that is   absorbed by the object.  reflected by the object.      empty.   "
 },
 {
-  "id": "example-65",
+  "id": "example-67",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-65",
+  "url": "sec_sixth-examples.html#example-67",
   "type": "Example",
   "number": "6.3.15",
   "title": "",
@@ -1837,31 +1855,121 @@ var ptx_lunr_docs = [
   "body": " My radio station is tuned at 90MHz frequency. What is the wavelength of that radio wave. The velocity of electromagnetic wave is    Given: , ,    "
 },
 {
-  "id": "ch_seventh",
+  "id": "sec_seventh-atom",
   "level": "1",
-  "url": "ch_seventh.html",
-  "type": "Chapter",
-  "number": "7",
-  "title": "Atoms and Nucleus",
-  "body": " Atoms and Nucleus   An atom is the basic unit of matter and the defining structure of elements. The term \"atom\" comes from the Greek word for indivisible, because it was once thought that atoms were the smallest things in the universe and could not be divided. However, we now know that atoms are made up of smaller particles such as electrons, protons, and neutrons. The number of protons in an atom's nucleus determines what element the atom is. Atoms form molecules through chemical bonds and make up all matter in the universe. They play a crucial role in many processes, such as chemical reactions, combustion, and the transmission of signals in living organisms. Understanding the properties of atoms and how they interact with each other is essential for fields such as chemistry, physics, and materials science. The study of atoms is called atomic physics. It wasn't until the 19th century that the idea of atoms gained widespread acceptance in the scientific community. In 1897, J.J. Thomson discovered the electron and showed that atoms were made up of negatively charged particles. Then, in 1909, Ernest Rutherford demonstrated that atoms also contained a positive nucleus. In 1913, Niels Bohr proposed a model for the atomic structure that explained the periodic table of elements and the spectra of light emitted by atoms. Throughout the 20th century, scientists continued to study atoms and their components, leading to the development of quantum mechanics and a deeper understanding of atomic structure and behavior. This research has numerous applications in fields such as energy production, electronics, and medicine.  The Nucleus of an atom refers to the central, positively charged part of an atom that contains protons and neutrons (collectively called nucleons). The number of protons in the nucleus, known as the atomic number, determines the element to which the atom belongs. The nucleus is surrounded by negatively charged electrons in orbital shells. The properties of an element are determined by the arrangement of its electrons and its atomic number. The nucleus of an atom is very small compared to the overall size of the atom, but contains most of the atom's mass. The strong force, also known as the nuclear force, holds the protons and neutrons together in the nucleus. The nucleus can undergo various types of changes, such as fusion (combining of two nuclei) or fission (splitting of a nucleus). The study of atomic nuclei is called nuclear physics. The isotopes of an element are atoms with the same number of protons but different number of neutrons in their nucleus.   "
+  "url": "sec_seventh-atom.html",
+  "type": "Section",
+  "number": "7.1",
+  "title": "Atomic Structure",
+  "body": " Atomic Structure    Dalton's atomic model was proposed in 1803. It tells that  All matter is composed of atoms, which are indivisible and indestructible.  Atoms of a given element are identical in size, mass, and other properties.  Atoms of different elements have different properties and masses.  Atoms combine in simple whole-number ratios to form compounds.  In chemical reactions, atoms are rearranged to form new compounds, but no atoms are created or destroyed. Dalton's atomic theory laid the foundation for modern atomic theory.   Thomson's atomic model was proposed in 1904. It was based on his discovery of the electron, a negatively charged particle within the atom. According to Thomson's model, the atom was a sphere of positive charge with electrons embedded within it like raisins in a pudding. Hence this model is also known as \"plum pudding\" model. This model was later modified by Rutherford's atomic model.   Rutherford's atomic model , also known as the \"planetary\" model, was proposed in 1911 based on his gold foil experiment. The experiment involved firing alpha particles at a thin sheet of gold foil and observing their deflection patterns using a screen. The results showed that most of the alpha particles passed straight through the foil, but a small percentage were deflected at large angles, suggesting the presence of a heavy and dense nucleus at the center of the atom. Rutherford's atomic model proposed that an atom consists of a small, dense, positively charged nucleus at its center surrounded by electrons in orbits around the nucleus. The electrons were held in their orbits by the attractive force between the positive nucleus and the negative electrons. This model explained why most alpha particles passed straight through the foil and why a small percentage were deflected at large angles. It also helped to establish the concept of the atomic nucleus and the basic structure of the atom.   Rutherford's Model of Atom       Photoelectric Effect  hhhhhhhhhh  More content.    Blackbody Radiation  kkkkkkkkkkkk    The Hydrogen Atom  kkkkkkkkkkkk    Origin of Spectra  kkkkkkkkkkkk    The Laser  kkkkkkkkkkkk   "
 },
 {
-  "id": "p-408",
+  "id": "p-415",
   "level": "2",
-  "url": "ch_seventh.html#p-408",
+  "url": "sec_seventh-atom.html#p-415",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "atom "
+  "body": "Dalton's atomic model "
 },
 {
-  "id": "p-409",
+  "id": "p-416",
   "level": "2",
-  "url": "ch_seventh.html#p-409",
+  "url": "sec_seventh-atom.html#p-416",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Nucleus "
+  "body": "Thomson's atomic model "
+},
+{
+  "id": "p-417",
+  "level": "2",
+  "url": "sec_seventh-atom.html#p-417",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Rutherford's atomic model "
+},
+{
+  "id": "figure-49",
+  "level": "2",
+  "url": "sec_seventh-atom.html#figure-49",
+  "type": "Figure",
+  "number": "7.1.1",
+  "title": "",
+  "body": " Rutherford's Model of Atom    "
+},
+{
+  "id": "sec_seventh-nucleus",
+  "level": "1",
+  "url": "sec_seventh-nucleus.html",
+  "type": "Section",
+  "number": "7.2",
+  "title": "Nuclear Structure",
+  "body": " Nuclear Structure   ration.    Radioactivity  hhhhhhh    Carbon Dating  hhhhhhh    Binding Energy  hhhhhhh    Nuclear Reactions  hhhhhhh    Effects of Radiation  hhhhhhh   "
+},
+{
+  "id": "sec_seventh-examples",
+  "level": "1",
+  "url": "sec_seventh-examples.html",
+  "type": "Section",
+  "number": "7.3",
+  "title": "Examples",
+  "body": " Examples    Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body            From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand          "
+},
+{
+  "id": "example-68",
+  "level": "2",
+  "url": "sec_seventh-examples.html#example-68",
+  "type": "Example",
+  "number": "7.3.1",
+  "title": "",
+  "body": "  Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body          "
+},
+{
+  "id": "example-69",
+  "level": "2",
+  "url": "sec_seventh-examples.html#example-69",
+  "type": "Example",
+  "number": "7.3.2",
+  "title": "",
+  "body": " From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand         "
+},
+{
+  "id": "ex_seventh",
+  "level": "1",
+  "url": "ex_seventh.html",
+  "type": "Exercises",
+  "number": "7.4",
+  "title": "Exercises",
+  "body": "  Exercises   Why does the letter appears like when placed infront of a plane mirror?   ` What makes setting sun appear red?   scattering of light from the atmospheric air molecules.    Why do we see objects as white?   "
+},
+{
+  "id": "exercise-66",
+  "level": "2",
+  "url": "ex_seventh.html#exercise-66",
+  "type": "Exercise",
+  "number": "7.4.1",
+  "title": "",
+  "body": " Why does the letter appears like when placed infront of a plane mirror?  "
+},
+{
+  "id": "exercise-67",
+  "level": "2",
+  "url": "ex_seventh.html#exercise-67",
+  "type": "Exercise",
+  "number": "7.4.2",
+  "title": "",
+  "body": "` What makes setting sun appear red?   scattering of light from the atmospheric air molecules.  "
+},
+{
+  "id": "exercise-68",
+  "level": "2",
+  "url": "ex_seventh.html#exercise-68",
+  "type": "Exercise",
+  "number": "7.4.3",
+  "title": "",
+  "body": " Why do we see objects as white?  "
 },
 {
   "id": "ch_eighth",
@@ -1963,18 +2071,18 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-66",
+  "id": "example-70",
   "level": "2",
-  "url": "sec_features-blocks.html#example-66",
+  "url": "sec_features-blocks.html#example-70",
   "type": "Example",
   "number": "16.1.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-50",
+  "id": "figure-51",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-50",
+  "url": "sec_features-blocks.html#figure-51",
   "type": "Figure",
   "number": "16.1.3",
   "title": "",
