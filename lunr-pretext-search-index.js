@@ -1861,7 +1861,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.1",
   "title": "Atomic Structure",
-  "body": " Atomic Structure    Dalton's atomic model was proposed in 1803. It tells that  All matter is composed of atoms, which are indivisible and indestructible.  Atoms of a given element are identical in size, mass, and other properties.  Atoms of different elements have different properties and masses.  Atoms combine in simple whole-number ratios to form compounds.  In chemical reactions, atoms are rearranged to form new compounds, but no atoms are created or destroyed. Dalton's atomic theory laid the foundation for modern atomic theory.   Thomson's atomic model was proposed in 1904. It was based on his discovery of the electron, a negatively charged particle within the atom. According to Thomson's model, the atom was a sphere of positive charge with electrons embedded within it like raisins in a pudding. Hence this model is also known as \"plum pudding\" model. This model was later modified by Rutherford's atomic model.   Rutherford's atomic model , also known as the \"planetary\" model, was proposed in 1911 based on his gold foil experiment. The experiment involved firing alpha particles at a thin sheet of gold foil and observing their deflection patterns using a screen. The results showed that most of the alpha particles passed straight through the foil, but a small percentage were deflected at large angles, suggesting the presence of a heavy and dense nucleus at the center of the atom. Rutherford's atomic model proposed that an atom consists of a small, dense, positively charged nucleus at its center surrounded by electrons in orbits around the nucleus. The electrons were held in their orbits by the attractive force between the positive nucleus and the negative electrons. This model explained why most alpha particles passed straight through the foil and why a small percentage were deflected at large angles. It also helped to establish the concept of the atomic nucleus and the basic structure of the atom. Gold's Foil Experiment    Atomic Model    Dalton's Model     Thomson's Model     Rutherford's Model        Blackbody Radiation  In the successive evolution of atomic model, we needed to understant light very well. From the late 19th century, scientists realized that visible light of all frequencies was emitted by the atoms of glowing hot solid, such as the filament of light bulb. The study of blackbody radiation helps understand the nature of heat and light. Blackbody radiation is a cornerstone in the study of quantum mechanics.This experiment led to the discovery of Quantum mechanics which gives a complete understanding of the fundamental mechanisms at the sub-atomic level. Blackbody radiation is the theoretical description of the electromagnetic radiation emitted by a perfect blackbody, which is an object that absorbs all radiation falling on it and reflects none. In 1900, Max Planck proposed a theoretical model to explain the spectral distribution of blackbody radiation, which was in agreement with experimental observations. Planck's model proposed that energy is emitted and absorbed in discrete packets, called quanta, rather than continuously. This was a major departure from classical physics and marked the beginning of quantum mechanics. Planck's work laid the foundation for the understanding of the nature of light and electromagnetic radiation and has had a profound impact on modern physics. The study of blackbody radiation continues to be an important area of research in physics.   Blackbody Radiation    The blackbody radiation plot shows the spectral distribution of the electromagnetic radiation emitted by a blackbody as a function of wavelength or frequency. The plot is typically represented as a curve that shows the intensity of the radiation emitted at each wavelength or frequency. The shape of the blackbody radiation curve depends on the temperature of the blackbody. At low temperatures, the curve peaks at longer wavelengths in the infrared region. As the temperature increases, the peak of the curve moves towards shorter wavelengths, and at high temperatures, the peak is in the ultraviolet region. The blackbody radiation plot is an important tool for understanding the nature of heat and light and has been used in many areas of physics.    The Dual Nature of Light  The dual nature of light refers that light exhibits both wave-like and particle-like behavior, which was first described by the wave-particle duality theory in quantum mechanics. This theory states that light can behave as both a wave and a particle depending on the experimental setup used to observe it. For example, in the double-slit experiment, light behaves as a wave, but in the photoelectric effect, it behaves as particles, called photons. The dual nature of light is still not fully understood and remains one of the most intriguing concepts in physics. In the double-slit experiment, light passing through two slits interferes with itself, creating a characteristic pattern on a screen behind the slits, which is typical of wave behavior. However, when light is emitted from a source and detected one photon at a time, the photons are found to behave as particles and follow a random path through the slits, not forming any interference pattern. Dual nature of light     Photoelectric Effect  hhhhhhhhhh  More content.    The Hydrogen Atom  kkkkkkkkkkkk    Origin of Spectra  kkkkkkkkkkkk    The Laser  kkkkkkkkkkkk   "
+  "body": " Atomic Structure    Dalton's atomic model was proposed in 1803. It tells that  All matter is composed of atoms, which are indivisible and indestructible.  Atoms of a given element are identical in size, mass, and other properties.  Atoms of different elements have different properties and masses.  Atoms combine in simple whole-number ratios to form compounds.  In chemical reactions, atoms are rearranged to form new compounds, but no atoms are created or destroyed. Dalton's atomic theory laid the foundation for modern atomic theory.   Thomson's atomic model was proposed in 1904. It was based on his discovery of the electron, a negatively charged particle within the atom. According to Thomson's model, the atom was a sphere of positive charge with electrons embedded within it like raisins in a pudding. Hence this model is also known as \"plum pudding\" model. This model was later modified by Rutherford's atomic model.   Rutherford's atomic model , also known as the \"planetary\" model, was proposed in 1911 based on his gold foil experiment. The experiment involved firing alpha particles at a thin sheet of gold foil and observing their deflection patterns using a screen. The results showed that most of the alpha particles passed straight through the foil, but a small percentage were deflected at large angles, suggesting the presence of a heavy and dense nucleus at the center of the atom. Rutherford's atomic model proposed that an atom consists of a small, dense, positively charged nucleus at its center surrounded by electrons in orbits around the nucleus. The electrons were held in their orbits by the attractive force between the positive nucleus and the negative electrons. This model explained why most alpha particles passed straight through the foil and why a small percentage were deflected at large angles. It also helped to establish the concept of the atomic nucleus and the basic structure of the atom. Gold's Foil Experiment    Atomic Model    Dalton's Model     Thomson's Model     Rutherford's Model        Blackbody Radiation  In the successive evolution of atomic model, we needed to understant light very well. From the late 19th century, scientists realized that visible light of all frequencies was emitted by the atoms of glowing hot solid, such as the filament of light bulb. The study of blackbody radiation helps understand the nature of heat and light. Blackbody radiation is a cornerstone in the study of quantum mechanics.This experiment led to the discovery of Quantum mechanics which gives a complete understanding of the fundamental mechanisms at the sub-atomic level. Blackbody radiation is the theoretical description of the electromagnetic radiation emitted by a perfect blackbody, which is an object that absorbs all radiation falling on it and reflects none. In 1900, Max Planck proposed a theoretical model to explain the spectral distribution of blackbody radiation, which was in agreement with experimental observations. Planck's model proposed that energy is emitted and absorbed in discrete packets, called quanta, rather than continuously. This was a major departure from classical physics and marked the beginning of quantum mechanics. Planck's work laid the foundation for the understanding of the nature of light and electromagnetic radiation and has had a profound impact on modern physics. The study of blackbody radiation continues to be an important area of research in physics.   Blackbody Radiation    The blackbody radiation plot shows the spectral distribution of the electromagnetic radiation emitted by a blackbody as a function of wavelength or frequency. The plot is typically represented as a curve that shows the intensity of the radiation emitted at each wavelength or frequency. The shape of the blackbody radiation curve depends on the temperature of the blackbody. At low temperatures, the curve peaks at longer wavelengths in the infrared region. As the temperature increases, the peak of the curve moves towards shorter wavelengths, and at high temperatures, the peak is in the ultraviolet region. The blackbody radiation plot is an important tool for understanding the nature of heat and light. shows how the brightness of the light varies with wavelength emitted by the objects at four different temperatures. It has been observed that all objects radiate electromagnetic radiation and the strongest wavelength depends on its temperature. The higher the temperature of the body, the shorter the brightest wavelength (or, the higher the frequency). For example, a hot iron bar that glows yellow is hotter than one that glows red. For an object at room temperature, most of the radiation emits in infrared region and hence is invisible.  Planck explained the spectrum of radiation by assuming that hot objects emitt or absorbed energy in discrete packets, called quanta . Quanta is the plural form of quantum (in Latin, quantum means how much). The higher the frequency of the light, the more the energy per quantum. That is, the energy emited in radiation is given by Here is quantum of energy, is planck's constant, and is frequency of light.    Find the energy of a photon emitted from a red light of frequency .    From equation , we have       Photoelectric Effect  The photoelectric effect is a phenomenon in which electrons are emitted from a metal surface when light of a certain frequency shines on it. The effect is a result of the transfer of energy from photons in the light to electrons in the metal, causing the electrons to be ejected. The photoelectric effect demonstrated that light has a dual nature, both as a wave and as a particle, and helped lead to the development of quantum mechanics.  The photoelectric effect was first observed by Hertz in the late 19th century and later explained by Einstein in 1905. The basic idea behind the photoelectric effect is that light is composed of individual particles, called photons, that carry a specific amount of energy. When these photons hit a metal surface, they transfer their energy to the electrons in the metal. If the energy of the photon is high enough, it can cause an electron to be ejected from the metal and become a free electron. This process only occurs with light of a certain frequency, known as the threshold frequency. If the frequency of the light is below this threshold, no electrons will be emitted, no matter how intense the light is. If the frequency is above the threshold, the number of electrons emitted will increase with the intensity of the light. The photoelectric effect challenged the classical understanding of light as a wave, and led to the development of quantum mechanics, which views light and matter as having both wave-like and particle-like properties. The photoelectric effect is widely used in modern technology, such as photodiodes, photovoltaics, and photoelectric sensors, etc. Photoelectric Effect Simulation.   Einstein's formula for photoelectric effect is given by where is energy of a photon of light whose frequency is  is the kinetic energy of the emitted electron, and is work function of the metal (i.e., energy needed to pull the electron from the metal). Eventhough, photon is massless and always moves with the speed of light, it behaves like a particle and possesses energy and momentum. It also interacts with other particles in the same way as one particle interacts with others.    The ultraviolet light of frequency is incident on the surface of a metal, whose work function is . Show that the kinetic energy of the emitted electrons is .    Given: , , .  From equation        The Dual Nature of Light  The dual nature of light refers that light exhibits both wave-like and particle-like behavior, which was first described by the wave-particle duality theory in quantum mechanics. This theory states that light can behave as both a wave and a particle depending on the experimental setup used to observe it. For example, in the double-slit experiment, light behaves as a wave, but in the photoelectric effect, it behaves as particles, called photons. The dual nature of light is still not fully understood and remains one of the most intriguing concepts in physics. In the double-slit experiment, light passing through two slits interferes with itself, creating a characteristic pattern on a screen behind the slits, which is typical of wave behavior. However, when light is emitted from a source and detected one photon at a time, the photons are found to behave as particles and follow a random path through the slits, not forming any interference pattern. Dual nature of light     Bohr's Model of Hydrogen Atom  kkkkkkkkkkkk    Origin of Spectra  kkkkkkkkkkkk    The Laser  kkkkkkkkkkkk   "
 },
 {
   "id": "p-415",
@@ -1909,13 +1909,49 @@ var ptx_lunr_docs = [
   "body": "Blackbody radiation "
 },
 {
-  "id": "figure-53",
+  "id": "fig-bbr",
   "level": "2",
-  "url": "sec_seventh-atom.html#figure-53",
+  "url": "sec_seventh-atom.html#fig-bbr",
   "type": "Figure",
   "number": "7.1.2",
   "title": "",
   "body": " Blackbody Radiation   "
+},
+{
+  "id": "p-420",
+  "level": "2",
+  "url": "sec_seventh-atom.html#p-420",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Quanta planck's constant, "
+},
+{
+  "id": "example-68",
+  "level": "2",
+  "url": "sec_seventh-atom.html#example-68",
+  "type": "Example",
+  "number": "7.1.3",
+  "title": "",
+  "body": "  Find the energy of a photon emitted from a red light of frequency .    From equation , we have    "
+},
+{
+  "id": "p-425",
+  "level": "2",
+  "url": "sec_seventh-atom.html#p-425",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "photon "
+},
+{
+  "id": "example-69",
+  "level": "2",
+  "url": "sec_seventh-atom.html#example-69",
+  "type": "Example",
+  "number": "7.1.4",
+  "title": "",
+  "body": "  The ultraviolet light of frequency is incident on the surface of a metal, whose work function is . Show that the kinetic energy of the emitted electrons is .    Given: , , .  From equation     "
 },
 {
   "id": "sec_seventh-nucleus",
@@ -1936,18 +1972,18 @@ var ptx_lunr_docs = [
   "body": " Examples    Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body            From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand          "
 },
 {
-  "id": "example-68",
+  "id": "example-70",
   "level": "2",
-  "url": "sec_seventh-examples.html#example-68",
+  "url": "sec_seventh-examples.html#example-70",
   "type": "Example",
   "number": "7.3.1",
   "title": "",
   "body": "  Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body          "
 },
 {
-  "id": "example-69",
+  "id": "example-71",
   "level": "2",
-  "url": "sec_seventh-examples.html#example-69",
+  "url": "sec_seventh-examples.html#example-71",
   "type": "Example",
   "number": "7.3.2",
   "title": "",
@@ -2089,9 +2125,9 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-70",
+  "id": "example-72",
   "level": "2",
-  "url": "sec_features-blocks.html#example-70",
+  "url": "sec_features-blocks.html#example-72",
   "type": "Example",
   "number": "16.1.2",
   "title": "",
