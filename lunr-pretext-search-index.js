@@ -1996,14 +1996,32 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.2",
   "title": "Nuclear Structure",
-  "body": " Nuclear Structure   ration.    Radioactivity  hhhhhhh    Carbon Dating  hhhhhhh    Binding Energy    Binding Energy Per Nucleon         Nuclear Reactions  hhhhhhh    Effects of Radiation  hhhhhhh   "
+  "body": " Nuclear Structure   The nucleus is the central and most important part of an atom. It is composed of protons and neutrons collectively known as known as nucleons , and is located in the center of the atom. The protons in the nucleus are positively charged and the neutrons are neutral in charge. The number of protons in the nucleus determines the atomic number and the atomic element of the atom. The nucleons are held together by the strong nuclear force. Strong nuclear force is a very short-range attractive force that acts between nucleons and helps keep the nucleus from flying apart due to the repulsive force of the positively charged protons. The number of neutrons in a nucleus can vary for the same element, leading to the existence of isotopes . Isotopes are atomic species of an element that have the same number of protons but different numbers of neutrons in the nucleus. This means that isotopes of an element have the same atomic number but a different atomic mass. Due to the difference in the number of neutrons, isotopes of an element can have different physical and chemical properties. Some isotopes are stable and do not undergo radioactive decay, while others are radioactive and decay over time. Isotopes are important in many fields, including medicine, industry, and scientific research. For example, in medicine, certain radioactive isotopes are used to diagnose and treat diseases, while in industry, stable isotopes are used as tracers to study the behavior of materials. In scientific research, isotopes are used to study the age of rocks and fossils, and to determine the origin and evolution of the universe. Here is the isotopic natation of the nucleus. where = chemical symbol of element, = atomic number of element, and = mass number of nucleus = number of protons and neutrons in nucleus.  There are over 3,000 known isotopes in the periodic table, but not all of them are naturally occurring. Some isotopes are stable and do not undergo radioactive decay, while others are radioactive and decay over time. The number of isotopes of an element can vary greatly, with some elements having only one or two isotopes, while others have many. The lightest element hydrogen has three isotopes . They are Hydrogen: , Deuterium: , and Tritium: .   The isotopes of hydrogen     Carbon is an element that has several isotopes. Some of them are carbon-12 (or, ) and carbon-13 (or, ), and carbon-14 (or, ). Carbon-12 and carbon-13, are naturally occurring isotopes and make up the majority of carbon on Earth. Carbon-12, has 6 protons and 6 neutrons, is the most abundant and is considered the standard for atomic mass. Carbon-13, has 6 protons and 7 neutrons, is a stable isotope that makes up about 1% of the total carbon on Earth. Carbon-14 is a naturally occurring isotope that is produced in the Earth's atmosphere through cosmic radiation and is taken up by living organisms. It is used in the radiocarbon dating method to determine the age of organic materials and is an important tool in archaeology and other fields.    Radioactivity  hhhhhhh    Carbon Dating  hhhhhhh    Binding Energy    Binding Energy Per Nucleon         Nuclear Reactions  hhhhhhh    Effects of Radiation  hhhhhhh   "
+},
+{
+  "id": "p-437",
+  "level": "2",
+  "url": "sec_seventh-nucleus.html#p-437",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "nucleons Isotopes "
+},
+{
+  "id": "fig-isotope",
+  "level": "2",
+  "url": "sec_seventh-nucleus.html#fig-isotope",
+  "type": "Figure",
+  "number": "7.2.1",
+  "title": "",
+  "body": " The isotopes of hydrogen    "
 },
 {
   "id": "fig-bepn",
   "level": "2",
   "url": "sec_seventh-nucleus.html#fig-bepn",
   "type": "Figure",
-  "number": "7.2.1",
+  "number": "7.2.2",
   "title": "",
   "body": " Binding Energy Per Nucleon     "
 },
@@ -2122,7 +2140,16 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "12",
   "title": "The Earth",
-  "body": " The Earth   Try adding your own content here!   "
+  "body": " The Earth   your own content here!>    The Globe    The Earth     Earth map       "
+},
+{
+  "id": "figure-62",
+  "level": "2",
+  "url": "ch_twelvth.html#figure-62",
+  "type": "Figure",
+  "number": "12.0.1",
+  "title": "",
+  "body": "  The Globe    The Earth     Earth map     "
 },
 {
   "id": "ch_thirteenth",
@@ -2179,9 +2206,9 @@ var ptx_lunr_docs = [
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-61",
+  "id": "figure-65",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-61",
+  "url": "sec_features-blocks.html#figure-65",
   "type": "Figure",
   "number": "16.1.3",
   "title": "",
