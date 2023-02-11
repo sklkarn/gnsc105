@@ -2176,7 +2176,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "7.4",
   "title": "Exercises",
-  "body": "  Exercises   Why does the letter appears like when placed infront of a plane mirror?   ` What makes setting sun appear red?   scattering of light from the atmospheric air molecules.    Why do we see objects as white?   "
+  "body": "  Exercises   A nucleon is which of the following?  an electron  a proton  a neutron  both a proton and a neutron      Which nuclear radiation does not change in different nuclide?  alpha  beta  gamma  all of the above     Who discovered the radioactivity?  Rutherford  Becquerel  Pierre Curie  Einstein      Fiil in the blank below.           Fiil in the blank below.     Write the following nuclides in isotopic notation (e.g., \" \")  oxygen-14  Copper-70  Molebdenum-98  Rubidium-100      Find the number of neutrons in the following nuclei.          How much of the radiactive substance decays in 3 months if its half-life is 1 month.     of the sample is decayed in 54 days. What is its half-life?   "
 },
 {
   "id": "exercise-66",
@@ -2185,7 +2185,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.1",
   "title": "",
-  "body": " Why does the letter appears like when placed infront of a plane mirror?  "
+  "body": " A nucleon is which of the following?  an electron  a proton  a neutron  both a proton and a neutron    "
 },
 {
   "id": "exercise-67",
@@ -2194,7 +2194,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.2",
   "title": "",
-  "body": "` What makes setting sun appear red?   scattering of light from the atmospheric air molecules.  "
+  "body": " Which nuclear radiation does not change in different nuclide?  alpha  beta  gamma  all of the above     Who discovered the radioactivity?  Rutherford  Becquerel  Pierre Curie  Einstein    "
 },
 {
   "id": "exercise-68",
@@ -2203,7 +2203,52 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.3",
   "title": "",
-  "body": " Why do we see objects as white?  "
+  "body": " Fiil in the blank below.         "
+},
+{
+  "id": "exercise-69",
+  "level": "2",
+  "url": "ex_seventh.html#exercise-69",
+  "type": "Exercise",
+  "number": "7.4.4",
+  "title": "",
+  "body": " Fiil in the blank below.   "
+},
+{
+  "id": "exercise-70",
+  "level": "2",
+  "url": "ex_seventh.html#exercise-70",
+  "type": "Exercise",
+  "number": "7.4.5",
+  "title": "",
+  "body": " Write the following nuclides in isotopic notation (e.g., \" \")  oxygen-14  Copper-70  Molebdenum-98  Rubidium-100    "
+},
+{
+  "id": "exercise-71",
+  "level": "2",
+  "url": "ex_seventh.html#exercise-71",
+  "type": "Exercise",
+  "number": "7.4.6",
+  "title": "",
+  "body": " Find the number of neutrons in the following nuclei.        "
+},
+{
+  "id": "exercise-72",
+  "level": "2",
+  "url": "ex_seventh.html#exercise-72",
+  "type": "Exercise",
+  "number": "7.4.7",
+  "title": "",
+  "body": " How much of the radiactive substance decays in 3 months if its half-life is 1 month.  "
+},
+{
+  "id": "exercise-73",
+  "level": "2",
+  "url": "ex_seventh.html#exercise-73",
+  "type": "Exercise",
+  "number": "7.4.8",
+  "title": "",
+  "body": "  of the sample is decayed in 54 days. What is its half-life?  "
 },
 {
   "id": "ch_eighth",
