@@ -1276,7 +1276,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.3",
   "title": "Magnetism",
-  "body": " Magnetism   It is a branch of physics which deals with magnets and magnetic properties of materials. It defines the magnetic behavior of material which is associated with the motion of electric charge. The motion of charges in a conductor or in space gives rise to magnetic fields and magnetism is a result of magnetic fields. The word ”magnet” is taken from Latin word µαγνήτης λίθoς meaning stones from magnesia. ”Magnetis [líthos]” is sources of lodestones found in Manisa, Turkey. Magnetism is caused by moving charges and is experienced by moving charges. It is a phenomenon of materials by which they attract or repel other materials. The motion of an electron in an orbit around a nucleus or its spin on an axis produces a magnetic field.  The most familiar magnet is a bar magnet. It is a piece of iron bar that has been magnetized. However, other shape of magnets are also available these days such as disk magnet, horseshoe magnet, ring magnet, etc.  Magnets of different shapes    In any magnet, there are two regions (normally at the ends or faces) where magnetic strength is very strong. These stronger regions are called magnetic poles. One is designted as north pole, N and the other as south pole, S . This is because When a magnet is hanged by a thread and allowed to rotate freely, it will align itself in a north-south direction, due to the earth's magnetic field. The north end of the magnet will point towards the Earth's geographic north pole and the south end towards the Earth's geographic south pole. This is why north pole is also known as north seeking pole and the south pole as south seeking pole . The magnet also aligns at an angle itself with the earth's horizontal plane. This angle is known as the angle of dip or inclination , it varies depending on the location on the earth surface. The magnet also aligns itseld at an angle from the true north-south direction. This angle is known as magnetic declinaiton . The magnetic declination is the angle between magnetic north and true north direction. Magnetic north is the direction indicated by a compass, and true north is the direction of the Earth's geographic north pole. This angle can vary depending on location and time. earth as a magnet   Like poles of magnet repel and unlike poles attract. North and south poles always exist in pairs (there are no magnetic monopoles in nature), so if one were to split a permanent magnet in half, two smaller magnets would be created, each with a north pole and south pole. Even if one cuts a magnet into pieces all the way down to a single atom they still get a N pole and a S pole because of orbiting electron in the atom. Just like a graviational force both electric and magnetic forces can act on the objects without being in direct contact.  Magnet        Electromagnetism  Orsted discovered that electric currents can produce magnetic fields and Faraday discovered that magnetic fields can be used to induce electric currents in a circuit. A moving electrical charge also generates a magnetic field just as changing magnetic field induces current in a conductor. In fact, a traditional magnet is the result of individual motion of electrons within the atoms of the magnet. These atoms are so aligned that magnetic field procduced by their electrons are pointed along a uniform direction giving rise to a mangetic field of the magnet. In non-magnetic materials, the electrons move in such a way that the individual magnetic fields point in different directions, so they cancel each other out and the net magnetic field generated is negligible. In normal condition, magnetic fields of the magnetic material are distributed in groups of small region, called domain and magnetic fields of each domain are oriented in different directions to cancel each other effect. This is why iron is just a piece of metal bar unless it is magnetized.  Electromagnetism is considered as the interaction of electric and magnetic effects. It tells that  the moving charges (current) give rise to magnetic fields, current produce magnetic field  and changing magnetic field gives rise to electric current magnetic field generating current  . The direction of the magnetic field produced by a current in wire can be determinded using right hand thumb rule . If fingers of right hand is curl along the direction of current moving then thumb is pointed along the direction of magnetic field produced by the current. In contrary, if thumb is pointed along the direction of current then curled fingers show the direction of magnetic field generated around the wire.  Right Hand Thumb Rule        Electromagnet  An electromagnet typically consists of a coil of wire, often wrapped around a ferromagnetic core, such as iron. When an electric current is passed through the coil, it creates a magnetic field around the core. This magnetic field can be used to attract or repel ferromagnetic materials. The strength of the magnetic field is directly proportional to the amount of current flowing through the coil. Electromagnets are used in a wide range of applications, including electric motors, generators, and audio speakers. They can also be used to create temporary or adjustable magnetic fields, making them useful in scientific and industrial settings. electromagnet     Transformer  Transformer is an electrical appliance which convert large current at low voltage to low current at high voltage, and vice versa. It uses the principle of electromagnetic induction to transform electrical energy from one circuit to another one. An AC current is needed to operate transformer. In AC current direction of current is keep changing which changes the magnetic field generated in the primary coil of transformer. Such changing magnetic field induces the current in the secondary coil of transformer. A typical transformer consists of a two or more coils of insulated wire wound on a laminated iron core. An alternating (AC) voltage which is to be reduced or increased is connected to the coil, called the primary coil or input coil. This coil magnetizes the iron core. A voltage is then induced in the other coil, called the secondary or output coil. The change of voltage (or voltage ratio) between the primary and secondary depends on the turns ratio of their two coils.   Schematic of Transformer    There are two types of transformer on the basis of their operation. If the number of turns in primary coil is less than that at secondary then it is called a step-up transformer and if number of turns in primary is grater than that in secondary then it is called a step-down transformer. Transformer transfers an electrical power from primary coil to secondary coil hence it also obeys the principle of conservation of energy. That is,  see equation for electrical power.   "
+  "body": " Magnetism   It is a branch of physics which deals with magnets and magnetic properties of materials. It defines the magnetic behavior of material which is associated with the motion of electric charge. The motion of charges in a conductor or in space gives rise to magnetic fields and magnetism is a result of magnetic fields. The word ”magnet” is taken from Latin word µαγνήτης λίθoς meaning stones from magnesia. ”Magnetis [líthos]” is sources of lodestones found in Manisa, Turkey. Magnetism is caused by moving charges and is experienced by moving charges. It is a phenomenon of materials by which they attract or repel other materials. The motion of an electron in an orbit around a nucleus or its spin on an axis produces a magnetic field.  The most familiar magnet is a bar magnet. It is a piece of iron bar that has been magnetized. However, other shape of magnets are also available these days such as disk magnet, horseshoe magnet, ring magnet, etc.  Magnets of different shapes    In any magnet, there are two regions (normally at the ends or faces) where magnetic strength is very strong. These stronger regions are called magnetic poles. One is designted as north pole, N and the other as south pole, S . This is because When a magnet is hanged by a thread and allowed to rotate freely, it will align itself in a north-south direction, due to the earth's magnetic field. The north end of the magnet will point towards the Earth's geographic north pole and the south end towards the Earth's geographic south pole. This is why north pole is also known as north seeking pole and the south pole as south seeking pole . The magnet also aligns at an angle itself with the earth's horizontal plane. This angle is known as the angle of dip or inclination , it varies depending on the location on the earth surface. The magnet also aligns itseld at an angle from the true north-south direction. This angle is known as magnetic declinaiton . The magnetic declination is the angle between magnetic north and true north direction. Magnetic north is the direction indicated by a compass, and true north is the direction of the Earth's geographic north pole. This angle can vary depending on location and time. earth as a magnet   Like poles of magnet repel and unlike poles attract. North and south poles always exist in pairs (there are no magnetic monopoles in nature), so if one were to split a permanent magnet in half, two smaller magnets would be created, each with a north pole and south pole. Even if one cuts a magnet into pieces all the way down to a single atom they still get a N pole and a S pole because of orbiting electron in the atom. Just like a graviational force both electric and magnetic forces can act on the objects without being in direct contact.  Magnet        Electromagnetism  Orsted discovered that electric currents can produce magnetic fields and Faraday discovered that magnetic fields can be used to induce electric currents in a circuit. A moving electrical charge also generates a magnetic field just as changing magnetic field induces current in a conductor. In fact, a traditional magnet is the result of individual motion of electrons within the atoms of the magnet. These atoms are so aligned that magnetic field procduced by their electrons are pointed along a uniform direction giving rise to a mangetic field of the magnet. In non-magnetic materials, the electrons move in such a way that the individual magnetic fields point in different directions, so they cancel each other out and the net magnetic field generated is negligible. In normal condition, magnetic fields of the magnetic material are distributed in groups of small region, called domain and magnetic fields of each domain are oriented in different directions to cancel each other effect. This is why iron is just a piece of metal bar unless it is magnetized.  Electromagnetism is considered as the interaction of electric and magnetic effects. It tells that  the moving charges (current) give rise to magnetic fields, current produce magnetic field  and changing magnetic field gives rise to electric current magnetic field generating current  . The direction of the magnetic field produced by a current in wire can be determinded using right hand thumb rule . If fingers of right hand is curl along the direction of current moving then thumb is pointed along the direction of magnetic field produced by the current. In contrary, if thumb is pointed along the direction of current then curled fingers show the direction of magnetic field generated around the wire.  Right Hand Thumb Rule        Electromagnet  An electromagnet typically consists of a coil of wire, often wrapped around a ferromagnetic core, such as iron. When an electric current is passed through the coil, it creates a magnetic field around the core. This magnetic field can be used to attract or repel ferromagnetic materials. The strength of the magnetic field is directly proportional to the amount of current flowing through the coil. Electromagnets are used in a wide range of applications, including electric motors, generators, and audio speakers. They can also be used to create temporary or adjustable magnetic fields, making them useful in scientific and industrial settings. electromagnet     Transformer  Transformer is an electrical appliance which convert large current at low voltage to low current at high voltage, and vice versa. It uses the principle of electromagnetic induction to transform electrical energy from one circuit to another one. An AC current is needed to operate transformer. In AC current direction of current is keep changing which changes the magnetic field generated in the primary coil of transformer. Such changing magnetic field induces the current in the secondary coil of transformer. A typical transformer consists of a two or more coils of insulated wire wound on a laminated iron core. An alternating (AC) voltage which is to be reduced or increased is connected to the coil, called the primary coil or input coil. This coil magnetizes the iron core. A voltage is then induced in the other coil, called the secondary or output coil. The change of voltage (or voltage ratio) between the primary and secondary depends on the turns ratio of their two coils. Transformer    Schematic of Transformer    There are two types of transformer on the basis of their operation. If the number of turns in primary coil is less than that at secondary then it is called a step-up transformer and if number of turns in primary is grater than that in secondary then it is called a step-down transformer. Transformer transfers an electrical power from primary coil to secondary coil hence it also obeys the principle of conservation of energy. That is,  see equation for electrical power.   "
 },
 {
   "id": "figure-23",
@@ -2104,7 +2104,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.3",
   "title": "Examples",
-  "body": " Examples    Determine the number of protons, electrons, and neutrons in the atom.    From isotopic notation . we have atomic number, Z = 92. So the nuber of protons (= number of electrons) = 92. The mass number, A =236. Hence the nuber of neutrons,      Write the equation for one alpha decay in .    Here, X stands for the element of atomic number 90, which is .     If 1.0g of caesium (Cs-137) disintegrates over a period of 90 years. How many grams of Cs-137 would remain, if Cs-137 has half-life of 30 years.   For 90 years, we have to wait for 3 half-life of Cs-137. Every half-life it reduces 1\/2 of of its amount. Now from , we have       How long does it take a 100.00g sample of As-81, with a half-life of 33 seconds, to decay to 6.25g?    In HL remaining amount is 50 g, In HL remaining amount is 25 g, In HL remaining amount is 12.5 g, and in HL the remaining amount is 6.25g.    4 half-life = second = 132 seconds.      Complete the equation if proton strikes on the .           Complete the following fission reaction.       Calculate the binding energy in the following fission reaction. The mass of is , is , is , and that of is .    The total mass on the left side of the arrow is and the maas on the right side of arrow is . Hence the mass defect is . Now from Therefore the binding energy is     "
+  "body": " Examples    Determine the number of protons, electrons, and neutrons in the atom.    From isotopic notation . we have atomic number, Z = 92. So the nuber of protons (= number of electrons) = 92. The mass number, A =236. Hence the nuber of neutrons,      Write the equation for one alpha decay in .    Here, X stands for the element of atomic number 90, which is .     If 1.0g of caesium (Cs-137) disintegrates over a period of 90 years. How many grams of Cs-137 would remain, if Cs-137 has half-life of 30 years.   For 90 years, we have to wait for 3 half-life of Cs-137. Every half-life it reduces 1\/2 of of its amount. Now from , we have       How long does it take a 100.00g sample of As-81, with a half-life of 33 seconds, to decay to 6.25g?    In HL remaining amount is 50 g, In HL remaining amount is 25 g, In HL remaining amount is 12.5 g, and in HL the remaining amount is 6.25g.    4 half-life = second = 132 seconds.      Complete the equation if proton strikes on the .           Complete the following fission reaction.       Calculate the binding energy in the following fission reaction. The mass of is , is , is , and that of is .    The total mass on the left side of the arrow is and the maas on the right side of arrow is . Hence the mass defect is . Now from , we have Therefore the binding energy is     "
 },
 {
   "id": "example-70",
@@ -2167,7 +2167,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "7.3.7",
   "title": "",
-  "body": "  Calculate the binding energy in the following fission reaction. The mass of is , is , is , and that of is .    The total mass on the left side of the arrow is and the maas on the right side of arrow is . Hence the mass defect is . Now from Therefore the binding energy is    "
+  "body": "  Calculate the binding energy in the following fission reaction. The mass of is , is , is , and that of is .    The total mass on the left side of the arrow is and the maas on the right side of arrow is . Hence the mass defect is . Now from , we have Therefore the binding energy is    "
 },
 {
   "id": "ex_seventh",
@@ -2251,22 +2251,121 @@ var ptx_lunr_docs = [
   "body": "  of the sample is decayed in 54 days. What is its half-life?  "
 },
 {
-  "id": "ch_eighth",
+  "id": "sec_eighth-intro",
   "level": "1",
-  "url": "ch_eighth.html",
-  "type": "Chapter",
-  "number": "8",
-  "title": "Elements and Compounds",
-  "body": " Elements and Compounds   Try adding your own content here!    The Periodic Table of Elements      "
+  "url": "sec_eighth-intro.html",
+  "type": "Section",
+  "number": "8.1",
+  "title": "Changes in Matter",
+  "body": " Changes in Matter   There are basically two types of changes matter can undergo. They are:   Physical change: It is such a change in matter that do not alter its chemical composition. For examples:melting, freezing, boiling, condensation, and evaporation. Physical changes are kind of two-way trafic. The material transform its shape and state multiple times. For example, making jewelry from gold bar and molding them back into gold bar again, making sword from iron bar and converting sword in an iron bar again.   Chemical changes: It is such a change in matter that alter its chemical composition. Fpr examples: burning, rusting, and the formation of a chemical compound. It is a one-way trafic where material transform its physical properties but never regains the original properties by the physical process. For example, Baking a cake, making yogurt from milk. The physical properties of the milk, such as its texture and flavor, are also altered in the process. Formation of a new chemical compound such as water from hydrogen and oxygen is also a chemical change.      The Classes of Matter  Instead of three phases (or states) of matter, there are three different classes of matter based on its composition and properties. They are elements, compounds, and mixture.  Elements: An element is a pure substance that cannot be broken down into simpler substances by any chemical means. Elements are the building blocks of all matter and are composed of only one type of atom. Examples of elements include hydrogen, oxygen, and gold.  Compounds: A compound is a pure substance that is made up of two or more elements chemically combined in a fixed ratio. Compounds have different properties from their constituent elements and cannot be separated into their individual elements by physical means. Examples of compounds include water ( ), salt ( ), and glucose ( ).  Mixtures: A mixture is a combination of two or more substances in which each substance retains its own chemical properties. Mixtures can be separated into their individual components by physical means. There are two main types of mixtures: homogeneous mixtures, where the substances are evenly mixed, and heterogeneous mixtures, where the substances are not evenly mixed. Examples of mixtures include air, fruit juice, and concrete.    In homogeneous mixture substances are evenly mixed and have the same composition throughout. Homogeneous mixture is also called a solution Here are some examples of homogeneous mixtures: Salt water: When salt is dissolved in water, the result is a homogeneous mixture, in which the salt and water are evenly distributed throughout the solution. Air: Air is a mixture of gases, including nitrogen, oxygen, and trace amounts of other gases, that are evenly mixed and have the same composition throughout the entire volume of air. Honey: Honey is a homogeneous mixture of sugar and water, with the sugar and water evenly mixed throughout the entire substance. Vinegar: Vinegar is a homogeneous mixture of water and acetic acid, with the water and acetic acid evenly mixed throughout the entire substance. Milk: Milk is a homogeneous mixture of water, fat, proteins, and sugars, with the substances evenly mixed throughout the entire substance.  In heterogeneous mixture substances are not evenly mixed and have different compositions in different parts of the mixture. Heterogeneous mixtures are easy to identify, as the individual substances are easily visible and can be separated from one another by physical means. Here are some examples of heterogeneous mixtures: Fruit salad: A mixture of fruit, such as apples, bananas, and grapes, cut into pieces and combined in a bowl is a heterogeneous mixture. Each piece of fruit has its own unique composition, and the composition of the mixture changes from one part of the mixture to another. Granola: A mixture of oats, nuts, dried fruit, and sweeteners is a heterogeneous mixture, as the ingredients are not evenly mixed and the composition of the mixture changes from one part of the mixture to another. Sand and water: A mixture of sand and water is a heterogeneous mixture, as the sand particles settle to the bottom of the container and the water is clear. The composition of the mixture changes from the top of the mixture to the bottom. Soil: Soil is a mixture of minerals, organic matter, air, and water, and is a heterogeneous mixture as the composition of the soil changes from one part of the soil to another. Concrete: Concrete is a mixture of cement, sand, gravel, and water, and is a heterogeneous mixture, as the composition of the concrete changes f rom one part of the mixture to another.    Atomic Theory  Atomic theory is the foundation of modern chemistry and provides a basic understanding of the nature of matter. The theory states that all matter is made up of tiny particles called atoms, which are the smallest units of matter that retain the properties of an element. Atoms are indivisible: Atoms are the smallest units of matter that can exist and cannot be broken down into smaller units. Atoms are identical: Atoms of the same element are identical and have the same number of protons, electrons, and neutrons. Atoms have structure: Atoms have a small central nucleus, which contains positively charged protons and neutral neutrons, surrounded by negatively charged electrons in shells. Atoms are arranged in the periodic table: Atoms of different elements have different numbers of protons, electrons, and neutrons and are arranged in the periodic table according to their atomic number, which is equal to the number of protons in the nucleus. Atoms can bond to form molecules: Atoms can bond together to form molecules by sharing or exchanging electrons. The properties of molecules are determined by the type of atoms and the way they are bonded together. Atoms can be ionized: Atoms can gain or lose electrons to become positively or negatively charged ions. Ions play an important role in many chemical reactions.   Molecule: A molecule is the smallest unit of a substance that retains the chemical properties of that substance and can exist as a separate entity. It is composed of two or more atoms that are chemically bonded together. In a molecule, the atoms are held together by chemical bonds, which are formed by the sharing or exchange of electrons between the atoms. The type of bonds and the arrangement of atoms in a molecule determine the chemical and physical properties of the substance. Molecules can be formed from a single type of atom, such as a molecule of oxygen ( ), or from different types of atoms, such as a molecule of water ( ). The number of atoms in a molecule and the type of atoms can also vary, giving rise to a vast array of different molecules, each with its own unique properties. Molecules are the building blocks of matter and play a crucial role in many physical and chemical processes, including chemical reactions, phase transitions, and the formation of materials. A deep understanding of the structure and properties of molecules is essential for many scientific and engineering disciplines, including chemistry, biology, materials science, and environmental science.   Difference between molecule and compound: A molecule is a group of two or more atoms that are chemically bonded together. A compound is a substance made up of two or more different elements that are chemically combined in a fixed ratio. The main difference between a molecule and a compound is that a molecule is a collection of atoms that are bonded together, whereas a compound is a substance that consists of molecules made up of different elements in a fixed ratio. For example, water ( ) is a compound made up of hydrogen and oxygen atoms in a fixed ratio of 2:1. The smallest unit of water that retains its chemical properties is a molecule of water, which is made up of two hydrogen atoms and one oxygen atom chemically bonded together. Another example is table salt (NaCl), which is a compound made up of sodium and chlorine atoms in a fixed ratio of 1:1. The smallest unit of salt that retains its chemical properties is a molecule of salt, which is made up of one sodium atom and one chlorine atom chemically bonded together.  Hydrogen gas is made out of molecules. It is not a compound. Oxygen gas is made out of molecules and is also not a compound. They are made out of two atoms of the same element. Similarly, Ozone gas ( ), nitrogen gas ( ), chlorine substance ( ) are molecule. However, carbon dioxide gas ( ) is a compound and molecule both, similarly, amonia ( ) is a compound and molecule both. Because they are made out of two different elements. Meaning all compounds are molecules but all molecules are not compounds.    The Periodic Table      The Periodic Table      "
+},
+{
+  "id": "p-479",
+  "level": "2",
+  "url": "sec_eighth-intro.html#p-479",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Physical change: Chemical changes: "
+},
+{
+  "id": "p-480",
+  "level": "2",
+  "url": "sec_eighth-intro.html#p-480",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Elements: Compounds: Mixtures: "
+},
+{
+  "id": "p-481",
+  "level": "2",
+  "url": "sec_eighth-intro.html#p-481",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "homogeneous mixture solution "
+},
+{
+  "id": "p-482",
+  "level": "2",
+  "url": "sec_eighth-intro.html#p-482",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "heterogeneous mixture "
+},
+{
+  "id": "p-484",
+  "level": "2",
+  "url": "sec_eighth-intro.html#p-484",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Molecule: "
 },
 {
   "id": "fig-ptable",
   "level": "2",
-  "url": "ch_eighth.html#fig-ptable",
+  "url": "sec_eighth-intro.html#fig-ptable",
   "type": "Figure",
-  "number": "8.0.1",
+  "number": "8.1.1",
   "title": "",
-  "body": "  The Periodic Table of Elements    "
+  "body": "  The Periodic Table    "
+},
+{
+  "id": "sec_eighth-chemicalbonds",
+  "level": "1",
+  "url": "sec_eighth-chemicalbonds.html",
+  "type": "Section",
+  "number": "8.2",
+  "title": "Chemical Bonds",
+  "body": " Chemical Bonds                     "
+},
+{
+  "id": "sec_eighth-examples",
+  "level": "1",
+  "url": "sec_eighth-examples.html",
+  "type": "Section",
+  "number": "8.3",
+  "title": "Examples",
+  "body": " Examples    Determine the number of protons, electrons, and neutrons in the atom.    From isotopic notation . we have atomic number, Z = 92. So the nuber of protons (= number of electrons) = 92. The mass number, A =236. Hence the nuber of neutrons,     "
+},
+{
+  "id": "example-77",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-77",
+  "type": "Example",
+  "number": "8.3.1",
+  "title": "",
+  "body": "  Determine the number of protons, electrons, and neutrons in the atom.    From isotopic notation . we have atomic number, Z = 92. So the nuber of protons (= number of electrons) = 92. The mass number, A =236. Hence the nuber of neutrons,    "
+},
+{
+  "id": "ex_eighth",
+  "level": "1",
+  "url": "ex_eighth.html",
+  "type": "Exercises",
+  "number": "8.4",
+  "title": "Exercises",
+  "body": "  Exercises   A nucleon is which of the following?  an electron  a proton  a neutron  both a proton and a neutron      Fiil in the blank below.   "
+},
+{
+  "id": "exercise-74",
+  "level": "2",
+  "url": "ex_eighth.html#exercise-74",
+  "type": "Exercise",
+  "number": "8.4.1",
+  "title": "",
+  "body": " A nucleon is which of the following?  an electron  a proton  a neutron  both a proton and a neutron    "
+},
+{
+  "id": "exercise-75",
+  "level": "2",
+  "url": "ex_eighth.html#exercise-75",
+  "type": "Exercise",
+  "number": "8.4.2",
+  "title": "",
+  "body": " Fiil in the blank below.  "
 },
 {
   "id": "ch_ninth",
@@ -2274,8 +2373,8 @@ var ptx_lunr_docs = [
   "url": "ch_ninth.html",
   "type": "Chapter",
   "number": "9",
-  "title": "Chemical Bonding",
-  "body": " Chemical Bonding   Try adding your own content here!   "
+  "title": "Crystals and Solutions",
+  "body": " Crystals and Solutions   Try adding your own content here!   "
 },
 {
   "id": "ch_tenth",
@@ -2359,9 +2458,9 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-77",
+  "id": "example-78",
   "level": "2",
-  "url": "sec_features-blocks.html#example-77",
+  "url": "sec_features-blocks.html#example-78",
   "type": "Example",
   "number": "16.1.2",
   "title": "",
@@ -2413,22 +2512,13 @@ var ptx_lunr_docs = [
   "body": " Index   "
 },
 {
-  "id": "solutions-3",
-  "level": "1",
-  "url": "solutions-3.html",
-  "type": "Appendix",
-  "number": "D",
-  "title": "Answers",
-  "body": " Answers  "
-},
-{
   "id": "refs-list",
   "level": "1",
   "url": "refs-list.html",
   "type": "References",
   "number": "",
   "title": "References",
-  "body": " 2018 Secondary Energy Infobook. www.NEED.org  Physical Universe, Krauskopf, Beiser, McGrow Hill  Physical Science, Shipman, Wilson,Higgins, Torres, Cengage Learning  "
+  "body": " 2018 Secondary Energy Infobook. www.NEED.org  Physical Universe, Krauskopf, Beiser, McGrow Hill  Physical Science, Shipman, Wilson,Higgins, Torres, Cengage Learning  Principles of Physics, Karna, Kindle Publication  Open AI, chatGPT  "
 },
 {
   "id": "colophon-2",
