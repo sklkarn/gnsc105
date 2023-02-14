@@ -916,7 +916,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "Fluid",
-  "body": " Fluid   Fluid is a material that can flow. Gasses and liquids are fluids. To study fluid it is easier to deal with fluid's volume, density, and pressure rather than its mass and weight. For example, we do transaction of any fluids in terms of their volume (liter) not in their mass (kg). Here, some terminilogies are being introduced to study fluid and its behavior.  Density: It is defined as a mass per unit volume of the fluid. It is a scalar quantity.  Its unit is in SI system, or in cgs system, and in fps system. Any two objects of identical volume the heavier one has higher density than the other. Take two marbles of same size but one is a lead marble and another is a glass marble. Which one do you feel heavier, has the higher density.    Calculate the mass of water in a container of size 25 cm long, 15 cm wide and is filled with water up to 10 cm high. If the density of water is .    The volume of water, Hence, the mass of water in the container is given by .     Pressure: It is defined as a force per unit area of the surface. Force must be acting perpendicularly on the surface. Pressure defines how hard the object is pushing something in or out. It is a scalar quantity.  Its unit is or pascal (Pa) in SI system. In FPS system of unit it is measured in which means pounds per square inch. Many units of pressure are still in practice such as torr, bar, mm of Hg., atm., etc. 1 atm is one atmospheric preesure,     How much pressure is applied on the ground by a girl of 50 kg if she is balancing herself by standing on her one shoe heel of area .    The force exerted by the girl on ground is equal to her weight, and, Surface area = Hence, the pressure on the ground is given by .       Archimedes' Principle  When an object is placed in a fluid it experiences an upthrust force called a buoyant force. It is arising due to changes of pressure inside fluid. This phenomenon is known as Archimedes' principle. It states that when a body is fully or partially immersed in a fluid, the fluid exerts an upward force on the body equal to the weight of liquid displaced. That is, a buoyant force ( ) = weight of displaced fluid ( ). Archimedes' principle tells whether the object floats or sinks in the fluid. If weight of the object is greater than the buoyany force, it sinks. If its weight is equal to the buoyant force, it submerges inside the fluid but does not sink. If its weight is less than the buoyant force then it floats on the surface of liquid.   Buoyant force     In this case, volume of displaced liquid is equal to the volume of submerged portion of the object. On this basis, we can tell that if the density of an object is greater than that of fluid, it sinks. If object density is equal to the density of fluid, then object submerges. If object density is less than the density of fluid, then object floats. To make iron ship not to sink in water, it is made with wide surface area and its body is like a hollow shell, so that the density of entire ship is less than the density of water.    Kinetic Theory of Gases  The nature of gas is completely different than solids and liquids. Gas tskes up the entire volume of the container and can be compressed easily. Gas pressure increase or decrease as the temperature of the container change. It diffuses (or leaks out) to air if the container is left open. On such experiences, Kinetic theory of gas is developed to explain the nature of heat and the motion of particles associated with heat energy. According to this theory, gas is composed of large number of very tiny particles called molecules. These molecules are always in random motion with all possible directions and speeds which increases with the increase of temperature. In gases, the molecules are very far away from each other than in solids and liquids and have negligibly small force of attraction between them. Hence they can move freely anywhere within the available space. This explains why a gas has no definite shape and size. To understand the more general behavior of gases kinetic theory of ideal gases is postulated as  All gases are made up of molecules. Molecules are identical, rigid, and perfectly elastic moving in random directions with all possible velocities.  The molecules are very far away from each other but they collide with each other and with walls of the container.  All the collisions are elastic, but time spent during each collision is negligibly small compared to the time spent between the collisions.  Molecules do not interact with each other (no intermolecular force of attraction) except during a collision.  The average kinetic energy of the molecules of any gas depends only on the temperature.  Ideal gas is a hypothetical gas of negligible molecular size and have no interactions among their molecules. In practice, a very dilute gas with extremely large volume of container space can be considered as an ideal gas. Remember the real gas molecules has definite size and may interact with each other. Hence this postulates are just a very simplified model to understand gas laws and need modification for real gas behaviors. To experience the general behavior of gas please play with simultion link here. gas laws     The Gas Laws  From the experience of factors affecting the gas pressure ideal gas law is defined below. Ideal Gas Law or also called equation of state. It is found that the pressure, of the gas is directly proportional to number of molecules, and the absolute temeperature, and inversely proportional to the volume, V of of the gas. That is where is proportionality constant. Therefore For mole of gas, the above equition turns into this equation is know as equation of state. Here, is number of mole of gas in a container and is universal gas constant.  If T is constant in this equation then it is called Boyle's Law  If is constant in this equation then it is called Charle's Law     "
+  "body": " Fluid   Fluid is a material that can flow. Gasses and liquids are fluids. To study fluid it is easier to deal with fluid's volume, density, and pressure rather than its mass and weight. For example, we do transaction of any fluids in terms of their volume (liter) not in their mass (kg). Here, some terminilogies are being introduced to study fluid and its behavior.  Density: It is defined as a mass per unit volume of the fluid. It is a scalar quantity.  Its unit is in SI system, or in cgs system, and in fps system. Any two objects of identical volume the heavier one has higher density than the other. Take two marbles of same size but one is a lead marble and another is a glass marble. Which one do you feel heavier, has the higher density.    Calculate the mass of water in a container of size 25 cm long, 15 cm wide and is filled with water up to 10 cm high. If the density of water is .    The volume of water, Hence, the mass of water in the container is given by .     Pressure: It is defined as a force per unit area of the surface. Force must be acting perpendicularly on the surface. Pressure defines how hard the object is pushing something in or out. It is a scalar quantity.  Its unit is or pascal (Pa) in SI system. In FPS system of unit it is measured in which means pounds per square inch. Many units of pressure are still in practice such as torr, bar, mm of Hg., atm., etc. 1 atm is one atmospheric preesure,     How much pressure is applied on the ground by a girl of 50 kg if she is balancing herself by standing on her one shoe heel of area .    The force exerted by the girl on ground is equal to her weight, and, Surface area = Hence, the pressure on the ground is given by .     Pressure in a Fluid  A fluid exerts more pressure at greater depths. Consider a cylinderical water bottle of area of cross-section . If is mass of water filled in the bottle to the height , then from , we have -  Here, is the volume of fluid in a container, is the density of the fluid, and is acceleration due to gravity.    If you poke two holes in water bottle at different hights, which water-jets shoots out to larger distance from the bottle?    The pressure exerted by water at depths is given by , Since depth of water is more for the hole at the bottom, water exerts higher pressure at the bottom and hence water-jet shoots out to further distance from the bottom hole.      Archimedes' Principle  When an object is placed in a fluid it experiences an upthrust force called a buoyant force. It is arising due to changes of pressure inside fluid. This phenomenon is known as Archimedes' principle. It states that when a body is fully or partially immersed in a fluid, the fluid exerts an upward force on the body equal to the weight of liquid displaced. That is, a buoyant force ( ) = weight of displaced fluid ( ). It is the buoyant force due to which your weight feels less in sweeming pool. Actually buoyant force is the loss of weight of object in a liquid or fluid. It can also be defined as Here, is a weight of an object in air and is a weight of an object in liquid. Archimedes' principle tells whether the object floats or sinks in the fluid. If weight of the object is greater than the buoyany force, it sinks. If its weight is equal to the buoyant force, it submerges inside the fluid but does not sink. If its weight is less than the buoyant force then it floats on the surface of liquid.   Buoyant force     In this case, volume of displaced liquid is equal to the volume of submerged portion of the object. On this basis, we can tell that if the density of an object is greater than that of fluid, it sinks. If object density is equal to the density of fluid, then object submerges. If object density is less than the density of fluid, then object floats. To make iron ship not to sink in water, it is made with wide surface area and its body is like a hollow shell, so that the density of entire ship is less than the density of water.    Kinetic Theory of Gases  The nature of gas is completely different than solids and liquids. Gas tskes up the entire volume of the container and can be compressed easily. Gas pressure increase or decrease as the temperature of the container change. It diffuses (or leaks out) to air if the container is left open. On such experiences, Kinetic theory of gas is developed to explain the nature of heat and the motion of particles associated with heat energy. According to this theory, gas is composed of large number of very tiny particles called molecules. These molecules are always in random motion with all possible directions and speeds which increases with the increase of temperature. In gases, the molecules are very far away from each other than in solids and liquids and have negligibly small force of attraction between them. Hence they can move freely anywhere within the available space. This explains why a gas has no definite shape and size. To understand the more general behavior of gases kinetic theory of ideal gases is postulated as  All gases are made up of molecules. Molecules are identical, rigid, and perfectly elastic moving in random directions with all possible velocities.  The molecules are very far away from each other but they collide with each other and with walls of the container.  All the collisions are elastic, but time spent during each collision is negligibly small compared to the time spent between the collisions.  Molecules do not interact with each other (no intermolecular force of attraction) except during a collision.  The average kinetic energy of the molecules of any gas depends only on the temperature.  Ideal gas is a hypothetical gas of negligible molecular size and have no interactions among their molecules. In practice, a very dilute gas with extremely large volume of container space can be considered as an ideal gas. Remember the real gas molecules has definite size and may interact with each other. Hence this postulates are just a very simplified model to understand gas laws and need modification for real gas behaviors. To experience the general behavior of gas please play with simultion link here. gas laws     The Gas Laws  From the experience of factors affecting the gas pressure ideal gas law is defined below. Ideal Gas Law or also called equation of state. It is found that the pressure, of the gas is directly proportional to number of molecules, and the absolute temeperature, and inversely proportional to the volume, V of of the gas. That is where is proportionality constant. Therefore For mole of gas, the above equition turns into this equation is know as equation of state. Here, is number of mole of gas in a container and is universal gas constant.  If T is constant in this equation then it is called Boyle's Law  If is constant in this equation then it is called Charle's Law     "
 },
 {
   "id": "example-33",
@@ -946,18 +946,36 @@ var ptx_lunr_docs = [
   "body": "  How much pressure is applied on the ground by a girl of 50 kg if she is balancing herself by standing on her one shoe heel of area .    The force exerted by the girl on ground is equal to her weight, and, Surface area = Hence, the pressure on the ground is given by .    "
 },
 {
-  "id": "figure-12",
+  "id": "example-35",
   "level": "2",
-  "url": "sec_fourth-fluid.html#figure-12",
-  "type": "Figure",
+  "url": "sec_fourth-fluid.html#example-35",
+  "type": "Example",
   "number": "4.2.3",
   "title": "",
-  "body": " Buoyant force    "
+  "body": "  If you poke two holes in water bottle at different hights, which water-jets shoots out to larger distance from the bottle?    The pressure exerted by water at depths is given by , Since depth of water is more for the hole at the bottom, water exerts higher pressure at the bottom and hence water-jet shoots out to further distance from the bottom hole.   "
 },
 {
   "id": "p-253",
   "level": "2",
   "url": "sec_fourth-fluid.html#p-253",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Archimedes' principle "
+},
+{
+  "id": "figure-12",
+  "level": "2",
+  "url": "sec_fourth-fluid.html#figure-12",
+  "type": "Figure",
+  "number": "4.2.4",
+  "title": "",
+  "body": " Buoyant force    "
+},
+{
+  "id": "p-256",
+  "level": "2",
+  "url": "sec_fourth-fluid.html#p-256",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -973,99 +991,99 @@ var ptx_lunr_docs = [
   "body": " Examples    Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body            From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand           How much heat is needed to boil 500 gram of water initially at . The specific heat capacity of water is .   Given: , , , , .  From equation , we have      Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight           Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density           The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.           What is the mass of water that can be stored in an aquarium of 60 cm long, 30 cm wide, and 20 cm high. The density of water is    Find the volume of the container and calulate the mass using mass, volume, and density relationship.     Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.           Molecular motion of the substance is least possible at which temperature?  .  .  .  .           Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.           At which of the temperature a Celsius thermometer and a Fahrenheit thermometer show the same readings?  40 .  -40 .  40 .  0 .     Consider , then from , we have Solve this equation to find the value of x.         "
 },
 {
-  "id": "example-35",
+  "id": "example-36",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-35",
+  "url": "sec_fourth-examples.html#example-36",
   "type": "Example",
   "number": "4.3.1",
   "title": "",
   "body": "  Chose one of the following that does not affect an increase in temperature, if the body is heated.  Mass of the body  State (solid, liquid, or gas) of the body  Shape of the body  Types of material (e.g., iron, aluminum, wood, etc.) of the body          "
 },
 {
-  "id": "example-36",
+  "id": "example-37",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-36",
+  "url": "sec_fourth-examples.html#example-37",
   "type": "Example",
   "number": "4.3.2",
   "title": "",
   "body": " From the common house hold materials below, which one has the highest specific heat capacity?  Water  Iron  Ice  Sand         "
 },
 {
-  "id": "example-37",
+  "id": "example-38",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-37",
+  "url": "sec_fourth-examples.html#example-38",
   "type": "Example",
   "number": "4.3.3",
   "title": "",
   "body": " How much heat is needed to boil 500 gram of water initially at . The specific heat capacity of water is .   Given: , , , , .  From equation , we have    "
 },
 {
-  "id": "example-38",
+  "id": "example-39",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-38",
+  "url": "sec_fourth-examples.html#example-39",
   "type": "Example",
   "number": "4.3.4",
   "title": "",
   "body": " Chose one of the following which is independent on the size and shape of the material composed in a body.  Density  Volume  Mass  Weight         "
 },
 {
-  "id": "example-39",
+  "id": "example-40",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-39",
+  "url": "sec_fourth-examples.html#example-40",
   "type": "Example",
   "number": "4.3.5",
   "title": "",
   "body": " Some objects of identical volumes are being compared, the one with the greatest mass also has the greatest  temperature  buoyancy  pressure  density         "
 },
 {
-  "id": "example-40",
+  "id": "example-41",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-40",
+  "url": "sec_fourth-examples.html#example-41",
   "type": "Example",
   "number": "4.3.6",
   "title": "",
   "body": " The cake of soap sinks in water, the buoyant force on the soap is  equal to its weight.  higher than its weight.  less than its weight.  zero.         "
 },
 {
-  "id": "example-41",
+  "id": "example-42",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-41",
+  "url": "sec_fourth-examples.html#example-42",
   "type": "Example",
   "number": "4.3.7",
   "title": "",
   "body": " What is the mass of water that can be stored in an aquarium of 60 cm long, 30 cm wide, and 20 cm high. The density of water is    Find the volume of the container and calulate the mass using mass, volume, and density relationship.   "
 },
 {
-  "id": "example-42",
+  "id": "example-43",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-42",
+  "url": "sec_fourth-examples.html#example-43",
   "type": "Example",
   "number": "4.3.8",
   "title": "",
   "body": " Ice floats in water because  it is colder than water.  its density is less than that of water.  its specific heat is less than that of water.  it is a solid and water is a liquid.         "
 },
 {
-  "id": "example-43",
+  "id": "example-44",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-43",
+  "url": "sec_fourth-examples.html#example-44",
   "type": "Example",
   "number": "4.3.9",
   "title": "",
   "body": " Molecular motion of the substance is least possible at which temperature?  .  .  .  .         "
 },
 {
-  "id": "example-44",
+  "id": "example-45",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-44",
+  "url": "sec_fourth-examples.html#example-45",
   "type": "Example",
   "number": "4.3.10",
   "title": "",
   "body": " Select one of the following in which heat transfer occurs by the conduction  only in solids.  only in liquids.  only in solids and liquids.  in solids, liquids, and gases.         "
 },
 {
-  "id": "example-45",
+  "id": "example-46",
   "level": "2",
-  "url": "sec_fourth-examples.html#example-45",
+  "url": "sec_fourth-examples.html#example-46",
   "type": "Example",
   "number": "4.3.11",
   "title": "",
@@ -1189,9 +1207,9 @@ var ptx_lunr_docs = [
   "body": " Charges   Charge is an entity which provides an electric property of the matter. Charge is of two types, positive charge and negative charge. Electrons in an atom consist of negative charge and protons of the atom consist of positve positive charge. Similar kinds of charges always repel each other and unlike charges attract each other. Charge is a scalar physical quantity. Charge is conserved meaning charge can neither be created nor be destroyed; it can only be transferred from one place to another or from one object to another. The net charge on any system is always constant. All matter is composed of atoms and atoms are composed of three elementary particles, called electrons, protons, and neutrons. Charge is also quantized meaning charge always comes in discrete amounts, and the smallest possible amount of charge that any object could have is . This is the amount of charge on one electron. Whenever an atom gains or loses an electron, atom is ionized. The ionized atom is always charged. An ion is simply an atom with a net charge. The ion can be positive or negative. If is the total negative charge on any object and is the charge of electron, then total number of electron, n on that object can be find using the following equation. where     A glass is rubbed vigorosly with a fur and found that it gained of charge. Calculate how many electrons has the glass rod lost?        electrons.        Coulomb's Law  The force of attraction or repulsion between any two point charges is directly proportional to the product of these charges and inversely proportional to the square of distance between them. The direction of force is always acting along the line joining these two point charges. If is a force acting on the charges and , and is a distance between the two charges (see figure below) then from Coulumb's law Here, Coulomb's constant, . This law only works for two point charges at rest. Hence, the Coulomb's law is also known as law of electrostatic force on   Coulomb's force    unlike charges     like charges        If the distance between an electron and a proton in a hydrogen atom is . Find the electrostatic force acting btween the electron and the proton.        . Negative sign explains that the force is attractive in nature.        Electric Field  The space around a charge where force of attraction or repulsion can be experienced by any other charged particle is called an electric field. Electric field is also known as electrostatic field intensity. It is an inherent property of a charge. An electric field is produced by a charge and is experienced by another charge. It is an electric field of a charge which tells another charge how to move in the space if it is free to do so. Electric field is a force acting on a unit charge and is a vector quantity. Electric field lines: It is an imaginary path of a unit positive charge in an electric field. Electric field lines are aslo known as electric lines of force. It is always pointed radially outward for a positve charge and radially inward for a negative charge as shown in figure .   Electric Lines of Force    due to a +ve charge     due to a -ve charge     due to two unlike charges     due to two like +ve charges        Materials on Electrical Point of View  On the basis of electrical behavior there are four types of materials exist in nature they are conductor, insulator, semiconductors, and superconductors.   Conductor: It is a material where charge carriers (electrons or ions) are free to move within it. Copper, aluminum, gold, mercury, iron, water-salt solution, etc. are few examples of conductors. In a conductor outermost electrons of an atom are loosely bounded with its nucleus and hence are free to move throughout the material even at very low temperature. The random motion of electrons causes zero net electric current in a conductor unless an external electric field is applied on it. Insulator: It is a material where electrons are tightly bounded with their atom and can not move very easily. Plastics, glass, rubber, wood, porcelain, etc. are few examples of insulators. Check the simulation link conductor & insulator  Semiconductor: It is a material having properties between insulator and conductor. Silicon and germanium are good example of it. At low temperature this material behaves as an insulator and at high temperature it behaves as a conductor. The conductivity of semiconductor can be increased enormously by doping of this material with a very small amount of suitable dopants such as boron, phosphorous, or arsenic. Superconductor: It is a material which transfers electrons from one atom to another throughout the material without any resistance. No loss of energy can be observed when material conduct electricity. Mercury shows superconducting nature at temperature below 4 Kelvin.   "
 },
 {
-  "id": "example-46",
+  "id": "example-47",
   "level": "2",
-  "url": "sec_fifth-intro.html#example-46",
+  "url": "sec_fifth-intro.html#example-47",
   "type": "Example",
   "number": "5.1.1",
   "title": "",
@@ -1207,9 +1225,9 @@ var ptx_lunr_docs = [
   "body": " Coulomb's force    unlike charges     like charges     "
 },
 {
-  "id": "example-47",
+  "id": "example-48",
   "level": "2",
-  "url": "sec_fifth-intro.html#example-47",
+  "url": "sec_fifth-intro.html#example-48",
   "type": "Example",
   "number": "5.1.3",
   "title": "",
@@ -1225,9 +1243,9 @@ var ptx_lunr_docs = [
   "body": " Electric Lines of Force    due to a +ve charge     due to a -ve charge     due to two unlike charges     due to two like +ve charges     "
 },
 {
-  "id": "p-301",
+  "id": "p-304",
   "level": "2",
-  "url": "sec_fifth-intro.html#p-301",
+  "url": "sec_fifth-intro.html#p-304",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1243,9 +1261,9 @@ var ptx_lunr_docs = [
   "body": " Electricity   It is a branch of physics which deals with the motion of charges in a conductor. When charge flows from one place to another, an electrical current is formed. An electric current is defined as the rate of flow of charge. If a net charge passes through any conductor in time , then the electric current is given by Its unit is Ampere (A). One ampere of current represents one coulomb of charge passes through a conductor in one second. It is a scalar quantity and its conventional direction is taken as the direction of flow of positive charges. In conductor, current flows solely due to motion of electrons, hence the direction of current is opposite to electrons flow. From the law of conservation of charges current remains constant in a conductor irrespective of the local area of cross-section. When the direction of motion of charge does not change with time, the current is said to be direct current, or DC current. It is commonly used in devices electronic devices like cell phones and computers. If the direction of motion of charges reverses periodically, the current is known as an alternating current, or AC current. It is commonly used in the electrical power systems that supply to homes and commercial applications. AC current goes from positive to negative in a cycle, while DC current is always in the same direction. Current can only exist between two points of different potential (voltage) connected by a conductor and can only exist whenever a conductive path with no breaks is provided. DC & AC Flow of charges in DC current is similar to flowing water, but in AC current, charges do not go any where rather they are oscillating about the mean position at their respective position. Check the simulation link to visualize DC and AC current. DC & AC AC is more efficient to transmit over long distances than DC. This is the reason why AC is used in power transmission and distribution as well as in motors and other equipment. It is also used in many household appliances, such as refrigerators, air conditioners, and washing machines. AC can also be easily transformed to different voltages using a transformer, while this is not easy to achieve with DC. DC voltage can be stored in a device called battery, while AC voltage can not be stored.    Electric Potential (Voltage)  Electric potential, also known as voltage, is a measure of the electric potential energy per unit charge in an electric field. That is, or, . It is the amount of work required to move a unit positive charge from one point to another in an electric field. The unit of electric potential is the volt (V). A higher electric potential difference between two points indicates a greater amount of energy required to move a unit charge between those points. Voltage can be think of like a \"push\" for a charge. The higher the voltage, the more \"push\" the charge experience to flow through wires. Charge can only flow from high potential(voltage) to low potential (voltage). It's important to note that just like water can be dangerous if not handled properly, electricity can also be dangerous if not handled with care.    Ohm's Law  Ohm's law states that the current flowing through a conductor is directly proportional to the voltage across the two ends of the conductor, and inversely proportional to the resistance between them. It can be mathematically expressed as or, here I is the current, V is the voltage, and R is the resistance of the conductor. Resistance: is a restriction imposed by a conductor on the motion of a current. Motion of charge carriers (electrons) are not very smooth in a conductor as they bump onto the other electrons and positive charge residual atoms during their motion. Such restrictions in flow of electrons is measured as a resistance of a conductor in current flow. It is denoted by and its unit is Ohms ( ). Electrical Power: It is the measure of energy transferred or consumed per unit time i.e.,   Hence power is also defined as the product of current and voltage. Its unit is Watts (W). One watt means consuming the one joule of energy every second.  Now from Ohm's law,  Hence, the power of electrical circuit is given as     Electrical Shock: According to Ohm's law if resistance of the conductor is low then the higher current can flow through it. High current can be deadly. Actually, a “voltage” does not go “into” your body rather current can pass through it when charges flow toward a lower potential. In order to get electric shock atleast of current must pass through our body. In dry condition, human body has a resistance of about , so to have current flowing through our body we need to touch the voltage source of about , as shown in the calculation below. In wet condition, human body resistance becomes only , so to get current through our body we need to touch the voltage source of about .    Electrical Circuits  Electrical circuit is a network of electrical elements (such as resistance (bulb), battery, conductor, switch, etc.) through which current can flow in a closed path. Electrical circuits can be of two types,  Series Circuit: in this type of circuits all the electrical components are connected one after another in such a way that the same current flows through each components as shown in figuer below. An example of a series circuit is a string of Christmas lights, where each bulb is connected to the next in a line. If one bulb burns out, the entire circuit is broken and none of the lights will turn on.  Series circuit      Parallel Circuit: in this type of circuits all the electrical components are connected side by side in such a way that the voltage across each component is the same as shown in figuer below. An example of a parallel circuit is a house's electrical system, where different appliances are connected to the same circuit but have their own separate paths for current to flow through. If one path is broken or one appliance stops working, it doesn't affect the other appliances or the overall circuit.  Parallel circuit       series & parallel circuit To change from series to parallel circuit, Please hold the bulb and rotate the circuit in the simulation.   "
 },
 {
-  "id": "p-302",
+  "id": "p-305",
   "level": "2",
-  "url": "sec_fifth-electr.html#p-302",
+  "url": "sec_fifth-electr.html#p-305",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1324,63 +1342,63 @@ var ptx_lunr_docs = [
   "body": " Examples    Find the current in a wire if electrons is passing every second.    See the equations and        Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.    From Ohm's Law        If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.    Here = 20 mint\/day = = 10 h.  Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = \\(225 cents = $2.25\\).      How much current is passing through the ciruit if electric heater is running at 120 V?    From equation        What is the resistance of 50 W light bulb filament running at 120V?    From equation        Find an electric energy stored in a 10V laptop battery rated at 13000 mAh.    using equations and , we have      Here, , remember large unit of charge is also Ah by using eqation . Hence, from equation  by using equation where,    Hence, Energy, E= 130Wh. [since, ]       The primary coil of a transformer has 500 turns and its secondary coil has 50 turns. If the current in the secondary coil is 25 A, find the current in its primary coil.    Given: , , ,  From equation      "
 },
 {
-  "id": "example-48",
+  "id": "example-49",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-48",
+  "url": "sec_fifth-examples.html#example-49",
   "type": "Example",
   "number": "5.4.1",
   "title": "",
   "body": "  Find the current in a wire if electrons is passing every second.    See the equations and     "
 },
 {
-  "id": "example-49",
+  "id": "example-50",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-49",
+  "url": "sec_fifth-examples.html#example-50",
   "type": "Example",
   "number": "5.4.2",
   "title": "",
   "body": "  Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.    From Ohm's Law     "
 },
 {
-  "id": "example-50",
+  "id": "example-51",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-50",
+  "url": "sec_fifth-examples.html#example-51",
   "type": "Example",
   "number": "5.4.3",
   "title": "",
   "body": "  If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month? If the unit price is 15 cents.    Here = 20 mint\/day = = 10 h.  Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = \\(225 cents = $2.25\\).   "
 },
 {
-  "id": "example-51",
+  "id": "example-52",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-51",
+  "url": "sec_fifth-examples.html#example-52",
   "type": "Example",
   "number": "5.4.4",
   "title": "",
   "body": "  How much current is passing through the ciruit if electric heater is running at 120 V?    From equation     "
 },
 {
-  "id": "example-52",
+  "id": "example-53",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-52",
+  "url": "sec_fifth-examples.html#example-53",
   "type": "Example",
   "number": "5.4.5",
   "title": "",
   "body": "  What is the resistance of 50 W light bulb filament running at 120V?    From equation     "
 },
 {
-  "id": "example-53",
+  "id": "example-54",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-53",
+  "url": "sec_fifth-examples.html#example-54",
   "type": "Example",
   "number": "5.4.6",
   "title": "",
   "body": "  Find an electric energy stored in a 10V laptop battery rated at 13000 mAh.    using equations and , we have      Here, , remember large unit of charge is also Ah by using eqation . Hence, from equation  by using equation where,    Hence, Energy, E= 130Wh. [since, ]    "
 },
 {
-  "id": "example-54",
+  "id": "example-55",
   "level": "2",
-  "url": "sec_fifth-examples.html#example-54",
+  "url": "sec_fifth-examples.html#example-55",
   "type": "Example",
   "number": "5.4.7",
   "title": "",
@@ -1522,9 +1540,9 @@ var ptx_lunr_docs = [
   "body": " Waves     Ripples on Water Surface     Schematics of ripples     "
 },
 {
-  "id": "p-347",
+  "id": "p-350",
   "level": "2",
-  "url": "sec_sixth-intro.html#p-347",
+  "url": "sec_sixth-intro.html#p-350",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1540,9 +1558,9 @@ var ptx_lunr_docs = [
   "body": " Representation of waves    Longitudinal wave     Transverse wave     "
 },
 {
-  "id": "p-351",
+  "id": "p-354",
   "level": "2",
-  "url": "sec_sixth-intro.html#p-351",
+  "url": "sec_sixth-intro.html#p-354",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1567,9 +1585,9 @@ var ptx_lunr_docs = [
   "body": " Electromagnetic Spectrum NASA   "
 },
 {
-  "id": "p-360",
+  "id": "p-363",
   "level": "2",
-  "url": "sec_sixth-light.html#p-360",
+  "url": "sec_sixth-light.html#p-363",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1612,117 +1630,117 @@ var ptx_lunr_docs = [
   "body": " Examples    The speed of sound is fastest in  liquids.  solids.  gases.  vacuum.      b.      The frequency of a sound determines its quality and the amplitude of the sound determines its .  timber.  frequency.  loudness.  pitch.      c.      which wave given below is partly longitudinal and partly transverse?  light wave.  sound wave.  water wave.  string wave.      c.      When a wave goes from one medium to another medium, which quantity of wave does not change?  frequency.  speed.  amplitude.  wavelength.      a.      Indicate the amplitude of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.      Indicate the wavelength of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.      How far inside the plane mirror your image appears?  As far as I am standing infront of the mirror.  Just double the distance I am standing infront of the mirror.  Cannot be determined.  depends upon my size.      empty.      What causes the pool of water appears to be less deep than it actually is  Reflection.  Refraction.  Dispersion.  Scattering.      empty.      What causes light to refract to form rainbow in the sky?  glass prisms.  sunlight rays  small raindrops  air molecules.      c.      why does the fork look larger under water?  light is refracted at an angle.  light cannot pass through the glass.  the amount of light increases when going through water.  the wavelength of light increases in the process.      a.      When light passes through a prism the light splits into the visible spectrum. What color bends the most and has the shortest wavelength?  red.  violet.  yellow.  blue.      a.      The color of object you see is the color that is   absorbed by the object.  reflected by the object.      empty.      What is the speed of wave which completes one full cycle in and has a wavelength of ?         Given: , ,  From equation , we have and from equation , we have     "
 },
 {
-  "id": "example-55",
+  "id": "example-56",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-55",
+  "url": "sec_sixth-examples.html#example-56",
   "type": "Example",
   "number": "6.3.1",
   "title": "",
   "body": "  The speed of sound is fastest in  liquids.  solids.  gases.  vacuum.      b.   "
 },
 {
-  "id": "example-56",
+  "id": "example-57",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-56",
+  "url": "sec_sixth-examples.html#example-57",
   "type": "Example",
   "number": "6.3.2",
   "title": "",
   "body": "  The frequency of a sound determines its quality and the amplitude of the sound determines its .  timber.  frequency.  loudness.  pitch.      c.   "
 },
 {
-  "id": "example-57",
+  "id": "example-58",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-57",
+  "url": "sec_sixth-examples.html#example-58",
   "type": "Example",
   "number": "6.3.3",
   "title": "",
   "body": "  which wave given below is partly longitudinal and partly transverse?  light wave.  sound wave.  water wave.  string wave.      c.   "
 },
 {
-  "id": "example-58",
+  "id": "example-59",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-58",
+  "url": "sec_sixth-examples.html#example-59",
   "type": "Example",
   "number": "6.3.4",
   "title": "",
   "body": "  When a wave goes from one medium to another medium, which quantity of wave does not change?  frequency.  speed.  amplitude.  wavelength.      a.   "
 },
 {
-  "id": "example-59",
+  "id": "example-60",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-59",
+  "url": "sec_sixth-examples.html#example-60",
   "type": "Example",
   "number": "6.3.5",
   "title": "",
   "body": "  Indicate the amplitude of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.   "
 },
 {
-  "id": "example-60",
+  "id": "example-61",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-60",
+  "url": "sec_sixth-examples.html#example-61",
   "type": "Example",
   "number": "6.3.7",
   "title": "",
   "body": "  Indicate the wavelength of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.   "
 },
 {
-  "id": "example-61",
+  "id": "example-62",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-61",
+  "url": "sec_sixth-examples.html#example-62",
   "type": "Example",
   "number": "6.3.9",
   "title": "",
   "body": "  How far inside the plane mirror your image appears?  As far as I am standing infront of the mirror.  Just double the distance I am standing infront of the mirror.  Cannot be determined.  depends upon my size.      empty.   "
 },
 {
-  "id": "example-62",
+  "id": "example-63",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-62",
+  "url": "sec_sixth-examples.html#example-63",
   "type": "Example",
   "number": "6.3.10",
   "title": "",
   "body": "  What causes the pool of water appears to be less deep than it actually is  Reflection.  Refraction.  Dispersion.  Scattering.      empty.   "
 },
 {
-  "id": "example-63",
+  "id": "example-64",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-63",
+  "url": "sec_sixth-examples.html#example-64",
   "type": "Example",
   "number": "6.3.11",
   "title": "",
   "body": "  What causes light to refract to form rainbow in the sky?  glass prisms.  sunlight rays  small raindrops  air molecules.      c.   "
 },
 {
-  "id": "example-64",
+  "id": "example-65",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-64",
+  "url": "sec_sixth-examples.html#example-65",
   "type": "Example",
   "number": "6.3.12",
   "title": "",
   "body": "  why does the fork look larger under water?  light is refracted at an angle.  light cannot pass through the glass.  the amount of light increases when going through water.  the wavelength of light increases in the process.      a.   "
 },
 {
-  "id": "example-65",
+  "id": "example-66",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-65",
+  "url": "sec_sixth-examples.html#example-66",
   "type": "Example",
   "number": "6.3.13",
   "title": "",
   "body": "  When light passes through a prism the light splits into the visible spectrum. What color bends the most and has the shortest wavelength?  red.  violet.  yellow.  blue.      a.   "
 },
 {
-  "id": "example-66",
+  "id": "example-67",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-66",
+  "url": "sec_sixth-examples.html#example-67",
   "type": "Example",
   "number": "6.3.14",
   "title": "",
   "body": "  The color of object you see is the color that is   absorbed by the object.  reflected by the object.      empty.   "
 },
 {
-  "id": "example-67",
+  "id": "example-68",
   "level": "2",
-  "url": "sec_sixth-examples.html#example-67",
+  "url": "sec_sixth-examples.html#example-68",
   "type": "Example",
   "number": "6.3.15",
   "title": "",
@@ -1864,27 +1882,27 @@ var ptx_lunr_docs = [
   "body": " Atomic Structure    Dalton's atomic model was proposed in 1803. It tells that  All matter is composed of atoms, which are indivisible and indestructible.  Atoms of a given element are identical in size, mass, and other properties.  Atoms of different elements have different properties and masses.  Atoms combine in simple whole-number ratios to form compounds.  In chemical reactions, atoms are rearranged to form new compounds, but no atoms are created or destroyed. Dalton's atomic theory laid the foundation for modern atomic theory.   Thomson's atomic model was proposed in 1904. It was based on his discovery of the electron, a negatively charged particle within the atom. According to Thomson's model, the atom was a sphere of positive charge with electrons embedded within it like raisins in a pudding. Hence this model is also known as \"plum pudding\" model. This model was later modified by Rutherford's atomic model.   Rutherford's atomic model , also known as the \"planetary\" model, was proposed in 1911 based on his gold foil experiment. The experiment involved firing alpha particles at a thin sheet of gold foil and observing their deflection patterns using a screen. The results showed that most of the alpha particles passed straight through the foil, but a small percentage were deflected at large angles, suggesting the presence of a heavy and dense nucleus at the center of the atom. Rutherford's atomic model proposed that an atom consists of a small, dense, positively charged nucleus at its center surrounded by electrons in orbits around the nucleus. The electrons were held in their orbits by the attractive force between the positive nucleus and the negative electrons. This model explained why most alpha particles passed straight through the foil and why a small percentage were deflected at large angles. It also helped to establish the concept of the atomic nucleus and the basic structure of the atom. Gold's Foil Experiment    Atomic Model    Dalton's Model     Thomson's Model     Rutherford's Model        Blackbody Radiation  In the successive evolution of atomic model, we needed to understant light very well. From the late 19th century, scientists realized that visible light of all frequencies was emitted by the atoms of glowing hot solid, such as the filament of light bulb. The study of blackbody radiation helps understand the nature of heat and light. Blackbody radiation is a cornerstone in the study of quantum mechanics.This experiment led to the discovery of Quantum mechanics which gives a complete understanding of the fundamental mechanisms at the sub-atomic level. Blackbody radiation is the theoretical description of the electromagnetic radiation emitted by a perfect blackbody, which is an object that absorbs all radiation falling on it and reflects none. In 1900, Max Planck proposed a theoretical model to explain the spectral distribution of blackbody radiation, which was in agreement with experimental observations. Planck's model proposed that energy is emitted and absorbed in discrete packets, called quanta, rather than continuously. This was a major departure from classical physics and marked the beginning of quantum mechanics. Planck's work laid the foundation for the understanding of the nature of light and electromagnetic radiation and has had a profound impact on modern physics. The study of blackbody radiation continues to be an important area of research in physics.   Blackbody Radiation    The blackbody radiation plot shows the spectral distribution of the electromagnetic radiation emitted by a blackbody as a function of wavelength or frequency. The plot is typically represented as a curve that shows the intensity of the radiation emitted at each wavelength or frequency. The shape of the blackbody radiation curve depends on the temperature of the blackbody. At low temperatures, the curve peaks at longer wavelengths in the infrared region. As the temperature increases, the peak of the curve moves towards shorter wavelengths, and at high temperatures, the peak is in the ultraviolet region. The blackbody radiation plot is an important tool for understanding the nature of heat and light. shows how the brightness of the light varies with wavelength emitted by the objects at four different temperatures. It has been observed that all objects radiate electromagnetic radiation and the strongest wavelength depends on its temperature. The higher the temperature of the body, the shorter the brightest wavelength (or, the higher the frequency). For example, a hot iron bar that glows yellow is hotter than one that glows red. For an object at room temperature, most of the radiation emits in infrared region and hence is invisible.  Planck explained the spectrum of radiation by assuming that hot objects emitt or absorbed energy in discrete packets, called quanta . Quanta is the plural form of quantum (in Latin, quantum means how much). The higher the frequency of the light, the more the energy per quantum. That is, the energy emited in radiation is given by Here is quantum of energy, is planck's constant, and is frequency of light.    Find the energy of a photon emitted from a red light of frequency .    From equation , we have       Photoelectric Effect  The photoelectric effect is a phenomenon in which electrons are emitted from a metal surface when light of a certain frequency shines on it. The effect is a result of the transfer of energy from photons in the light to electrons in the metal, causing the electrons to be ejected. The photoelectric effect demonstrated that light has a dual nature, both as a wave and as a particle, and helped lead to the development of quantum mechanics.  The photoelectric effect was first observed by Hertz in the late 19th century and later explained by Einstein in 1905. The basic idea behind the photoelectric effect is that light is composed of individual particles, called photons, that carry a specific amount of energy. When these photons hit a metal surface, they transfer their energy to the electrons in the metal. If the energy of the photon is high enough, it can cause an electron to be ejected from the metal and become a free electron. This process only occurs with light of a certain frequency, known as the threshold frequency. If the frequency of the light is below this threshold, no electrons will be emitted, no matter how intense the light is. If the frequency is above the threshold, the number of electrons emitted will increase with the intensity of the light. The photoelectric effect challenged the classical understanding of light as a wave, and led to the development of quantum mechanics, which views light and matter as having both wave-like and particle-like properties. The photoelectric effect is widely used in modern technology, such as photodiodes, photovoltaics, and photoelectric sensors, etc. Photoelectric Effect Simulation.   Einstein's formula for photoelectric effect is given by where is energy of a photon of light whose frequency is  is the kinetic energy of the emitted electron, and is work function of the metal (i.e., energy needed to pull the electron from the metal). Eventhough, photon is massless and always moves with the speed of light, it behaves like a particle and possesses energy and momentum. It also interacts with other particles in the same way as one particle interacts with others.    The ultraviolet light of frequency is incident on the surface of a metal, whose work function is . Show that the kinetic energy of the emitted electrons is .    Given: , , .  From equation        The Dual Nature of Light  The dual nature of light refers that light exhibits both wave-like and particle-like behavior, which was first described by the wave-particle duality theory in quantum mechanics. This theory states that light can behave as both a wave and a particle depending on the experimental setup used to observe it. For example, in the double-slit experiment, light behaves as a wave, but in the photoelectric effect, it behaves as particles, called photons. The dual nature of light is still not fully understood and remains one of the most intriguing concepts in physics. In the double-slit experiment, light passing through two slits interferes with itself, creating a characteristic pattern on a screen behind the slits, which is typical of wave behavior. However, when light is emitted from a source and detected one photon at a time, the photons are found to behave as particles and follow a random path through the slits, not forming any interference pattern. Dual nature of light     Bohr's Model of Hydrogen Atom  The Bohr model of the atom is a simplified representation of the structure of an atom proposed by Niels Bohr in 1913. According to the Bohr model, an atom consists of a central nucleus composed of positively charged protons and neutral neutrons surrounded by electrons in shells or orbits. The electrons occupy discrete energy levels and move in circular orbits around the nucleus, and the energy of an electron depends on its distance from the nucleus. The quantized orbits correspond to specific energy levels, and the transition of an electron from one energy level to another results in the emission or absorption of electromagnetic radiation, which is observed as a spectral line. The Bohr model helps explain the emission and absorption spectra of atoms and laid the foundation for the development of quantum mechanics. The Bohr model is used to describe the structure of hydrogen energy levels. The represents shell structure, where each shell is associated with principal quantum number . The amount of energy in each level is reported in eV, and the maxiumum energy is the ionization energy of 13.6 eV. The movement of electrons between these energy levels produces a spectrum.   Energy level diagram of hydrogen atom    Hydrogen Atom     Spectral Lines      The allowed value of the atomic radius is given by Where, is a positive integer, is the smallest allowed radius for the hydrogen atom also known as the Bohr's radius, . Bohr calculated the energy of an electron in the level of hydrogen atom by using the formula given below   In the numbers on the left side represent energy levels with the lowest energy level at the bottom and on right side representing their corresponding values. The arrows represent all possible transitions of electron from one energy level to another. Each group of transitions is given the name of the scientist who identified their origin. Longer arrow means more energy is released during transition and hence the light of shorter wavelength is being emitted. The Balmer series releases light in the visible region of the electromagnetic spectrum. The Lyman series, with longer arrows, requires the higher energy of the UV region. The Paschen, Brackett series, and Pfund series with shorter arrows require the lower energy of the IR region. According to Bohr model, Lyman series appears when electrons jump from higher energy levels to energy state. Balmer series appears when electrons jump from higher energy levels to energy state, and so on.    Origin of Spectra  The term \"spectrum\" originated from the Latin word \"spectrum\" which means \"appearance\". The idea of a spectrum in physics and optics refers to the distribution of light into its component colors (red, orange, yellow, green, blue, indigo, and violet) when passed through a prism or diffraction grating. Spectral lines are caused by the interaction of electromagnetic radiation with atoms or molecules. When an atom or molecule is excited by absorbing a photon of light, its electrons can transition to higher energy levels. When the electrons eventually fall back down to their ground state, they emit photons of light at specific, characteristic wavelengths, which correspond to the difference in energy between the two states. This results in the emission of light at specific wavelengths, known as spectral lines. The position and intensity of these lines are unique to the elements or compounds present, and can be used to identify and analyze the composition of stars, planets, and other celestial objects. The is the visible emission spectrum of H, He, and N line spectra, and their absorption spectra.   Emission and Absorption spectra      X-Rays  X-rays are electromagnetic radiations with high energy and short wavelength. Its wavelength range from 0.01 to 10 nm. This short wavelength allows X-rays to penetrate materials, making them useful for medical imaging and other applications.They are used to produce images of bones and other internal organs, as well as for industrial and scientific applications. X-rays are also used in radiation therapy to treat cancer and other medical conditions. However, exposure to X-rays can be harmful, so it is important to use protective measures and limit unnecessary exposure. The discovery of X-rays is credited to German physicist Wilhelm Röntgen in 1895. Röntgen was studying cathode rays in a vacuum tube when he noticed that a screen coated with a fluorescent material emitted a bright glow when exposed to the rays. X-rays are just the reverse of photoelectric effect. Roentgen discovered that holding a high voltage across two electrodes could result in the production of high energy photons, which he called \"X-rays\" because their nature was unknown at the time.   X-ray production    X-rays are produced by the sudden change in large kinetic energy when electrons smash into the target electrode in a cathode ray tube . The energy of the x-rays produced depends on the voltage applied.    The Laser  The acronym LASER stands for Light Amplification by Stimulated Emission of Radiation. The light emitted from a laser is distinctly monochromatic compared to the light emiited from lightbulb or the sun. It is spatially and temporally coherent to a much higher degree than other light sources. Hence, the laser is a concentrated beam of light through the process of stimulated emission of electromagnetic radiation. Lasers have a wide range of applications in fields such as medicine, communications, manufacturing, and entertainment. They work by emitting a narrow, intense beam of light that can be precisely controlled and directed, making them useful for tasks that require high precision or intense light. Here are some important processes that make laser a very important tool. Light emission: Lasers emit light at a specific wavelength, which is determined by the laser material used. This narrow spectral width makes the light highly collimated and monochromatic, meaning it has a single wavelength and travels in a straight path. Stimulated emission: Lasers rely on the process of stimulated emission to produce light. This involves the absorption of energy by a material, followed by the release of that energy in the form of a photon. The photon then triggers the emission of additional photons, creating a chain reaction that results in the intense beam of light. Active medium: The active medium is the material that produces the laser light. It can be a solid, liquid, or gas, and it is chosen based on the desired wavelength and type of laser. Pumping: The active medium must be excited, or “pumped,” to generate the laser light. This can be done through electrical means, or by shining a light on the medium. Reflective cavity: The laser light is contained within a reflective cavity, which is formed by two mirrors facing each other. The light bounces back and forth between the mirrors, amplifying and intensifying the beam as it passes through the active medium. Output coupler: One of the mirrors is partially transparent, allowing some of the laser light to escape and form the laser beam. Population inversion: is a key concept in laser physics and refers to the state of a group of atoms in the active medium of a laser. Normally, the majority of atoms in a material are in the lowest energy state (ground state), and a small fraction are in excited states. In a population inversion, the situation is reversed, with the majority of atoms being in excited states and a small fraction in the ground state. This condition is necessary for a laser to produce light, as it provides the necessary amount of excited atoms that can undergo stimulated emission, releasing photons that amplify and produce the laser beam. The pumping process is responsible for creating the population inversion in the active medium. In summary, population inversion is the requirement for laser light generation, as it provides the necessary population of excited atoms to produce the beam of light through stimulated emission. LASER    "
 },
 {
-  "id": "p-415",
+  "id": "p-418",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-415",
+  "url": "sec_seventh-atom.html#p-418",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Dalton's atomic model "
 },
 {
-  "id": "p-416",
+  "id": "p-419",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-416",
+  "url": "sec_seventh-atom.html#p-419",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Thomson's atomic model "
 },
 {
-  "id": "p-417",
+  "id": "p-420",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-417",
+  "url": "sec_seventh-atom.html#p-420",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1900,9 +1918,9 @@ var ptx_lunr_docs = [
   "body": " Atomic Model    Dalton's Model     Thomson's Model     Rutherford's Model     "
 },
 {
-  "id": "p-418",
+  "id": "p-421",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-418",
+  "url": "sec_seventh-atom.html#p-421",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1918,36 +1936,36 @@ var ptx_lunr_docs = [
   "body": " Blackbody Radiation   "
 },
 {
-  "id": "p-420",
+  "id": "p-423",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-420",
+  "url": "sec_seventh-atom.html#p-423",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Quanta planck's constant, "
 },
 {
-  "id": "example-68",
+  "id": "example-69",
   "level": "2",
-  "url": "sec_seventh-atom.html#example-68",
+  "url": "sec_seventh-atom.html#example-69",
   "type": "Example",
   "number": "7.1.3",
   "title": "",
   "body": "  Find the energy of a photon emitted from a red light of frequency .    From equation , we have    "
 },
 {
-  "id": "p-425",
+  "id": "p-428",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-425",
+  "url": "sec_seventh-atom.html#p-428",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "photon "
 },
 {
-  "id": "example-69",
+  "id": "example-70",
   "level": "2",
-  "url": "sec_seventh-atom.html#example-69",
+  "url": "sec_seventh-atom.html#example-70",
   "type": "Example",
   "number": "7.1.4",
   "title": "",
@@ -1981,9 +1999,9 @@ var ptx_lunr_docs = [
   "body": " X-ray production   "
 },
 {
-  "id": "p-436",
+  "id": "p-439",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-436",
+  "url": "sec_seventh-atom.html#p-439",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1999,18 +2017,18 @@ var ptx_lunr_docs = [
   "body": " Nuclear Structure   The nucleus is the central and most important part of an atom. It is composed of protons and neutrons collectively known as known as nucleons , and is located in the center of the atom. The protons in the nucleus are positively charged and the neutrons are neutral in charge. The number of protons in the nucleus determines the atomic number and the atomic element of the atom. The nucleons are held together by the strong nuclear force. Strong nuclear force is a very short-range attractive force that acts between nucleons and helps keep the nucleus from flying apart due to the repulsive force of the positively charged protons. The number of neutrons in a nucleus can vary for the same element, leading to the existence of isotopes . Isotopes are atomic species of an element that have the same number of protons but different numbers of neutrons in the nucleus. This means that isotopes of an element have the same atomic number but a different atomic mass. Due to the difference in the number of neutrons, isotopes of an element can have different physical and chemical properties. Some isotopes are stable and do not undergo radioactive decay, while others are radioactive and decay over time. Isotopes are important in many fields, including medicine, industry, and scientific research. For example, in medicine, certain radioactive isotopes are used to diagnose and treat diseases, while in industry, stable isotopes are used as tracers to study the behavior of materials. In scientific research, isotopes are used to study the age of rocks and fossils, and to determine the origin and evolution of the universe. Here is the isotopic natation of the nucleus. where = chemical symbol of element, = atomic number of element, and = mass number of nucleus = number of protons and neutrons in nucleus. Therefore the number of neutron, .  There are over 3,000 known isotopes in the periodic table, but not all of them are naturally occurring. Some isotopes are stable and do not undergo radioactive decay, while others are radioactive and decay over time. The number of isotopes of an element can vary greatly, with some elements having only one or two isotopes, while others have many. The lightest element hydrogen has three isotopes . They are Hydrogen: , Deuterium: , and Tritium: . Heavy water is a type of water molecule that contains a heavier isotope of hydrogen, deuterium (H-2) instead of the common hydrogen isotope (H-1). Heavy water has the same chemical properties as regular water , but its physical properties, such as boiling and melting points, are slightly different. Heavy water is used in various industrial and scientific applications, including nuclear reactors, where it serves as a moderator to slow down the speed of neutrons in the reactor core.   The isotopes of hydrogen     Carbon is an element that has several isotopes. Some of them are carbon-12 (or, ) and carbon-13 (or, ), and carbon-14 (or, ). Carbon-12 and carbon-13, are naturally occurring isotopes and make up the majority of carbon on Earth. Carbon-12, has 6 protons and 6 neutrons and is the most abundant in nature. Carbon-12 is considered the standard for atomic mass. Carbon-13, has 6 protons and 7 neutrons and is a stable isotope. Carbon-13 makes up about 1% of the total carbon on Earth. Carbon-14 is a naturally occurring isotope that is produced in the Earth's atmosphere through cosmic radiation and is taken up by living organisms. It is used in the radiocarbon dating method to determine the age of organic materials and is an important tool in archaeology and other fields.    Radioactivity  Radioactivity is the process of spontaneous decay (disintegrating) of an atomic nucleus. In this process, a nucleus of a radioactive isotope breaks apart into smaller and more stable nuclei. This process releases energy in the form of ionizing radiation, including alpha particles, beta particles, and gamma rays. Radioactivity is a natural phenomenon and occurs due to the unstable atomic nuclei of certain elements. Some radioactive isotopes are naturally occurring, while others can be produced artificially, for example, in nuclear reactors or through the process of nuclear weapons production. The study and use of radioactivity have many applications, including in medicine (e.g., medical imaging, cancer treatment), energy production (e.g., nuclear power plants), and research (e.g., dating of rocks and artifacts). However, exposure to high levels of radiation can be harmful and potentially cause serious health effects, so it is important to handle and use radioactive materials carefully and responsibly. Radioactivity is related to the weak nuclear force, which is one of the four fundamental forces of nature. The weak nuclear force is responsible for beta decay, where a neutron in the nucleus decays into a proton, an electron, and an electron antineutrino. The weak nuclear force is involved in the emission of the beta particle and the conversion of the neutron into a proton, leading to a change in the atomic number and thus the identity of the element. In contrast, alpha decay and gamma decay, which are also forms of radioactive decay, are not directly related to the weak nuclear force. Alpha decay is caused by the strong nuclear force, which holds the nucleus together, while gamma decay is a result of a change in the energy level of the nucleus.  In radioactive decay process different kinds of elements form due to emission of different particles or rays such as   Alpha ( ) particle emission: particle is a helium nucleus and is positively charged particle. In decay a nucleus emits an alpha particle, which consists of two protons and two neutrons. For example: thorium (Th) decayes into radium (Ra) by emitting alpha particle: This results in a decrease in the atomic number of the nucleus by two and transforms the nucleus into a different element. Alpha decay occurs when the nucleus has too many protons and is not stable, and it releases energy in the form of the alpha particle to reach a more stable configuration. Alpha particles have a large mass and a low velocity, and they can be stopped by a sheet of paper or a few centimeters of air .    Beta ( ) particle emission: particle is similar to electron and hence holds negative charge. In decay a nucleus emits a high-energy electron or positron, also known as a beta particle. This results in a change in the number of protons in the nucleus and transforms the nucleus into a different element. For example: carbon (C-14) decayes into nitrogen (N-14) by emitting beta particle: Similarly, neutron turns into proton in beta decay: There are two types of beta decay: beta minus decay (emission of an electron) and beta plus decay (emission of a positron). In beta minus decay, a neutron in the nucleus decays into a proton, an electron, and an electron antineutrino. In beta plus decay, a proton decays into a neutron, a positron, and an electron neutrino. Beta decay is one of the three common types of radioactive decay, along with alpha decay and gamma decay. Beta particles have a low mass and a high velocity, and they can penetrate sheets of paper and even thin sheet of aluminum foil .    Gamma ( ) rays emission: ray is an electromagnetic radiation of very high energy and is neutral to the charge. If the nucleus is unstable due to access amount of energy then it releases rays. The composition of nucleus does not change due to gamma radiation emissioin. For example: high energetic Pb turns into low energetic Pb in gamma radiation:  star symbol indicates excited lead nucleus. Gamma rays have no rest mass and travel with the velocity of light and hence penetrate even thick plate of lead .    Electron ( ) Capture: it is another type of radioactive decay in which an inner orbital electron is captured by the nucleus and transforms into a neutron, resulting in a decrease in the atomic number of the nucleus by one and the transformation of the nucleus into a different element. For example: flourine (F) turns into oxygen (O) due to positron emission: Another example is The captured electron combines with a proton to form a neutron, which remains inside the nucleus. This process releases energy in the form of gamma rays or X-rays. Electron capture is different from beta decay, which involves the emission of a beta particle (an electron or a positron).    Positron Emission: it is also known as beta plus decay, is a type of radioactive decay in which a nucleus emits a positron, which is the antiparticle of an electron. Positron emission occurs when a nucleus has too many protons and is not stable, and it releases energy in the form of the positron to reach a more stable configuration. For example: flourine (F) turns into oxygen (O) due to positron emission: The emitted positron quickly combines with an electron in the material, annihilating both particles and producing gamma rays. Positron emission is one of the three common types of radioactive decay, along with alpha decay and beta decay. In positron emission, a proton inside the nucleus decays into a neutron, a positron, and an electron neutrino. This results in a decrease in the atomic number of the nucleus by one and the transformation of the nucleus into a different element.      Strength of alpha particles, beta particles, and gamma rays       Half-Life  The rate at which a radioactive isotope disintegrates is known as its half-life , which is the time it takes for half of the radioactive material to decay. The half-life of a radioactive isotope determines its stability and the length of time it can be used for various purposes, such as medical treatments or energy production. The representing the amount or number of atoms in a radioactive substance remains every after one half-life. For example, in second figure of , half-life of any one radiactive substance is 50 years, so half of the total number of atoms or its half amount disintegrate (decay) into new substances in every one half life.   Half life of nuclides    Remaining amount per Half-Life     % of atoms remaining     The remaining amount of substance can be determined by the following formula Here, is initial concentration of the substance, and is number of half-lives.   Carbon Dating  Carbon dating, also known as radiocarbon dating, is a method of determining the age of an object containing organic material by measuring the amount of carbon-14 it contains. Carbon-14 is a radioactive isotope of carbon that is formed in the Earth's upper atmosphere through the interaction of cosmic rays with nitrogen atoms. The amount of carbon-14 in the atmosphere has remained constant for thousands of years, so the ratio of carbon-14 to carbon-12 in a sample can be used to determine how long it has been since the death of the organism from which the sample was taken. The carbon-14 in a sample decays over time, and the amount remaining can be measured with a specialized machine called a mass spectrometer. The age of the sample can then be calculated based on the known decay rate of carbon-14. This method is typically used to date organic materials that are less than 50,000 years old, such as archaeological artifacts, fossils, and recent organic samples. It is important to note that carbon dating has certain limitations, such as the fact that it can only be used on materials that contain organic carbon, and that the results can be affected by various factors, such as contamination and the presence of other carbon isotopes in the sample. Additionally, the method can only provide approximate ages, as the rate of decay of carbon-14 is not constant, but can be influenced by factors such as the Earth's magnetic field and cosmic radiation. In the upper atmosphere Cosmic rays which was primarly protons turns into neutrons. These neutrons react with nitrogen to produce carbon-14. The carbon-14 then reacts with oxygen to to become gas. Plants consume this in photosynthesis process. Later animals eat plant and stores these C-14 atoms in their body. In beta decay process C-14 keeps turning into nitrogen such as The ratio of carbon-14 to carbon-12 is roughly constant because the organism continuously replaces carbon-14 as it decays. However, after the organism dies, the carbon-14 in its tissues begins to decay, and the carbon-14 to carbon-12 ratio begins to change. By measuring the carbon-14 to carbon-12 ratio in a sample and comparing it to the known decay rate of carbon-14, scientists can determine how long it has been since the sample died and estimate its age.    Binding Energy  Binding energy is the amount of energy required to separate a nucleons into the protons and neutrons. In an atomic nucleus, the protons and neutrons are held together by the strong nuclear force, which acts over short distances. The binding energy of a nucleus can be calculated by subtracting the total mass of its individual protons and neutrons from the total mass of the nucleus itself. According to Einstein's famous equation, , the mass difference between the two states is equivalent to the binding energy. The binding energy of a nucleus has important implications for both the stability of the nucleus and for the energy released during nuclear reactions. Nuclei with higher binding energy are generally more stable and less likely to undergo spontaneous decay, while nuclei with lower binding energy are more likely to undergo radioactive decay. Additionally, the energy released during nuclear reactions is directly proportional to the binding energy of the nucleus. When a nucleus is formed, protons and neutrons come together and bind to form the nucleus. This process is driven by the strong nuclear force, which acts over short distances to hold the particles together. The formation of a nucleus also leads to the release of energy. This energy is in the form of electromagnetic radiation and called the binding energy. It is the same amount of energy required to separate the protons and neutrons in the nucleus when broken down to individual components. For example: The deuterium ( ) has one proton and one neutron in its nucleus. So when they break apart we expect the mass of deuterium atom equals the mass of one proton (i.e. ) and the mass of one neutron. Mass of one and mass of one neutron = 1.0087 u. Therefore the total mass of . The measured mass of however, is only which is less than the combined mass of proton and neutron. This loss of mass (also known as mass defect ) appears in the form of binding energy of the deuterium atom. Similarly when one deuterium nucleus combines with one tritium nucleus to form helium nucleus tremendous amount of energy released which was a binding energy. For example: . Hence, the mass defect in this case is given by: total mass of and total mass of . Hence the difference in these masses is a mass defect, . Note: Here is the atomic mass unit . . This is the approximate mass of the hydrogen atom. Atomic mass unit is also caled Dalton. we can also consider as 1 mole of anything is equal to Now, This mass defect appears in the form of binding energy which can be calculated by equation  Hence, energy released from this reaction is or, 17.8 MeV and . .    Binding Energy per Nucleon   Binding Energy Per Nucleon      The binding energy of a nucleus determines its stability against disintegration. The larger the binding energy, the more stable is the nucleus and vice a versa. The binding energy per nucleon, BE\/A = Binding energy of the nucleus \/ Total number of nucleons. It is found that the binding energy per nucleon varies from element to element. A graph is plotted with the mass number A of the nucleus along the X-axis and binding energy per nucleon along the Y-axis. The binding energy per nucleon increases sharply with mass number A upto 20. It increases slowly after . The curve becomes almost flat for mass number between 40 and 120. Beyond 120, it decreases slowly as A increases. The binding energy per nucleon reaches a maximum at A=56, corresponding to the iron nucleus ( ). Hence, iron has the most stable nucleus. At the lower end of the curve, smaller nuclei have relatively lower binding energy per nucleon compared to larger nuclei. This is because the attractive strong nuclear force, which holds the nucleons together, decreases rapidly with increasing distance between the nucleons. As a result, small nuclei tend to be less stable and more likely to undergo nuclear reactions, such as beta decay. At the higher end of the curve, larger nuclei have relatively lower binding energy per nucleon compared to smaller nuclei. This is because the repulsive electromagnetic force between the positively charged protons in the nucleus increases with increasing number of protons. This repulsive force limits the size of the nucleus and causes it to become less stable.    Nuclear Reactions  Nuclear reactions are the process in which nucleus of an atom changes. These changes can be either decay processes, in which the nucleus of an atom emits particles or radiation, or fusion processes, in which two or more atomic nuclei come together to form a heavier nucleus. There are two main types of nuclear reactions:  Nuclear Fission Reactions: These reactions involve the spontaneous decay of an unstable nucleus into a more stable form. Common types of nuclear decay reactions include alpha decay, beta decay, and gamma decay.  Nuclear Fusion Reactions: These reactions involve the fusion of two atomic nuclei to form a heavier nucleus. This process releases a large amount of energy, and is the reaction that powers the sun. Nuclear fusion reactions are difficult to achieve on Earth, but are being researched as a potential source of clean and abundant energy.     Nuclear Reactions    Nuclear Fission Reaction     Nuclear Fusion Reaction      In both types of reactions, the sum of the atomic numbers of the reactants must equal the sum of the atomic numbers of the products, and the total mass of the reactants must equal the total mass of the products, according to the law of conservation of matter and energy. In fission reactions, the mass defect of the original nucleus is converted into energy, which is released as kinetic energy of the fission products and as gamma radiation. This energy can be harnessed for practical purposes, such as generating electricity in nuclear power plants, or for destructive purposes, such as in atomic bombs. Binding energy in a fusion reaction refers to the energy required to overcome the repulsive forces between positively charged nuclei and bring them close enough together to form a heavier nucleus through a fusion process. When the nuclei are close enough, they can form a single nucleus through the strong force, releasing a large amount of energy in the process.    Effects of Radiation  In nuclear reaction emits alpha, beta, and other high enegy waves or particles that can knock out atoms or molecules to form ions. These ions come under ionizing radiation. Such radiation can damage living cells and affects protien or DNA molecules. There are several types of radiation, including: alpha radiation, beta radiation, gamma radiation, X-rays, nuclear radiation, and cosmic radiation, etc. Cosmic radiation is high-energy radiation that originates from outside of the Earth's atmosphere. It consists of high-energy particles, including protons and electrons, that are produced by the Sun and other astronomical sources. Radiation doses doses are measured in the Sievert (Sv) unit. The sievert is used to describe the amount of ionizing radiation that has been absorbed by a material. The another unit of doses is Rads (short for \"radiation absorbed dose\"). It is used to quantify the amount of energy deposited in a material by ionizing radiation per unit mass. One rad is 0.01 joule of energy deposited in one kilogram of tissue. That is of energy deposited on the tissue. One sievert is equal to 100 rads. The sievert is the standard unit of measurement used to describe the amount of ionizing radiation that has been absorbed by the human body, and it is used to evaluate the potential health risks associated with exposure to ionizing radiation. We receive 3.1 mSv per year from natural radiation resources, 3.1 mSv per year from medical and dental x-rays, and 0.4 mSv from mammogram. The total unavoidable radiation doses are about 6.2 mSv per year. The allowed safe radiation dose limit for a healthy human is . The risk of radiation induced cancer is much smaller than other hazardous activities such as smoking. Sources of radiation exposure is given in    Sources of Radiation Exposure      Nuclear Reactor  In nuclear fission reaction neutron is absorbed by unstable nucleus and get splitted into two or more small nuclides with the emission of another neutron\/s. Such neutrons may cause increasing nuclear fission reactions, called the chain reaction. A nuclear reactor is a device that is used to initiate and control a sustained nuclear chain reaction. This reaction is the process by which atomic nuclei release energy through interactions with other particles. The heat produced by the fission reactions is used to generate steam, which in turn drives a turbine and generates electricity. Please click on the animation link: Nuclear Reactor Plant The core of a nuclear reactor contains fuel rods, which contain fuel pellets made of nuclear fuel, such as uranium dioxide. The fuel rods are surrounded by coolant, which is used to transfer heat from the core to a steam generator. The steam generator is used to produce steam, which drives the turbine to generate electricity. In addition to the fuel rods, the core of a nuclear reactor also contains control rods, which are used to regulate the rate of fission reactions by absorbing excess neutrons. The control rods can be moved up and down within the core to control the reaction rate.   "
 },
 {
-  "id": "p-437",
+  "id": "p-440",
   "level": "2",
-  "url": "sec_seventh-nucleus.html#p-437",
+  "url": "sec_seventh-nucleus.html#p-440",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "nucleons Isotopes "
 },
 {
-  "id": "p-438",
+  "id": "p-441",
   "level": "2",
-  "url": "sec_seventh-nucleus.html#p-438",
+  "url": "sec_seventh-nucleus.html#p-441",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2026,9 +2044,9 @@ var ptx_lunr_docs = [
   "body": " The isotopes of hydrogen    "
 },
 {
-  "id": "p-441",
+  "id": "p-444",
   "level": "2",
-  "url": "sec_seventh-nucleus.html#p-441",
+  "url": "sec_seventh-nucleus.html#p-444",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2044,9 +2062,9 @@ var ptx_lunr_docs = [
   "body": " Strength of alpha particles, beta particles, and gamma rays    "
 },
 {
-  "id": "p-447",
+  "id": "p-450",
   "level": "2",
-  "url": "sec_seventh-nucleus.html#p-447",
+  "url": "sec_seventh-nucleus.html#p-450",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2080,9 +2098,9 @@ var ptx_lunr_docs = [
   "body": " Nuclear Reactions    Nuclear Fission Reaction     Nuclear Fusion Reaction     "
 },
 {
-  "id": "p-453",
+  "id": "p-456",
   "level": "2",
-  "url": "sec_seventh-nucleus.html#p-453",
+  "url": "sec_seventh-nucleus.html#p-456",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2107,63 +2125,63 @@ var ptx_lunr_docs = [
   "body": " Examples    Determine the number of protons, electrons, and neutrons in the atom.    From isotopic notation . we have atomic number, Z = 92. So the nuber of protons (= number of electrons) = 92. The mass number, A =236. Hence the nuber of neutrons,      Write the equation for one alpha decay in .    Here, X stands for the element of atomic number 90, which is .     If 1.0g of caesium (Cs-137) disintegrates over a period of 90 years. How many grams of Cs-137 would remain, if Cs-137 has half-life of 30 years.   For 90 years, we have to wait for 3 half-life of Cs-137. Every half-life it reduces 1\/2 of of its amount. Now from , we have       How long does it take a 100.00g sample of As-81, with a half-life of 33 seconds, to decay to 6.25g?    In HL remaining amount is 50 g, In HL remaining amount is 25 g, In HL remaining amount is 12.5 g, and in HL the remaining amount is 6.25g.    4 half-life = second = 132 seconds.      Complete the equation if proton strikes on the .           Complete the following fission reaction.       Calculate the binding energy in the following fission reaction. The mass of is , is , is , and that of is .    The total mass on the left side of the arrow is and the maas on the right side of arrow is . Hence the mass defect is . Now from , we have Therefore the binding energy is     "
 },
 {
-  "id": "example-70",
+  "id": "example-71",
   "level": "2",
-  "url": "sec_seventh-examples.html#example-70",
+  "url": "sec_seventh-examples.html#example-71",
   "type": "Example",
   "number": "7.3.1",
   "title": "",
   "body": "  Determine the number of protons, electrons, and neutrons in the atom.    From isotopic notation . we have atomic number, Z = 92. So the nuber of protons (= number of electrons) = 92. The mass number, A =236. Hence the nuber of neutrons,    "
 },
 {
-  "id": "example-71",
+  "id": "example-72",
   "level": "2",
-  "url": "sec_seventh-examples.html#example-71",
+  "url": "sec_seventh-examples.html#example-72",
   "type": "Example",
   "number": "7.3.2",
   "title": "",
   "body": " Write the equation for one alpha decay in .    Here, X stands for the element of atomic number 90, which is .   "
 },
 {
-  "id": "example-72",
+  "id": "example-73",
   "level": "2",
-  "url": "sec_seventh-examples.html#example-72",
+  "url": "sec_seventh-examples.html#example-73",
   "type": "Example",
   "number": "7.3.3",
   "title": "",
   "body": " If 1.0g of caesium (Cs-137) disintegrates over a period of 90 years. How many grams of Cs-137 would remain, if Cs-137 has half-life of 30 years.   For 90 years, we have to wait for 3 half-life of Cs-137. Every half-life it reduces 1\/2 of of its amount. Now from , we have    "
 },
 {
-  "id": "example-73",
+  "id": "example-74",
   "level": "2",
-  "url": "sec_seventh-examples.html#example-73",
+  "url": "sec_seventh-examples.html#example-74",
   "type": "Example",
   "number": "7.3.4",
   "title": "",
   "body": "  How long does it take a 100.00g sample of As-81, with a half-life of 33 seconds, to decay to 6.25g?    In HL remaining amount is 50 g, In HL remaining amount is 25 g, In HL remaining amount is 12.5 g, and in HL the remaining amount is 6.25g.    4 half-life = second = 132 seconds.   "
 },
 {
-  "id": "example-74",
+  "id": "example-75",
   "level": "2",
-  "url": "sec_seventh-examples.html#example-74",
+  "url": "sec_seventh-examples.html#example-75",
   "type": "Example",
   "number": "7.3.5",
   "title": "",
   "body": "  Complete the equation if proton strikes on the .        "
 },
 {
-  "id": "example-75",
+  "id": "example-76",
   "level": "2",
-  "url": "sec_seventh-examples.html#example-75",
+  "url": "sec_seventh-examples.html#example-76",
   "type": "Example",
   "number": "7.3.6",
   "title": "",
   "body": "  Complete the following fission reaction.    "
 },
 {
-  "id": "example-76",
+  "id": "example-77",
   "level": "2",
-  "url": "sec_seventh-examples.html#example-76",
+  "url": "sec_seventh-examples.html#example-77",
   "type": "Example",
   "number": "7.3.7",
   "title": "",
@@ -2260,45 +2278,45 @@ var ptx_lunr_docs = [
   "body": " Changes in Matter   There are basically two types of changes matter can undergo. They are:   Physical change: It is such a change in matter that do not alter its chemical composition. For examples:melting, freezing, boiling, condensation, and evaporation. Physical changes are kind of two-way trafic. The material transform its shape and state multiple times. For example, making jewelry from gold bar and molding them back into gold bar again, making sword from iron bar and converting sword in an iron bar again.   Chemical changes: It is such a change in matter that alter its chemical composition. Fpr examples: burning, rusting, and the formation of a chemical compound. It is a one-way trafic where material transform its physical properties but never regains the original properties by the physical process. For example, Baking a cake, making yogurt from milk. The physical properties of the milk, such as its texture and flavor, are also altered in the process. Formation of a new chemical compound such as water from hydrogen and oxygen is also a chemical change.      The Classes of Matter  Instead of three phases (or states) of matter, there are three different classes of matter based on its composition and properties. They are elements, compounds, and mixture.  Elements: An element is a pure substance that cannot be broken down into simpler substances by any chemical means. Elements are the building blocks of all matter and are composed of only one type of atom. Examples of elements include hydrogen, oxygen, and gold.  Compounds: A compound is a pure substance that is made up of two or more elements chemically combined in a fixed ratio. Compounds have different properties from their constituent elements and cannot be separated into their individual elements by physical means. Examples of compounds include water ( ), salt ( ), and glucose ( ).  Mixtures: A mixture is a combination of two or more substances in which each substance retains its own chemical properties. Mixtures can be separated into their individual components by physical means. There are two main types of mixtures: homogeneous mixtures, where the substances are evenly mixed, and heterogeneous mixtures, where the substances are not evenly mixed. Examples of mixtures include air, fruit juice, and concrete.    In homogeneous mixture substances are evenly mixed and have the same composition throughout. Homogeneous mixture is also called a solution Here are some examples of homogeneous mixtures: Salt water: When salt is dissolved in water, the result is a homogeneous mixture, in which the salt and water are evenly distributed throughout the solution. Air: Air is a mixture of gases, including nitrogen, oxygen, and trace amounts of other gases, that are evenly mixed and have the same composition throughout the entire volume of air. Honey: Honey is a homogeneous mixture of sugar and water, with the sugar and water evenly mixed throughout the entire substance. Vinegar: Vinegar is a homogeneous mixture of water and acetic acid, with the water and acetic acid evenly mixed throughout the entire substance. Milk: Milk is a homogeneous mixture of water, fat, proteins, and sugars, with the substances evenly mixed throughout the entire substance.  In heterogeneous mixture substances are not evenly mixed and have different compositions in different parts of the mixture. Heterogeneous mixtures are easy to identify, as the individual substances are easily visible and can be separated from one another by physical means. Here are some examples of heterogeneous mixtures: Fruit salad: A mixture of fruit, such as apples, bananas, and grapes, cut into pieces and combined in a bowl is a heterogeneous mixture. Each piece of fruit has its own unique composition, and the composition of the mixture changes from one part of the mixture to another. Granola: A mixture of oats, nuts, dried fruit, and sweeteners is a heterogeneous mixture, as the ingredients are not evenly mixed and the composition of the mixture changes from one part of the mixture to another. Sand and water: A mixture of sand and water is a heterogeneous mixture, as the sand particles settle to the bottom of the container and the water is clear. The composition of the mixture changes from the top of the mixture to the bottom. Soil: Soil is a mixture of minerals, organic matter, air, and water, and is a heterogeneous mixture as the composition of the soil changes from one part of the soil to another. Concrete: Concrete is a mixture of cement, sand, gravel, and water, and is a heterogeneous mixture, as the composition of the concrete changes f rom one part of the mixture to another.    Atomic Theory  Atomic theory is the foundation of modern chemistry and provides a basic understanding of the nature of matter. The theory states that all matter is made up of tiny particles called atoms, which are the smallest units of matter that retain the properties of an element. Atoms are indivisible: Atoms are the smallest units of matter that can exist and cannot be broken down into smaller units. Atoms are identical: Atoms of the same element are identical and have the same number of protons, electrons, and neutrons. Atoms have structure: Atoms have a small central nucleus, which contains positively charged protons and neutral neutrons, surrounded by negatively charged electrons in shells. Atoms are arranged in the periodic table: Atoms of different elements have different numbers of protons, electrons, and neutrons and are arranged in the periodic table according to their atomic number, which is equal to the number of protons in the nucleus. Atoms can bond to form molecules: Atoms can bond together to form molecules by sharing or exchanging electrons. The properties of molecules are determined by the type of atoms and the way they are bonded together. Atoms can be ionized: Atoms can gain or lose electrons to become positively or negatively charged ions. Ions play an important role in many chemical reactions.   Molecule: A molecule is the smallest unit of a substance that retains the chemical properties of that substance and can exist as a separate entity. It is composed of two or more atoms that are chemically bonded together. In a molecule, the atoms are held together by chemical bonds, which are formed by the sharing or exchange of electrons between the atoms. The type of bonds and the arrangement of atoms in a molecule determine the chemical and physical properties of the substance. Molecules can be formed from a single type of atom, such as a molecule of oxygen ( ), or from different types of atoms, such as a molecule of water ( ). The number of atoms in a molecule and the type of atoms can also vary, giving rise to a vast array of different molecules, each with its own unique properties. Molecules are the building blocks of matter and play a crucial role in many physical and chemical processes, including chemical reactions, phase transitions, and the formation of materials. A deep understanding of the structure and properties of molecules is essential for many scientific and engineering disciplines, including chemistry, biology, materials science, and environmental science.   Difference between molecule and compound: A molecule is a group of two or more atoms that are chemically bonded together. A compound is a substance made up of two or more different elements that are chemically combined in a fixed ratio. The main difference between a molecule and a compound is that a molecule is a collection of atoms that are bonded together, whereas a compound is a substance that consists of molecules made up of different elements in a fixed ratio. For example, water ( ) is a compound made up of hydrogen and oxygen atoms in a fixed ratio of 2:1. The smallest unit of water that retains its chemical properties is a molecule of water, which is made up of two hydrogen atoms and one oxygen atom chemically bonded together. Another example is table salt (NaCl), which is a compound made up of sodium and chlorine atoms in a fixed ratio of 1:1. The smallest unit of salt that retains its chemical properties is a molecule of salt, which is made up of one sodium atom and one chlorine atom chemically bonded together.  Hydrogen gas is made out of molecules. It is not a compound. Oxygen gas is made out of molecules and is also not a compound. They are made out of two atoms of the same element. Similarly, Ozone gas ( ), nitrogen gas ( ), chlorine substance ( ) are molecule. However, carbon dioxide gas ( ) is a compound and molecule both, similarly, amonia ( ) is a compound and molecule both. Because they are made out of two different elements. Meaning all compounds are molecules but all molecules are not compounds.    The Periodic Table      The Periodic Table      "
 },
 {
-  "id": "p-479",
-  "level": "2",
-  "url": "sec_eighth-intro.html#p-479",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Physical change: Chemical changes: "
-},
-{
-  "id": "p-480",
-  "level": "2",
-  "url": "sec_eighth-intro.html#p-480",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Elements: Compounds: Mixtures: "
-},
-{
-  "id": "p-481",
-  "level": "2",
-  "url": "sec_eighth-intro.html#p-481",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "homogeneous mixture solution "
-},
-{
   "id": "p-482",
   "level": "2",
   "url": "sec_eighth-intro.html#p-482",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "heterogeneous mixture "
+  "body": "Physical change: Chemical changes: "
+},
+{
+  "id": "p-483",
+  "level": "2",
+  "url": "sec_eighth-intro.html#p-483",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Elements: Compounds: Mixtures: "
 },
 {
   "id": "p-484",
   "level": "2",
   "url": "sec_eighth-intro.html#p-484",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "homogeneous mixture solution "
+},
+{
+  "id": "p-485",
+  "level": "2",
+  "url": "sec_eighth-intro.html#p-485",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "heterogeneous mixture "
+},
+{
+  "id": "p-487",
+  "level": "2",
+  "url": "sec_eighth-intro.html#p-487",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2332,9 +2350,9 @@ var ptx_lunr_docs = [
   "body": " Examples    Determine the number of protons, electrons, and neutrons in the atom.    From isotopic notation . we have atomic number, Z = 92. So the nuber of protons (= number of electrons) = 92. The mass number, A =236. Hence the nuber of neutrons,     "
 },
 {
-  "id": "example-77",
+  "id": "example-78",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-77",
+  "url": "sec_eighth-examples.html#example-78",
   "type": "Example",
   "number": "8.3.1",
   "title": "",
@@ -2458,9 +2476,9 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-78",
+  "id": "example-79",
   "level": "2",
-  "url": "sec_features-blocks.html#example-78",
+  "url": "sec_features-blocks.html#example-79",
   "type": "Example",
   "number": "16.1.2",
   "title": "",
