@@ -2491,7 +2491,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.4",
   "title": "Examples",
-  "body": " Examples    Determine the number of protons, electrons, and neutrons in the atom.    From isotopic notation . we have atomic number, Z = 92. So the nuber of protons (= number of electrons) = 92. The mass number, A =236. Hence the nuber of neutrons,     "
+  "body": " Examples    Which of the following cannot be decomposed by chemical and physical means.  a compound  an element  a solid  a solution      b.      How many element groups are there in a periodic table?  7  11  18  26      c.      How many element periods are there in a periodic table?  5  7  9  0      b.      Who developed the periodic table?  Henry Moseley  Dimitri Mendeleev  John Newlands  De Chancourtois      b.      Who discovered the number of protons in the nucleus of each atom.  Ernest Rutherford  J. J. Thomson  Daltons  Neil Bohr      a.      What is the atomic number for helium?  1  2  4  8      b.      What is the symbol for Argon?  A  Ar  Ag  An      b.      The symbol stands for what element?  Gold  Silver  Tin  Argon      a.      Which of the following substances is a homogenours mixture?  air  salt  seawater  soil    Select one of the following:  a. and b.  a. and c.  a. and d.  none of above.      ii.      Most elements in the periodic table are at room temperature and atmospheric pressure.  metallic solids  gases  liquids  nonmetallic solids      a.      Which of the following set of elements possess similar chemical properties?  and  and  and  and      a.      Which of the following statements is true regarding the periodic table?  The horizontal rows in the periodic table are known as groups  The verticle columns in the periodic table are known as periods  In the periodic table, when the atomic number increases, the properties of the elements repeat regularly  The periodic table is classified into blocks based on the electron filling pattern into shells      c.      Which of the following properties are unique to metals?  No metallic lustre (or, dull appearance)  Solids under room temperature  Low melting points  Poor conductors of electricity and heat      b.      How many valence electrons does have?  1  11  3  9      a.      How many valence electrons does Group 13 have?  13  3  5  10      b.      The position of an element in the Periodic Table is determined by which of the followings?  its atomic radius.  its atomic mass.  its atomic number.  its density.      c.      Which statement is true of covalent bonds?  No matter the element, there is the same bond length between neighboring atoms.  Valence electrons must be shared equally between atoms in order to achieve stability.  Covalent bonds form when the nuclei of two atoms attract each other.  Atoms find the ideal separation distance where electrostatics forces are reduced to a minimum.      b.      Which of the following has a full valence shell?  oxygen.  carbon.  neon.  iron.      c.      An ionic bond forms when atoms electrons.  gain  share  increase  transfer      d.      What is an ion?  An atom or group of atoms that have gained or lost electrons.  An atom or group of atoms that have gained or lost protons.  An atom that has more neutrons than protons.  An atom that shares electrons with another atom.      a.      How does a chloride ion of charge become neutral?  By losing two electrons.  By losing one electron.  By gaining two electrons.  By gaining one electron.      b.      A group of atoms carrying an electric charge is known as  an ion.  a radical.  a crystal lattice.  a covalent bond.      b.      Which of the following elements does not have a valency of 3?  sulfur.  boron.  nitrogen.  aluminum.      a.      The number of electrons gained, lost, or shared by an atom in a chemical bond is also known as  its atomic number.  its valency.  its mass number.  its charge.      b.      What is the name of the compound formed when sulfur combines with magnesium?  Magnesium sulfur.  Magnesium sulfate.  Sulfur magnesium.  Magnesium sulfide.      d.      The number of atoms in a molecule of is  8.  13.  16.  12.      b.      The number of oxygen atoms in a molecule of is  4.  8.  13.  1.      b.      Which one of the follwing equations is balanced?               a.      Write the missing number in the equation below               b.    "
 },
 {
   "id": "example-78",
@@ -2500,7 +2500,259 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "8.4.1",
   "title": "",
-  "body": "  Determine the number of protons, electrons, and neutrons in the atom.    From isotopic notation . we have atomic number, Z = 92. So the nuber of protons (= number of electrons) = 92. The mass number, A =236. Hence the nuber of neutrons,    "
+  "body": "  Which of the following cannot be decomposed by chemical and physical means.  a compound  an element  a solid  a solution      b.   "
+},
+{
+  "id": "example-79",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-79",
+  "type": "Example",
+  "number": "8.4.2",
+  "title": "",
+  "body": "  How many element groups are there in a periodic table?  7  11  18  26      c.   "
+},
+{
+  "id": "example-80",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-80",
+  "type": "Example",
+  "number": "8.4.3",
+  "title": "",
+  "body": "  How many element periods are there in a periodic table?  5  7  9  0      b.   "
+},
+{
+  "id": "example-81",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-81",
+  "type": "Example",
+  "number": "8.4.4",
+  "title": "",
+  "body": "  Who developed the periodic table?  Henry Moseley  Dimitri Mendeleev  John Newlands  De Chancourtois      b.   "
+},
+{
+  "id": "example-82",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-82",
+  "type": "Example",
+  "number": "8.4.5",
+  "title": "",
+  "body": "  Who discovered the number of protons in the nucleus of each atom.  Ernest Rutherford  J. J. Thomson  Daltons  Neil Bohr      a.   "
+},
+{
+  "id": "example-83",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-83",
+  "type": "Example",
+  "number": "8.4.6",
+  "title": "",
+  "body": "  What is the atomic number for helium?  1  2  4  8      b.   "
+},
+{
+  "id": "example-84",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-84",
+  "type": "Example",
+  "number": "8.4.7",
+  "title": "",
+  "body": "  What is the symbol for Argon?  A  Ar  Ag  An      b.   "
+},
+{
+  "id": "example-85",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-85",
+  "type": "Example",
+  "number": "8.4.8",
+  "title": "",
+  "body": "  The symbol stands for what element?  Gold  Silver  Tin  Argon      a.   "
+},
+{
+  "id": "example-86",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-86",
+  "type": "Example",
+  "number": "8.4.9",
+  "title": "",
+  "body": "  Which of the following substances is a homogenours mixture?  air  salt  seawater  soil    Select one of the following:  a. and b.  a. and c.  a. and d.  none of above.      ii.   "
+},
+{
+  "id": "example-87",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-87",
+  "type": "Example",
+  "number": "8.4.10",
+  "title": "",
+  "body": "  Most elements in the periodic table are at room temperature and atmospheric pressure.  metallic solids  gases  liquids  nonmetallic solids      a.   "
+},
+{
+  "id": "example-88",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-88",
+  "type": "Example",
+  "number": "8.4.11",
+  "title": "",
+  "body": "  Which of the following set of elements possess similar chemical properties?  and  and  and  and      a.   "
+},
+{
+  "id": "example-89",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-89",
+  "type": "Example",
+  "number": "8.4.12",
+  "title": "",
+  "body": "  Which of the following statements is true regarding the periodic table?  The horizontal rows in the periodic table are known as groups  The verticle columns in the periodic table are known as periods  In the periodic table, when the atomic number increases, the properties of the elements repeat regularly  The periodic table is classified into blocks based on the electron filling pattern into shells      c.   "
+},
+{
+  "id": "example-90",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-90",
+  "type": "Example",
+  "number": "8.4.13",
+  "title": "",
+  "body": "  Which of the following properties are unique to metals?  No metallic lustre (or, dull appearance)  Solids under room temperature  Low melting points  Poor conductors of electricity and heat      b.   "
+},
+{
+  "id": "example-91",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-91",
+  "type": "Example",
+  "number": "8.4.14",
+  "title": "",
+  "body": "  How many valence electrons does have?  1  11  3  9      a.   "
+},
+{
+  "id": "example-92",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-92",
+  "type": "Example",
+  "number": "8.4.15",
+  "title": "",
+  "body": "  How many valence electrons does Group 13 have?  13  3  5  10      b.   "
+},
+{
+  "id": "example-93",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-93",
+  "type": "Example",
+  "number": "8.4.16",
+  "title": "",
+  "body": "  The position of an element in the Periodic Table is determined by which of the followings?  its atomic radius.  its atomic mass.  its atomic number.  its density.      c.   "
+},
+{
+  "id": "example-94",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-94",
+  "type": "Example",
+  "number": "8.4.17",
+  "title": "",
+  "body": "  Which statement is true of covalent bonds?  No matter the element, there is the same bond length between neighboring atoms.  Valence electrons must be shared equally between atoms in order to achieve stability.  Covalent bonds form when the nuclei of two atoms attract each other.  Atoms find the ideal separation distance where electrostatics forces are reduced to a minimum.      b.   "
+},
+{
+  "id": "example-95",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-95",
+  "type": "Example",
+  "number": "8.4.18",
+  "title": "",
+  "body": "  Which of the following has a full valence shell?  oxygen.  carbon.  neon.  iron.      c.   "
+},
+{
+  "id": "example-96",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-96",
+  "type": "Example",
+  "number": "8.4.19",
+  "title": "",
+  "body": "  An ionic bond forms when atoms electrons.  gain  share  increase  transfer      d.   "
+},
+{
+  "id": "example-97",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-97",
+  "type": "Example",
+  "number": "8.4.20",
+  "title": "",
+  "body": "  What is an ion?  An atom or group of atoms that have gained or lost electrons.  An atom or group of atoms that have gained or lost protons.  An atom that has more neutrons than protons.  An atom that shares electrons with another atom.      a.   "
+},
+{
+  "id": "example-98",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-98",
+  "type": "Example",
+  "number": "8.4.21",
+  "title": "",
+  "body": "  How does a chloride ion of charge become neutral?  By losing two electrons.  By losing one electron.  By gaining two electrons.  By gaining one electron.      b.   "
+},
+{
+  "id": "example-99",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-99",
+  "type": "Example",
+  "number": "8.4.22",
+  "title": "",
+  "body": "  A group of atoms carrying an electric charge is known as  an ion.  a radical.  a crystal lattice.  a covalent bond.      b.   "
+},
+{
+  "id": "example-100",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-100",
+  "type": "Example",
+  "number": "8.4.23",
+  "title": "",
+  "body": "  Which of the following elements does not have a valency of 3?  sulfur.  boron.  nitrogen.  aluminum.      a.   "
+},
+{
+  "id": "example-101",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-101",
+  "type": "Example",
+  "number": "8.4.24",
+  "title": "",
+  "body": "  The number of electrons gained, lost, or shared by an atom in a chemical bond is also known as  its atomic number.  its valency.  its mass number.  its charge.      b.   "
+},
+{
+  "id": "example-102",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-102",
+  "type": "Example",
+  "number": "8.4.25",
+  "title": "",
+  "body": "  What is the name of the compound formed when sulfur combines with magnesium?  Magnesium sulfur.  Magnesium sulfate.  Sulfur magnesium.  Magnesium sulfide.      d.   "
+},
+{
+  "id": "example-103",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-103",
+  "type": "Example",
+  "number": "8.4.26",
+  "title": "",
+  "body": "  The number of atoms in a molecule of is  8.  13.  16.  12.      b.   "
+},
+{
+  "id": "example-104",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-104",
+  "type": "Example",
+  "number": "8.4.27",
+  "title": "",
+  "body": "  The number of oxygen atoms in a molecule of is  4.  8.  13.  1.      b.   "
+},
+{
+  "id": "example-105",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-105",
+  "type": "Example",
+  "number": "8.4.28",
+  "title": "",
+  "body": "  Which one of the follwing equations is balanced?               a.   "
+},
+{
+  "id": "example-106",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-106",
+  "type": "Example",
+  "number": "8.4.29",
+  "title": "",
+  "body": "  Write the missing number in the equation below               b.   "
 },
 {
   "id": "ex_eighth",
@@ -2620,9 +2872,9 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-79",
+  "id": "example-107",
   "level": "2",
-  "url": "sec_features-blocks.html#example-79",
+  "url": "sec_features-blocks.html#example-107",
   "type": "Example",
   "number": "16.1.2",
   "title": "",
