@@ -2761,7 +2761,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "8.5",
   "title": "Exercises",
-  "body": "  Exercises   A nucleon is which of the following?  an electron  a proton  a neutron  both a proton and a neutron      Fiil in the blank below.   "
+  "body": "  Exercises   Write the missing number in the following equations:              Which of the following equations are balanced?              Name these compounds:                  Write the chemical formula for these compounds:  Hydrogen iodide  Dinitrogen tetroxide  Manganese chloride  Ferric oxide  Ferrous oxide  Calcium carbonate      Select the correct choice: A halogen atom   has one electron in its outermost orbit  has two electron in its outermost orbit  has filled outer shell  lacks one electron of having a filled outer shell      Select the correct choice: An atom that loses its outer electron or electrons is generally   an active metal  an active nonmetal  an inactive metal  an inactive nonmetal     "
 },
 {
   "id": "exercise-74",
@@ -2770,7 +2770,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.5.1",
   "title": "",
-  "body": " A nucleon is which of the following?  an electron  a proton  a neutron  both a proton and a neutron    "
+  "body": " Write the missing number in the following equations:            "
 },
 {
   "id": "exercise-75",
@@ -2779,16 +2779,115 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.5.2",
   "title": "",
-  "body": " Fiil in the blank below.  "
+  "body": " Which of the following equations are balanced?            "
 },
 {
-  "id": "ch_ninth",
+  "id": "exercise-76",
+  "level": "2",
+  "url": "ex_eighth.html#exercise-76",
+  "type": "Exercise",
+  "number": "8.5.3",
+  "title": "",
+  "body": " Name these compounds:                "
+},
+{
+  "id": "exercise-77",
+  "level": "2",
+  "url": "ex_eighth.html#exercise-77",
+  "type": "Exercise",
+  "number": "8.5.4",
+  "title": "",
+  "body": " Write the chemical formula for these compounds:  Hydrogen iodide  Dinitrogen tetroxide  Manganese chloride  Ferric oxide  Ferrous oxide  Calcium carbonate    "
+},
+{
+  "id": "exercise-78",
+  "level": "2",
+  "url": "ex_eighth.html#exercise-78",
+  "type": "Exercise",
+  "number": "8.5.5",
+  "title": "",
+  "body": " Select the correct choice: A halogen atom   has one electron in its outermost orbit  has two electron in its outermost orbit  has filled outer shell  lacks one electron of having a filled outer shell    "
+},
+{
+  "id": "exercise-79",
+  "level": "2",
+  "url": "ex_eighth.html#exercise-79",
+  "type": "Exercise",
+  "number": "8.5.6",
+  "title": "",
+  "body": " Select the correct choice: An atom that loses its outer electron or electrons is generally   an active metal  an active nonmetal  an inactive metal  an inactive nonmetal    "
+},
+{
+  "id": "sec_ninth-intro",
   "level": "1",
-  "url": "ch_ninth.html",
-  "type": "Chapter",
-  "number": "9",
-  "title": "Crystals and Solutions",
-  "body": " Crystals and Solutions   Try adding your own content here!   "
+  "url": "sec_ninth-intro.html",
+  "type": "Section",
+  "number": "9.1",
+  "title": "Crystalline Solids",
+  "body": " Crystalline Solids    Crystal structure    Diamond     Graphite         "
+},
+{
+  "id": "figure-74",
+  "level": "2",
+  "url": "sec_ninth-intro.html#figure-74",
+  "type": "Figure",
+  "number": "9.1.1",
+  "title": "",
+  "body": " Crystal structure    Diamond     Graphite     "
+},
+{
+  "id": "sec_ninth-solut",
+  "level": "1",
+  "url": "sec_ninth-solut.html",
+  "type": "Section",
+  "number": "9.2",
+  "title": "Solution",
+  "body": " Solution      "
+},
+{
+  "id": "sec_ninth-acidbase",
+  "level": "1",
+  "url": "sec_ninth-acidbase.html",
+  "type": "Section",
+  "number": "9.3",
+  "title": "Acids and Base",
+  "body": " Acids and Base      "
+},
+{
+  "id": "sec_ninth-examples",
+  "level": "1",
+  "url": "sec_ninth-examples.html",
+  "type": "Section",
+  "number": "9.4",
+  "title": "Examples",
+  "body": " Examples            "
+},
+{
+  "id": "example-107",
+  "level": "2",
+  "url": "sec_ninth-examples.html#example-107",
+  "type": "Example",
+  "number": "9.4.1",
+  "title": "",
+  "body": "         "
+},
+{
+  "id": "ex_ninth",
+  "level": "1",
+  "url": "ex_ninth.html",
+  "type": "Exercises",
+  "number": "9.5",
+  "title": "Exercises",
+  "body": "  Exercises   Write the missing number in the following equations:   "
+},
+{
+  "id": "exercise-80",
+  "level": "2",
+  "url": "ex_ninth.html#exercise-80",
+  "type": "Exercise",
+  "number": "9.5.1",
+  "title": "",
+  "body": " Write the missing number in the following equations:  "
 },
 {
   "id": "ch_tenth",
@@ -2818,9 +2917,9 @@ var ptx_lunr_docs = [
   "body": " The Earth   your own content here!>    The Globe    The Earth     Earth map       "
 },
 {
-  "id": "figure-74",
+  "id": "figure-77",
   "level": "2",
-  "url": "ch_twelvth.html#figure-74",
+  "url": "ch_twelvth.html#figure-77",
   "type": "Figure",
   "number": "12.0.1",
   "title": "",
@@ -2872,18 +2971,18 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-107",
+  "id": "example-108",
   "level": "2",
-  "url": "sec_features-blocks.html#example-107",
+  "url": "sec_features-blocks.html#example-108",
   "type": "Example",
   "number": "16.1.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-77",
+  "id": "figure-80",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-77",
+  "url": "sec_features-blocks.html#figure-80",
   "type": "Figure",
   "number": "16.1.3",
   "title": "",
