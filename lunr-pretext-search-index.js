@@ -2824,16 +2824,52 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.1",
   "title": "Crystalline Solids",
-  "body": " Crystalline Solids    Crystal structure    Diamond     Graphite         "
+  "body": " Crystalline Solids    Crystal structure of Solids    Diamond     Graphite     Metallic Solid     Molecular Solid      On the basis of chemical bonding there are four main types of crystalline solids:   Ionic solids: These solids are made up of positively charged ions and negatively charged ions held together by electrostatic forces. These molecules are hard and posses high melting point. Examples include sodium chloride (NaCl) and calcium fluoride [ ].   Covalent solids: These solids are made up of atoms held together by covalent bonds. These molecules are very hard and posses very high melting point. Examples include diamond [ ] and graphite [ ].   Metallic solids: These solids are made up of metal atoms held together by metallic bonds. These molecules can be deformed, have metallic luster, high electrical and thermal conductivity. Examples include copper, iron, and gold. [ ]   Molecular solids: These solids are made up of molecules held together by intermolecular forces such as hydrogen bonds, van der Waals forces, and dipole-dipole interactions. These molecules are soft and posses low melting point. Examples include ice and solid carbon dioxide [ ].      Polar & Nonploar Molecules   Polar and nonpolar molecules    Polar-polar interaction     Polar-nonpolar interaction     Nonpolar-nonpolar interaction      A polar molecule has none symmetrical distribution of electrons between its atoms resulting in a permanent dipole moment. This means that the molecule has a partial positive charge at one end and a partial negative charge at the other end. The polarity of a molecule is determined by the difference in electronegativity between the atoms that make up the molecule. If the electronegativity difference is large enough, the molecule will be polar. Examples of polar molecules include water , ammonia , and hydrogen chloride . These molecules have a bent, pyramidal, and linear molecular geometry respectively, which contributes to their polarity. Polar molecules are important in many biological and chemical processes, including the formation of hydrogen bonds, the solubility of molecules in water, and the function of enzymes. Polar molecules attract each other due to the presence of partial positive and partial negative charges on opposite ends of the molecule. This attraction is known as a dipole-dipole interaction [ ].  A nonpolar molecule has no separation of charge, meaning that the electrons are shared equally between the atoms in the molecule. This occurs when the electronegativity difference between the atoms in the molecule is zero or very small. Examples of nonpolar molecules include: carbon dioxide , methane , ethane , nitrogen gas , oxygen gas , benzene . These molecules do not have a positive or negative pole, which means that they do not have a permanent dipole moment. Nonpolar molecules are generally less reactive than polar molecules and have lower melting and boiling points [ ].  Nonpolar molecules however, interact through weak van der Waals forces, which are caused by temporary fluctuations in electron density that create a temporary dipole moment. In contrast, partial positive and negative charges on different parts of the polar molecule allow polar molecules to form strong electrostatic attractions with other polar or nonpolar molecules or ions [ ].   "
 },
 {
-  "id": "figure-74",
+  "id": "figure-77",
   "level": "2",
-  "url": "sec_ninth-intro.html#figure-74",
+  "url": "sec_ninth-intro.html#figure-77",
   "type": "Figure",
   "number": "9.1.1",
   "title": "",
-  "body": " Crystal structure    Diamond     Graphite     "
+  "body": " Crystal structure of Solids    Diamond     Graphite     Metallic Solid     Molecular Solid     "
+},
+{
+  "id": "p-603",
+  "level": "2",
+  "url": "sec_ninth-intro.html#p-603",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Ionic solids: Covalent solids: Metallic solids: Molecular solids: "
+},
+{
+  "id": "figure-82",
+  "level": "2",
+  "url": "sec_ninth-intro.html#figure-82",
+  "type": "Figure",
+  "number": "9.1.2",
+  "title": "",
+  "body": " Polar and nonpolar molecules    Polar-polar interaction     Polar-nonpolar interaction     Nonpolar-nonpolar interaction     "
+},
+{
+  "id": "p-604",
+  "level": "2",
+  "url": "sec_ninth-intro.html#p-604",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "polar "
+},
+{
+  "id": "p-605",
+  "level": "2",
+  "url": "sec_ninth-intro.html#p-605",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "nonpolar "
 },
 {
   "id": "sec_ninth-solut",
@@ -2917,9 +2953,9 @@ var ptx_lunr_docs = [
   "body": " The Earth   your own content here!>    The Globe    The Earth     Earth map       "
 },
 {
-  "id": "figure-77",
+  "id": "figure-86",
   "level": "2",
-  "url": "ch_twelvth.html#figure-77",
+  "url": "ch_twelvth.html#figure-86",
   "type": "Figure",
   "number": "12.0.1",
   "title": "",
@@ -2980,9 +3016,9 @@ var ptx_lunr_docs = [
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-80",
+  "id": "figure-89",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-80",
+  "url": "sec_features-blocks.html#figure-89",
   "type": "Figure",
   "number": "16.1.3",
   "title": "",
