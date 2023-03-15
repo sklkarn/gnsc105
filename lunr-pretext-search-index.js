@@ -2391,8 +2391,8 @@ var ptx_lunr_docs = [
   "url": "sec_eighth-chemicalbonds.html",
   "type": "Section",
   "number": "8.3",
-  "title": "Chemical Bonds",
-  "body": " Chemical Bonds   Chemical bonding is the process by which atoms combine to form molecules or other chemical compounds. Chemical bonding allows atoms to achieve the most stable configuration by sharing, gaining or losing electrons. There are several types of chemical bonding, including covalent bonding, ionic bonding, and metallic bonding. However, there are other types of bonding also occurs by the substance such as polar bonding, non-polar bonding, coordination bonding, molecular bonding, hydrogen bonding, and Van der waals' bonding.     Covalent bond: In covalent bonding atoms share electrons in order to achieve a stable configuration. This is the most common between non-metal atoms. Covalent bonding can take on a variety of forms including single, double, and triple bonds. For examples: in hydrogen molecule ( ), water molecule ( ), methan gas molecule ( ), diamond ( ), etc. Covalent bonding    Ionic bond: In ionic bonding, electrons are transferred from one atom to another, forming positively charged cations and negatively charged anions that are attracted to each other by electrostatic forces. This bonding is most common between metals and nonmetals. For examples: in Salt molecule ( ), Iron oxide molecule ( ), Calcium carbonate , magnesium oxide ( ), potassium iodide , etc. ionic bonding    Metallic bond: In metallic bonding, positively charged metal ions are surrounded by a sea of delocalized electrons, which are free to move throughout the metal lattice. This results in the formation of a strong metallic bond that is responsible for many of the physical properties of metals, such as their high melting points and conductivity. mettalic bonding .  Molecular bonding, typically refers to covalent bonding due to polar molecules. molecular bonding   In Van der waal's bonding, or van der Waals forces, refer to weak intermolecular attractions between molecules or atoms. These forces arise due to temporary fluctuations in the distribution of electrons in molecules or atoms.  The type of chemical bonding that occurs between atoms is determined by the properties of the atoms involved, including their electronegativity, electron configuration, and the conditions under which the reaction occurs. Understanding chemical bonding is important in fields such as chemistry, materials science, and engineering, as it underlies the formation and properties of all types of matter.    Naming of Compounds  There are a few general rules for naming molecules in chemistry, which vary slightly depending on the type of molecule being named. Here are some basic guidelines:    Naming simple covalent compounds: The first element in the formula is named first and the full element name is used. For example: in NaCl, the first name is The second element is named as though it were an anion (negative ion), with the suffix added to the root of the element name. For example: in NaCl, the second name is , in CaO: calcium oxide. Prefixes are used to indicate the number of atoms of each element present in the molecule. The prefix is usually omitted for the first element in the formula. For example: the name of is Carbon dioxide , and the CO is carbon monoxide .     Naming ionic compounds: The cation (positive ion) is named first, followed by the anion (negative ion). The name of the cation is the same as the element name. The name of the anion is derived from the root of the element name, with the suffix added. If the cation can have different charges, a Roman numeral is used to indicate the charge. For example: the name of iron (III) chloride is FeCl_3 , and mercury (II) Oxide is HgO .     Naming acids: If the anion name ends in , the acid is named with the prefix and the suffix , followed by the word \"acid\". If the anion name ends in , the acid is named with the suffix , followed by the word \"acid\". If the anion name ends in , the acid is named with the suffix , followed by the word \"acid\". For example: HCl - hydrochloric acid.     Naming organic compounds: The root of the name comes from the number of carbon atoms in the molecule (meth-, eth-, prop-, but-, etc.). Functional groups (such as alcohols, aldehydes, and carboxylic acids) are indicated by suffixes or prefixes. Numbering of the carbon atoms in the main chain starts at the end closest to a functional group, and the position of the functional group is indicated by a number. For example: - ethanol.     The common name of some compounds: Water ( ), methane ( ), ammonia ( ), and Chalk: ( ).    Molecular Formula  Molecular formula can be written by knowing the valency of the elements. The valency of an element is the number of electrons it can donate, accept, or share during a chemical reaction. First identify the elements present in the compound then Determine the valency of each element based on its position in the periodic table or by consulting a table of valencies. Determine the number of atoms of each element required to balance the valencies. This can be done by finding the least common multiple of the valencies for each element. Write the molecular formula by indicating the number of atoms for each element as subscripts next to the element symbol. Make sure to reduce the subscripts to the lowest whole number ratio. For example, let's determine the molecular formula for magnesium chloride. Magnesium has a valency of +2 and chlorine has a valency of -1. Now exchange the valency and place them to the bottom of opposite elements by dropping their signs as shown in below Hence, the molecular formula of magnesium chloride is Another example is the molecular formula for calcium oxide. Calcium has a valency of +2 and oxygen has a valency of -2.  Hence, calcium oxide is written as     Free Radicals  Free radicals are atoms, molecules or ions that have an unpaired electron in their outermost shell. They are highly reactive and unstable because they seek to pair their unpaired electron with another electron, either from another molecule or from another part of the same molecule. This process can cause damage to cells and tissues, and has been implicated in several diseases, including cancer, heart disease, and aging. Free radicals can be generated through normal metabolic processes in the body, as well as through exposure to environmental factors such as radiation, pollution, cigarette smoke, and certain chemicals. Some of the most common free radicals in the body include superoxide, hydroxyl, and nitric oxide radicals. To neutralize free radicals, the body relies on antioxidants, which are molecules that can donate an electron to the free radical without becoming unstable themselves. Antioxidants can be obtained from a variety of sources, including fruits, vegetables, nuts, and seeds. Vitamins C and E, beta-carotene, and selenium are all examples of antioxidants that can help neutralize free radicals in the body.  Free radicals are formed when a covalent bond in a molecule is broken with each fragment taking one of the shared electrons of the bond. For example when water molecules is broken The dots are unpaired electrons. Here is called a hydroxyle radical .    Polyatmic Ions  Polyatomic ions are ions composed of two or more atoms that are covalently bonded together and carry a net electrical charge. They are commonly found in many chemical compounds, including salts, acids, and bases. Polyatomic ions can have either a positive or negative charge, depending on the number of electrons they have gained or lost. Some common examples of polyatomic ions include:  Hydroxide ion : This ion consists of one oxygen atom and one hydrogen atom and has a negative charge. It is found in bases such as sodium hydroxide and calcium hydroxide . Ammonium ion : This ion consists of one nitrogen atom and four hydrogen atoms and has a positive charge. It is found in compounds such as ammonium chloride and ammonium nitrate . Carbonate ion : This ion consists of one carbon atom and three oxygen atoms and has a negative charge. It is found in compounds such as calcium carbonate and sodium carbonate . Sulfate ion : This ion consists of one sulfur atom and four oxygen atoms and has a negative charge. It is found in compounds such as magnesium sulfate and sodium sulfate . Phosphate ion This ion consists of one phosphorus atom and four oxygen atoms and has a negative charge. It is found in compounds such as calcium phosphate and sodium phosphate .  The properties and behavior of polyatomic ions depend on the specific atoms and bonds that make up the ion. They play important roles in many chemical reactions and are essential to many biological processes.    Chemical Equations  A chemical equation is a representation of a chemical reaction using symbols and formulas to show the reactants and products involved in the reaction. Chemical equations are written in a balanced form, meaning that the number of atoms of each element is the same on both sides of the equation. This is because the law of conservation of mass states that matter cannot be created or destroyed in a chemical reaction, only rearranged. The general form of a chemical equation is: Reactants → Products For example, the chemical equation for the reaction between hydrogen gas and oxygen gas to form water is: This equation shows that two molecules of hydrogen gas react with one molecule of oxygen gas to form two molecules of water . The equation is balanced because there are four hydrogen atoms and two oxygen atoms on both sides of the equation.  Chemical equations can also include coefficients, which are used to balance the equation. Coefficients are numbers placed in front of the chemical formulas to indicate the number of molecules or atoms involved in the reaction. For example, the balanced equation for the reaction between nitrogen gas and hydrogen gas to form ammonia is: In this equation, a coefficient of 3 is placed in front of the to balance the number of hydrogen atoms on both sides of the equation.    Balancing a chemical equation  Balancing a chemical equation involves adjusting the coefficients of the reactants and products to ensure that the number of atoms of each element is the same on both sides of the equation. Here is a step-by-step guide on how to balance a chemical equation:  Write the unbalanced equation. Identify the reactants and products and write them down using their chemical formulas.  Count the number of atoms of each element on both sides of the equation. This will help you determine which coefficients need to be adjusted.  Begin balancing the equation by adjusting the coefficients of the compounds that contain the most atoms first. Start with the compounds that have two or more atoms of an element.  Check the number of atoms of each element again after adjusting the coefficients. Continue adjusting the coefficients until the number of atoms of each element is the same on both sides of the equation.  Finally, double-check that the equation is fully balanced by counting the number of atoms of each element on both sides of the equation.    For example, let's balance the equation for the reaction between hydrogen gas and oxygen gas to form water: Unbalanced equation:    Step 1: Write the unbalanced equation.   Step 2: Count the number of atoms of each element.   Reactants: 2 hydrogen atoms, 2 oxygen atoms   Products: 2 hydrogen atoms, 1 oxygen atom   Step 3: Balance the equation by adjusting the coefficients.    Step 4: Check the number of atoms of each element again.   Reactants: 2 hydrogen atoms, 2 oxygen atoms   Products: 4 hydrogen atoms, 2 oxygen atoms   Step 5: Double-check that the equation is fully balanced.   Reactants: 2 hydrogen atoms, 2 oxygen atoms   Products: 2 hydrogen atoms, 2 oxygen atoms  The balanced equation is     Types of Chemical Reactions  There are several types of chemical reactions, including:   Combination reactions: In a combination reaction, two or more reactants combine to form a single product. The general form of a combination reaction is:    Decomposition reactions: In a decomposition reaction, a single reactant breaks down into two or more products. The general form of a decomposition reaction is:    Single replacement reactions: In a single replacement reaction, an element replaces another element in a compound to form a new compound and a new element. The general form of a single replacement reaction is:    Double replacement reactions: In a double replacement reaction, the cations and anions of two different compounds switch places to form two new compounds. The general form of a double replacement reaction is:    Combustion reactions: In a combustion reaction, a fuel (often a hydrocarbon) reacts with oxygen gas to produce carbon dioxide, water, and heat. The general form of a combustion reaction is: fuel + oxygen → carbon dioxide + water.   Acid-base reactions: In an acid-base reaction, an acid reacts with a base to produce a salt and water. The general form of an acid-base reaction is: acid + base → salt + water.  Understanding the different types of chemical reactions is important in predicting the products of a reaction and in understanding the behavior of chemicals in different environments.   "
+  "title": "Chemical Bonds & Equations",
+  "body": " Chemical Bonds & Equations   Chemical bonding is the process by which atoms combine to form molecules or other chemical compounds. Chemical bonding allows atoms to achieve the most stable configuration by sharing, gaining or losing electrons. There are several types of chemical bonding, including covalent bonding, ionic bonding, and metallic bonding. However, there are other types of bonding also occurs by the substance such as polar bonding, non-polar bonding, coordination bonding, molecular bonding, hydrogen bonding, and Van der waals' bonding.     Covalent bond: In covalent bonding atoms share electrons in order to achieve a stable configuration. This is the most common between non-metal atoms. Covalent bonding can take on a variety of forms including single, double, and triple bonds. For examples: in hydrogen molecule ( ), water molecule ( ), methan gas molecule ( ), diamond ( ), etc. Covalent bonding    Ionic bond: In ionic bonding, electrons are transferred from one atom to another, forming positively charged cations and negatively charged anions that are attracted to each other by electrostatic forces. This bonding is most common between metals and nonmetals. For examples: in Salt molecule ( ), Iron oxide molecule ( ), Calcium carbonate , magnesium oxide ( ), potassium iodide , etc. ionic bonding    Metallic bond: In metallic bonding, positively charged metal ions are surrounded by a sea of delocalized electrons, which are free to move throughout the metal lattice. This results in the formation of a strong metallic bond that is responsible for many of the physical properties of metals, such as their high melting points and conductivity. mettalic bonding .  Molecular bonding, typically refers to covalent bonding due to polar molecules. molecular bonding   In Van der waal's bonding, or van der Waals forces, refer to weak intermolecular attractions between molecules or atoms. These forces arise due to temporary fluctuations in the distribution of electrons in molecules or atoms.  The type of chemical bonding that occurs between atoms is determined by the properties of the atoms involved, including their electronegativity, electron configuration, and the conditions under which the reaction occurs. Understanding chemical bonding is important in fields such as chemistry, materials science, and engineering, as it underlies the formation and properties of all types of matter.    Naming of Compounds  There are a few general rules for naming molecules in chemistry, which vary slightly depending on the type of molecule being named. Here are some basic guidelines:    Naming simple covalent compounds: The first element in the formula is named first and the full element name is used. For example: in NaCl, the first name is The second element is named as though it were an anion (negative ion), with the suffix added to the root of the element name. For example: in NaCl, the second name is , in CaO: calcium oxide. Prefixes are used to indicate the number of atoms of each element present in the molecule. The prefix is usually omitted for the first element in the formula. For example: the name of is Carbon dioxide , and the CO is carbon monoxide .     Naming ionic compounds: The cation (positive ion) is named first, followed by the anion (negative ion). The name of the cation is the same as the element name. The name of the anion is derived from the root of the element name, with the suffix added. If the cation can have different charges, a Roman numeral is used to indicate the charge. For example: the name of iron (III) chloride is FeCl_3 , and mercury (II) Oxide is HgO .     Naming acids: If the anion name ends in , the acid is named with the prefix and the suffix , followed by the word \"acid\". If the anion name ends in , the acid is named with the suffix , followed by the word \"acid\". If the anion name ends in , the acid is named with the suffix , followed by the word \"acid\". For example: HCl - hydrochloric acid.     Naming organic compounds: The root of the name comes from the number of carbon atoms in the molecule (meth-, eth-, prop-, but-, etc.). Functional groups (such as alcohols, aldehydes, and carboxylic acids) are indicated by suffixes or prefixes. Numbering of the carbon atoms in the main chain starts at the end closest to a functional group, and the position of the functional group is indicated by a number. For example: - ethanol.     The common name of some compounds: Water ( ), methane ( ), ammonia ( ), and Chalk: ( ).    Molecular Formula  Molecular formula can be written by knowing the valency of the elements. The valency of an element is the number of electrons it can donate, accept, or share during a chemical reaction. First identify the elements present in the compound then Determine the valency of each element based on its position in the periodic table or by consulting a table of valencies. Determine the number of atoms of each element required to balance the valencies. This can be done by finding the least common multiple of the valencies for each element. Write the molecular formula by indicating the number of atoms for each element as subscripts next to the element symbol. Make sure to reduce the subscripts to the lowest whole number ratio. For example, let's determine the molecular formula for magnesium chloride. Magnesium has a valency of +2 and chlorine has a valency of -1. Now exchange the valency and place them to the bottom of opposite elements by dropping their signs as shown in below Hence, the molecular formula of magnesium chloride is Another example is the molecular formula for calcium oxide. Calcium has a valency of +2 and oxygen has a valency of -2.  Hence, calcium oxide is written as     Free Radicals  Free radicals are atoms, molecules or ions that have an unpaired electron in their outermost shell. They are highly reactive and unstable because they seek to pair their unpaired electron with another electron, either from another molecule or from another part of the same molecule. This process can cause damage to cells and tissues, and has been implicated in several diseases, including cancer, heart disease, and aging. Free radicals can be generated through normal metabolic processes in the body, as well as through exposure to environmental factors such as radiation, pollution, cigarette smoke, and certain chemicals. Some of the most common free radicals in the body include superoxide, hydroxyl, and nitric oxide radicals. To neutralize free radicals, the body relies on antioxidants, which are molecules that can donate an electron to the free radical without becoming unstable themselves. Antioxidants can be obtained from a variety of sources, including fruits, vegetables, nuts, and seeds. Vitamins C and E, beta-carotene, and selenium are all examples of antioxidants that can help neutralize free radicals in the body.  Free radicals are formed when a covalent bond in a molecule is broken with each fragment taking one of the shared electrons of the bond. For example when water molecules is broken The dots are unpaired electrons. Here is called a hydroxyle radical .    Polyatmic Ions  Polyatomic ions are ions composed of two or more atoms that are covalently bonded together and carry a net electrical charge. They are commonly found in many chemical compounds, including salts, acids, and bases. Polyatomic ions can have either a positive or negative charge, depending on the number of electrons they have gained or lost. Some common examples of polyatomic ions include:  Hydroxide ion : This ion consists of one oxygen atom and one hydrogen atom and has a negative charge. It is found in bases such as sodium hydroxide and calcium hydroxide . Ammonium ion : This ion consists of one nitrogen atom and four hydrogen atoms and has a positive charge. It is found in compounds such as ammonium chloride and ammonium nitrate . Carbonate ion : This ion consists of one carbon atom and three oxygen atoms and has a negative charge. It is found in compounds such as calcium carbonate and sodium carbonate . Sulfate ion : This ion consists of one sulfur atom and four oxygen atoms and has a negative charge. It is found in compounds such as magnesium sulfate and sodium sulfate . Phosphate ion This ion consists of one phosphorus atom and four oxygen atoms and has a negative charge. It is found in compounds such as calcium phosphate and sodium phosphate .  The properties and behavior of polyatomic ions depend on the specific atoms and bonds that make up the ion. They play important roles in many chemical reactions and are essential to many biological processes.    Chemical Equations  A chemical equation is a representation of a chemical reaction using symbols and formulas to show the reactants and products involved in the reaction. Chemical equations are written in a balanced form, meaning that the number of atoms of each element is the same on both sides of the equation. This is because the law of conservation of mass states that matter cannot be created or destroyed in a chemical reaction, only rearranged. The general form of a chemical equation is: Reactants → Products For example, the chemical equation for the reaction between hydrogen gas and oxygen gas to form water is: This equation shows that two molecules of hydrogen gas react with one molecule of oxygen gas to form two molecules of water . The equation is balanced because there are four hydrogen atoms and two oxygen atoms on both sides of the equation.  Chemical equations can also include coefficients, which are used to balance the equation. Coefficients are numbers placed in front of the chemical formulas to indicate the number of molecules or atoms involved in the reaction. For example, the balanced equation for the reaction between nitrogen gas and hydrogen gas to form ammonia is: In this equation, a coefficient of 3 is placed in front of the to balance the number of hydrogen atoms on both sides of the equation.    Balancing a chemical equation  Balancing a chemical equation involves adjusting the coefficients of the reactants and products to ensure that the number of atoms of each element is the same on both sides of the equation. Here is a step-by-step guide on how to balance a chemical equation:  Write the unbalanced equation. Identify the reactants and products and write them down using their chemical formulas.  Count the number of atoms of each element on both sides of the equation. This will help you determine which coefficients need to be adjusted.  Begin balancing the equation by adjusting the coefficients of the compounds that contain the most atoms first. Start with the compounds that have two or more atoms of an element.  Check the number of atoms of each element again after adjusting the coefficients. Continue adjusting the coefficients until the number of atoms of each element is the same on both sides of the equation.  Finally, double-check that the equation is fully balanced by counting the number of atoms of each element on both sides of the equation.    For example, let's balance the equation for the reaction between hydrogen gas and oxygen gas to form water: Unbalanced equation:    Step 1: Write the unbalanced equation.   Step 2: Count the number of atoms of each element.   Reactants: 2 hydrogen atoms, 2 oxygen atoms   Products: 2 hydrogen atoms, 1 oxygen atom   Step 3: Balance the equation by adjusting the coefficients.    Step 4: Check the number of atoms of each element again.   Reactants: 2 hydrogen atoms, 2 oxygen atoms   Products: 4 hydrogen atoms, 2 oxygen atoms   Step 5: Double-check that the equation is fully balanced.   Reactants: 2 hydrogen atoms, 2 oxygen atoms   Products: 2 hydrogen atoms, 2 oxygen atoms  The balanced equation is    "
 },
 {
   "id": "p-503",
@@ -2476,281 +2476,326 @@ var ptx_lunr_docs = [
   "body": "Products: "
 },
 {
+  "id": "sec_eigth-react",
+  "level": "1",
+  "url": "sec_eigth-react.html",
+  "type": "Section",
+  "number": "8.4",
+  "title": "Chemical Reactions",
+  "body": " Chemical Reactions   There are several types of chemical reactions, including:   Combination reactions: In a combination reaction, two or more reactants combine to form a single product. The general form of a combination reaction is:    Decomposition reactions: In a decomposition reaction, a single reactant breaks down into two or more products. The general form of a decomposition reaction is:    Single replacement reactions: In a single replacement reaction, an element replaces another element in a compound to form a new compound and a new element. The general form of a single replacement reaction is:    Double replacement reactions: In a double replacement reaction, the cations and anions of two different compounds switch places to form two new compounds. The general form of a double replacement reaction is:    Combustion reactions: In a combustion reaction, a fuel (often a hydrocarbon) reacts with oxygen gas to produce carbon dioxide, water, and heat. The general form of a combustion reaction is: fuel + oxygen → carbon dioxide + water.   Acid-base reactions: In an acid-base reaction, an acid reacts with a base to produce a salt and water. The general form of an acid-base reaction is: acid + base → salt + water.  Understanding the different types of chemical reactions is important in predicting the products of a reaction and in understanding the behavior of chemicals in different environments.    The Mole   Mole is a unit used to measure the amount of a substance. One mole of a substance is defined as the amount of substance that contains the same number of particles (atoms, molecules, or ions) as there are in 12 grams of carbon-12. This number is known as Avogadro's number, N_o and is approximately particles per mole. For example, one mole of water contains water molecules, while one mole of sodium chloride contains sodium ions and chloride ions. The mole is a convenient unit for chemists because it allows them to compare the amounts of different substances on the basis of the number of particles they contain, rather than their mass or volume. The number of atoms or molecules or anything in 1 mole of any substance is always the same as Avogadro's number.   Atomic mass unit (amu) is a unit of mass used to express the relative masses of atoms and molecules. It is defined as one twelfth (1\/12) of the mass of a carbon-12 atom, which is assigned a mass of exactly 12 amu. This means that the mass of one proton or one neutron is approximately 1 amu, and the mass of an electron is much smaller, about 0.0005 amu. The atomic mass of an element, which is the weighted average of the masses of its isotopes, is expressed in amu. The use of atomic mass units is convenient because it allows us to compare the masses of different atoms and molecules on a relative scale. For example, the mass of a hydrogen atom is about 1 amu, while the mass of an oxygen atom is about 16 amu.   Molar mass is the mass of one mole of a substance, typically expressed in units of grams per mole (g\/mol). It is calculated by summing the atomic masses of all the atoms in a molecule or formula unit of a compound. The molar mass is an important concept in chemistry as it is used to convert between the mass of a substance and the number of moles of that substance. It is also used in stoichiometric calculations to determine the quantities of reactants and products in chemical reactions.     How many atoms are there in 100 g of iron?    To determine the number of atoms present in 100 g of iron, we first need to know the atomic mass of iron. The atomic mass of iron (Fe) is approximately 55.85 g\/mol. We can use this information and Avogadro's number, which is approximately atoms\/mol, to calculate the number of atoms in 100 g of iron:  Calculate the number of moles of iron in 100 g: moles of Fe = mass of Fe \/ molar mass of Fe = 100 g \/ 55.85 g\/mol = 1.79 mol  Calculate the number of atoms in 1.79 moles of iron: number of atoms of Fe = moles of Fe Avogadro's number = 1.79 mol atoms\/mol = atoms  Therefore, there are approximately atoms present in 100 g of iron.    "
+},
+{
   "id": "p-532",
   "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-532",
+  "url": "sec_eigth-react.html#p-532",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Combination reactions: Decomposition reactions: Single replacement reactions: Double replacement reactions: Combustion reactions: Acid-base reactions: "
 },
 {
-  "id": "sec_eighth-examples",
-  "level": "1",
-  "url": "sec_eighth-examples.html",
-  "type": "Section",
-  "number": "8.4",
-  "title": "Examples",
-  "body": " Examples    Which of the following cannot be decomposed by chemical and physical means.  a compound  an element  a solid  a solution      b.      How many element groups are there in a periodic table?  7  11  18  26      c.      How many element periods are there in a periodic table?  5  7  9  0      b.      Who developed the periodic table?  Henry Moseley  Dimitri Mendeleev  John Newlands  De Chancourtois      b.      Who discovered the number of protons in the nucleus of each atom.  Ernest Rutherford  J. J. Thomson  Daltons  Neil Bohr      a.      What is the atomic number for helium?  1  2  4  8      b.      What is the symbol for Argon?  A  Ar  Ag  An      b.      The symbol stands for what element?  Gold  Silver  Tin  Argon      a.      Which of the following substances is a homogenours mixture?  air  salt  seawater  soil    Select one of the following:  a. and b.  a. and c.  a. and d.  none of above.      ii.      Most elements in the periodic table are at room temperature and atmospheric pressure.  metallic solids  gases  liquids  nonmetallic solids      a.      Which of the following set of elements possess similar chemical properties?  and  and  and  and      a.      Which of the following statements is true regarding the periodic table?  The horizontal rows in the periodic table are known as groups  The verticle columns in the periodic table are known as periods  In the periodic table, when the atomic number increases, the properties of the elements repeat regularly  The periodic table is classified into blocks based on the electron filling pattern into shells      c.      Which of the following properties are unique to metals?  No metallic lustre (or, dull appearance)  Solids under room temperature  Low melting points  Poor conductors of electricity and heat      b.      How many valence electrons does have?  1  11  3  9      a.      How many valence electrons does Group 13 have?  13  3  5  10      b.      The position of an element in the Periodic Table is determined by which of the followings?  its atomic radius.  its atomic mass.  its atomic number.  its density.      c.      Which statement is true of covalent bonds?  No matter the element, there is the same bond length between neighboring atoms.  Valence electrons must be shared equally between atoms in order to achieve stability.  Covalent bonds form when the nuclei of two atoms attract each other.  Atoms find the ideal separation distance where electrostatics forces are reduced to a minimum.      b.      Which of the following has a full valence shell?  oxygen.  carbon.  neon.  iron.      c.      An ionic bond forms when atoms electrons.  gain  share  increase  transfer      d.      What is an ion?  An atom or group of atoms that have gained or lost electrons.  An atom or group of atoms that have gained or lost protons.  An atom that has more neutrons than protons.  An atom that shares electrons with another atom.      a.      How does a chloride ion of charge become neutral?  By losing two electrons.  By losing one electron.  By gaining two electrons.  By gaining one electron.      b.      A group of atoms carrying an electric charge is known as  an ion.  a radical.  a crystal lattice.  a covalent bond.      b.      Which of the following elements does not have a valency of 3?  sulfur.  boron.  nitrogen.  aluminum.      a.      The number of electrons gained, lost, or shared by an atom in a chemical bond is also known as  its atomic number.  its valency.  its mass number.  its charge.      b.      What is the name of the compound formed when sulfur combines with magnesium?  Magnesium sulfur.  Magnesium sulfate.  Sulfur magnesium.  Magnesium sulfide.      d.      The number of atoms in a molecule of is  8.  13.  16.  12.      b.      The number of oxygen atoms in a molecule of is  4.  8.  13.  1.      b.      Which one of the follwing equations is balanced?               a.      Write the missing number in the equation below               b.    "
+  "id": "p-533",
+  "level": "2",
+  "url": "sec_eigth-react.html#p-533",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Mole Avogadro's number, N_o "
+},
+{
+  "id": "p-534",
+  "level": "2",
+  "url": "sec_eigth-react.html#p-534",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Atomic mass unit "
+},
+{
+  "id": "p-535",
+  "level": "2",
+  "url": "sec_eigth-react.html#p-535",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Molar mass "
 },
 {
   "id": "example-78",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-78",
+  "url": "sec_eigth-react.html#example-78",
   "type": "Example",
   "number": "8.4.1",
   "title": "",
-  "body": "  Which of the following cannot be decomposed by chemical and physical means.  a compound  an element  a solid  a solution      b.   "
+  "body": "  How many atoms are there in 100 g of iron?    To determine the number of atoms present in 100 g of iron, we first need to know the atomic mass of iron. The atomic mass of iron (Fe) is approximately 55.85 g\/mol. We can use this information and Avogadro's number, which is approximately atoms\/mol, to calculate the number of atoms in 100 g of iron:  Calculate the number of moles of iron in 100 g: moles of Fe = mass of Fe \/ molar mass of Fe = 100 g \/ 55.85 g\/mol = 1.79 mol  Calculate the number of atoms in 1.79 moles of iron: number of atoms of Fe = moles of Fe Avogadro's number = 1.79 mol atoms\/mol = atoms  Therefore, there are approximately atoms present in 100 g of iron.   "
+},
+{
+  "id": "sec_eighth-examples",
+  "level": "1",
+  "url": "sec_eighth-examples.html",
+  "type": "Section",
+  "number": "8.5",
+  "title": "Examples",
+  "body": " Examples    Which of the following cannot be decomposed by chemical and physical means.  a compound  an element  a solid  a solution      b.      How many element groups are there in a periodic table?  7  11  18  26      c.      How many element periods are there in a periodic table?  5  7  9  0      b.      Who developed the periodic table?  Henry Moseley  Dimitri Mendeleev  John Newlands  De Chancourtois      b.      Who discovered the number of protons in the nucleus of each atom.  Ernest Rutherford  J. J. Thomson  Daltons  Neil Bohr      a.      What is the atomic number for helium?  1  2  4  8      b.      What is the symbol for Argon?  A  Ar  Ag  An      b.      The symbol stands for what element?  Gold  Silver  Tin  Argon      a.      Which of the following substances is a homogenours mixture?  air  salt  seawater  soil    Select one of the following:  a. and b.  a. and c.  a. and d.  none of above.      ii.      Most elements in the periodic table are at room temperature and atmospheric pressure.  metallic solids  gases  liquids  nonmetallic solids      a.      Which of the following set of elements possess similar chemical properties?  and  and  and  and      a.      Which of the following statements is true regarding the periodic table?  The horizontal rows in the periodic table are known as groups  The verticle columns in the periodic table are known as periods  In the periodic table, when the atomic number increases, the properties of the elements repeat regularly  The periodic table is classified into blocks based on the electron filling pattern into shells      c.      Which of the following properties are unique to metals?  No metallic lustre (or, dull appearance)  Solids under room temperature  Low melting points  Poor conductors of electricity and heat      b.      How many valence electrons does have?  1  11  3  9      a.      How many valence electrons does Group 13 have?  13  3  5  10      b.      The position of an element in the Periodic Table is determined by which of the followings?  its atomic radius.  its atomic mass.  its atomic number.  its density.      c.      Which statement is true of covalent bonds?  No matter the element, there is the same bond length between neighboring atoms.  Valence electrons must be shared equally between atoms in order to achieve stability.  Covalent bonds form when the nuclei of two atoms attract each other.  Atoms find the ideal separation distance where electrostatics forces are reduced to a minimum.      b.      Which of the following has a full valence shell?  oxygen.  carbon.  neon.  iron.      c.      An ionic bond forms when atoms electrons.  gain  share  increase  transfer      d.      What is an ion?  An atom or group of atoms that have gained or lost electrons.  An atom or group of atoms that have gained or lost protons.  An atom that has more neutrons than protons.  An atom that shares electrons with another atom.      a.      How does a chloride ion of charge become neutral?  By losing two electrons.  By losing one electron.  By gaining two electrons.  By gaining one electron.      b.      A group of atoms carrying an electric charge is known as  an ion.  a radical.  a crystal lattice.  a covalent bond.      b.      Which of the following elements does not have a valency of 3?  sulfur.  boron.  nitrogen.  aluminum.      a.      The number of electrons gained, lost, or shared by an atom in a chemical bond is also known as  its atomic number.  its valency.  its mass number.  its charge.      b.      What is the name of the compound formed when sulfur combines with magnesium?  Magnesium sulfur.  Magnesium sulfate.  Sulfur magnesium.  Magnesium sulfide.      d.      The number of atoms in a molecule of is  8.  13.  16.  12.      b.      The number of oxygen atoms in a molecule of is  4.  8.  13.  1.      b.      Which one of the follwing equations is balanced?               a.      Write the missing number in the equation below               b.    "
 },
 {
   "id": "example-79",
   "level": "2",
   "url": "sec_eighth-examples.html#example-79",
   "type": "Example",
-  "number": "8.4.2",
+  "number": "8.5.1",
   "title": "",
-  "body": "  How many element groups are there in a periodic table?  7  11  18  26      c.   "
+  "body": "  Which of the following cannot be decomposed by chemical and physical means.  a compound  an element  a solid  a solution      b.   "
 },
 {
   "id": "example-80",
   "level": "2",
   "url": "sec_eighth-examples.html#example-80",
   "type": "Example",
-  "number": "8.4.3",
+  "number": "8.5.2",
   "title": "",
-  "body": "  How many element periods are there in a periodic table?  5  7  9  0      b.   "
+  "body": "  How many element groups are there in a periodic table?  7  11  18  26      c.   "
 },
 {
   "id": "example-81",
   "level": "2",
   "url": "sec_eighth-examples.html#example-81",
   "type": "Example",
-  "number": "8.4.4",
+  "number": "8.5.3",
   "title": "",
-  "body": "  Who developed the periodic table?  Henry Moseley  Dimitri Mendeleev  John Newlands  De Chancourtois      b.   "
+  "body": "  How many element periods are there in a periodic table?  5  7  9  0      b.   "
 },
 {
   "id": "example-82",
   "level": "2",
   "url": "sec_eighth-examples.html#example-82",
   "type": "Example",
-  "number": "8.4.5",
+  "number": "8.5.4",
   "title": "",
-  "body": "  Who discovered the number of protons in the nucleus of each atom.  Ernest Rutherford  J. J. Thomson  Daltons  Neil Bohr      a.   "
+  "body": "  Who developed the periodic table?  Henry Moseley  Dimitri Mendeleev  John Newlands  De Chancourtois      b.   "
 },
 {
   "id": "example-83",
   "level": "2",
   "url": "sec_eighth-examples.html#example-83",
   "type": "Example",
-  "number": "8.4.6",
+  "number": "8.5.5",
   "title": "",
-  "body": "  What is the atomic number for helium?  1  2  4  8      b.   "
+  "body": "  Who discovered the number of protons in the nucleus of each atom.  Ernest Rutherford  J. J. Thomson  Daltons  Neil Bohr      a.   "
 },
 {
   "id": "example-84",
   "level": "2",
   "url": "sec_eighth-examples.html#example-84",
   "type": "Example",
-  "number": "8.4.7",
+  "number": "8.5.6",
   "title": "",
-  "body": "  What is the symbol for Argon?  A  Ar  Ag  An      b.   "
+  "body": "  What is the atomic number for helium?  1  2  4  8      b.   "
 },
 {
   "id": "example-85",
   "level": "2",
   "url": "sec_eighth-examples.html#example-85",
   "type": "Example",
-  "number": "8.4.8",
+  "number": "8.5.7",
   "title": "",
-  "body": "  The symbol stands for what element?  Gold  Silver  Tin  Argon      a.   "
+  "body": "  What is the symbol for Argon?  A  Ar  Ag  An      b.   "
 },
 {
   "id": "example-86",
   "level": "2",
   "url": "sec_eighth-examples.html#example-86",
   "type": "Example",
-  "number": "8.4.9",
+  "number": "8.5.8",
   "title": "",
-  "body": "  Which of the following substances is a homogenours mixture?  air  salt  seawater  soil    Select one of the following:  a. and b.  a. and c.  a. and d.  none of above.      ii.   "
+  "body": "  The symbol stands for what element?  Gold  Silver  Tin  Argon      a.   "
 },
 {
   "id": "example-87",
   "level": "2",
   "url": "sec_eighth-examples.html#example-87",
   "type": "Example",
-  "number": "8.4.10",
+  "number": "8.5.9",
   "title": "",
-  "body": "  Most elements in the periodic table are at room temperature and atmospheric pressure.  metallic solids  gases  liquids  nonmetallic solids      a.   "
+  "body": "  Which of the following substances is a homogenours mixture?  air  salt  seawater  soil    Select one of the following:  a. and b.  a. and c.  a. and d.  none of above.      ii.   "
 },
 {
   "id": "example-88",
   "level": "2",
   "url": "sec_eighth-examples.html#example-88",
   "type": "Example",
-  "number": "8.4.11",
+  "number": "8.5.10",
   "title": "",
-  "body": "  Which of the following set of elements possess similar chemical properties?  and  and  and  and      a.   "
+  "body": "  Most elements in the periodic table are at room temperature and atmospheric pressure.  metallic solids  gases  liquids  nonmetallic solids      a.   "
 },
 {
   "id": "example-89",
   "level": "2",
   "url": "sec_eighth-examples.html#example-89",
   "type": "Example",
-  "number": "8.4.12",
+  "number": "8.5.11",
   "title": "",
-  "body": "  Which of the following statements is true regarding the periodic table?  The horizontal rows in the periodic table are known as groups  The verticle columns in the periodic table are known as periods  In the periodic table, when the atomic number increases, the properties of the elements repeat regularly  The periodic table is classified into blocks based on the electron filling pattern into shells      c.   "
+  "body": "  Which of the following set of elements possess similar chemical properties?  and  and  and  and      a.   "
 },
 {
   "id": "example-90",
   "level": "2",
   "url": "sec_eighth-examples.html#example-90",
   "type": "Example",
-  "number": "8.4.13",
+  "number": "8.5.12",
   "title": "",
-  "body": "  Which of the following properties are unique to metals?  No metallic lustre (or, dull appearance)  Solids under room temperature  Low melting points  Poor conductors of electricity and heat      b.   "
+  "body": "  Which of the following statements is true regarding the periodic table?  The horizontal rows in the periodic table are known as groups  The verticle columns in the periodic table are known as periods  In the periodic table, when the atomic number increases, the properties of the elements repeat regularly  The periodic table is classified into blocks based on the electron filling pattern into shells      c.   "
 },
 {
   "id": "example-91",
   "level": "2",
   "url": "sec_eighth-examples.html#example-91",
   "type": "Example",
-  "number": "8.4.14",
+  "number": "8.5.13",
   "title": "",
-  "body": "  How many valence electrons does have?  1  11  3  9      a.   "
+  "body": "  Which of the following properties are unique to metals?  No metallic lustre (or, dull appearance)  Solids under room temperature  Low melting points  Poor conductors of electricity and heat      b.   "
 },
 {
   "id": "example-92",
   "level": "2",
   "url": "sec_eighth-examples.html#example-92",
   "type": "Example",
-  "number": "8.4.15",
+  "number": "8.5.14",
   "title": "",
-  "body": "  How many valence electrons does Group 13 have?  13  3  5  10      b.   "
+  "body": "  How many valence electrons does have?  1  11  3  9      a.   "
 },
 {
   "id": "example-93",
   "level": "2",
   "url": "sec_eighth-examples.html#example-93",
   "type": "Example",
-  "number": "8.4.16",
+  "number": "8.5.15",
   "title": "",
-  "body": "  The position of an element in the Periodic Table is determined by which of the followings?  its atomic radius.  its atomic mass.  its atomic number.  its density.      c.   "
+  "body": "  How many valence electrons does Group 13 have?  13  3  5  10      b.   "
 },
 {
   "id": "example-94",
   "level": "2",
   "url": "sec_eighth-examples.html#example-94",
   "type": "Example",
-  "number": "8.4.17",
+  "number": "8.5.16",
   "title": "",
-  "body": "  Which statement is true of covalent bonds?  No matter the element, there is the same bond length between neighboring atoms.  Valence electrons must be shared equally between atoms in order to achieve stability.  Covalent bonds form when the nuclei of two atoms attract each other.  Atoms find the ideal separation distance where electrostatics forces are reduced to a minimum.      b.   "
+  "body": "  The position of an element in the Periodic Table is determined by which of the followings?  its atomic radius.  its atomic mass.  its atomic number.  its density.      c.   "
 },
 {
   "id": "example-95",
   "level": "2",
   "url": "sec_eighth-examples.html#example-95",
   "type": "Example",
-  "number": "8.4.18",
+  "number": "8.5.17",
   "title": "",
-  "body": "  Which of the following has a full valence shell?  oxygen.  carbon.  neon.  iron.      c.   "
+  "body": "  Which statement is true of covalent bonds?  No matter the element, there is the same bond length between neighboring atoms.  Valence electrons must be shared equally between atoms in order to achieve stability.  Covalent bonds form when the nuclei of two atoms attract each other.  Atoms find the ideal separation distance where electrostatics forces are reduced to a minimum.      b.   "
 },
 {
   "id": "example-96",
   "level": "2",
   "url": "sec_eighth-examples.html#example-96",
   "type": "Example",
-  "number": "8.4.19",
+  "number": "8.5.18",
   "title": "",
-  "body": "  An ionic bond forms when atoms electrons.  gain  share  increase  transfer      d.   "
+  "body": "  Which of the following has a full valence shell?  oxygen.  carbon.  neon.  iron.      c.   "
 },
 {
   "id": "example-97",
   "level": "2",
   "url": "sec_eighth-examples.html#example-97",
   "type": "Example",
-  "number": "8.4.20",
+  "number": "8.5.19",
   "title": "",
-  "body": "  What is an ion?  An atom or group of atoms that have gained or lost electrons.  An atom or group of atoms that have gained or lost protons.  An atom that has more neutrons than protons.  An atom that shares electrons with another atom.      a.   "
+  "body": "  An ionic bond forms when atoms electrons.  gain  share  increase  transfer      d.   "
 },
 {
   "id": "example-98",
   "level": "2",
   "url": "sec_eighth-examples.html#example-98",
   "type": "Example",
-  "number": "8.4.21",
+  "number": "8.5.20",
   "title": "",
-  "body": "  How does a chloride ion of charge become neutral?  By losing two electrons.  By losing one electron.  By gaining two electrons.  By gaining one electron.      b.   "
+  "body": "  What is an ion?  An atom or group of atoms that have gained or lost electrons.  An atom or group of atoms that have gained or lost protons.  An atom that has more neutrons than protons.  An atom that shares electrons with another atom.      a.   "
 },
 {
   "id": "example-99",
   "level": "2",
   "url": "sec_eighth-examples.html#example-99",
   "type": "Example",
-  "number": "8.4.22",
+  "number": "8.5.21",
   "title": "",
-  "body": "  A group of atoms carrying an electric charge is known as  an ion.  a radical.  a crystal lattice.  a covalent bond.      b.   "
+  "body": "  How does a chloride ion of charge become neutral?  By losing two electrons.  By losing one electron.  By gaining two electrons.  By gaining one electron.      b.   "
 },
 {
   "id": "example-100",
   "level": "2",
   "url": "sec_eighth-examples.html#example-100",
   "type": "Example",
-  "number": "8.4.23",
+  "number": "8.5.22",
   "title": "",
-  "body": "  Which of the following elements does not have a valency of 3?  sulfur.  boron.  nitrogen.  aluminum.      a.   "
+  "body": "  A group of atoms carrying an electric charge is known as  an ion.  a radical.  a crystal lattice.  a covalent bond.      b.   "
 },
 {
   "id": "example-101",
   "level": "2",
   "url": "sec_eighth-examples.html#example-101",
   "type": "Example",
-  "number": "8.4.24",
+  "number": "8.5.23",
   "title": "",
-  "body": "  The number of electrons gained, lost, or shared by an atom in a chemical bond is also known as  its atomic number.  its valency.  its mass number.  its charge.      b.   "
+  "body": "  Which of the following elements does not have a valency of 3?  sulfur.  boron.  nitrogen.  aluminum.      a.   "
 },
 {
   "id": "example-102",
   "level": "2",
   "url": "sec_eighth-examples.html#example-102",
   "type": "Example",
-  "number": "8.4.25",
+  "number": "8.5.24",
   "title": "",
-  "body": "  What is the name of the compound formed when sulfur combines with magnesium?  Magnesium sulfur.  Magnesium sulfate.  Sulfur magnesium.  Magnesium sulfide.      d.   "
+  "body": "  The number of electrons gained, lost, or shared by an atom in a chemical bond is also known as  its atomic number.  its valency.  its mass number.  its charge.      b.   "
 },
 {
   "id": "example-103",
   "level": "2",
   "url": "sec_eighth-examples.html#example-103",
   "type": "Example",
-  "number": "8.4.26",
+  "number": "8.5.25",
   "title": "",
-  "body": "  The number of atoms in a molecule of is  8.  13.  16.  12.      b.   "
+  "body": "  What is the name of the compound formed when sulfur combines with magnesium?  Magnesium sulfur.  Magnesium sulfate.  Sulfur magnesium.  Magnesium sulfide.      d.   "
 },
 {
   "id": "example-104",
   "level": "2",
   "url": "sec_eighth-examples.html#example-104",
   "type": "Example",
-  "number": "8.4.27",
+  "number": "8.5.26",
   "title": "",
-  "body": "  The number of oxygen atoms in a molecule of is  4.  8.  13.  1.      b.   "
+  "body": "  The number of atoms in a molecule of is  8.  13.  16.  12.      b.   "
 },
 {
   "id": "example-105",
   "level": "2",
   "url": "sec_eighth-examples.html#example-105",
   "type": "Example",
-  "number": "8.4.28",
+  "number": "8.5.27",
   "title": "",
-  "body": "  Which one of the follwing equations is balanced?               a.   "
+  "body": "  The number of oxygen atoms in a molecule of is  4.  8.  13.  1.      b.   "
 },
 {
   "id": "example-106",
   "level": "2",
   "url": "sec_eighth-examples.html#example-106",
   "type": "Example",
-  "number": "8.4.29",
+  "number": "8.5.28",
+  "title": "",
+  "body": "  Which one of the follwing equations is balanced?               a.   "
+},
+{
+  "id": "example-107",
+  "level": "2",
+  "url": "sec_eighth-examples.html#example-107",
+  "type": "Example",
+  "number": "8.5.29",
   "title": "",
   "body": "  Write the missing number in the equation below               b.   "
 },
@@ -2759,7 +2804,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "ex_eighth.html",
   "type": "Exercises",
-  "number": "8.5",
+  "number": "8.6",
   "title": "Exercises",
   "body": "  Exercises   Write the missing number in the following equations:              Which of the following equations are balanced?              Name these compounds:                  Write the chemical formula for these compounds:  Hydrogen iodide  Dinitrogen tetroxide  Manganese chloride  Ferric oxide  Ferrous oxide  Calcium carbonate      Select the correct choice: A halogen atom   has one electron in its outermost orbit  has two electron in its outermost orbit  has filled outer shell  lacks one electron of having a filled outer shell      Select the correct choice: An atom that loses its outer electron or electrons is generally   an active metal  an active nonmetal  an inactive metal  an inactive nonmetal     "
 },
@@ -2768,7 +2813,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ex_eighth.html#exercise-74",
   "type": "Exercise",
-  "number": "8.5.1",
+  "number": "8.6.1",
   "title": "",
   "body": " Write the missing number in the following equations:            "
 },
@@ -2777,7 +2822,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ex_eighth.html#exercise-75",
   "type": "Exercise",
-  "number": "8.5.2",
+  "number": "8.6.2",
   "title": "",
   "body": " Which of the following equations are balanced?            "
 },
@@ -2786,7 +2831,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ex_eighth.html#exercise-76",
   "type": "Exercise",
-  "number": "8.5.3",
+  "number": "8.6.3",
   "title": "",
   "body": " Name these compounds:                "
 },
@@ -2795,7 +2840,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ex_eighth.html#exercise-77",
   "type": "Exercise",
-  "number": "8.5.4",
+  "number": "8.6.4",
   "title": "",
   "body": " Write the chemical formula for these compounds:  Hydrogen iodide  Dinitrogen tetroxide  Manganese chloride  Ferric oxide  Ferrous oxide  Calcium carbonate    "
 },
@@ -2804,7 +2849,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ex_eighth.html#exercise-78",
   "type": "Exercise",
-  "number": "8.5.5",
+  "number": "8.6.5",
   "title": "",
   "body": " Select the correct choice: A halogen atom   has one electron in its outermost orbit  has two electron in its outermost orbit  has filled outer shell  lacks one electron of having a filled outer shell    "
 },
@@ -2813,7 +2858,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ex_eighth.html#exercise-79",
   "type": "Exercise",
-  "number": "8.5.6",
+  "number": "8.6.6",
   "title": "",
   "body": " Select the correct choice: An atom that loses its outer electron or electrons is generally   an active metal  an active nonmetal  an inactive metal  an inactive nonmetal    "
 },
@@ -2824,7 +2869,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.1",
   "title": "Crystalline Solids",
-  "body": " Crystalline Solids    Crystal structure of Solids    Diamond     Graphite     Metallic Solid     Molecular Solid      On the basis of chemical bonding there are four main types of crystalline solids:   Ionic solids: These solids are made up of positively charged ions and negatively charged ions held together by electrostatic forces. These molecules are hard and posses high melting point. Examples include sodium chloride (NaCl) and calcium fluoride [ ].   Covalent solids: These solids are made up of atoms held together by covalent bonds. These molecules are very hard and posses very high melting point. Examples include diamond [ ] and graphite [ ].   Metallic solids: These solids are made up of metal atoms held together by metallic bonds. These molecules can be deformed, have metallic luster, high electrical and thermal conductivity. Examples include copper, iron, and gold. [ ]   Molecular solids: These solids are made up of molecules held together by intermolecular forces such as hydrogen bonds, van der Waals forces, and dipole-dipole interactions. These molecules are soft and posses low melting point. Examples include ice and solid carbon dioxide [ ].      Polar & Nonploar Molecules   Polar and nonpolar molecules    Polar-polar interaction     Polar-nonpolar interaction     Nonpolar-nonpolar interaction      A polar molecule has none symmetrical distribution of electrons between its atoms resulting in a permanent dipole moment. This means that the molecule has a partial positive charge at one end and a partial negative charge at the other end. The polarity of a molecule is determined by the difference in electronegativity between the atoms that make up the molecule. If the electronegativity difference is large enough, the molecule will be polar. Examples of polar molecules include water , ammonia , and hydrogen chloride . These molecules have a bent, pyramidal, and linear molecular geometry respectively, which contributes to their polarity. Polar molecules are important in many biological and chemical processes, including the formation of hydrogen bonds, the solubility of molecules in water, and the function of enzymes. Polar molecules attract each other due to the presence of partial positive and partial negative charges on opposite ends of the molecule. This attraction is known as a dipole-dipole interaction [ ].  A nonpolar molecule has no separation of charge, meaning that the electrons are shared equally between the atoms in the molecule. This occurs when the electronegativity difference between the atoms in the molecule is zero or very small. Examples of nonpolar molecules include: carbon dioxide , methane , ethane , nitrogen gas , oxygen gas , benzene . These molecules do not have a positive or negative pole, which means that they do not have a permanent dipole moment. Nonpolar molecules are generally less reactive than polar molecules and have lower melting and boiling points [ ].  Nonpolar molecules however, interact through weak van der Waals forces, which are caused by temporary fluctuations in electron density that create a temporary dipole moment. In contrast, partial positive and negative charges on different parts of the polar molecule allow polar molecules to form strong electrostatic attractions with other polar or nonpolar molecules or ions [ ].   "
+  "body": " Crystalline Solids    Crystal structure of Solids    Diamond     Graphite     Metallic Solid     Molecular Solid      On the basis of chemical bonding there are four main types of crystalline solids:   Ionic solids: These solids are made up of positively charged ions and negatively charged ions held together by electrostatic forces. These molecules are hard and posses high melting point. Examples include sodium chloride (NaCl) and calcium fluoride [ ].   Covalent solids: These solids are made up of atoms held together by covalent bonds. These molecules are very hard and posses very high melting point. Examples include diamond [ ] and graphite [ ].   Metallic solids: These solids are made up of metal atoms held together by metallic bonds. These molecules can be deformed, have metallic luster, high electrical and thermal conductivity. Examples include copper, iron, and gold. [ ]   Molecular solids: These solids are made up of molecules held together by intermolecular forces such as hydrogen bonds, van der Waals forces, and dipole-dipole interactions. These molecules are soft and posses low melting point. Examples include ice and solid carbon dioxide [ ].      Polar & Nonploar Molecules   Polar and nonpolar molecules    Polar-polar interaction     Polar-nonpolar interaction     Nonpolar-nonpolar interaction      A polar molecule has none symmetrical distribution of electrons between its atoms resulting in a permanent dipole moment. This means that the molecule has a partial positive charge at one end and a partial negative charge at the other end. The polarity of a molecule is determined by the difference in electronegativity between the atoms that make up the molecule. If the electronegativity difference is large enough, the molecule will be polar. Examples of polar molecules include water , ammonia , and hydrogen chloride . Polar molecules are important in many biological and chemical processes, including the formation of hydrogen bonds, the solubility of molecules in water, and the function of enzymes. Polar molecules attract each other due to the presence of partial positive and partial negative charges on opposite ends of the molecule. This attraction is known as a dipole-dipole interaction [ ].  A nonpolar molecule has no separation of charge, meaning that the electrons are shared equally between the atoms in the molecule. This occurs when the electronegativity difference between the atoms in the molecule is zero or very small. Examples of nonpolar molecules include: carbon dioxide , methane , ethane , nitrogen gas , oxygen gas , benzene . These molecules do not have a positive or negative pole, which means that they do not have a permanent dipole moment. Nonpolar molecules are generally less reactive than polar molecules and have lower melting and boiling points [ ].  Nonpolar molecules however, interact through weak van der Waals forces, which are caused by temporary fluctuations in electron density that create a temporary dipole moment. In contrast, partial positive and negative charges on different parts of the polar molecule allow polar molecules to form strong electrostatic attractions with other polar or nonpolar molecules or ions [ ].   \"Like dissolves like\" is a principle in chemistry that states that substances with similar polarities and intermolecular forces tend to dissolve in each other. In other words, a solvent will dissolve a solute if the intermolecular forces between the solvent and solute molecules are similar. Polar molecules have an uneven distribution of electrons and have a partial positive and partial negative charge. Nonpolar molecules have an even distribution of electrons and do not have a net electrical charge. When a polar solute is added to a polar solvent, the polar molecules of the solute interact with the polar molecules of the solvent through intermolecular forces, such as hydrogen bonding or dipole-dipole interactions. This makes it easier for the solute to dissolve in the solvent. Similarly, when a nonpolar solute is added to a nonpolar solvent, the nonpolar molecules of the solute interact with the nonpolar molecules of the solvent through van der Waals forces, making it easier for the solute to dissolve in the solvent. On the other hand, if a polar solute is added to a nonpolar solvent, or vice versa, the polar and nonpolar molecules do not interact as easily, and the solute may not dissolve in the solvent. For example: sugar (a polar solute) does not dissolve well in oil (a nonpolar solvent) because their polarities do not match. Oil (a nonpolar solute) does not dissolve well in water (a polar solvent) because their polarities do not match. Water can be an effective cleaning agent for removing certain types of dirt, such as dust or mud, from surfaces like floors, walls, or furniture. However, if the dirt is greasy or oily, water alone may not be enough to remove it, and additional cleaning agents or solvents (such as soap) may be needed.   "
 },
 {
   "id": "figure-77",
@@ -2836,9 +2881,9 @@ var ptx_lunr_docs = [
   "body": " Crystal structure of Solids    Diamond     Graphite     Metallic Solid     Molecular Solid     "
 },
 {
-  "id": "p-603",
+  "id": "p-611",
   "level": "2",
-  "url": "sec_ninth-intro.html#p-603",
+  "url": "sec_ninth-intro.html#p-611",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2854,18 +2899,18 @@ var ptx_lunr_docs = [
   "body": " Polar and nonpolar molecules    Polar-polar interaction     Polar-nonpolar interaction     Nonpolar-nonpolar interaction     "
 },
 {
-  "id": "p-604",
+  "id": "p-612",
   "level": "2",
-  "url": "sec_ninth-intro.html#p-604",
+  "url": "sec_ninth-intro.html#p-612",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "polar "
 },
 {
-  "id": "p-605",
+  "id": "p-613",
   "level": "2",
-  "url": "sec_ninth-intro.html#p-605",
+  "url": "sec_ninth-intro.html#p-613",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2878,7 +2923,52 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.2",
   "title": "Solution",
-  "body": " Solution      "
+  "body": " Solution   A solution is a homogeneous mixture composed of two or more substances. The substance that dissolves is called the solute , and the substance that does the dissolving is called the solvent . When the solute dissolves in the solvent, the resulting solution is a uniform mixture, called solution.  Solubility is the ability of a substance to dissolve in a solvent to form a solution. The solubility of a substance depends on various factors such as temperature, pressure, and the nature of the solute and solvent. In general, \" like dissolves like ,\" meaning that substances with similar chemical properties tend to dissolve in each other. The amount of solute that can dissolve in a given amount of solvent is limited by the solubility of the solute in the solvent. When a solution contains the maximum amount of solute that can dissolve in the solvent at a given temperature and pressure, is said to be a saturated solution. If more solute is added to a saturated solution, it will not dissolve and will form a separate phase, such as a solid precipitate or gas bubbles.   Concentration: The concentration of a solution is the amount of solute dissolved in a specific amount of solvent or solution. The term \"saturated\" and \"unsaturated\" are used to describe the concentration of solute in a solution. A saturated solution contains maximum amount of solute that can dissolve in a given solvent at a particular temperature and pressure. No more solute can be dissolved in the solvent of the saturated solution without increasing the temperature or pressure. Any additional solute added to the solution will not dissolve and will remain as a solid. On the other hand, an unsaturated solution contains less than the maximum amount of solute that can dissolve in a given solvent at a particular temperature and pressure. In an unsaturated solution, more solute can be added and dissolved in the solvent. It's important to note that a solution can also be supersaturated , which means it contains more solute than what can theoretically be dissolved at a given temperature and pressure. Supersaturated solutions are not stable and can spontaneously crystallize, forming a precipitate, or solid, out of excess solute.   Solubility of various solutes in water.      Types of Solution  There are several types of solutions, based on their composition and properties. Here are some common types of solutions:   Homogeneous solutions: These are solutions that have uniform composition and properties throughout. The solute particles are evenly distributed in the solvent. Examples include saltwater, sugar water, and ethanol-water mixtures.   Heterogeneous solutions: These are solutions that have non-uniform composition and properties. The solute particles are not evenly distributed in the solvent. Examples include suspensions, emulsions, and colloids.   Dilute solutions: These are solutions that have a low concentration of solute. The amount of solute is relatively small compared to the amount of solvent. Examples include a drop of food coloring in a glass of water or a pinch of salt in a pot of soup.   Concentrated solutions: These are solutions that have a high concentration of solute. The amount of solute is relatively large compared to the amount of solvent. Examples include concentrated sulfuric acid, concentrated sodium hydroxide, and concentrated ammonia solutions.   Saturated solutions: These are solutions that contain the maximum amount of solute that can dissolve in a given amount of solvent at a particular temperature and pressure. Any additional solute added to the solution will not dissolve and will remain as a solid. Examples include sugar-water solutions and saltwater solutions.   Unsaturated solutions: These are solutions that contain less than the maximum amount of solute that can dissolve in a given amount of solvent at a particular temperature and pressure. More solute can be added to the solution and dissolved. Examples include weak tea and weak coffee.   Supersaturated solutions: These are solutions that contain more solute than what can theoretically dissolve at a given temperature and pressure. These solutions are not stable and can spontaneously crystallize, forming a precipitate or solid out of excess solute. Examples include supersaturated sugar-water solutions and supersaturated sodium acetate solutions.    There are also several types of solutions based on the phases of the solute and solvent. Here are some common types of solutions:   Solid-solid solutions: It is also known as solid solutions or alloys, are homogeneous mixtures of two or more solid elements or compounds. In a solid solution, the atoms of one component are dispersed uniformly throughout the crystal lattice of the other component, resulting in a single, continuous phase. Examples of solid-solid solutions include brass, which is an alloy of copper and zinc; steel, which is an alloy of iron and carbon; and bronze, which is an alloy of copper and tin.   Liquid-liquid solutions: These are solutions in which the solute and solvent are both liquids. Examples include milk in water, ethanol in water, and benzene in toluene.   Gas-liquid solutions: also known as gas solutions. These are solutions in which the solute is a gas that dissolves in a liquid solvent. Examples include cold drink, carbon dioxide in water, oxygen in blood, and nitrogen in beer.   Solid-liquid solutions: Here solid is solute and liquid is solvent. For example: salt water solution, sugar water solution.     "
+},
+{
+  "id": "p-616",
+  "level": "2",
+  "url": "sec_ninth-solut.html#p-616",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "solution solute solvent Solubility saturated "
+},
+{
+  "id": "p-617",
+  "level": "2",
+  "url": "sec_ninth-solut.html#p-617",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Concentration: saturated unsaturated supersaturated "
+},
+{
+  "id": "fig-solubility",
+  "level": "2",
+  "url": "sec_ninth-solut.html#fig-solubility",
+  "type": "Figure",
+  "number": "9.2.1",
+  "title": "",
+  "body": " Solubility of various solutes in water.   "
+},
+{
+  "id": "p-618",
+  "level": "2",
+  "url": "sec_ninth-solut.html#p-618",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Homogeneous solutions: Heterogeneous solutions: Dilute solutions: Concentrated solutions: Saturated solutions: Unsaturated solutions: Supersaturated solutions: "
+},
+{
+  "id": "p-619",
+  "level": "2",
+  "url": "sec_ninth-solut.html#p-619",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Solid-solid solutions: Liquid-liquid solutions: Gas-liquid solutions: Solid-liquid solutions: "
 },
 {
   "id": "sec_ninth-acidbase",
@@ -2899,9 +2989,9 @@ var ptx_lunr_docs = [
   "body": " Examples            "
 },
 {
-  "id": "example-107",
+  "id": "example-108",
   "level": "2",
-  "url": "sec_ninth-examples.html#example-107",
+  "url": "sec_ninth-examples.html#example-108",
   "type": "Example",
   "number": "9.4.1",
   "title": "",
@@ -2931,8 +3021,8 @@ var ptx_lunr_docs = [
   "url": "ch_tenth.html",
   "type": "Chapter",
   "number": "10",
-  "title": "Chemical Reactions",
-  "body": " Chemical Reactions   Try adding your own content here!   "
+  "title": "The Atmosphere",
+  "body": " The Atmosphere   Try adding your own content here!   "
 },
 {
   "id": "ch_eleventh",
@@ -2940,8 +3030,17 @@ var ptx_lunr_docs = [
   "url": "ch_eleventh.html",
   "type": "Chapter",
   "number": "11",
-  "title": "The Atmosphere",
-  "body": " The Atmosphere   Try adding your own content here!   "
+  "title": "The Earth",
+  "body": " The Earth     The Globe    The Earth     Earth map       "
+},
+{
+  "id": "figure-87",
+  "level": "2",
+  "url": "ch_eleventh.html#figure-87",
+  "type": "Figure",
+  "number": "11.0.1",
+  "title": "",
+  "body": "  The Globe    The Earth     Earth map     "
 },
 {
   "id": "ch_twelvth",
@@ -2949,17 +3048,8 @@ var ptx_lunr_docs = [
   "url": "ch_twelvth.html",
   "type": "Chapter",
   "number": "12",
-  "title": "The Earth",
-  "body": " The Earth   your own content here!>    The Globe    The Earth     Earth map       "
-},
-{
-  "id": "figure-86",
-  "level": "2",
-  "url": "ch_twelvth.html#figure-86",
-  "type": "Figure",
-  "number": "12.0.1",
-  "title": "",
-  "body": "  The Globe    The Earth     Earth map     "
+  "title": "The Solar System",
+  "body": " The Solar System   your own content here!>   "
 },
 {
   "id": "ch_thirteenth",
@@ -2967,8 +3057,8 @@ var ptx_lunr_docs = [
   "url": "ch_thirteenth.html",
   "type": "Chapter",
   "number": "13",
-  "title": "The Solar System",
-  "body": " The Solar System   Try adding your own content here!   "
+  "title": "The Stars",
+  "body": " The Stars   Try adding your own content here!   "
 },
 {
   "id": "ch_fourteenth",
@@ -2976,15 +3066,6 @@ var ptx_lunr_docs = [
   "url": "ch_fourteenth.html",
   "type": "Chapter",
   "number": "14",
-  "title": "The Stars",
-  "body": " The Stars   Try adding your own content here!   "
-},
-{
-  "id": "ch_fifteenth",
-  "level": "1",
-  "url": "ch_fifteenth.html",
-  "type": "Chapter",
-  "number": "15",
   "title": "The Universe",
   "body": " The Universe   Try adding your own content here!   "
 },
@@ -2993,7 +3074,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec_features-blocks.html",
   "type": "Section",
-  "number": "16.1",
+  "number": "15.1",
   "title": "Environments and Blocks",
   "body": " Environments and Blocks  Some text   My Theorem   Theorem statement.    Proof of theorem.      Statement of example    The solution.    Now a figure.   A frog   A nice-looking frog with a longish description.    "
 },
@@ -3002,25 +3083,25 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec_features-blocks.html#thm_features-blocks-my-theorem",
   "type": "Theorem",
-  "number": "16.1.1",
+  "number": "15.1.1",
   "title": "My Theorem.",
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-108",
+  "id": "example-109",
   "level": "2",
-  "url": "sec_features-blocks.html#example-108",
+  "url": "sec_features-blocks.html#example-109",
   "type": "Example",
-  "number": "16.1.2",
+  "number": "15.1.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-89",
+  "id": "figure-90",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-89",
+  "url": "sec_features-blocks.html#figure-90",
   "type": "Figure",
-  "number": "16.1.3",
+  "number": "15.1.3",
   "title": "",
   "body": " A frog   A nice-looking frog with a longish description.   "
 },
