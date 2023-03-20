@@ -3004,7 +3004,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.3",
   "title": "Acids and Base",
-  "body": " Acids and Base   Acids and bases are two types of chemical compounds that have unique properties and behavior. Acids are compounds that have a high concentration of hydrogen ions , which they release when they are dissolved in water. Bases , on the other hand, have a high concentration of hydroxide ions , which they release when they are dissolved in water.  Acid dissociates into hydrogen ion when dissolve in water.    Base dissociates into hydroxide ion when dissolve in water.  Acids can be classified as either weak or strong, depending on their ability to dissociate in water. A strong acid is an acid that completely dissociates in water, meaning that all of its molecules break apart into ions. Examples of strong acids include hydrochloric acid , sulfuric acid , and nitric acid . These acids have a very low pH and are highly reactive. A weak acid , on the other hand, only partially dissociates in water, meaning that only a small fraction of its molecules break apart into ions. Examples of weak acids include acetic acid , formic acid , and citric acid . These acids have a higher pH than strong acids and are less reactive. The strength of an acid is determined by its dissociation constant (Ka), which is a measure of how easily the acid donates a proton to water. A high Ka value indicates a strong acid, while a low Ka value indicates a weak acid. Explanation of dissociation constant (Ka) is out of the course requirement here.   A base is a substance that can accept a proton from another substance or donate a hydroxide ion to another substance. Bases can be classified as either strong or weak, depending on their ability to dissociate in water. A strong base is a base that completely dissociates in water, meaning that all of its molecules break apart into ions. Examples of strong bases include sodium hydroxide , potassium hydroxide , and calcium hydroxide . These bases have a very high pH and are highly reactive. A weak base , on the other hand, only partially dissociates in water, meaning that only a small fraction of its molecules break apart into ions. Examples of weak bases include ammonia , pyridine , and trimethylamine . These bases have a lower pH than strong bases and are less reactive. The strength of a base is determined by its dissociation constant (Kb), which is a measure of how easily the base accepts a proton from water. A high Kb value indicates a strong base, while a low Kb value indicates a weak base. Explanation of dissociation constant (Kb) is out of the course requirement here.     The pH Scale   pH scale    One of the most important properties of acids and bases is their level. The pH scale is a measurement system used to describe the acidity or basicity (alkalinity) of a solution. It is a logarithmic scale that ranges from 0 to 14, with 7 being neutral . A solution with a pH less than 7 is considered acidic , while a solution with a pH greater than 7 is considered basic (alkaline). The strength of an acid or base depends on its ability to release or accept hydrogen ions. Each unit on the pH scale represents a tenfold difference in acidity or basicity. For example, a solution with a pH of 4 is ten times more acidic than a solution with a pH of 5, and 100 times more acidic than a solution with a pH of 6. Similarly, a solution with a pH of 10 is ten times more basic than a solution with a pH of 9, and 100 times more basic than a solution with a pH of 8. The pH scale is important in many scientific fields, including chemistry, biology, and environmental science. It is used to measure the acidity or basicity of substances such as water, soil, and blood.  The hydronium ion , also known as the oxonium ion, is a positively charged ion with the chemical formula . It is formed when a water molecule, , accepts a hydrogen ion, , from an acid. The hydronium ion is an important species in acid-base chemistry because it represents the acidic character of a solution. In aqueous solutions, the concentration of hydronium ions determines the pH of the solution. Solutions with a high concentration of hydronium ions have a low pH and are considered acidic, while solutions with a low concentration of hydronium ions have a high pH and are considered basic (alkaline). Hydronium ion can act as a proton donor (acid) or proton acceptor (base) in chemical reactions, making it an important species in acid-base catalysis. Pure water has some contents of hydronium ion when it dissociates but these ions recombines also very fast, hence, pure water is neutral and has pH scale of 7. Since hydroxide ion, attract ion strongly there is reverse reaction keep happening in water Thus we can write     Salts  An acid-base reaction is a chemical reaction that occurs between an acid and a base. In this type of reaction, the acid donates a proton (H+) to the base, which accepts the proton. This results in the formation of a new compound that is neither acidic nor basic in nature. Neutralization is a specific type of acid-base reaction where an acid and a base react to form a salt and water. The salt formed is composed of the cation of the base and the anion of the acid, and it is typically a neutral compound. For example, when hydrochloric acid (HCl) reacts with sodium hydroxide (NaOH), the following reaction takes place: In this reaction, HCl is the acid, NaOH is the base, NaCl is the salt, and is the water that is formed. The resulting solution is neutral because the and ions from the acid and base, respectively, have combined to form water, leaving behind only the and ions from the salt. Table salt , Epsom salt , Gypsom salt , Baking soda are some examples of salt.   "
+  "body": " Acids and Base   Acids and bases are two types of chemical compounds that have unique properties and behavior. Acids are compounds that have a high concentration of hydrogen ions , which they release when they are dissolved in water. Acid tests sour. (It is compeletely prohibited to test any liquid in the laboratory.) Orange, lemon, tomato, tamarind, and grapefruit are sour and contain acid in their juice. Bases , on the other hand, have a high concentration of hydroxide ions , which they release when they are dissolved in water. Base also known as Alkali tests bitter. Cucumber, asparagus, garlic, yam, broccoli, and fish slime are alkaline.  Acid dissociates into hydrogen ion when dissolve in water.    Base dissociates into hydroxide ion when dissolve in water.  Acids can be classified as either weak or strong, depending on their ability to dissociate in water. A strong acid is an acid that completely dissociates in water, meaning that all of its molecules break apart into ions. Examples of strong acids include hydrochloric acid , sulfuric acid , and nitric acid . These acids have a very low pH and are highly reactive. A weak acid , on the other hand, only partially dissociates in water, meaning that only a small fraction of its molecules break apart into ions. Examples of weak acids include acetic acid , formic acid , and citric acid . These acids have a higher pH than strong acids and are less reactive. The strength of an acid is determined by its dissociation constant (Ka), which is a measure of how easily the acid donates a proton to water. A high Ka value indicates a strong acid, while a low Ka value indicates a weak acid. Explanation of dissociation constant (Ka) is out of the course requirement here.   A base is a substance that can accept a proton from another substance or donate a hydroxide ion to another substance. Bases can be classified as either strong or weak, depending on their ability to dissociate in water. A strong base is a base that completely dissociates in water, meaning that all of its molecules break apart into ions. Examples of strong bases include sodium hydroxide , potassium hydroxide , and calcium hydroxide . These bases have a very high pH and are highly reactive. A weak base , on the other hand, only partially dissociates in water, meaning that only a small fraction of its molecules break apart into ions. Examples of weak bases include ammonia , pyridine , and trimethylamine . These bases have a lower pH than strong bases and are less reactive. The strength of a base is determined by its dissociation constant (Kb), which is a measure of how easily the base accepts a proton from water. A high Kb value indicates a strong base, while a low Kb value indicates a weak base. Explanation of dissociation constant (Kb) is out of the course requirement here.     The pH Scale   pH scale    One of the most important properties of acids and bases is their level. The pH scale is a measurement system used to describe the acidity or basicity (alkalinity) of a solution. It is a logarithmic scale that ranges from 0 to 14, with 7 being neutral . A solution with a pH less than 7 is considered acidic , while a solution with a pH greater than 7 is considered basic (alkaline). The strength of an acid or base depends on its ability to release or accept hydrogen ions. Each unit on the pH scale represents a tenfold difference in acidity or basicity. For example, a solution with a pH of 4 is ten times more acidic than a solution with a pH of 5, and 100 times more acidic than a solution with a pH of 6. Similarly, a solution with a pH of 10 is ten times more basic than a solution with a pH of 9, and 100 times more basic than a solution with a pH of 8. The pH scale is important in many scientific fields, including chemistry, biology, and environmental science. It is used to measure the acidity or basicity of substances such as water, soil, and blood.  The hydronium ion , also known as the oxonium ion, is a positively charged ion with the chemical formula . It is formed when a water molecule, , accepts a hydrogen ion, , from an acid. The hydronium ion is an important species in acid-base chemistry because it represents the acidic character of a solution. In aqueous solutions, the concentration of hydronium ions determines the pH of the solution. Solutions with a high concentration of hydronium ions have a low pH and are considered acidic, while solutions with a low concentration of hydronium ions have a high pH and are considered basic (alkaline). Hydronium ion can act as a proton donor (acid) or proton acceptor (base) in chemical reactions, making it an important species in acid-base catalysis. Pure water has some contents of hydronium ion when it dissociates but these ions recombines also very fast, hence, pure water is neutral and has pH scale of 7. Since hydroxide ion, attract ion strongly there is reverse reaction keep happening in water Thus we can write     Salts  An acid-base reaction is a chemical reaction that occurs between an acid and a base. In this type of reaction, the acid donates a proton (H+) to the base, which accepts the proton. This results in the formation of a new compound that is neither acidic nor basic in nature. Neutralization is a specific type of acid-base reaction where an acid and a base react to form a salt and water. The salt formed is composed of the cation of the base and the anion of the acid, and it is typically a neutral compound. For example, when hydrochloric acid (HCl) reacts with sodium hydroxide (NaOH), the following reaction takes place: In this reaction, HCl is the acid, NaOH is the base, NaCl is the salt, and is the water that is formed. The resulting solution is neutral because the and ions from the acid and base, respectively, have combined to form water, leaving behind only the and ions from the salt. Table salt , Epsom salt , Gypsom salt , Baking soda are some examples of salt.   "
 },
 {
   "id": "p-624",
@@ -3166,7 +3166,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "9.5",
   "title": "Exercises",
-  "body": "  Exercises   The solubility of solid dissolved in a liquid increases with  increase of temperature.  decrease of temperature.  temperature does not effect solubility.  None of the above.     Dissolving a solute in a liquid  increases the freezing point of liquid.  decreases the freezing point of liquid.  does not the freezing point.  does any of the above, depending on the substance involved.    "
+  "body": "  Exercises   The solubility of solid dissolved in a liquid increases with  increase of temperature.  decrease of temperature.  temperature does not effect solubility.  None of the above.     Dissolving a solute in a liquid  increases the freezing point of liquid.  decreases the freezing point of liquid.  does not the freezing point.  does any of the above, depending on the substance involved.    Which of the following statements is true concerning acids and bases?  acids and bases don't react with each other.  acids mixed with bases neutralize each other.  acids mixed with bases make stronger bases.  acids mixed with bases make stronger acids.    True or false: bases are sometimes called alkalis.  True.  False.    Which is true?  pH of less than 7 is basic; pH of more than 7 is acidic.  pH of less than 7 is acidic; pH of more than 7 is basic.    Which substance completely dissociates in water?  Weak acids.  Strong acids.    "
 },
 {
   "id": "exercise-80",
@@ -3187,13 +3187,121 @@ var ptx_lunr_docs = [
   "body": "Dissolving a solute in a liquid  increases the freezing point of liquid.  decreases the freezing point of liquid.  does not the freezing point.  does any of the above, depending on the substance involved.   "
 },
 {
-  "id": "ch_tenth",
+  "id": "exercise-82",
+  "level": "2",
+  "url": "ex_ninth.html#exercise-82",
+  "type": "Exercise",
+  "number": "9.5.3",
+  "title": "",
+  "body": "Which of the following statements is true concerning acids and bases?  acids and bases don't react with each other.  acids mixed with bases neutralize each other.  acids mixed with bases make stronger bases.  acids mixed with bases make stronger acids.   "
+},
+{
+  "id": "exercise-83",
+  "level": "2",
+  "url": "ex_ninth.html#exercise-83",
+  "type": "Exercise",
+  "number": "9.5.4",
+  "title": "",
+  "body": "True or false: bases are sometimes called alkalis.  True.  False.   "
+},
+{
+  "id": "exercise-84",
+  "level": "2",
+  "url": "ex_ninth.html#exercise-84",
+  "type": "Exercise",
+  "number": "9.5.5",
+  "title": "",
+  "body": "Which is true?  pH of less than 7 is basic; pH of more than 7 is acidic.  pH of less than 7 is acidic; pH of more than 7 is basic.   "
+},
+{
+  "id": "exercise-85",
+  "level": "2",
+  "url": "ex_ninth.html#exercise-85",
+  "type": "Exercise",
+  "number": "9.5.6",
+  "title": "",
+  "body": "Which substance completely dissociates in water?  Weak acids.  Strong acids.   "
+},
+{
+  "id": "sec_tenth-intro",
   "level": "1",
-  "url": "ch_tenth.html",
-  "type": "Chapter",
-  "number": "10",
-  "title": "The Atmosphere",
-  "body": " The Atmosphere   Try adding your own content here!   "
+  "url": "sec_tenth-intro.html",
+  "type": "Section",
+  "number": "10.1",
+  "title": "Ozone",
+  "body": " Ozone    Ozone molecule     Ozone is a molecule composed of three oxygen atoms and is an important component of the Earth's atmosphere. It is a highly reactive gas and is often referred to as a \"reactive oxygen species\". Ozone plays an essential role in absorbing and filtering harmful ultraviolet radiation from the sun, which can damage living organisms and cause skin cancer and other health problems. The ozonosphere , also known as the ozone layer, is a region of the Earth's stratosphere that contains a high concentration of ozone. It is located approximately 10 to 50 kilometers above the Earth's surface and is responsible for absorbing most of the sun's harmful ultraviolet (UV) radiation before it reaches the Earth's surface. The depletion of the ozone layer, caused by the release of chlorofluorocarbons (CFCs) and other pollutants into the atmosphere, is a significant environmental concern. The reduction of the ozone layer has been linked to an increase in skin cancer, cataracts, and other health problems, as well as changes in global weather patterns. Many countries have taken steps to reduce the use of ozone-depleting substances and to protect the ozone layer.  The formation of ozone in the Earth's atmosphere occurs through a complex reactions of oxygen molecules and a variety of other compounds. One of the most important reactions involved in the formation of ozone is the photodissociation of oxygen molecules by ultraviolet (UV) radiation: The resulting oxygen atoms (O) then react with other oxygen molecules to form ozone: In this reaction, some third molecule must collide with the oxygen atoms to stabilize the reaction. Nitrogen molecules are the most common third molecule in the Earth's atmosphere. The formation of ozone is a delicate balance between the production and destruction of ozone molecules. Ozone can also be destroyed through chemical reactions involving other compounds such as nitrogen oxides (NOx) and chlorine compounds (Cl), which can be released from human activities such as fossil fuel combustion and the use of certain chemicals. This is why it is important to monitor and regulate the release of these substances to prevent the depletion of the ozone layer.    Ozone Hole  The ozone hole refers to a severe depletion of the ozone layer in the Earth's atmosphere over the Antarctic region, which occurs annually during September to November. The depletion is caused by the release of man-made chemicals, particularly chlorofluorocarbons (CFCs), hydrofluorocarbons (HFCs), and other halogenated gases that have been used in refrigeration, air conditioning, and other industrial applications. These chemicals are transported into the upper atmosphere, where they are broken down by ultraviolet radiation from the sun, releasing chlorine and bromine atoms. These atoms then react with ozone molecules, breaking them down into oxygen molecules and causing a significant depletion of the ozone layer.  The most important reaction that leads to the depletion of ozone is as follows: The chlorine radical (Cl·) produced in the above reaction reacts with ozone as follows: The ClO· radical then reacts with another oxygen molecule to form more chlorine radicals: The chlorine radical produced in the second reaction then repeats the cycle, reacting with more ozone molecules to produce more chlorine radicals. This cycle continues until a large amount of ozone has been depleted. Another reaction that can also lead to ozone depletion involves bromine compounds, such as halons and methyl bromide, which are also released into the atmosphere from human activities.  The bromine radical (Br·) produced in the first reaction then reacts with more ozone molecules, leading to further ozone depletion. These reactions are of particular concern because they can destroy large amounts of ozone in a short period of time.   "
+},
+{
+  "id": "fig-ozone",
+  "level": "2",
+  "url": "sec_tenth-intro.html#fig-ozone",
+  "type": "Figure",
+  "number": "10.1.1",
+  "title": "",
+  "body": " Ozone molecule   "
+},
+{
+  "id": "p-659",
+  "level": "2",
+  "url": "sec_tenth-intro.html#p-659",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Ozone ozonosphere "
+},
+{
+  "id": "p-661",
+  "level": "2",
+  "url": "sec_tenth-intro.html#p-661",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "ozone hole "
+},
+{
+  "id": "sec_tenth-seasons",
+  "level": "1",
+  "url": "sec_tenth-seasons.html",
+  "type": "Section",
+  "number": "10.2",
+  "title": "The Seasons",
+  "body": " The Seasons      "
+},
+{
+  "id": "sec_tenth-examples",
+  "level": "1",
+  "url": "sec_tenth-examples.html",
+  "type": "Section",
+  "number": "10.3",
+  "title": "Examples",
+  "body": " Examples    Why carbon dioxide solution is acidic?        "
+},
+{
+  "id": "example-117",
+  "level": "2",
+  "url": "sec_tenth-examples.html#example-117",
+  "type": "Example",
+  "number": "10.3.1",
+  "title": "",
+  "body": "  Why carbon dioxide solution is acidic?       "
+},
+{
+  "id": "ex_tenth",
+  "level": "1",
+  "url": "ex_tenth.html",
+  "type": "Exercises",
+  "number": "10.4",
+  "title": "Exercises",
+  "body": "  Exercises      "
+},
+{
+  "id": "exercise-86",
+  "level": "2",
+  "url": "ex_tenth.html#exercise-86",
+  "type": "Exercise",
+  "number": "10.4.1",
+  "title": "",
+  "body": "   "
 },
 {
   "id": "ch_eleventh",
@@ -3205,9 +3313,9 @@ var ptx_lunr_docs = [
   "body": " The Earth     The Globe    The Earth     Earth map       "
 },
 {
-  "id": "figure-88",
+  "id": "figure-93",
   "level": "2",
-  "url": "ch_eleventh.html#figure-88",
+  "url": "ch_eleventh.html#figure-93",
   "type": "Figure",
   "number": "11.0.1",
   "title": "",
@@ -3259,18 +3367,18 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-117",
+  "id": "example-118",
   "level": "2",
-  "url": "sec_features-blocks.html#example-117",
+  "url": "sec_features-blocks.html#example-118",
   "type": "Example",
   "number": "15.1.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-91",
+  "id": "figure-96",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-91",
+  "url": "sec_features-blocks.html#figure-96",
   "type": "Figure",
   "number": "15.1.3",
   "title": "",
