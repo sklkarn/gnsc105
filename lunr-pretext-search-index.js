@@ -3229,7 +3229,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.1",
   "title": "Ozone",
-  "body": " Ozone    Ozone molecule     Ozone is a molecule composed of three oxygen atoms and is an important component of the Earth's atmosphere. It is a highly reactive gas and is often referred to as a \"reactive oxygen species\". Ozone plays an essential role in absorbing and filtering harmful ultraviolet radiation from the sun, which can damage living organisms and cause skin cancer and other health problems. The ozonosphere , also known as the ozone layer, is a region of the Earth's stratosphere that contains a high concentration of ozone. It is located approximately 10 to 50 kilometers above the Earth's surface and is responsible for absorbing most of the sun's harmful ultraviolet (UV) radiation before it reaches the Earth's surface. The depletion of the ozone layer, caused by the release of chlorofluorocarbons (CFCs) and other pollutants into the atmosphere, is a significant environmental concern. The reduction of the ozone layer has been linked to an increase in skin cancer, cataracts, and other health problems, as well as changes in global weather patterns. Many countries have taken steps to reduce the use of ozone-depleting substances and to protect the ozone layer.  The formation of ozone in the Earth's atmosphere occurs through a complex reactions of oxygen molecules and a variety of other compounds. One of the most important reactions involved in the formation of ozone is the photodissociation of oxygen molecules by ultraviolet (UV) radiation: The resulting oxygen atoms (O) then react with other oxygen molecules to form ozone: In this reaction, some third molecule must collide with the oxygen atoms to stabilize the reaction. Nitrogen molecules are the most common third molecule in the Earth's atmosphere. The formation of ozone is a delicate balance between the production and destruction of ozone molecules. Ozone can also be destroyed through chemical reactions involving other compounds such as nitrogen oxides (NOx) and chlorine compounds (Cl), which can be released from human activities such as fossil fuel combustion and the use of certain chemicals. This is why it is important to monitor and regulate the release of these substances to prevent the depletion of the ozone layer.    Ozone Hole  The ozone hole refers to a severe depletion of the ozone layer in the Earth's atmosphere over the Antarctic region, which occurs annually during September to November. The depletion is caused by the release of man-made chemicals, particularly chlorofluorocarbons (CFCs), hydrofluorocarbons (HFCs), and other halogenated gases that have been used in refrigeration, air conditioning, and other industrial applications. These chemicals are transported into the upper atmosphere, where they are broken down by ultraviolet radiation from the sun, releasing chlorine and bromine atoms. These atoms then react with ozone molecules, breaking them down into oxygen molecules and causing a significant depletion of the ozone layer.  The most important reaction that leads to the depletion of ozone is as follows: The chlorine radical (Cl·) produced in the above reaction reacts with ozone as follows: The ClO· radical then reacts with another oxygen molecule to form more chlorine radicals: The chlorine radical produced in the second reaction then repeats the cycle, reacting with more ozone molecules to produce more chlorine radicals. This cycle continues until a large amount of ozone has been depleted. Another reaction that can also lead to ozone depletion involves bromine compounds, such as halons and methyl bromide, which are also released into the atmosphere from human activities.  The bromine radical (Br·) produced in the first reaction then reacts with more ozone molecules, leading to further ozone depletion. These reactions are of particular concern because they can destroy large amounts of ozone in a short period of time.   "
+  "body": " Ozone    Ozone molecule     Ozone is a molecule composed of three oxygen atoms and is an important component of the Earth's atmosphere. It is a highly reactive gas and is often referred to as a \"reactive oxygen species\". Ozone plays an essential role in absorbing and filtering harmful ultraviolet radiation from the sun, which can damage living organisms and cause skin cancer and other health problems. The ozonosphere , also known as the ozone layer, is a region of the Earth's stratosphere that contains a high concentration of ozone. It is located approximately 10 to 50 kilometers above the Earth's surface and is responsible for absorbing most of the sun's harmful ultraviolet (UV) radiation before it reaches the Earth's surface. The depletion of the ozone layer, caused by the release of chlorofluorocarbons (CFCs) and other pollutants into the atmosphere, is a significant environmental concern. The reduction of the ozone layer has been linked to an increase in skin cancer, cataracts, and other health problems, as well as changes in global weather patterns. Many countries have taken steps to reduce the use of ozone-depleting substances and to protect the ozone layer.  The formation of ozone in the Earth's atmosphere occurs through a complex reactions of oxygen molecules and a variety of other compounds. One of the most important reactions involved in the formation of ozone is the photodissociation of oxygen molecules by ultraviolet (UV) radiation: The resulting oxygen atoms (O) then react with other oxygen molecules to form ozone: In this reaction, some third molecule must collide with the oxygen atoms to stabilize the reaction. Nitrogen molecules are the most common third molecule in the Earth's atmosphere. The formation of ozone is a delicate balance between the production and destruction of ozone molecules. Ozone can also be destroyed through chemical reactions involving other compounds such as nitrogen oxides (NOx) and chlorine compounds (Cl), which can be released from human activities such as fossil fuel combustion and the use of certain chemicals. This is why it is important to monitor and regulate the release of these substances to prevent the depletion of the ozone layer.    Ozone Hole  The ozone hole refers to a severe depletion of the ozone layer in the Earth's atmosphere over the Antarctic region, which occurs annually during September to November. The depletion is caused by the release of man-made chemicals, particularly chlorofluorocarbons (CFCs), hydrofluorocarbons (HFCs), and other halogenated gases that have been used in refrigeration, air conditioning, and other industrial applications. These chemicals are transported into the upper atmosphere, where they are broken down by ultraviolet radiation from the sun, releasing chlorine and bromine atoms. These atoms then react with ozone molecules, breaking them down into oxygen molecules and causing a significant depletion of the ozone layer.  The most important reaction that leads to the depletion of ozone is as follows: The chlorine radical (Cl·) produced in the above reaction reacts with ozone as follows: The ClO· radical then reacts with another oxygen molecule to form more chlorine radicals: The chlorine radical produced in the second reaction then repeats the cycle, reacting with more ozone molecules to produce more chlorine radicals. This cycle continues until a large amount of ozone has been depleted. Another reaction that can also lead to ozone depletion involves bromine compounds, such as halons and methyl bromide, which are also released into the atmosphere from human activities.  The bromine radical (Br·) produced in the first reaction then reacts with more ozone molecules, leading to further ozone depletion. These reactions are of particular concern because they can destroy large amounts of ozone in a short period of time.    Hydrosphere  The hydrosphere is the part of Earth's surface where water exists, including oceans, rivers, lakes, groundwater, and other bodies of water. It plays a crucial role in  Maintaining Earth's Climate: The oceans absorb, store, and release heat, which helps regulate the Earth's temperature and climate.  Regulating Weather Patterns: The hydrosphere influences the movement and intensity of storms, hurricanes, and other weather patterns.  Supporting Life: Water is essential for all forms of life, and the hydrosphere provides habitat for aquatic plants and animals, as well as drinking water for humans and other animals.  Facilitating Transportation and Commerce: Oceans, rivers, and other bodies of water have been used for transportation and commerce for thousands of years, enabling the movement of people and goods around the world.  Supporting Agriculture: Water from the hydrosphere is used for irrigation, which is essential for growing crops and supporting agriculture.  Overall, the hydrosphere plays a crucial role in the Earth's systems and is interconnected with the other spheres, including the atmosphere (air), geosphere (rock, soil, and land), and biosphere (living things).    Atmospheric Moisture  Atmospheric moisture refers to the water vapor present in the Earth's atmosphere. Water vapor is one of the most important greenhouse gases, and it plays a critical role in regulating the Earth's temperature and climate. The amount of water vapor in the atmosphere can vary depending on factors such as temperature, humidity, and atmospheric pressure. Water vapor is constantly moving in and out of the atmosphere through processes such as evaporation, transpiration, and condensation. As warm air rises, water vapor in air expands, cools, and condenses into clouds , leading to precipitation or rain . When air cools to its dew point, water droplets may form, which can lead to fog or dew. The amount of moisture (water vapor) contained in the air is known as humidity . Humidity is typically measured in relative humidity . Relative humidity is the ratio of the amount of water vapor in the air to the maximum amount of water vapor the air can hold at a given temperature. Warmer air can hold more water vapor than cooler air, so relative humidity can change depending on temperature changes. When air contains the maximum amount of moisture, it is said to be saturated . A maximum of about 30 grams of water vapor can exist in a cubic meter volume of air at temperature about . Humid (or saturated) air is very uncomfortable, since the rate of evaporation is slowed by the high levels of water already in the air. At that time, human skin cannot sweat (perspirate) properly and we feel uncomfirtable. Dew point: is another way of expressing the saturation. The dew point is the temperature at which the air becomes saturated with the available water vapor causing condensation to occur. At this point, the air cannot hold any more moisture, and the excess water vapor begins to condense into liquid droplets. The dew point is an important measurement in weather forecasting, as it helps determine the likelihood of dew, fog, or frost formation. It is also used to calculate the relative humidity. When the dew point and temperature are close together, the relative humidity is high, which means that the air is nearly saturated with water vapor.    Meteorology  Meteorology is the study of the weather and climate. Meteorologists use a variety of tools and techniques to collect data on the atmosphere, including weather balloons, satellites, and radar. They analyze this data to create models and forecasts of weather patterns and atmospheric conditions. Weather forecasting is one of the most important applications of meteorology, as it provides critical information to help people prepare for severe weather events such as hurricanes, tornadoes, and blizzards. Meteorologists also study long-term climate patterns and changes, which can help inform public policy decisions related to environmental protection and resource management. Weather refers to the state of temperature, humidity, pressure, cloud formation, or precipitation at any given time. Weather is the short-term atmospheric conditions of a specific place at a specific time. Climate describes the summary of weather conditions for a specific region over a fairly long time period. Climate, is the long-term weather patterns and averages of weather conditions in a particular region over a period of several decades or centuries.    Greenhouse Effect  The greenhouse effect is a natural process by which certain gases in the Earth's atmosphere trap and re-emit heat radiated from the Earth's surface, leading to a warming effect on the planet's surface temperature. These gases, including carbon dioxide , methane , water vapor , and nitrous oxide , are known as greenhouse gases. Without the greenhouse effect, the Earth's average surface temperature would be around , which would be too cold to support life as we know it. However, human activities, such as burning fossil fuels, deforestation, and agriculture, have increased the concentration of greenhouse gases in the atmosphere, leading to an enhanced greenhouse effect and global warming . The consequences of global warming can include sea level rise, more frequent and severe weather events, changes in precipitation patterns, and impacts on ecosystems and human health. Therefore, it is important to reduce greenhouse gas emissions to mitigate the impacts of climate change.  A greenhouse is a man-made structure that is designed to grow plants in a controlled environment. It is typically made of glass or plastic panels that allow sunlight to enter while trapping heat inside, creating a warm and humid environment that is ideal for plant growth. Both greenhouse and greenhouse effect involve the trapping of heat, but the greenhouse effect occurs on a much larger scale and has much more significant consequences for the planet's climate.  When sunlight enters the Earth's atmosphere, some of it is reflected back into space, and some is absorbed by the Earth's surface, which then radiates it back into the atmosphere as heat. The greenhouse gases in the atmosphere absorb some of this heat energy and re-emit it in all directions, including back to the Earth's surface. As a result, the greenhouse gases act like a blanket that traps some of the heat energy and prevents it from escaping into space. This causes the Earth's temperature to be warmer than it would be otherwise, which is necessary for life as we know it to exist on the planet. The energy of light is given by where is Planck's constant, is velocity of light, and is wavelength of the light. Suppose is the wavelength of light of energy coming from the sun's visible light to the earth. When the light eneters into the earth atmosphere and it gets absorbed by the atmospheric gases, plants, and the earth's surface but when it remits and reflects back from the earth surface towards the space it losses some of its energy and becomes less energetic to penetrate our atmosphere except that some amount of light energy is able to penetrate the atmosphere that makes our earth warmer as a suitable place to survive life. However, due to increasing population, deforestation, and industrialization the amount of greenhouse gases are increasing making more difficult to the less energetic light rays to leave our atmosphere. Such activities are leading the global warming .   "
 },
 {
   "id": "fig-ozone",
@@ -3259,13 +3259,67 @@ var ptx_lunr_docs = [
   "body": "ozone hole "
 },
 {
+  "id": "p-664",
+  "level": "2",
+  "url": "sec_tenth-intro.html#p-664",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "precipitation or rain humidity relative humidity saturated Humid (or saturated) Dew point: "
+},
+{
+  "id": "p-665",
+  "level": "2",
+  "url": "sec_tenth-intro.html#p-665",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Weather Climate "
+},
+{
+  "id": "p-666",
+  "level": "2",
+  "url": "sec_tenth-intro.html#p-666",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "global warming "
+},
+{
+  "id": "p-667",
+  "level": "2",
+  "url": "sec_tenth-intro.html#p-667",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "greenhouse "
+},
+{
+  "id": "p-668",
+  "level": "2",
+  "url": "sec_tenth-intro.html#p-668",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "global warming "
+},
+{
   "id": "sec_tenth-seasons",
   "level": "1",
   "url": "sec_tenth-seasons.html",
   "type": "Section",
   "number": "10.2",
   "title": "The Seasons",
-  "body": " The Seasons      "
+  "body": " The Seasons    Season on Earth    Water cycle Water Cycles    "
+},
+{
+  "id": "fig-earthseason",
+  "level": "2",
+  "url": "sec_tenth-seasons.html#fig-earthseason",
+  "type": "Figure",
+  "number": "10.2.1",
+  "title": "",
+  "body": " Season on Earth   "
 },
 {
   "id": "sec_tenth-examples",
@@ -3310,16 +3364,25 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "11",
   "title": "The Earth",
-  "body": " The Earth     The Globe    The Earth     Earth map       "
+  "body": " The Earth     The Globe    The Earth     Earth map        Earth's Layers    "
 },
 {
-  "id": "figure-93",
+  "id": "figure-94",
   "level": "2",
-  "url": "ch_eleventh.html#figure-93",
+  "url": "ch_eleventh.html#figure-94",
   "type": "Figure",
   "number": "11.0.1",
   "title": "",
   "body": "  The Globe    The Earth     Earth map     "
+},
+{
+  "id": "fig-earthlayer",
+  "level": "2",
+  "url": "ch_eleventh.html#fig-earthlayer",
+  "type": "Figure",
+  "number": "11.0.2",
+  "title": "",
+  "body": " Earth's Layers   "
 },
 {
   "id": "ch_twelvth",
@@ -3328,7 +3391,16 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "12",
   "title": "The Solar System",
-  "body": " The Solar System   your own content here!>   "
+  "body": " The Solar System   Our solar system     your own content here!>   "
+},
+{
+  "id": "fig-solarsystem",
+  "level": "2",
+  "url": "ch_twelvth.html#fig-solarsystem",
+  "type": "Figure",
+  "number": "12.0.1",
+  "title": "",
+  "body": " Our solar system   "
 },
 {
   "id": "ch_thirteenth",
@@ -3376,9 +3448,9 @@ var ptx_lunr_docs = [
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-96",
+  "id": "figure-99",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-96",
+  "url": "sec_features-blocks.html#figure-99",
   "type": "Figure",
   "number": "15.1.3",
   "title": "",
