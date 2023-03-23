@@ -1753,7 +1753,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "6.4",
   "title": "Exercises",
-  "body": "  Exercises   Why does the letter appears like when placed infront of a plane mirror?    Why do the stars twinkle in a night sky? How about the same stars if seen from international space station?   ` What makes setting sun appear red?   scattering of light from the atmospheric air molecules.    Why do we see objects as white?    The American flag appears when viewed in blue light.  red and blue.  blue and black  all blue.  red, white, and blue.     White is a combination of all the colors, and black is the absense of all colors. When viewed in the blue light only blue light reflects. The blue parts are not affected, the red parts are black now, and the white parts are blue now.    Find the wavelengths of sound which have a speed of and frequencies of          Which of the following is not a reason behind rainbow formation?  Reflection.  Refraction.  Dispersion.  Scattering.      Scattering is responsible for the color of the daytime sky.  red  blue  orange  white      Scattering occurs when light waves are forced to depart from a path due to imperfections in the medium.  curved  straight  angled      Refraction occurs  when waves changed speed  only with light waves  at any unpredictable time      What causes wet spot mirage on the high way road?  Reflection  Refraction  Dispersion  Scattering      Different colors of light waves travell with different speeds in transparent medium. How they travell in vacuum?  At different speeds.  At same speed.  Both a and b.  None of the above.      My radio station is tuned at 90MHz frequency. What is the wavelength of that radio wave. The velocity of electromagnetic wave is    Given: , ,     "
+  "body": "  Exercises   Why does the letter appears like when placed infront of a plane mirror?    Why do the stars twinkle in a night sky? How about the same stars if seen from international space station?    What makes setting sun appear red?   scattering of light from the atmospheric air molecules.    Why do we see objects as white?    The American flag appears when viewed in blue light.  red and blue.  blue and black  all blue.  red, white, and blue.     White is a combination of all the colors, and black is the absense of all colors. When viewed in the blue light only blue light reflects. The blue parts are not affected, the red parts are black now, and the white parts are blue now.    Find the wavelengths of sound which have a speed of and frequencies of          Which of the following is not a reason behind rainbow formation?  Reflection.  Refraction.  Dispersion.  Scattering.      Scattering is responsible for the color of the daytime sky.  red  blue  orange  white      Scattering occurs when light waves are forced to depart from a path due to imperfections in the medium.  curved  straight  angled      Refraction occurs  when waves changed speed  only with light waves  at any unpredictable time      What causes wet spot mirage on the high way road?  Reflection  Refraction  Dispersion  Scattering      Different colors of light waves travell with different speeds in transparent medium. How they travell in vacuum?  At different speeds.  At same speed.  Both a and b.  None of the above.      My radio station is tuned at 90MHz frequency. What is the wavelength of that radio wave. The velocity of electromagnetic wave is    Given: , ,     "
 },
 {
   "id": "exercise-53",
@@ -1780,7 +1780,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.4.3",
   "title": "",
-  "body": "` What makes setting sun appear red?   scattering of light from the atmospheric air molecules.  "
+  "body": " What makes setting sun appear red?   scattering of light from the atmospheric air molecules.  "
 },
 {
   "id": "exercise-56",
@@ -2014,7 +2014,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.2",
   "title": "Nuclear Structure",
-  "body": " Nuclear Structure   The nucleus is the central and most important part of an atom. It is composed of protons and neutrons collectively known as known as nucleons , and is located in the center of the atom. The protons in the nucleus are positively charged and the neutrons are neutral in charge. The number of protons in the nucleus determines the atomic number and the atomic element of the atom. The nucleons are held together by the strong nuclear force. Strong nuclear force is a very short-range attractive force that acts between nucleons and helps keep the nucleus from flying apart due to the repulsive force of the positively charged protons. The number of neutrons in a nucleus can vary for the same element, leading to the existence of isotopes . Isotopes are atomic species of an element that have the same number of protons but different numbers of neutrons in the nucleus. This means that isotopes of an element have the same atomic number but a different atomic mass. Due to the difference in the number of neutrons, isotopes of an element can have different physical and chemical properties. Some isotopes are stable and do not undergo radioactive decay, while others are radioactive and decay over time. Isotopes are important in many fields, including medicine, industry, and scientific research. For example, in medicine, certain radioactive isotopes are used to diagnose and treat diseases, while in industry, stable isotopes are used as tracers to study the behavior of materials. In scientific research, isotopes are used to study the age of rocks and fossils, and to determine the origin and evolution of the universe. Here is the isotopic natation of the nucleus. where = chemical symbol of element, = atomic number of element, and = mass number of nucleus = number of protons and neutrons in nucleus. Therefore the number of neutron, .  There are over 3,000 known isotopes in the periodic table, but not all of them are naturally occurring. Some isotopes are stable and do not undergo radioactive decay, while others are radioactive and decay over time. The number of isotopes of an element can vary greatly, with some elements having only one or two isotopes, while others have many. The lightest element hydrogen has three isotopes . They are Hydrogen: , Deuterium: , and Tritium: . Heavy water is a type of water molecule that contains a heavier isotope of hydrogen, deuterium (H-2) instead of the common hydrogen isotope (H-1). Heavy water has the same chemical properties as regular water , but its physical properties, such as boiling and melting points, are slightly different. Heavy water is used in various industrial and scientific applications, including nuclear reactors, where it serves as a moderator to slow down the speed of neutrons in the reactor core.   The isotopes of hydrogen     Carbon is an element that has several isotopes. Some of them are carbon-12 (or, ) and carbon-13 (or, ), and carbon-14 (or, ). Carbon-12 and carbon-13, are naturally occurring isotopes and make up the majority of carbon on Earth. Carbon-12, has 6 protons and 6 neutrons and is the most abundant in nature. Carbon-12 is considered the standard for atomic mass. Carbon-13, has 6 protons and 7 neutrons and is a stable isotope. Carbon-13 makes up about 1% of the total carbon on Earth. Carbon-14 is a naturally occurring isotope that is produced in the Earth's atmosphere through cosmic radiation and is taken up by living organisms. It is used in the radiocarbon dating method to determine the age of organic materials and is an important tool in archaeology and other fields.    Radioactivity  Radioactivity is the process of spontaneous decay (disintegrating) of an atomic nucleus. In this process, a nucleus of a radioactive isotope breaks apart into smaller and more stable nuclei. This process releases energy in the form of ionizing radiation, including alpha particles, beta particles, and gamma rays. Radioactivity is a natural phenomenon and occurs due to the unstable atomic nuclei of certain elements. Some radioactive isotopes are naturally occurring, while others can be produced artificially, for example, in nuclear reactors or through the process of nuclear weapons production. The study and use of radioactivity have many applications, including in medicine (e.g., medical imaging, cancer treatment), energy production (e.g., nuclear power plants), and research (e.g., dating of rocks and artifacts). However, exposure to high levels of radiation can be harmful and potentially cause serious health effects, so it is important to handle and use radioactive materials carefully and responsibly. Radioactivity is related to the weak nuclear force, which is one of the four fundamental forces of nature. The weak nuclear force is responsible for beta decay, where a neutron in the nucleus decays into a proton, an electron, and an electron antineutrino. The weak nuclear force is involved in the emission of the beta particle and the conversion of the neutron into a proton, leading to a change in the atomic number and thus the identity of the element. In contrast, alpha decay and gamma decay, which are also forms of radioactive decay, are not directly related to the weak nuclear force. Alpha decay is caused by the strong nuclear force, which holds the nucleus together, while gamma decay is a result of a change in the energy level of the nucleus.  In radioactive decay process different kinds of elements form due to emission of different particles or rays such as   Alpha ( ) particle emission: particle is a helium nucleus and is positively charged particle. In decay a nucleus emits an alpha particle, which consists of two protons and two neutrons. For example: thorium (Th) decayes into radium (Ra) by emitting alpha particle: This results in a decrease in the atomic number of the nucleus by two and transforms the nucleus into a different element. Alpha decay occurs when the nucleus has too many protons and is not stable, and it releases energy in the form of the alpha particle to reach a more stable configuration. Alpha particles have a large mass and a low velocity, and they can be stopped by a sheet of paper or a few centimeters of air .    Beta ( ) particle emission: particle is similar to electron and hence holds negative charge. In decay a nucleus emits a high-energy electron or positron, also known as a beta particle. This results in a change in the number of protons in the nucleus and transforms the nucleus into a different element. For example: carbon (C-14) decayes into nitrogen (N-14) by emitting beta particle: Similarly, neutron turns into proton in beta decay: There are two types of beta decay: beta minus decay (emission of an electron) and beta plus decay (emission of a positron). In beta minus decay, a neutron in the nucleus decays into a proton, an electron, and an electron antineutrino. In beta plus decay, a proton decays into a neutron, a positron, and an electron neutrino. Beta decay is one of the three common types of radioactive decay, along with alpha decay and gamma decay. Beta particles have a low mass and a high velocity, and they can penetrate sheets of paper and even thin sheet of aluminum foil .    Gamma ( ) rays emission: ray is an electromagnetic radiation of very high energy and is neutral to the charge. If the nucleus is unstable due to access amount of energy then it releases rays. The composition of nucleus does not change due to gamma radiation emissioin. For example: high energetic Pb turns into low energetic Pb in gamma radiation:  star symbol indicates excited lead nucleus. Gamma rays have no rest mass and travel with the velocity of light and hence penetrate even thick plate of lead .    Electron ( ) Capture: it is another type of radioactive decay in which an inner orbital electron is captured by the nucleus and transforms into a neutron, resulting in a decrease in the atomic number of the nucleus by one and the transformation of the nucleus into a different element. For example: flourine (F) turns into oxygen (O) due to positron emission: Another example is The captured electron combines with a proton to form a neutron, which remains inside the nucleus. This process releases energy in the form of gamma rays or X-rays. Electron capture is different from beta decay, which involves the emission of a beta particle (an electron or a positron).    Positron Emission: it is also known as beta plus decay, is a type of radioactive decay in which a nucleus emits a positron, which is the antiparticle of an electron. Positron emission occurs when a nucleus has too many protons and is not stable, and it releases energy in the form of the positron to reach a more stable configuration. For example: flourine (F) turns into oxygen (O) due to positron emission: The emitted positron quickly combines with an electron in the material, annihilating both particles and producing gamma rays. Positron emission is one of the three common types of radioactive decay, along with alpha decay and beta decay. In positron emission, a proton inside the nucleus decays into a neutron, a positron, and an electron neutrino. This results in a decrease in the atomic number of the nucleus by one and the transformation of the nucleus into a different element.      Strength of alpha particles, beta particles, and gamma rays       Half-Life  The rate at which a radioactive isotope disintegrates is known as its half-life , which is the time it takes for half of the radioactive material to decay. The half-life of a radioactive isotope determines its stability and the length of time it can be used for various purposes, such as medical treatments or energy production. The representing the amount or number of atoms in a radioactive substance remains every after one half-life. For example, in second figure of , half-life of any one radiactive substance is 50 years, so half of the total number of atoms or its half amount disintegrate (decay) into new substances in every one half life.   Half life of nuclides    Remaining amount per Half-Life     % of atoms remaining      The remaining amount of substance can be determined by the following formula Here, is initial concentration of the substance, and is number of half-lives.    Carbon Dating  Carbon dating, also known as radiocarbon dating, is a method of determining the age of an object containing organic material by measuring the amount of carbon-14 it contains. Carbon-14 is a radioactive isotope of carbon that is formed in the Earth's upper atmosphere through the interaction of cosmic rays with nitrogen atoms. The amount of carbon-14 in the atmosphere has remained constant for thousands of years, so the ratio of carbon-14 to carbon-12 in a sample can be used to determine how long it has been since the death of the organism from which the sample was taken. The carbon-14 in a sample decays over time, and the amount remaining can be measured with a specialized machine called a mass spectrometer. The age of the sample can then be calculated based on the known decay rate of carbon-14. This method is typically used to date organic materials that are less than 50,000 years old, such as archaeological artifacts, fossils, and recent organic samples. It is important to note that carbon dating has certain limitations, such as the fact that it can only be used on materials that contain organic carbon, and that the results can be affected by various factors, such as contamination and the presence of other carbon isotopes in the sample. Additionally, the method can only provide approximate ages, as the rate of decay of carbon-14 is not constant, but can be influenced by factors such as the Earth's magnetic field and cosmic radiation. In the upper atmosphere Cosmic rays which was primarly protons turns into neutrons. These neutrons react with nitrogen to produce carbon-14. The carbon-14 then reacts with oxygen to to become gas. Plants consume this in photosynthesis process. Later animals eat plant and stores these C-14 atoms in their body. In beta decay process C-14 keeps turning into nitrogen such as The ratio of carbon-14 to carbon-12 is roughly constant because the organism continuously replaces carbon-14 as it decays. However, after the organism dies, the carbon-14 in its tissues begins to decay, and the carbon-14 to carbon-12 ratio begins to change. By measuring the carbon-14 to carbon-12 ratio in a sample and comparing it to the known decay rate of carbon-14, scientists can determine how long it has been since the sample died and estimate its age.    Binding Energy  Binding energy is the amount of energy required to separate a nucleons into the protons and neutrons. In an atomic nucleus, the protons and neutrons are held together by the strong nuclear force, which acts over short distances. The binding energy of a nucleus can be calculated by subtracting the total mass of its individual protons and neutrons from the total mass of the nucleus itself. According to Einstein's famous equation, , the mass difference between the two states is equivalent to the binding energy. The binding energy of a nucleus has important implications for both the stability of the nucleus and for the energy released during nuclear reactions. Nuclei with higher binding energy are generally more stable and less likely to undergo spontaneous decay, while nuclei with lower binding energy are more likely to undergo radioactive decay. Additionally, the energy released during nuclear reactions is directly proportional to the binding energy of the nucleus. When a nucleus is formed, protons and neutrons come together and bind to form the nucleus. This process is driven by the strong nuclear force, which acts over short distances to hold the particles together. The formation of a nucleus also leads to the release of energy. This energy is in the form of electromagnetic radiation and called the binding energy. It is the same amount of energy required to separate the protons and neutrons in the nucleus when broken down to individual components. For example: The deuterium ( ) has one proton and one neutron in its nucleus. So when they break apart we expect the mass of deuterium atom equals the mass of one proton (i.e. ) and the mass of one neutron. Mass of one and mass of one neutron = 1.0087 u. Therefore the total mass of . The measured mass of however, is only which is less than the combined mass of proton and neutron. This loss of mass (also known as mass defect ) appears in the form of binding energy of the deuterium atom. Similarly when one deuterium nucleus combines with one tritium nucleus to form helium nucleus tremendous amount of energy released which was a binding energy. For example: . Hence, the mass defect in this case is given by: total mass of and total mass of . Hence the difference in these masses is a mass defect, . Note: Here is the atomic mass unit . . This is the approximate mass of the hydrogen atom. Atomic mass unit is also caled Dalton. we can also consider as 1 mole of anything is equal to Now, This mass defect appears in the form of binding energy which can be calculated by equation  Hence, energy released from this reaction is or, 17.8 MeV and . .    Binding Energy per Nucleon   Binding Energy Per Nucleon      The binding energy of a nucleus determines its stability against disintegration. The larger the binding energy, the more stable is the nucleus and vice a versa. The binding energy per nucleon, BE\/A = Binding energy of the nucleus \/ Total number of nucleons. It is found that the binding energy per nucleon varies from element to element. A graph is plotted with the mass number A of the nucleus along the X-axis and binding energy per nucleon along the Y-axis. The binding energy per nucleon increases sharply with mass number A upto 20. It increases slowly after . The curve becomes almost flat for mass number between 40 and 120. Beyond 120, it decreases slowly as A increases. The binding energy per nucleon reaches a maximum at A=56, corresponding to the iron nucleus ( ). Hence, iron has the most stable nucleus. At the lower end of the curve, smaller nuclei have relatively lower binding energy per nucleon compared to larger nuclei. This is because the attractive strong nuclear force, which holds the nucleons together, decreases rapidly with increasing distance between the nucleons. As a result, small nuclei tend to be less stable and more likely to undergo nuclear reactions, such as beta decay. At the higher end of the curve, larger nuclei have relatively lower binding energy per nucleon compared to smaller nuclei. This is because the repulsive electromagnetic force between the positively charged protons in the nucleus increases with increasing number of protons. This repulsive force limits the size of the nucleus and causes it to become less stable.    Nuclear Reactions  Nuclear reactions are the process in which nucleus of an atom changes. These changes can be either decay processes, in which the nucleus of an atom emits particles or radiation, or fusion processes, in which two or more atomic nuclei come together to form a heavier nucleus. There are two main types of nuclear reactions:  Nuclear Fission Reactions: These reactions involve the spontaneous decay of an unstable nucleus into a more stable form. Common types of nuclear decay reactions include alpha decay, beta decay, and gamma decay.  Nuclear Fusion Reactions: These reactions involve the fusion of two atomic nuclei to form a heavier nucleus. This process releases a large amount of energy, and is the reaction that powers the sun. Nuclear fusion reactions are difficult to achieve on Earth, but are being researched as a potential source of clean and abundant energy.     Nuclear Reactions    Nuclear Fission Reaction     Nuclear Fusion Reaction      In both types of reactions, the sum of the atomic numbers of the reactants must equal the sum of the atomic numbers of the products, and the total mass of the reactants must equal the total mass of the products, according to the law of conservation of matter and energy. In fission reactions, the mass defect of the original nucleus is converted into energy, which is released as kinetic energy of the fission products and as gamma radiation. This energy can be harnessed for practical purposes, such as generating electricity in nuclear power plants, or for destructive purposes, such as in atomic bombs. Binding energy in a fusion reaction refers to the energy required to overcome the repulsive forces between positively charged nuclei and bring them close enough together to form a heavier nucleus through a fusion process. When the nuclei are close enough, they can form a single nucleus through the strong force, releasing a large amount of energy in the process.    Effects of Radiation  In nuclear reaction emits alpha, beta, and other high enegy waves or particles that can knock out atoms or molecules to form ions. These ions come under ionizing radiation. Such radiation can damage living cells and affects protien or DNA molecules. There are several types of radiation, including: alpha radiation, beta radiation, gamma radiation, X-rays, nuclear radiation, and cosmic radiation, etc. Cosmic radiation is high-energy radiation that originates from outside of the Earth's atmosphere. It consists of high-energy particles, including protons and electrons, that are produced by the Sun and other astronomical sources. Radiation doses doses are measured in the Sievert (Sv) unit. The sievert is used to describe the amount of ionizing radiation that has been absorbed by a material. The another unit of doses is Rads (short for \"radiation absorbed dose\"). It is used to quantify the amount of energy deposited in a material by ionizing radiation per unit mass. One rad is 0.01 joule of energy deposited in one kilogram of tissue. That is of energy deposited on the tissue. One sievert is equal to 100 rads. The sievert is the standard unit of measurement used to describe the amount of ionizing radiation that has been absorbed by the human body, and it is used to evaluate the potential health risks associated with exposure to ionizing radiation. We receive 3.1 mSv per year from natural radiation resources, 3.1 mSv per year from medical and dental x-rays, and 0.4 mSv from mammogram. The total unavoidable radiation doses are about 6.2 mSv per year. The allowed safe radiation dose limit for a healthy human is . The risk of radiation induced cancer is much smaller than other hazardous activities such as smoking. Sources of radiation exposure is given in    Sources of Radiation Exposure      Nuclear Reactor  In nuclear fission reaction neutron is absorbed by unstable nucleus and get splitted into two or more small nuclides with the emission of another neutron\/s. Such neutrons may cause increasing nuclear fission reactions, called the chain reaction. A nuclear reactor is a device that is used to initiate and control a sustained nuclear chain reaction. This reaction is the process by which atomic nuclei release energy through interactions with other particles. The heat produced by the fission reactions is used to generate steam, which in turn drives a turbine and generates electricity. Please click on the animation link: Nuclear Reactor Plant The core of a nuclear reactor contains fuel rods, which contain fuel pellets made of nuclear fuel, such as uranium dioxide. The fuel rods are surrounded by coolant, which is used to transfer heat from the core to a steam generator. The steam generator is used to produce steam, which drives the turbine to generate electricity. In addition to the fuel rods, the core of a nuclear reactor also contains control rods, which are used to regulate the rate of fission reactions by absorbing excess neutrons. The control rods can be moved up and down within the core to control the reaction rate.   "
+  "body": " Nuclear Structure   The nucleus is the central and most important part of an atom. It is composed of protons and neutrons collectively known as known as nucleons , and is located in the center of the atom. The protons in the nucleus are positively charged and the neutrons are neutral in charge. The number of protons in the nucleus determines the atomic number and the atomic element of the atom. The nucleons are held together by the strong nuclear force. Strong nuclear force is a very short-range attractive force that acts between nucleons and helps keep the nucleus from flying apart due to the repulsive force of the positively charged protons. The number of neutrons in a nucleus can vary for the same element, leading to the existence of isotopes . Isotopes are atomic species of an element that have the same number of protons but different numbers of neutrons in the nucleus. This means that isotopes of an element have the same atomic number but a different atomic mass. Due to the difference in the number of neutrons, isotopes of an element can have different physical and chemical properties. Some isotopes are stable and do not undergo radioactive decay, while others are radioactive and decay over time. Isotopes are important in many fields, including medicine, industry, and scientific research. For example, in medicine, certain radioactive isotopes are used to diagnose and treat diseases, while in industry, stable isotopes are used as tracers to study the behavior of materials. In scientific research, isotopes are used to study the age of rocks and fossils, and to determine the origin and evolution of the universe. Here is the isotopic natation of the nucleus. where = chemical symbol of element, = atomic number of element, and = mass number of nucleus = number of protons and neutrons in nucleus. Therefore the number of neutron, .  There are over 3,000 known isotopes in the periodic table, but not all of them are naturally occurring. Some isotopes are stable and do not undergo radioactive decay, while others are radioactive and decay over time. The number of isotopes of an element can vary greatly, with some elements having only one or two isotopes, while others have many. The lightest element hydrogen has three isotopes . They are Hydrogen: , Deuterium: , and Tritium: . Heavy water is a type of water molecule that contains a heavier isotope of hydrogen, deuterium (H-2) instead of the common hydrogen isotope (H-1). Heavy water has the same chemical properties as regular water , but its physical properties, such as boiling and melting points, are slightly different. Heavy water is used in various industrial and scientific applications, including nuclear reactors, where it serves as a moderator to slow down the speed of neutrons in the reactor core.   The isotopes of hydrogen     Carbon is an element that has several isotopes. Some of them are carbon-12 (or, ) and carbon-13 (or, ), and carbon-14 (or, ). Carbon-12 and carbon-13, are naturally occurring isotopes and make up the majority of carbon on Earth. Carbon-12, has 6 protons and 6 neutrons and is the most abundant in nature. Carbon-12 is considered the standard for atomic mass. Carbon-13, has 6 protons and 7 neutrons and is a stable isotope. Carbon-13 makes up about 1% of the total carbon on Earth. Carbon-14 is a naturally occurring isotope that is produced in the Earth's atmosphere through cosmic radiation and is taken up by living organisms. It is used in the radiocarbon dating method to determine the age of organic materials and is an important tool in archaeology and other fields.    Radioactivity  Radioactivity is the process of spontaneous decay (disintegrating) of an atomic nucleus. In this process, a nucleus of a radioactive isotope breaks apart into smaller and more stable nuclei. This process releases energy in the form of ionizing radiation, including alpha particles, beta particles, and gamma rays. Radioactivity is a natural phenomenon and occurs due to the unstable atomic nuclei of certain elements. Some radioactive isotopes are naturally occurring, while others can be produced artificially, for example, in nuclear reactors or through the process of nuclear weapons production. The study and use of radioactivity have many applications, including in medicine (e.g., medical imaging, cancer treatment), energy production (e.g., nuclear power plants), and research (e.g., dating of rocks and artifacts). However, exposure to high levels of radiation can be harmful and potentially cause serious health effects, so it is important to handle and use radioactive materials carefully and responsibly. Radioactivity is related to the weak nuclear force, which is one of the four fundamental forces of nature. The weak nuclear force is responsible for beta decay, where a neutron in the nucleus decays into a proton, an electron, and an electron antineutrino. The weak nuclear force is involved in the emission of the beta particle and the conversion of the neutron into a proton, leading to a change in the atomic number and thus the identity of the element. In contrast, alpha decay and gamma decay, which are also forms of radioactive decay, are not directly related to the weak nuclear force. Alpha decay is caused by the strong nuclear force, which holds the nucleus together, while gamma decay is a result of a change in the energy level of the nucleus.  In radioactive decay process different kinds of elements form due to emission of different particles or rays such as   Alpha ( ) particle emission: particle is a helium nucleus and is positively charged particle. In decay a nucleus emits an alpha particle, which consists of two protons and two neutrons. For example: thorium (Th) decayes into radium (Ra) by emitting alpha particle: This results in a decrease in the atomic number of the nucleus by two and transforms the nucleus into a different element. Alpha decay occurs when the nucleus has too many protons and is not stable, and it releases energy in the form of the alpha particle to reach a more stable configuration. Alpha particles have a large mass and a low velocity, and they can be stopped by a sheet of paper or a few centimeters of air .    Beta ( ) particle emission: particle is similar to electron and hence holds negative charge. In decay a nucleus emits a high-energy electron or positron, also known as a beta particle. This results in a change in the number of protons in the nucleus and transforms the nucleus into a different element. For example: carbon (C-14) decayes into nitrogen (N-14) by emitting beta particle: Similarly, neutron turns into proton in beta decay: There are two types of beta decay: beta minus decay (emission of an electron) and beta plus decay (emission of a positron). In beta minus decay, a neutron in the nucleus decays into a proton, an electron, and an electron antineutrino. In beta plus decay, a proton decays into a neutron, a positron, and an electron neutrino. Beta decay is one of the three common types of radioactive decay, along with alpha decay and gamma decay. Beta particles have a low mass and a high velocity, and they can penetrate sheets of paper and even thin sheet of aluminum foil .    Gamma ( ) rays emission: ray is an electromagnetic radiation of very high energy and is neutral to the charge. If the nucleus is unstable due to access amount of energy then it releases rays. The composition of nucleus does not change due to gamma radiation emissioin. For example: high energetic Pb turns into low energetic Pb in gamma radiation:  star symbol indicates excited lead nucleus. Gamma rays have no rest mass and travel with the velocity of light and hence penetrate even thick plate of lead .    Electron ( ) Capture: it is another type of radioactive decay in which an inner orbital electron is captured by the nucleus and transforms into a neutron, resulting in a decrease in the atomic number of the nucleus by one and the transformation of the nucleus into a different element. For example: flourine (F) turns into oxygen (O) due to positron emission: Another example is The captured electron combines with a proton to form a neutron, which remains inside the nucleus. This process releases energy in the form of gamma rays or X-rays. Electron capture is different from beta decay, which involves the emission of a beta particle (an electron or a positron).    Positron Emission: it is also known as beta plus decay, is a type of radioactive decay in which a nucleus emits a positron, which is the antiparticle of an electron. Positron emission occurs when a nucleus has too many protons and is not stable, and it releases energy in the form of the positron to reach a more stable configuration. For example: flourine (F) turns into oxygen (O) due to positron emission: The emitted positron quickly combines with an electron in the material, annihilating both particles and producing gamma rays. Positron emission is one of the three common types of radioactive decay, along with alpha decay and beta decay. In positron emission, a proton inside the nucleus decays into a neutron, a positron, and an electron neutrino. This results in a decrease in the atomic number of the nucleus by one and the transformation of the nucleus into a different element.      Strength of alpha particles, beta particles, and gamma rays       Half-Life  The rate at which a radioactive isotope disintegrates is known as its half-life , which is the time it takes for half of the radioactive material to decay. The half-life of a radioactive isotope determines its stability and the length of time it can be used for various purposes, such as medical treatments or energy production. The representing the amount or number of atoms in a radioactive substance remains every after one half-life. For example, in second figure of , half-life of any one radiactive substance is 50 years, so half of the total number of atoms or its half amount disintegrate (decay) into new substances in every one half life.   Half life of nuclides    Remaining amount per Half-Life     % of atoms remaining      The remaining amount of substance can be determined by the following formula Here, is initial concentration of the substance, and is the number of half-lives.    Carbon Dating  Carbon dating, also known as radiocarbon dating, is a method of determining the age of an object containing organic material by measuring the amount of carbon-14 it contains. Carbon-14 is a radioactive isotope of carbon that is formed in the Earth's upper atmosphere through the interaction of cosmic rays with nitrogen atoms. The amount of carbon-14 in the atmosphere has remained constant for thousands of years, so the ratio of carbon-14 to carbon-12 in a sample can be used to determine how long it has been since the death of the organism from which the sample was taken. The carbon-14 in a sample decays over time, and the amount remaining can be measured with a specialized machine called a mass spectrometer. The age of the sample can then be calculated based on the known decay rate of carbon-14. This method is typically used to date organic materials that are less than 50,000 years old, such as archaeological artifacts, fossils, and recent organic samples. It is important to note that carbon dating has certain limitations, such as the fact that it can only be used on materials that contain organic carbon, and that the results can be affected by various factors, such as contamination and the presence of other carbon isotopes in the sample. Additionally, the method can only provide approximate ages, as the rate of decay of carbon-14 is not constant, but can be influenced by factors such as the Earth's magnetic field and cosmic radiation. In the upper atmosphere Cosmic rays which was primarly protons turns into neutrons. These neutrons react with nitrogen to produce carbon-14. The carbon-14 then reacts with oxygen to to become gas. Plants consume this in photosynthesis process. Later animals eat plant and stores these C-14 atoms in their body. In beta decay process C-14 keeps turning into nitrogen such as The ratio of carbon-14 to carbon-12 is roughly constant because the organism continuously replaces carbon-14 as it decays. However, after the organism dies, the carbon-14 in its tissues begins to decay, and the carbon-14 to carbon-12 ratio begins to change. By measuring the carbon-14 to carbon-12 ratio in a sample and comparing it to the known decay rate of carbon-14, scientists can determine how long it has been since the sample died and estimate its age.    Binding Energy  Binding energy is the amount of energy required to separate a nucleons into the protons and neutrons. In an atomic nucleus, the protons and neutrons are held together by the strong nuclear force, which acts over short distances. The binding energy of a nucleus can be calculated by subtracting the total mass of its individual protons and neutrons from the total mass of the nucleus itself. According to Einstein's famous equation, , the mass difference between the two states is equivalent to the binding energy. The binding energy of a nucleus has important implications for both the stability of the nucleus and for the energy released during nuclear reactions. Nuclei with higher binding energy are generally more stable and less likely to undergo spontaneous decay, while nuclei with lower binding energy are more likely to undergo radioactive decay. Additionally, the energy released during nuclear reactions is directly proportional to the binding energy of the nucleus. When a nucleus is formed, protons and neutrons come together and bind to form the nucleus. This process is driven by the strong nuclear force, which acts over short distances to hold the particles together. The formation of a nucleus also leads to the release of energy. This energy is in the form of electromagnetic radiation and called the binding energy. It is the same amount of energy required to separate the protons and neutrons in the nucleus when broken down to individual components. For example: The deuterium ( ) has one proton and one neutron in its nucleus. So when they break apart we expect the mass of deuterium atom equals the mass of one proton (i.e. ) and the mass of one neutron. Mass of one and mass of one neutron = 1.0087 u. Therefore the total mass of . The measured mass of however, is only which is less than the combined mass of proton and neutron. This loss of mass (also known as mass defect ) appears in the form of binding energy of the deuterium atom. Similarly when one deuterium nucleus combines with one tritium nucleus to form helium nucleus tremendous amount of energy released which was a binding energy. For example: . Hence, the mass defect in this case is given by: total mass of and total mass of . Hence the difference in these masses is a mass defect, . Note: Here is the atomic mass unit . . This is the approximate mass of the hydrogen atom. Atomic mass unit is also caled Dalton. we can also consider as 1 mole of anything is equal to Now, This mass defect appears in the form of binding energy which can be calculated by equation  Hence, energy released from this reaction is or, 17.8 MeV and . .    Binding Energy per Nucleon   Binding Energy Per Nucleon      The binding energy of a nucleus determines its stability against disintegration. The larger the binding energy, the more stable is the nucleus and vice a versa. The binding energy per nucleon, BE\/A = Binding energy of the nucleus \/ Total number of nucleons. It is found that the binding energy per nucleon varies from element to element. A graph is plotted with the mass number A of the nucleus along the X-axis and binding energy per nucleon along the Y-axis. The binding energy per nucleon increases sharply with mass number A upto 20. It increases slowly after . The curve becomes almost flat for mass number between 40 and 120. Beyond 120, it decreases slowly as A increases. The binding energy per nucleon reaches a maximum at A=56, corresponding to the iron nucleus ( ). Hence, iron has the most stable nucleus. At the lower end of the curve, smaller nuclei have relatively lower binding energy per nucleon compared to larger nuclei. This is because the attractive strong nuclear force, which holds the nucleons together, decreases rapidly with increasing distance between the nucleons. As a result, small nuclei tend to be less stable and more likely to undergo nuclear reactions, such as beta decay. At the higher end of the curve, larger nuclei have relatively lower binding energy per nucleon compared to smaller nuclei. This is because the repulsive electromagnetic force between the positively charged protons in the nucleus increases with increasing number of protons. This repulsive force limits the size of the nucleus and causes it to become less stable.    Nuclear Reactions  Nuclear reactions are the process in which nucleus of an atom changes. These changes can be either decay processes, in which the nucleus of an atom emits particles or radiation, or fusion processes, in which two or more atomic nuclei come together to form a heavier nucleus. There are two main types of nuclear reactions:  Nuclear Fission Reactions: These reactions involve the spontaneous decay of an unstable nucleus into a more stable form. Common types of nuclear decay reactions include alpha decay, beta decay, and gamma decay.  Nuclear Fusion Reactions: These reactions involve the fusion of two atomic nuclei to form a heavier nucleus. This process releases a large amount of energy, and is the reaction that powers the sun. Nuclear fusion reactions are difficult to achieve on Earth, but are being researched as a potential source of clean and abundant energy.     Nuclear Reactions    Nuclear Fission Reaction     Nuclear Fusion Reaction      In both types of reactions, the sum of the atomic numbers of the reactants must equal the sum of the atomic numbers of the products, and the total mass of the reactants must equal the total mass of the products, according to the law of conservation of matter and energy. In fission reactions, the mass defect of the original nucleus is converted into energy, which is released as kinetic energy of the fission products and as gamma radiation. This energy can be harnessed for practical purposes, such as generating electricity in nuclear power plants, or for destructive purposes, such as in atomic bombs. Binding energy in a fusion reaction refers to the energy required to overcome the repulsive forces between positively charged nuclei and bring them close enough together to form a heavier nucleus through a fusion process. When the nuclei are close enough, they can form a single nucleus through the strong force, releasing a large amount of energy in the process.    Effects of Radiation  In nuclear reaction emits alpha, beta, and other high enegy waves or particles that can knock out atoms or molecules to form ions. These ions come under ionizing radiation. Such radiation can damage living cells and affects protien or DNA molecules. There are several types of radiation, including: alpha radiation, beta radiation, gamma radiation, X-rays, nuclear radiation, and cosmic radiation, etc. Cosmic radiation is high-energy radiation that originates from outside of the Earth's atmosphere. It consists of high-energy particles, including protons and electrons, that are produced by the Sun and other astronomical sources. Radiation doses doses are measured in the Sievert (Sv) unit. The sievert is used to describe the amount of ionizing radiation that has been absorbed by a material. The another unit of doses is Rads (short for \"radiation absorbed dose\"). It is used to quantify the amount of energy deposited in a material by ionizing radiation per unit mass. One rad is 0.01 joule of energy deposited in one kilogram of tissue. That is of energy deposited on the tissue. One sievert is equal to 100 rads. The sievert is the standard unit of measurement used to describe the amount of ionizing radiation that has been absorbed by the human body, and it is used to evaluate the potential health risks associated with exposure to ionizing radiation. We receive 3.1 mSv per year from natural radiation resources, 3.1 mSv per year from medical and dental x-rays, and 0.4 mSv from mammogram. The total unavoidable radiation doses are about 6.2 mSv per year. The allowed safe radiation dose limit for a healthy human is . The risk of radiation induced cancer is much smaller than other hazardous activities such as smoking. Sources of radiation exposure is given in    Sources of Radiation Exposure      Nuclear Reactor  In nuclear fission reaction neutron is absorbed by unstable nucleus and get splitted into two or more small nuclides with the emission of another neutron\/s. Such neutrons may cause increasing nuclear fission reactions, called the chain reaction. A nuclear reactor is a device that is used to initiate and control a sustained nuclear chain reaction. This reaction is the process by which atomic nuclei release energy through interactions with other particles. The heat produced by the fission reactions is used to generate steam, which in turn drives a turbine and generates electricity. Please click on the animation link: Nuclear Reactor Plant The core of a nuclear reactor contains fuel rods, which contain fuel pellets made of nuclear fuel, such as uranium dioxide. The fuel rods are surrounded by coolant, which is used to transfer heat from the core to a steam generator. The steam generator is used to produce steam, which drives the turbine to generate electricity. In addition to the fuel rods, the core of a nuclear reactor also contains control rods, which are used to regulate the rate of fission reactions by absorbing excess neutrons. The control rods can be moved up and down within the core to control the reaction rate.   "
 },
 {
   "id": "p-440",
@@ -2122,7 +2122,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.3",
   "title": "Examples",
-  "body": " Examples    Determine the number of protons, electrons, and neutrons in the atom.    From isotopic notation . we have atomic number, Z = 92. So the nuber of protons (= number of electrons) = 92. The mass number, A =236. Hence the nuber of neutrons,      Write the equation for one alpha decay in .    Here, X stands for the element of atomic number 90, which is .     If 1.0g of caesium (Cs-137) disintegrates over a period of 90 years. How many grams of Cs-137 would remain, if Cs-137 has half-life of 30 years.   For 90 years, we have to wait for 3 half-life of Cs-137. Every half-life it reduces 1\/2 of of its amount. Now from , we have       How long does it take a 100.00g sample of As-81, with a half-life of 33 seconds, to decay to 6.25g?    In HL remaining amount is 50 g, In HL remaining amount is 25 g, In HL remaining amount is 12.5 g, and in HL the remaining amount is 6.25g.    4 half-life = second = 132 seconds.      Complete the equation if proton strikes on the .           Complete the following fission reaction.       Calculate the binding energy in the following fission reaction. The mass of is , is , is , and that of is .    The total mass on the left side of the arrow is and the maas on the right side of arrow is . Hence the mass defect is . Now from , we have Therefore the binding energy is     "
+  "body": " Examples    Determine the number of protons, electrons, and neutrons in the atom.    From isotopic notation . we have atomic number, Z = 92. So the nuber of protons (= number of electrons) = 92. The mass number, A =236. Hence the nuber of neutrons,      Write the equation for one alpha decay in .    Here, X stands for the element of atomic number 90, which is .     If 1.0g of caesium (Cs-137) disintegrates over a period of 90 years. How many grams of Cs-137 would remain, if Cs-137 has half-life of 30 years.   For 90 years, we have to wait for 3 half-life of Cs-137. Every half-life it reduces 1\/2 of of its amount. Now from , we have       How long does it take a 100.00g sample of As-81, with a half-life of 33 seconds, to decay to 6.25g?    In HL remaining amount is 50 g, In HL remaining amount is 25 g, In HL remaining amount is 12.5 g, and in HL the remaining amount is 6.25g.    4 half-life = second = 132 seconds.      Complete the equation if proton strikes on the .           Complete the following fission reaction.       Calculate the binding energy in the following fission reaction. The mass of is , is , is , and that of is .    The total mass on the left side of the arrow is and the maas on the right side of arrow is . Hence the mass defect is . Now from , we have Therefore the binding energy is       If of the sample is decayed in 15 days. What is its half-life?    From  Here, . Suppose number of half-life, , where is given time period and is half-life period, then     "
 },
 {
   "id": "example-71",
@@ -2188,13 +2188,22 @@ var ptx_lunr_docs = [
   "body": "  Calculate the binding energy in the following fission reaction. The mass of is , is , is , and that of is .    The total mass on the left side of the arrow is and the maas on the right side of arrow is . Hence the mass defect is . Now from , we have Therefore the binding energy is    "
 },
 {
+  "id": "example-78",
+  "level": "2",
+  "url": "sec_seventh-examples.html#example-78",
+  "type": "Example",
+  "number": "7.3.8",
+  "title": "",
+  "body": "  If of the sample is decayed in 15 days. What is its half-life?    From  Here, . Suppose number of half-life, , where is given time period and is half-life period, then    "
+},
+{
   "id": "ex_seventh",
   "level": "1",
   "url": "ex_seventh.html",
   "type": "Exercises",
   "number": "7.4",
   "title": "Exercises",
-  "body": "  Exercises   A nucleon is which of the following?  an electron  a proton  a neutron  both a proton and a neutron      Which nuclear radiation does not change in different nuclide?  alpha  beta  gamma  all of the above     Who discovered the radioactivity?  Rutherford  Becquerel  Pierre Curie  Einstein      Fiil in the blank below.           Fiil in the blank below.     Write the following nuclides in isotopic notation (e.g., \" \")  oxygen-14  Copper-70  Molebdenum-98  Rubidium-100      Find the number of neutrons in the following nuclei.          How much of the radiactive substance decays in 3 months if its half-life is 1 month.     of the sample is decayed in 54 days. What is its half-life?   "
+  "body": "  Exercises   A nucleon is which of the following?  an electron  a proton  a neutron  both a proton and a neutron      Which nuclear radiation does not change in different nuclide?  alpha  beta  gamma  all of the above      Who discovered the radioactivity?  Rutherford  Becquerel  Pierre Curie  Einstein      Fiil in the blank below.           Fiil in the blank below.     Write the following nuclides in isotopic notation (e.g., \" \")  oxygen-14  Copper-65  Molebdenum-98  Rubidium-100      Find the number of neutrons in the following nuclei.          How much of the radiactive substance decays in 3 months if its half-life is 1 month.    How much mass of 40 mg of a substance will remain after 24 days, if its half -life is 24 days?   "
 },
 {
   "id": "exercise-66",
@@ -2212,7 +2221,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.2",
   "title": "",
-  "body": " Which nuclear radiation does not change in different nuclide?  alpha  beta  gamma  all of the above     Who discovered the radioactivity?  Rutherford  Becquerel  Pierre Curie  Einstein    "
+  "body": " Which nuclear radiation does not change in different nuclide?  alpha  beta  gamma  all of the above    "
 },
 {
   "id": "exercise-68",
@@ -2221,7 +2230,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.3",
   "title": "",
-  "body": " Fiil in the blank below.         "
+  "body": " Who discovered the radioactivity?  Rutherford  Becquerel  Pierre Curie  Einstein    "
 },
 {
   "id": "exercise-69",
@@ -2230,7 +2239,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.4",
   "title": "",
-  "body": " Fiil in the blank below.   "
+  "body": " Fiil in the blank below.         "
 },
 {
   "id": "exercise-70",
@@ -2239,7 +2248,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.5",
   "title": "",
-  "body": " Write the following nuclides in isotopic notation (e.g., \" \")  oxygen-14  Copper-70  Molebdenum-98  Rubidium-100    "
+  "body": " Fiil in the blank below.   "
 },
 {
   "id": "exercise-71",
@@ -2248,7 +2257,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.6",
   "title": "",
-  "body": " Find the number of neutrons in the following nuclei.        "
+  "body": " Write the following nuclides in isotopic notation (e.g., \" \")  oxygen-14  Copper-65  Molebdenum-98  Rubidium-100    "
 },
 {
   "id": "exercise-72",
@@ -2257,7 +2266,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.7",
   "title": "",
-  "body": " How much of the radiactive substance decays in 3 months if its half-life is 1 month.  "
+  "body": " Find the number of neutrons in the following nuclei.        "
 },
 {
   "id": "exercise-73",
@@ -2266,7 +2275,16 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "7.4.8",
   "title": "",
-  "body": "  of the sample is decayed in 54 days. What is its half-life?  "
+  "body": " How much of the radiactive substance decays in 3 months if its half-life is 1 month.  "
+},
+{
+  "id": "exercise-74",
+  "level": "2",
+  "url": "ex_seventh.html#exercise-74",
+  "type": "Exercise",
+  "number": "7.4.9",
+  "title": "",
+  "body": " How much mass of 40 mg of a substance will remain after 24 days, if its half -life is 24 days?  "
 },
 {
   "id": "sec_eighth-intro",
@@ -2278,36 +2296,36 @@ var ptx_lunr_docs = [
   "body": " Changes in Matter   Matter can undergo basically two types of changes. They are:   Physical change: It is such a change in matter that do not alter its chemical composition. For examples:melting, freezing, boiling, condensation, and evaporation. Physical changes are kind of two-way trafic. The material transform its shape and state multiple times. For example, making jewelry from gold bar and molding them back into gold bar again, making sword from iron bar and converting sword in an iron bar again.   Chemical change: It is such a change in matter that alter its chemical composition. Fpr examples: burning, rusting, and the formation of a chemical compound. It is a one-way trafic where material transform its physical properties but never regains the original properties by the physical process. For example, Baking a cake, making yogurt from milk. The physical properties of the milk, such as its texture and flavor, are also altered in the process. Formation of a new chemical compound such as water from hydrogen and oxygen is also a chemical change.      The Classification of Matter  Instead of three phases (or states) of matter, there are three different classes of matter based on its composition and properties. They are elements, compounds, and mixture .  Elements: An element is a pure substance that cannot be broken down into simpler substances by any chemical means. Elements are the building blocks of all matter and are composed of only one type of atom. Examples of elements include hydrogen, oxygen, and gold.  Compounds: A compound is a pure substance that is made up of two or more elements chemically combined in a fixed ratio. Compounds have different properties from their constituent elements and cannot be separated into their individual elements by physical means. Examples of compounds include water ( ), salt ( ), and glucose ( ).  Mixtures: A mixture is a combination of two or more substances in which each substance retains its own chemical properties. Mixtures can be separated into their individual components by physical means. There are two main types of mixtures: homogeneous mixtures, where the substances are evenly mixed, and heterogeneous mixtures, where the substances are not evenly mixed. Examples of mixtures include air, fruit juice, and concrete.    In homogeneous mixture substances are evenly mixed and have the same composition throughout. Homogeneous mixture is also called a solution Here are some examples of homogeneous mixtures: Salt water: When salt is dissolved in water, the result is a homogeneous mixture, in which the salt and water are evenly distributed throughout the solution. Air: Air is a mixture of gases, including nitrogen, oxygen, and trace amounts of other gases, that are evenly mixed and have the same composition throughout the entire volume of air. Honey: Honey is a homogeneous mixture of sugar and water, with the sugar and water evenly mixed throughout the entire substance. Vinegar: Vinegar is a homogeneous mixture of water and acetic acid, with the water and acetic acid evenly mixed throughout the entire substance. Milk: Milk is a homogeneous mixture of water, fat, proteins, and sugars, with the substances evenly mixed throughout the entire substance.  In heterogeneous mixture substances are not evenly mixed and have different compositions in different parts of the mixture. Heterogeneous mixtures are easy to identify, as the individual substances are easily visible and can be separated from one another by physical means. Here are some examples of heterogeneous mixtures: Fruit salad: A mixture of fruit, such as apples, bananas, and grapes, cut into pieces and combined in a bowl is a heterogeneous mixture. Each piece of fruit has its own unique composition, and the composition of the mixture changes from one part of the mixture to another. Granola: A mixture of oats, nuts, dried fruit, and sweeteners is a heterogeneous mixture, as the ingredients are not evenly mixed and the composition of the mixture changes from one part of the mixture to another. Sand and water: A mixture of sand and water is a heterogeneous mixture, as the sand particles settle to the bottom of the container and the water is clear. The composition of the mixture changes from the top of the mixture to the bottom. Soil: Soil is a mixture of minerals, organic matter, air, and water, and is a heterogeneous mixture as the composition of the soil changes from one part of the soil to another. Concrete: Concrete is a mixture of cement, sand, gravel, and water, and is a heterogeneous mixture, as the composition of the concrete changes f rom one part of the mixture to another.   Classification of Matter       Atomic Theory  Atomic theory is the foundation of modern chemistry and provides a basic understanding of the nature of matter. The theory states that all matter is made up of tiny particles called atoms, which are the smallest units of matter that retain the properties of an element. Atoms are indivisible: Atoms are the smallest units of matter that can exist and cannot be broken down into smaller units. Atoms are identical: Atoms of the same element are identical and have the same number of protons, electrons, and neutrons. Atoms have structure: Atoms have a small central nucleus, which contains positively charged protons and neutral neutrons, surrounded by negatively charged electrons in shells. Atoms are arranged in the periodic table: Atoms of different elements have different numbers of protons, electrons, and neutrons and are arranged in the periodic table according to their atomic number, which is equal to the number of protons in the nucleus. Atoms can bond to form molecules: Atoms can bond together to form molecules by sharing or exchanging electrons. The properties of molecules are determined by the type of atoms and the way they are bonded together. Atoms can be ionized: Atoms can gain or lose electrons to become positively or negatively charged ions. Ions play an important role in many chemical reactions.   Molecule: A molecule is the smallest unit of a substance that retains the chemical properties of that substance and can exist as a separate entity. It is composed of two or more atoms that are chemically bonded together. In a molecule, the atoms are held together by chemical bonds, which are formed by the sharing or exchange of electrons between the atoms. The type of bonds and the arrangement of atoms in a molecule determine the chemical and physical properties of the substance. Molecules can be formed from a single type of atom, such as a molecule of oxygen ( ), or from different types of atoms, such as a molecule of water ( ). The number of atoms in a molecule and the type of atoms can also vary, giving rise to a vast array of different molecules, each with its own unique properties. Molecules are the building blocks of matter and play a crucial role in many physical and chemical processes, including chemical reactions, phase transitions, and the formation of materials. A deep understanding of the structure and properties of molecules is essential for many scientific and engineering disciplines, including chemistry, biology, materials science, and environmental science.   Difference between molecule and compound: A molecule is a group of two or more atoms that are chemically bonded together. A compound is a substance made up of two or more different elements that are chemically combined in a fixed ratio. The main difference between a molecule and a compound is that a molecule is a collection of atoms that are bonded together, whereas a compound is a substance that consists of molecules made up of different elements in a fixed ratio. For example, water ( ) is a compound made up of hydrogen and oxygen atoms in a fixed ratio of 2:1. The smallest unit of water that retains its chemical properties is a molecule of water, which is made up of two hydrogen atoms and one oxygen atom chemically bonded together. Another example is table salt (NaCl), which is a compound made up of sodium and chlorine atoms in a fixed ratio of 1:1. The smallest unit of salt that retains its chemical properties is a molecule of salt, which is made up of one sodium atom and one chlorine atom chemically bonded together.  Hydrogen gas is made out of molecules. It is not a compound. Oxygen gas is made out of molecules and is also not a compound. They are made out of two atoms of the same element. Similarly, Ozone gas ( ), nitrogen gas ( ), chlorine substance ( ) are molecule. However, carbon dioxide gas ( ) is a compound and molecule both, similarly, amonia ( ) is a compound and molecule both. Because they are made out of two different elements. Meaning all compounds are molecules but all molecules are not compounds.  Some substances are elemental such as iron bar (Fe), liquid mercury (Hg), helium gas (He), gold jewlry (Au), etc., some are molecular such as hydrogen gas ( ), oxygen gas ( ), ozone gas ( ), water ( ), methane ( ), carbon dioxide gas ( ), amonia ( ), diamond ( ), glucose ( ) etc. diamond is a pure form of carbon, but it is not an element. An element is a substance that cannot be broken down into simpler substances by chemical means, while a molecule is a group of two or more atoms that are chemically bonded together.   "
 },
 {
-  "id": "p-483",
-  "level": "2",
-  "url": "sec_eighth-intro.html#p-483",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Physical change: Chemical change: "
-},
-{
-  "id": "p-484",
-  "level": "2",
-  "url": "sec_eighth-intro.html#p-484",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Elements: Compounds: Mixtures: "
-},
-{
   "id": "p-485",
   "level": "2",
   "url": "sec_eighth-intro.html#p-485",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "homogeneous mixture solution "
+  "body": "Physical change: Chemical change: "
 },
 {
   "id": "p-486",
   "level": "2",
   "url": "sec_eighth-intro.html#p-486",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Elements: Compounds: Mixtures: "
+},
+{
+  "id": "p-487",
+  "level": "2",
+  "url": "sec_eighth-intro.html#p-487",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "homogeneous mixture solution "
+},
+{
+  "id": "p-488",
+  "level": "2",
+  "url": "sec_eighth-intro.html#p-488",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2323,9 +2341,9 @@ var ptx_lunr_docs = [
   "body": " Classification of Matter    "
 },
 {
-  "id": "p-488",
+  "id": "p-490",
   "level": "2",
-  "url": "sec_eighth-intro.html#p-488",
+  "url": "sec_eighth-intro.html#p-490",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2350,18 +2368,18 @@ var ptx_lunr_docs = [
   "body": "  The Periodic Table    "
 },
 {
-  "id": "p-494",
+  "id": "p-496",
   "level": "2",
-  "url": "sec_eighth-ptable.html#p-494",
+  "url": "sec_eighth-ptable.html#p-496",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Element symbols: Atomic number: Element name: Groups Periods: Atomic mass: Blocks: "
 },
 {
-  "id": "p-497",
+  "id": "p-499",
   "level": "2",
-  "url": "sec_eighth-ptable.html#p-497",
+  "url": "sec_eighth-ptable.html#p-499",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2377,9 +2395,9 @@ var ptx_lunr_docs = [
   "body": " Orbital Diagram and Electrons in Shells    Orbital diagram     Electrons in shells     "
 },
 {
-  "id": "p-499",
+  "id": "p-501",
   "level": "2",
-  "url": "sec_eighth-ptable.html#p-499",
+  "url": "sec_eighth-ptable.html#p-501",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2395,67 +2413,58 @@ var ptx_lunr_docs = [
   "body": " Chemical Bonds & Equations   Chemical bonding is the process by which atoms combine to form molecules or other chemical compounds. Chemical bonding allows atoms to achieve the most stable configuration by sharing, gaining or losing electrons. There are several types of chemical bonding, including covalent bonding, ionic bonding, and metallic bonding. However, there are other types of bonding also occurs by the substance such as polar bonding, non-polar bonding, coordination bonding, molecular bonding, hydrogen bonding, and Van der waals' bonding.     Covalent bond: In covalent bonding atoms share electrons in order to achieve a stable configuration. This is the most common between non-metal atoms. Covalent bonding can take on a variety of forms including single, double, and triple bonds. For examples: in hydrogen molecule ( ), water molecule ( ), methan gas molecule ( ), diamond ( ), etc. Covalent bonding    Ionic bond: In ionic bonding, electrons are transferred from one atom to another, forming positively charged cations and negatively charged anions that are attracted to each other by electrostatic forces. This bonding is most common between metals and nonmetals. For examples: in Salt molecule ( ), Iron oxide molecule ( ), Calcium carbonate , magnesium oxide ( ), potassium iodide , etc. ionic bonding    Metallic bond: In metallic bonding, positively charged metal ions are surrounded by a sea of delocalized electrons, which are free to move throughout the metal lattice. This results in the formation of a strong metallic bond that is responsible for many of the physical properties of metals, such as their high melting points and conductivity. mettalic bonding .  Molecular bonding, typically refers to covalent bonding due to polar molecules. molecular bonding   In Van der waal's bonding, or van der Waals forces, refer to weak intermolecular attractions between molecules or atoms. These forces arise due to temporary fluctuations in the distribution of electrons in molecules or atoms.  The type of chemical bonding that occurs between atoms is determined by the properties of the atoms involved, including their electronegativity, electron configuration, and the conditions under which the reaction occurs. Understanding chemical bonding is important in fields such as chemistry, materials science, and engineering, as it underlies the formation and properties of all types of matter.    Naming of Compounds  There are a few general rules for naming molecules in chemistry, which vary slightly depending on the type of molecule being named. Here are some basic guidelines:    Naming simple covalent compounds: The first element in the formula is named first and the full element name is used. For example: in NaCl, the first name is The second element is named as though it were an anion (negative ion), with the suffix added to the root of the element name. For example: in NaCl, the second name is , in CaO: calcium oxide. Prefixes are used to indicate the number of atoms of each element present in the molecule. The prefix is usually omitted for the first element in the formula. For example: the name of is Carbon dioxide , and the CO is carbon monoxide .     Naming ionic compounds: The cation (positive ion) is named first, followed by the anion (negative ion). The name of the cation is the same as the element name. The name of the anion is derived from the root of the element name, with the suffix added. If the cation can have different charges, a Roman numeral is used to indicate the charge. For example: the name of iron (III) chloride is FeCl_3 , and mercury (II) Oxide is HgO .     Naming acids: If the anion name ends in , the acid is named with the prefix and the suffix , followed by the word \"acid\". If the anion name ends in , the acid is named with the suffix , followed by the word \"acid\". If the anion name ends in , the acid is named with the suffix , followed by the word \"acid\". For example: HCl - hydrochloric acid.     Naming organic compounds: The root of the name comes from the number of carbon atoms in the molecule (meth-, eth-, prop-, but-, etc.). Functional groups (such as alcohols, aldehydes, and carboxylic acids) are indicated by suffixes or prefixes. Numbering of the carbon atoms in the main chain starts at the end closest to a functional group, and the position of the functional group is indicated by a number. For example: - ethanol.     The common name of some compounds: Water ( ), methane ( ), ammonia ( ), and Chalk: ( ).    Molecular Formula  Molecular formula can be written by knowing the valency of the elements. The valency of an element is the number of electrons it can donate, accept, or share during a chemical reaction. First identify the elements present in the compound then Determine the valency of each element based on its position in the periodic table or by consulting a table of valencies. Determine the number of atoms of each element required to balance the valencies. This can be done by finding the least common multiple of the valencies for each element. Write the molecular formula by indicating the number of atoms for each element as subscripts next to the element symbol. Make sure to reduce the subscripts to the lowest whole number ratio. For example, let's determine the molecular formula for magnesium chloride. Magnesium has a valency of +2 and chlorine has a valency of -1. Now exchange the valency and place them to the bottom of opposite elements by dropping their signs as shown in below Hence, the molecular formula of magnesium chloride is Another example is the molecular formula for calcium oxide. Calcium has a valency of +2 and oxygen has a valency of -2.  Hence, calcium oxide is written as     Free Radicals  Free radicals are atoms, molecules or ions that have an unpaired electron in their outermost shell. They are highly reactive and unstable because they seek to pair their unpaired electron with another electron, either from another molecule or from another part of the same molecule. This process can cause damage to cells and tissues, and has been implicated in several diseases, including cancer, heart disease, and aging. Free radicals can be generated through normal metabolic processes in the body, as well as through exposure to environmental factors such as radiation, pollution, cigarette smoke, and certain chemicals. Some of the most common free radicals in the body include superoxide, hydroxyl, and nitric oxide radicals. To neutralize free radicals, the body relies on antioxidants, which are molecules that can donate an electron to the free radical without becoming unstable themselves. Antioxidants can be obtained from a variety of sources, including fruits, vegetables, nuts, and seeds. Vitamins C and E, beta-carotene, and selenium are all examples of antioxidants that can help neutralize free radicals in the body.  Free radicals are formed when a covalent bond in a molecule is broken with each fragment taking one of the shared electrons of the bond. For example when water molecules is broken The dots are unpaired electrons. Here is called a hydroxyle radical .    Polyatmic Ions  Polyatomic ions are ions composed of two or more atoms that are covalently bonded together and carry a net electrical charge. They are commonly found in many chemical compounds, including salts, acids, and bases. Polyatomic ions can have either a positive or negative charge, depending on the number of electrons they have gained or lost. Some common examples of polyatomic ions include:  Hydroxide ion : This ion consists of one oxygen atom and one hydrogen atom and has a negative charge. It is found in bases such as sodium hydroxide and calcium hydroxide . Ammonium ion : This ion consists of one nitrogen atom and four hydrogen atoms and has a positive charge. It is found in compounds such as ammonium chloride and ammonium nitrate . Carbonate ion : This ion consists of one carbon atom and three oxygen atoms and has a negative charge. It is found in compounds such as calcium carbonate and sodium carbonate . Sulfate ion : This ion consists of one sulfur atom and four oxygen atoms and has a negative charge. It is found in compounds such as magnesium sulfate and sodium sulfate . Phosphate ion This ion consists of one phosphorus atom and four oxygen atoms and has a negative charge. It is found in compounds such as calcium phosphate and sodium phosphate .  The properties and behavior of polyatomic ions depend on the specific atoms and bonds that make up the ion. They play important roles in many chemical reactions and are essential to many biological processes.    Chemical Equations  A chemical equation is a representation of a chemical reaction using symbols and formulas to show the reactants and products involved in the reaction. Chemical equations are written in a balanced form, meaning that the number of atoms of each element is the same on both sides of the equation. This is because the law of conservation of mass states that matter cannot be created or destroyed in a chemical reaction, only rearranged. The general form of a chemical equation is: Reactants → Products For example, the chemical equation for the reaction between hydrogen gas and oxygen gas to form water is: This equation shows that two molecules of hydrogen gas react with one molecule of oxygen gas to form two molecules of water . The equation is balanced because there are four hydrogen atoms and two oxygen atoms on both sides of the equation.  Chemical equations can also include coefficients, which are used to balance the equation. Coefficients are numbers placed in front of the chemical formulas to indicate the number of molecules or atoms involved in the reaction. For example, the balanced equation for the reaction between nitrogen gas and hydrogen gas to form ammonia is: In this equation, a coefficient of 3 is placed in front of the to balance the number of hydrogen atoms on both sides of the equation.    Balancing a chemical equation  Balancing a chemical equation involves adjusting the coefficients of the reactants and products to ensure that the number of atoms of each element is the same on both sides of the equation. Here is a step-by-step guide on how to balance a chemical equation:  Write the unbalanced equation. Identify the reactants and products and write them down using their chemical formulas.  Count the number of atoms of each element on both sides of the equation. This will help you determine which coefficients need to be adjusted.  Begin balancing the equation by adjusting the coefficients of the compounds that contain the most atoms first. Start with the compounds that have two or more atoms of an element.  Check the number of atoms of each element again after adjusting the coefficients. Continue adjusting the coefficients until the number of atoms of each element is the same on both sides of the equation.  Finally, double-check that the equation is fully balanced by counting the number of atoms of each element on both sides of the equation.    For example, let's balance the equation for the reaction between hydrogen gas and oxygen gas to form water: Unbalanced equation:    Step 1: Write the unbalanced equation.   Step 2: Count the number of atoms of each element.   Reactants: 2 hydrogen atoms, 2 oxygen atoms   Products: 2 hydrogen atoms, 1 oxygen atom   Step 3: Balance the equation by adjusting the coefficients.    Step 4: Check the number of atoms of each element again.   Reactants: 2 hydrogen atoms, 2 oxygen atoms   Products: 4 hydrogen atoms, 2 oxygen atoms   Step 5: Double-check that the equation is fully balanced.   Reactants: 2 hydrogen atoms, 2 oxygen atoms   Products: 2 hydrogen atoms, 2 oxygen atoms  The balanced equation is    "
 },
 {
-  "id": "p-504",
+  "id": "p-506",
   "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-504",
+  "url": "sec_eighth-chemicalbonds.html#p-506",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Covalent bond: Ionic bond: Metallic bond: "
 },
 {
-  "id": "p-513",
+  "id": "p-515",
   "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-513",
+  "url": "sec_eighth-chemicalbonds.html#p-515",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "hydroxyle radical "
 },
 {
-  "id": "p-517",
+  "id": "p-519",
   "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-517",
+  "url": "sec_eighth-chemicalbonds.html#p-519",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Reactants → Products "
 },
 {
-  "id": "p-523",
+  "id": "p-525",
   "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-523",
+  "url": "sec_eighth-chemicalbonds.html#p-525",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Reactants: "
 },
 {
-  "id": "p-524",
+  "id": "p-526",
   "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-524",
+  "url": "sec_eighth-chemicalbonds.html#p-526",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Products: "
 },
 {
-  "id": "p-527",
+  "id": "p-529",
   "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-527",
+  "url": "sec_eighth-chemicalbonds.html#p-529",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Reactants: "
-},
-{
-  "id": "p-528",
-  "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-528",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Products: "
 },
 {
   "id": "p-530",
@@ -2464,12 +2473,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "Products: "
+},
+{
+  "id": "p-532",
+  "level": "2",
+  "url": "sec_eighth-chemicalbonds.html#p-532",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "Reactants: "
 },
 {
-  "id": "p-531",
+  "id": "p-533",
   "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-531",
+  "url": "sec_eighth-chemicalbonds.html#p-533",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2485,31 +2503,13 @@ var ptx_lunr_docs = [
   "body": " Chemical Reactions   There are several types of chemical reactions, including:   Combination reactions: In a combination reaction, two or more reactants combine to form a single product. The general form of a combination reaction is:    Decomposition reactions: In a decomposition reaction, a single reactant breaks down into two or more products. The general form of a decomposition reaction is:    Single replacement reactions: In a single replacement reaction, an element replaces another element in a compound to form a new compound and a new element. The general form of a single replacement reaction is:    Double replacement reactions: In a double replacement reaction, the cations and anions of two different compounds switch places to form two new compounds. The general form of a double replacement reaction is:    Combustion reactions: In a combustion reaction, a fuel (often a hydrocarbon) reacts with oxygen gas to produce carbon dioxide, water, and heat. The general form of a combustion reaction is: fuel + oxygen → carbon dioxide + water.   Acid-base reactions: In an acid-base reaction, an acid reacts with a base to produce a salt and water. The general form of an acid-base reaction is: acid + base → salt + water.  Understanding the different types of chemical reactions is important in predicting the products of a reaction and in understanding the behavior of chemicals in different environments.    Endothermic and Exothermic Reactions  Endothermic and exothermic reactions are the chemical reactions based on the heat energy released or absorbed during the reaction. An endothermic reaction is a chemical reaction that absorbs heat energy from its surroundings. In other words, it requires an input of energy to occur. During an endothermic reaction, the temperature of the system decreases as the reaction proceeds because the heat is being absorbed into the reaction. Examples of endothermic reactions include melting of ice, the reaction of baking soda and vinegar, and photosynthesis. The decomposition of water into hydrogen and oxygen The formation of nitric oxide from nitrogen and oxygen When chocolate melts in your mouth, it absorbs heat energy from your mouth and the surrounding environment, causing the temperature of the chocolate to increase to melt it into a liquid form. This is an example of an endothermic reaction because it requires an input of energy (in the form of heat) to occur. As a result, the process of chocolate melting in your mouth can give a cooling sensation. When sugar is added to water, the water molecules surround the individual sugar molecules and break apart the sugar crystals through a process called hydration. This requires energy to overcome the intermolecular forces holding the sugar molecules together. As a result, the temperature of the mixture may actually decrease slightly due to the energy absorbed during the process.  On the other hand, an exothermic reaction is a chemical reaction that releases heat energy into its surroundings. In other words, it gives off energy during the reaction. During an exothermic reaction, the temperature of the system increases as the reaction proceeds because heat is being released from the reaction. Examples of exothermic reactions include burning of wood, combustion reactions, and neutralization reactions. The burning of coal (carbon) The burning of hydrogen The dissolution of sodium hydroxide (NaOH) in water is an exothermic process, which means that it releases heat. When NaOH dissolves in water, it undergoes a chemical reaction that releases energy in the form of heat. This energy is then transferred to the surrounding environment, causing the temperature of the solution to increase.    The Mole   Mole is a unit used to measure the amount of a substance. One mole of a substance is defined as the amount of substance that contains the same number of particles (atoms, molecules, or ions) as there are in 12 grams of carbon-12. This number is known as Avogadro's number, N_o and is approximately particles per mole. For example, one mole of water contains water molecules, while one mole of sodium chloride contains sodium ions and chloride ions. The mole is a convenient unit for chemists because it allows them to compare the amounts of different substances on the basis of the number of particles they contain, rather than their mass or volume. The number of atoms or molecules or anything in 1 mole of any substance is always the same as Avogadro's number.   Atomic mass unit (amu) is a unit of mass used to express the relative masses of atoms and molecules. It is defined as one twelfth (1\/12) of the mass of a carbon-12 atom, which is assigned a mass of exactly 12 amu. This means that the mass of one proton or one neutron is approximately 1 amu, and the mass of an electron is much smaller, about 0.0005 amu. The atomic mass of an element, which is the weighted average of the masses of its isotopes, is expressed in amu. The use of atomic mass units is convenient because it allows us to compare the masses of different atoms and molecules on a relative scale. For example, the mass of a hydrogen atom is about 1 amu, while the mass of an oxygen atom is about 16 amu.   Molar mass is the mass of one mole of a substance, typically expressed in units of grams per mole (g\/mol). It is calculated by summing the atomic masses of all the atoms in a molecule or formula unit of a compound. The molar mass is an important concept in chemistry as it is used to convert between the mass of a substance and the number of moles of that substance. It is also used in stoichiometric calculations to determine the quantities of reactants and products in chemical reactions.     How many atoms are there in 100 g of iron?    To determine the number of atoms present in 100 g of iron, we first need to know the atomic mass of iron. The atomic mass (or Molar mass) of iron (Fe) is approximately 55.85 g\/mol. We can use this information and Avogadro's number, which is approximately atoms\/mol, to calculate the number of atoms in 100 g of iron:  Calculate the number of moles of iron in 100 g:   Calculate the number of atoms in 1.79 moles of iron: = 1.79 mol atoms\/mol = atoms   Therefore, there are approximately atoms present in 100 g of iron.     "
 },
 {
-  "id": "p-533",
-  "level": "2",
-  "url": "sec_eigth-react.html#p-533",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Combination reactions: Decomposition reactions: Single replacement reactions: Double replacement reactions: Combustion reactions: Acid-base reactions: "
-},
-{
-  "id": "p-534",
-  "level": "2",
-  "url": "sec_eigth-react.html#p-534",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "endothermic reaction "
-},
-{
   "id": "p-535",
   "level": "2",
   "url": "sec_eigth-react.html#p-535",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "exothermic reaction "
+  "body": "Combination reactions: Decomposition reactions: Single replacement reactions: Double replacement reactions: Combustion reactions: Acid-base reactions: "
 },
 {
   "id": "p-536",
@@ -2518,7 +2518,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Mole Avogadro's number, N_o "
+  "body": "endothermic reaction "
 },
 {
   "id": "p-537",
@@ -2527,7 +2527,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Atomic mass unit "
+  "body": "exothermic reaction "
 },
 {
   "id": "p-538",
@@ -2536,12 +2536,30 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "Mole Avogadro's number, N_o "
+},
+{
+  "id": "p-539",
+  "level": "2",
+  "url": "sec_eigth-react.html#p-539",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Atomic mass unit "
+},
+{
+  "id": "p-540",
+  "level": "2",
+  "url": "sec_eigth-react.html#p-540",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "Molar mass "
 },
 {
-  "id": "example-78",
+  "id": "example-79",
   "level": "2",
-  "url": "sec_eigth-react.html#example-78",
+  "url": "sec_eigth-react.html#example-79",
   "type": "Example",
   "number": "8.4.1",
   "title": "",
@@ -2557,261 +2575,261 @@ var ptx_lunr_docs = [
   "body": " Examples    Which of the following cannot be decomposed by chemical and physical means.  a compound  an element  a solid  a solution      b.      How many element groups are there in a periodic table?  7  11  18  26      c.      How many element periods are there in a periodic table?  5  7  9  0      b.      Who developed the periodic table?  Henry Moseley  Dimitri Mendeleev  John Newlands  De Chancourtois      b.      Who discovered the number of protons in the nucleus of each atom.  Ernest Rutherford  J. J. Thomson  Daltons  Neil Bohr      a.      What is the atomic number for helium?  1  2  4  8      b.      What is the symbol for Argon?  A  Ar  Ag  An      b.      The symbol stands for what element?  Gold  Silver  Tin  Argon      a.      Which of the following substances is a homogenours mixture?  air  salt  seawater  soil    Select one of the following:  a. and b.  a. and c.  a. and d.  none of above.      ii.      Most elements in the periodic table are at room temperature and atmospheric pressure.  metallic solids  gases  liquids  nonmetallic solids      a.      Which of the following set of elements possess similar chemical properties?  and  and  and  and      a.      Which of the following statements is true regarding the periodic table?  The horizontal rows in the periodic table are known as groups  The verticle columns in the periodic table are known as periods  In the periodic table, when the atomic number increases, the properties of the elements repeat regularly  The periodic table is classified into blocks based on the electron filling pattern into shells      c.      Which of the following properties are unique to metals?  No metallic lustre (or, dull appearance)  Solids under room temperature  Low melting points  Poor conductors of electricity and heat      b.      How many valence electrons does have?  1  11  3  9      a.      How many valence electrons does Group 13 have?  13  3  5  10      b.      The position of an element in the Periodic Table is determined by which of the followings?  its atomic radius.  its atomic mass.  its atomic number.  its density.      c.      Which statement is true of covalent bonds?  No matter the element, there is the same bond length between neighboring atoms.  Valence electrons must be shared equally between atoms in order to achieve stability.  Covalent bonds form when the nuclei of two atoms attract each other.  Atoms find the ideal separation distance where electrostatics forces are reduced to a minimum.      b.      Which of the following has a full valence shell?  oxygen.  carbon.  neon.  iron.      c.      An ionic bond forms when atoms electrons.  gain  share  increase  transfer      d.      What is an ion?  An atom or group of atoms that have gained or lost electrons.  An atom or group of atoms that have gained or lost protons.  An atom that has more neutrons than protons.  An atom that shares electrons with another atom.      a.      How does a chloride ion of charge become neutral?  By losing two electrons.  By losing one electron.  By gaining two electrons.  By gaining one electron.      b.      A group of atoms carrying an electric charge is known as  an ion.  a radical.  a crystal lattice.  a covalent bond.      b.      Which of the following elements does not have a valency of 3?  sulfur.  boron.  nitrogen.  aluminum.      a.      The number of electrons gained, lost, or shared by an atom in a chemical bond is also known as  its atomic number.  its valency.  its mass number.  its charge.      b.      What is the name of the compound formed when sulfur combines with magnesium?  Magnesium sulfur.  Magnesium sulfate.  Sulfur magnesium.  Magnesium sulfide.      d.      The number of atoms in a molecule of is  8.  13.  16.  12.      b.      The number of oxygen atoms in a molecule of is  4.  8.  13.  1.      b.      Which one of the follwing equations is balanced?               a.      Write the missing number in the equation below               b.    "
 },
 {
-  "id": "example-79",
+  "id": "example-80",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-79",
+  "url": "sec_eighth-examples.html#example-80",
   "type": "Example",
   "number": "8.5.1",
   "title": "",
   "body": "  Which of the following cannot be decomposed by chemical and physical means.  a compound  an element  a solid  a solution      b.   "
 },
 {
-  "id": "example-80",
+  "id": "example-81",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-80",
+  "url": "sec_eighth-examples.html#example-81",
   "type": "Example",
   "number": "8.5.2",
   "title": "",
   "body": "  How many element groups are there in a periodic table?  7  11  18  26      c.   "
 },
 {
-  "id": "example-81",
+  "id": "example-82",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-81",
+  "url": "sec_eighth-examples.html#example-82",
   "type": "Example",
   "number": "8.5.3",
   "title": "",
   "body": "  How many element periods are there in a periodic table?  5  7  9  0      b.   "
 },
 {
-  "id": "example-82",
+  "id": "example-83",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-82",
+  "url": "sec_eighth-examples.html#example-83",
   "type": "Example",
   "number": "8.5.4",
   "title": "",
   "body": "  Who developed the periodic table?  Henry Moseley  Dimitri Mendeleev  John Newlands  De Chancourtois      b.   "
 },
 {
-  "id": "example-83",
+  "id": "example-84",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-83",
+  "url": "sec_eighth-examples.html#example-84",
   "type": "Example",
   "number": "8.5.5",
   "title": "",
   "body": "  Who discovered the number of protons in the nucleus of each atom.  Ernest Rutherford  J. J. Thomson  Daltons  Neil Bohr      a.   "
 },
 {
-  "id": "example-84",
+  "id": "example-85",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-84",
+  "url": "sec_eighth-examples.html#example-85",
   "type": "Example",
   "number": "8.5.6",
   "title": "",
   "body": "  What is the atomic number for helium?  1  2  4  8      b.   "
 },
 {
-  "id": "example-85",
+  "id": "example-86",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-85",
+  "url": "sec_eighth-examples.html#example-86",
   "type": "Example",
   "number": "8.5.7",
   "title": "",
   "body": "  What is the symbol for Argon?  A  Ar  Ag  An      b.   "
 },
 {
-  "id": "example-86",
+  "id": "example-87",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-86",
+  "url": "sec_eighth-examples.html#example-87",
   "type": "Example",
   "number": "8.5.8",
   "title": "",
   "body": "  The symbol stands for what element?  Gold  Silver  Tin  Argon      a.   "
 },
 {
-  "id": "example-87",
+  "id": "example-88",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-87",
+  "url": "sec_eighth-examples.html#example-88",
   "type": "Example",
   "number": "8.5.9",
   "title": "",
   "body": "  Which of the following substances is a homogenours mixture?  air  salt  seawater  soil    Select one of the following:  a. and b.  a. and c.  a. and d.  none of above.      ii.   "
 },
 {
-  "id": "example-88",
+  "id": "example-89",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-88",
+  "url": "sec_eighth-examples.html#example-89",
   "type": "Example",
   "number": "8.5.10",
   "title": "",
   "body": "  Most elements in the periodic table are at room temperature and atmospheric pressure.  metallic solids  gases  liquids  nonmetallic solids      a.   "
 },
 {
-  "id": "example-89",
+  "id": "example-90",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-89",
+  "url": "sec_eighth-examples.html#example-90",
   "type": "Example",
   "number": "8.5.11",
   "title": "",
   "body": "  Which of the following set of elements possess similar chemical properties?  and  and  and  and      a.   "
 },
 {
-  "id": "example-90",
+  "id": "example-91",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-90",
+  "url": "sec_eighth-examples.html#example-91",
   "type": "Example",
   "number": "8.5.12",
   "title": "",
   "body": "  Which of the following statements is true regarding the periodic table?  The horizontal rows in the periodic table are known as groups  The verticle columns in the periodic table are known as periods  In the periodic table, when the atomic number increases, the properties of the elements repeat regularly  The periodic table is classified into blocks based on the electron filling pattern into shells      c.   "
 },
 {
-  "id": "example-91",
+  "id": "example-92",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-91",
+  "url": "sec_eighth-examples.html#example-92",
   "type": "Example",
   "number": "8.5.13",
   "title": "",
   "body": "  Which of the following properties are unique to metals?  No metallic lustre (or, dull appearance)  Solids under room temperature  Low melting points  Poor conductors of electricity and heat      b.   "
 },
 {
-  "id": "example-92",
+  "id": "example-93",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-92",
+  "url": "sec_eighth-examples.html#example-93",
   "type": "Example",
   "number": "8.5.14",
   "title": "",
   "body": "  How many valence electrons does have?  1  11  3  9      a.   "
 },
 {
-  "id": "example-93",
+  "id": "example-94",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-93",
+  "url": "sec_eighth-examples.html#example-94",
   "type": "Example",
   "number": "8.5.15",
   "title": "",
   "body": "  How many valence electrons does Group 13 have?  13  3  5  10      b.   "
 },
 {
-  "id": "example-94",
+  "id": "example-95",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-94",
+  "url": "sec_eighth-examples.html#example-95",
   "type": "Example",
   "number": "8.5.16",
   "title": "",
   "body": "  The position of an element in the Periodic Table is determined by which of the followings?  its atomic radius.  its atomic mass.  its atomic number.  its density.      c.   "
 },
 {
-  "id": "example-95",
+  "id": "example-96",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-95",
+  "url": "sec_eighth-examples.html#example-96",
   "type": "Example",
   "number": "8.5.17",
   "title": "",
   "body": "  Which statement is true of covalent bonds?  No matter the element, there is the same bond length between neighboring atoms.  Valence electrons must be shared equally between atoms in order to achieve stability.  Covalent bonds form when the nuclei of two atoms attract each other.  Atoms find the ideal separation distance where electrostatics forces are reduced to a minimum.      b.   "
 },
 {
-  "id": "example-96",
+  "id": "example-97",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-96",
+  "url": "sec_eighth-examples.html#example-97",
   "type": "Example",
   "number": "8.5.18",
   "title": "",
   "body": "  Which of the following has a full valence shell?  oxygen.  carbon.  neon.  iron.      c.   "
 },
 {
-  "id": "example-97",
+  "id": "example-98",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-97",
+  "url": "sec_eighth-examples.html#example-98",
   "type": "Example",
   "number": "8.5.19",
   "title": "",
   "body": "  An ionic bond forms when atoms electrons.  gain  share  increase  transfer      d.   "
 },
 {
-  "id": "example-98",
+  "id": "example-99",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-98",
+  "url": "sec_eighth-examples.html#example-99",
   "type": "Example",
   "number": "8.5.20",
   "title": "",
   "body": "  What is an ion?  An atom or group of atoms that have gained or lost electrons.  An atom or group of atoms that have gained or lost protons.  An atom that has more neutrons than protons.  An atom that shares electrons with another atom.      a.   "
 },
 {
-  "id": "example-99",
+  "id": "example-100",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-99",
+  "url": "sec_eighth-examples.html#example-100",
   "type": "Example",
   "number": "8.5.21",
   "title": "",
   "body": "  How does a chloride ion of charge become neutral?  By losing two electrons.  By losing one electron.  By gaining two electrons.  By gaining one electron.      b.   "
 },
 {
-  "id": "example-100",
+  "id": "example-101",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-100",
+  "url": "sec_eighth-examples.html#example-101",
   "type": "Example",
   "number": "8.5.22",
   "title": "",
   "body": "  A group of atoms carrying an electric charge is known as  an ion.  a radical.  a crystal lattice.  a covalent bond.      b.   "
 },
 {
-  "id": "example-101",
+  "id": "example-102",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-101",
+  "url": "sec_eighth-examples.html#example-102",
   "type": "Example",
   "number": "8.5.23",
   "title": "",
   "body": "  Which of the following elements does not have a valency of 3?  sulfur.  boron.  nitrogen.  aluminum.      a.   "
 },
 {
-  "id": "example-102",
+  "id": "example-103",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-102",
+  "url": "sec_eighth-examples.html#example-103",
   "type": "Example",
   "number": "8.5.24",
   "title": "",
   "body": "  The number of electrons gained, lost, or shared by an atom in a chemical bond is also known as  its atomic number.  its valency.  its mass number.  its charge.      b.   "
 },
 {
-  "id": "example-103",
+  "id": "example-104",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-103",
+  "url": "sec_eighth-examples.html#example-104",
   "type": "Example",
   "number": "8.5.25",
   "title": "",
   "body": "  What is the name of the compound formed when sulfur combines with magnesium?  Magnesium sulfur.  Magnesium sulfate.  Sulfur magnesium.  Magnesium sulfide.      d.   "
 },
 {
-  "id": "example-104",
+  "id": "example-105",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-104",
+  "url": "sec_eighth-examples.html#example-105",
   "type": "Example",
   "number": "8.5.26",
   "title": "",
   "body": "  The number of atoms in a molecule of is  8.  13.  16.  12.      b.   "
 },
 {
-  "id": "example-105",
+  "id": "example-106",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-105",
+  "url": "sec_eighth-examples.html#example-106",
   "type": "Example",
   "number": "8.5.27",
   "title": "",
   "body": "  The number of oxygen atoms in a molecule of is  4.  8.  13.  1.      b.   "
 },
 {
-  "id": "example-106",
+  "id": "example-107",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-106",
+  "url": "sec_eighth-examples.html#example-107",
   "type": "Example",
   "number": "8.5.28",
   "title": "",
   "body": "  Which one of the follwing equations is balanced?               a.   "
 },
 {
-  "id": "example-107",
+  "id": "example-108",
   "level": "2",
-  "url": "sec_eighth-examples.html#example-107",
+  "url": "sec_eighth-examples.html#example-108",
   "type": "Example",
   "number": "8.5.29",
   "title": "",
@@ -2827,54 +2845,54 @@ var ptx_lunr_docs = [
   "body": "  Exercises   Write the missing number in the following equations:              Which of the following equations are balanced?              Name these compounds:                  Write the chemical formula for these compounds:  Hydrogen iodide  Dinitrogen tetroxide  Manganese chloride  Ferric oxide  Ferrous oxide  Calcium carbonate      Select the correct choice: A halogen atom   has one electron in its outermost orbit  has two electron in its outermost orbit  has filled outer shell  lacks one electron of having a filled outer shell      Select the correct choice: An atom that loses its outer electron or electrons is generally   an active metal  an active nonmetal  an inactive metal  an inactive nonmetal     "
 },
 {
-  "id": "exercise-74",
+  "id": "exercise-75",
   "level": "2",
-  "url": "ex_eighth.html#exercise-74",
+  "url": "ex_eighth.html#exercise-75",
   "type": "Exercise",
   "number": "8.6.1",
   "title": "",
   "body": " Write the missing number in the following equations:            "
 },
 {
-  "id": "exercise-75",
+  "id": "exercise-76",
   "level": "2",
-  "url": "ex_eighth.html#exercise-75",
+  "url": "ex_eighth.html#exercise-76",
   "type": "Exercise",
   "number": "8.6.2",
   "title": "",
   "body": " Which of the following equations are balanced?            "
 },
 {
-  "id": "exercise-76",
+  "id": "exercise-77",
   "level": "2",
-  "url": "ex_eighth.html#exercise-76",
+  "url": "ex_eighth.html#exercise-77",
   "type": "Exercise",
   "number": "8.6.3",
   "title": "",
   "body": " Name these compounds:                "
 },
 {
-  "id": "exercise-77",
+  "id": "exercise-78",
   "level": "2",
-  "url": "ex_eighth.html#exercise-77",
+  "url": "ex_eighth.html#exercise-78",
   "type": "Exercise",
   "number": "8.6.4",
   "title": "",
   "body": " Write the chemical formula for these compounds:  Hydrogen iodide  Dinitrogen tetroxide  Manganese chloride  Ferric oxide  Ferrous oxide  Calcium carbonate    "
 },
 {
-  "id": "exercise-78",
+  "id": "exercise-79",
   "level": "2",
-  "url": "ex_eighth.html#exercise-78",
+  "url": "ex_eighth.html#exercise-79",
   "type": "Exercise",
   "number": "8.6.5",
   "title": "",
   "body": " Select the correct choice: A halogen atom   has one electron in its outermost orbit  has two electron in its outermost orbit  has filled outer shell  lacks one electron of having a filled outer shell    "
 },
 {
-  "id": "exercise-79",
+  "id": "exercise-80",
   "level": "2",
-  "url": "ex_eighth.html#exercise-79",
+  "url": "ex_eighth.html#exercise-80",
   "type": "Exercise",
   "number": "8.6.6",
   "title": "",
@@ -2899,9 +2917,9 @@ var ptx_lunr_docs = [
   "body": " Crystal structure of Solids    Diamond     Graphite     Metallic Solid     Molecular Solid     "
 },
 {
-  "id": "p-614",
+  "id": "p-616",
   "level": "2",
-  "url": "sec_ninth-intro.html#p-614",
+  "url": "sec_ninth-intro.html#p-616",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2917,18 +2935,18 @@ var ptx_lunr_docs = [
   "body": " Polar and nonpolar molecules    Polar-polar interaction     Polar-nonpolar interaction     Nonpolar-nonpolar interaction     "
 },
 {
-  "id": "p-615",
+  "id": "p-617",
   "level": "2",
-  "url": "sec_ninth-intro.html#p-615",
+  "url": "sec_ninth-intro.html#p-617",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "polar "
 },
 {
-  "id": "p-616",
+  "id": "p-618",
   "level": "2",
-  "url": "sec_ninth-intro.html#p-616",
+  "url": "sec_ninth-intro.html#p-618",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2944,18 +2962,18 @@ var ptx_lunr_docs = [
   "body": " Solution   A solution is a homogeneous mixture composed of two or more substances. The substance that dissolves is called the solute , and the substance that does the dissolving is called the solvent . When the solute dissolves in the solvent, the resulting solution is a uniform mixture, called solution.  Solubility is the ability of a substance to dissolve in a solvent to form a solution. The solubility of a substance depends on various factors such as temperature, pressure, and the nature of the solute and solvent. In general, \" like dissolves like ,\" meaning that substances with similar chemical properties tend to dissolve in each other. The amount of solute that can dissolve in a given amount of solvent is limited by the solubility of the solute in the solvent. When a solution contains the maximum amount of solute that can dissolve in the solvent at a given temperature and pressure, is said to be a saturated solution. If more solute is added to a saturated solution, it will not dissolve and will form a separate phase, such as a solid precipitate or gas bubbles.   Concentration: The concentration of a solution is the amount of solute dissolved in a specific amount of solvent or solution. The term \"saturated\" and \"unsaturated\" are used to describe the concentration of solute in a solution. A saturated solution contains maximum amount of solute that can dissolve in a given solvent at a particular temperature and pressure. No more solute can be dissolved in the solvent of the saturated solution without increasing the temperature or pressure. Any additional solute added to the solution will not dissolve and will remain as a solid. On the other hand, an unsaturated solution contains less than the maximum amount of solute that can dissolve in a given solvent at a particular temperature and pressure. In an unsaturated solution, more solute can be added and dissolved in the solvent. It's important to note that a solution can also be supersaturated , which means it contains more solute than what can theoretically be dissolved at a given temperature and pressure. Supersaturated solutions are not stable and can spontaneously crystallize, forming a precipitate, or solid, out of excess solute.   Solubility of various solutes in water.      Types of Solution  There are several types of solutions, based on their composition and properties. Here are some common types of solutions:   Homogeneous solutions: These are solutions that have uniform composition and properties throughout. The solute particles are evenly distributed in the solvent. Examples include saltwater, sugar water, and ethanol-water mixtures.   Heterogeneous solutions: These are solutions that have non-uniform composition and properties. The solute particles are not evenly distributed in the solvent. Examples include suspensions, emulsions, and colloids.   Dilute solutions: These are solutions that have a low concentration of solute. The amount of solute is relatively small compared to the amount of solvent. Examples include a drop of food coloring in a glass of water or a pinch of salt in a pot of soup.   Concentrated solutions: These are solutions that have a high concentration of solute. The amount of solute is relatively large compared to the amount of solvent. Examples include concentrated sulfuric acid, concentrated sodium hydroxide, and concentrated ammonia solutions.   Saturated solutions: These are solutions that contain the maximum amount of solute that can dissolve in a given amount of solvent at a particular temperature and pressure. Any additional solute added to the solution will not dissolve and will remain as a solid. Examples include sugar-water solutions and saltwater solutions.   Unsaturated solutions: These are solutions that contain less than the maximum amount of solute that can dissolve in a given amount of solvent at a particular temperature and pressure. More solute can be added to the solution and dissolved. Examples include weak tea and weak coffee.   Supersaturated solutions: These are solutions that contain more solute than what can theoretically dissolve at a given temperature and pressure. These solutions are not stable and can spontaneously crystallize, forming a precipitate or solid out of excess solute. Examples include supersaturated sugar-water solutions and supersaturated sodium acetate solutions.    There are also several types of solutions based on the phases of the solute and solvent. Here are some common types of solutions:   Solid-solid solutions: It is also known as solid solutions or alloys, are homogeneous mixtures of two or more solid elements or compounds. In a solid solution, the atoms of one component are dispersed uniformly throughout the crystal lattice of the other component, resulting in a single, continuous phase. Examples of solid-solid solutions include brass, which is an alloy of copper and zinc; steel, which is an alloy of iron and carbon; and bronze, which is an alloy of copper and tin.   Liquid-liquid solutions: These are solutions in which the solute and solvent are both liquids. Examples include milk in water, ethanol in water, and benzene in toluene.   Gas-liquid solutions: also known as gas solutions. These are solutions in which the solute is a gas that dissolves in a liquid solvent. Examples include cold drink, carbon dioxide in water, oxygen in blood, and nitrogen in beer.   Solid-liquid solutions: Here solid is solute and liquid is solvent. For example: salt water solution, sugar water solution.      Colligative property of a solution   Freezing point elevation is a colligative property of a solution that describes the increase in the freezing point of a solvent when a non-volatile solute is dissolved in it. This phenomenon occurs because the presence of the solute interferes with the formation of the crystal lattice of the solvent during freezing. The magnitude of the freezing point elevation is proportional to the concentration of the solute in the solution. Melting point depression is a colligative property of a solution that describes the decrease in the melting point of a solvent when a non-volatile solute is dissolved in it. This phenomenon occurs because the presence of the solute disrupts the regular crystal structure of the solvent during melting, making it more difficult for the solvent molecules to organize themselves into a solid. The magnitude of the melting point depression is proportional to the concentration of the solute in the solution.   "
 },
 {
-  "id": "p-619",
+  "id": "p-621",
   "level": "2",
-  "url": "sec_ninth-solut.html#p-619",
+  "url": "sec_ninth-solut.html#p-621",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "solution solute solvent Solubility saturated "
 },
 {
-  "id": "p-620",
+  "id": "p-622",
   "level": "2",
-  "url": "sec_ninth-solut.html#p-620",
+  "url": "sec_ninth-solut.html#p-622",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2971,27 +2989,27 @@ var ptx_lunr_docs = [
   "body": " Solubility of various solutes in water.   "
 },
 {
-  "id": "p-621",
+  "id": "p-623",
   "level": "2",
-  "url": "sec_ninth-solut.html#p-621",
+  "url": "sec_ninth-solut.html#p-623",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Homogeneous solutions: Heterogeneous solutions: Dilute solutions: Concentrated solutions: Saturated solutions: Unsaturated solutions: Supersaturated solutions: "
 },
 {
-  "id": "p-622",
+  "id": "p-624",
   "level": "2",
-  "url": "sec_ninth-solut.html#p-622",
+  "url": "sec_ninth-solut.html#p-624",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Solid-solid solutions: Liquid-liquid solutions: Gas-liquid solutions: Solid-liquid solutions: "
 },
 {
-  "id": "p-623",
+  "id": "p-625",
   "level": "2",
-  "url": "sec_ninth-solut.html#p-623",
+  "url": "sec_ninth-solut.html#p-625",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3007,27 +3025,27 @@ var ptx_lunr_docs = [
   "body": " Acids and Base   Acids and bases are two types of chemical compounds that have unique properties and behavior. Acids are compounds that have a high concentration of hydrogen ions , which they release when they are dissolved in water. Acid tests sour. (It is compeletely prohibited to test any liquid in the laboratory.) Orange, lemon, tomato, tamarind, and grapefruit are sour and contain acid in their juice. Bases , on the other hand, have a high concentration of hydroxide ions , which they release when they are dissolved in water. Base also known as Alkali tests bitter. Cucumber, asparagus, garlic, yam, broccoli, and fish slime are alkaline.  Acid dissociates into hydrogen ion when dissolve in water.    Base dissociates into hydroxide ion when dissolve in water.  Acids can be classified as either weak or strong, depending on their ability to dissociate in water. A strong acid is an acid that completely dissociates in water, meaning that all of its molecules break apart into ions. Examples of strong acids include hydrochloric acid , sulfuric acid , and nitric acid . These acids have a very low pH and are highly reactive. A weak acid , on the other hand, only partially dissociates in water, meaning that only a small fraction of its molecules break apart into ions. Examples of weak acids include acetic acid , formic acid , and citric acid . These acids have a higher pH than strong acids and are less reactive. The strength of an acid is determined by its dissociation constant (Ka), which is a measure of how easily the acid donates a proton to water. A high Ka value indicates a strong acid, while a low Ka value indicates a weak acid. Explanation of dissociation constant (Ka) is out of the course requirement here.   A base is a substance that can accept a proton from another substance or donate a hydroxide ion to another substance. Bases can be classified as either strong or weak, depending on their ability to dissociate in water. A strong base is a base that completely dissociates in water, meaning that all of its molecules break apart into ions. Examples of strong bases include sodium hydroxide , potassium hydroxide , and calcium hydroxide . These bases have a very high pH and are highly reactive. A weak base , on the other hand, only partially dissociates in water, meaning that only a small fraction of its molecules break apart into ions. Examples of weak bases include ammonia , pyridine , and trimethylamine . These bases have a lower pH than strong bases and are less reactive. The strength of a base is determined by its dissociation constant (Kb), which is a measure of how easily the base accepts a proton from water. A high Kb value indicates a strong base, while a low Kb value indicates a weak base. Explanation of dissociation constant (Kb) is out of the course requirement here.     The pH Scale   pH scale    One of the most important properties of acids and bases is their level. The pH scale is a measurement system used to describe the acidity or basicity (alkalinity) of a solution. It is a logarithmic scale that ranges from 0 to 14, with 7 being neutral . A solution with a pH less than 7 is considered acidic , while a solution with a pH greater than 7 is considered basic (alkaline). The strength of an acid or base depends on its ability to release or accept hydrogen ions. Each unit on the pH scale represents a tenfold difference in acidity or basicity. For example, a solution with a pH of 4 is ten times more acidic than a solution with a pH of 5, and 100 times more acidic than a solution with a pH of 6. Similarly, a solution with a pH of 10 is ten times more basic than a solution with a pH of 9, and 100 times more basic than a solution with a pH of 8. The pH scale is important in many scientific fields, including chemistry, biology, and environmental science. It is used to measure the acidity or basicity of substances such as water, soil, and blood.  The hydronium ion , also known as the oxonium ion, is a positively charged ion with the chemical formula . It is formed when a water molecule, , accepts a hydrogen ion, , from an acid. The hydronium ion is an important species in acid-base chemistry because it represents the acidic character of a solution. In aqueous solutions, the concentration of hydronium ions determines the pH of the solution. Solutions with a high concentration of hydronium ions have a low pH and are considered acidic, while solutions with a low concentration of hydronium ions have a high pH and are considered basic (alkaline). Hydronium ion can act as a proton donor (acid) or proton acceptor (base) in chemical reactions, making it an important species in acid-base catalysis. Pure water has some contents of hydronium ion when it dissociates but these ions recombines also very fast, hence, pure water is neutral and has pH scale of 7. Since hydroxide ion, attract ion strongly there is reverse reaction keep happening in water Thus we can write     Salts  An acid-base reaction is a chemical reaction that occurs between an acid and a base. In this type of reaction, the acid donates a proton (H+) to the base, which accepts the proton. This results in the formation of a new compound that is neither acidic nor basic in nature. Neutralization is a specific type of acid-base reaction where an acid and a base react to form a salt and water. The salt formed is composed of the cation of the base and the anion of the acid, and it is typically a neutral compound. For example, when hydrochloric acid (HCl) reacts with sodium hydroxide (NaOH), the following reaction takes place: In this reaction, HCl is the acid, NaOH is the base, NaCl is the salt, and is the water that is formed. The resulting solution is neutral because the and ions from the acid and base, respectively, have combined to form water, leaving behind only the and ions from the salt. Table salt , Epsom salt , Gypsom salt , Baking soda are some examples of salt.   "
 },
 {
-  "id": "p-624",
-  "level": "2",
-  "url": "sec_ninth-acidbase.html#p-624",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Acids Bases "
-},
-{
   "id": "p-626",
   "level": "2",
   "url": "sec_ninth-acidbase.html#p-626",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "Acids Bases "
+},
+{
+  "id": "p-628",
+  "level": "2",
+  "url": "sec_ninth-acidbase.html#p-628",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "strong acid weak acid "
 },
 {
-  "id": "p-627",
+  "id": "p-629",
   "level": "2",
-  "url": "sec_ninth-acidbase.html#p-627",
+  "url": "sec_ninth-acidbase.html#p-629",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3043,27 +3061,27 @@ var ptx_lunr_docs = [
   "body": " pH scale   "
 },
 {
-  "id": "p-628",
+  "id": "p-630",
   "level": "2",
-  "url": "sec_ninth-acidbase.html#p-628",
+  "url": "sec_ninth-acidbase.html#p-630",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "pH scale "
 },
 {
-  "id": "p-629",
+  "id": "p-631",
   "level": "2",
-  "url": "sec_ninth-acidbase.html#p-629",
+  "url": "sec_ninth-acidbase.html#p-631",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "hydronium ion "
 },
 {
-  "id": "p-630",
+  "id": "p-632",
   "level": "2",
-  "url": "sec_ninth-acidbase.html#p-630",
+  "url": "sec_ninth-acidbase.html#p-632",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3079,81 +3097,81 @@ var ptx_lunr_docs = [
   "body": " Examples    Why carbon dioxide solution is acidic?    When carbon dioxide dissolves in water , it forms carbonic acid through the following reaction: Carbonic acid is a weak acid that dissociates in water to release hydrogen ions and bicarbonate ions : The hydrogen ions that are released make the solution acidic, as they increase the concentration of positively charged ions in the solution. This decrease in pH is due to the increase in hydrogen ion concentration and is therefore considered to be an acidic solution.      Why ammonia solution is basic (or alkaline)?    Ammonia is a weak base, and when it dissolves in water, it produces hydroxide ions through the following reaction: The hydroxide ions make the solution alkaline or basic, as they increase the concentration of negatively charged ions in the solution. This increase in pH is due to the presence of hydroxide ions, which makes the solution more basic.      What is a crystalline solid?  A solid that has a regular arrangement of particles.  A solid that has an irregular arrangement of particles.  Both a and b  None of the above      a.      What is true regarding amorphous solids?  These solids have short-range order.  These solids are not organized in a definite lattice pattern.  Glasses are an example of amorphous solids.  All of the above      d.      A polar molecule can attract  only ions.  only other polar molecules.  only other nonpolar molecules.  All of the above.      d.      What does \"like dissolves like\" mean?  polar solvents dissolve in polar solutes.  non-polar solvents dissolve in polar solutes.  polar solutes dissolve in polar solvents.  non-polar solutes dissolve in polar solvents.      c.      Ice is an example of  a covalent solid.  an ionic solid.  a metallic solid.  a molecular solid.      d.      Diamondis an example of  a covalent solid.  an ionic solid.  a metallic solid.  a molecular solid.      a.      A saturated solution is a solution that  contains the maximum amount of solute.  contains polar molecules.  contains the maximum amount of solvent.  None of the above.      a.    "
 },
 {
-  "id": "example-108",
+  "id": "example-109",
   "level": "2",
-  "url": "sec_ninth-examples.html#example-108",
+  "url": "sec_ninth-examples.html#example-109",
   "type": "Example",
   "number": "9.4.1",
   "title": "",
   "body": "  Why carbon dioxide solution is acidic?    When carbon dioxide dissolves in water , it forms carbonic acid through the following reaction: Carbonic acid is a weak acid that dissociates in water to release hydrogen ions and bicarbonate ions : The hydrogen ions that are released make the solution acidic, as they increase the concentration of positively charged ions in the solution. This decrease in pH is due to the increase in hydrogen ion concentration and is therefore considered to be an acidic solution.   "
 },
 {
-  "id": "example-109",
+  "id": "example-110",
   "level": "2",
-  "url": "sec_ninth-examples.html#example-109",
+  "url": "sec_ninth-examples.html#example-110",
   "type": "Example",
   "number": "9.4.2",
   "title": "",
   "body": "  Why ammonia solution is basic (or alkaline)?    Ammonia is a weak base, and when it dissolves in water, it produces hydroxide ions through the following reaction: The hydroxide ions make the solution alkaline or basic, as they increase the concentration of negatively charged ions in the solution. This increase in pH is due to the presence of hydroxide ions, which makes the solution more basic.   "
 },
 {
-  "id": "example-110",
+  "id": "example-111",
   "level": "2",
-  "url": "sec_ninth-examples.html#example-110",
+  "url": "sec_ninth-examples.html#example-111",
   "type": "Example",
   "number": "9.4.3",
   "title": "",
   "body": "  What is a crystalline solid?  A solid that has a regular arrangement of particles.  A solid that has an irregular arrangement of particles.  Both a and b  None of the above      a.   "
 },
 {
-  "id": "example-111",
+  "id": "example-112",
   "level": "2",
-  "url": "sec_ninth-examples.html#example-111",
+  "url": "sec_ninth-examples.html#example-112",
   "type": "Example",
   "number": "9.4.4",
   "title": "",
   "body": "  What is true regarding amorphous solids?  These solids have short-range order.  These solids are not organized in a definite lattice pattern.  Glasses are an example of amorphous solids.  All of the above      d.   "
 },
 {
-  "id": "example-112",
+  "id": "example-113",
   "level": "2",
-  "url": "sec_ninth-examples.html#example-112",
+  "url": "sec_ninth-examples.html#example-113",
   "type": "Example",
   "number": "9.4.5",
   "title": "",
   "body": "  A polar molecule can attract  only ions.  only other polar molecules.  only other nonpolar molecules.  All of the above.      d.   "
 },
 {
-  "id": "example-113",
+  "id": "example-114",
   "level": "2",
-  "url": "sec_ninth-examples.html#example-113",
+  "url": "sec_ninth-examples.html#example-114",
   "type": "Example",
   "number": "9.4.6",
   "title": "",
   "body": "  What does \"like dissolves like\" mean?  polar solvents dissolve in polar solutes.  non-polar solvents dissolve in polar solutes.  polar solutes dissolve in polar solvents.  non-polar solutes dissolve in polar solvents.      c.   "
 },
 {
-  "id": "example-114",
+  "id": "example-115",
   "level": "2",
-  "url": "sec_ninth-examples.html#example-114",
+  "url": "sec_ninth-examples.html#example-115",
   "type": "Example",
   "number": "9.4.7",
   "title": "",
   "body": "  Ice is an example of  a covalent solid.  an ionic solid.  a metallic solid.  a molecular solid.      d.   "
 },
 {
-  "id": "example-115",
+  "id": "example-116",
   "level": "2",
-  "url": "sec_ninth-examples.html#example-115",
+  "url": "sec_ninth-examples.html#example-116",
   "type": "Example",
   "number": "9.4.8",
   "title": "",
   "body": "  Diamondis an example of  a covalent solid.  an ionic solid.  a metallic solid.  a molecular solid.      a.   "
 },
 {
-  "id": "example-116",
+  "id": "example-117",
   "level": "2",
-  "url": "sec_ninth-examples.html#example-116",
+  "url": "sec_ninth-examples.html#example-117",
   "type": "Example",
   "number": "9.4.9",
   "title": "",
@@ -3169,54 +3187,54 @@ var ptx_lunr_docs = [
   "body": "  Exercises   The solubility of solid dissolved in a liquid increases with  increase of temperature.  decrease of temperature.  temperature does not effect solubility.  None of the above.     Dissolving a solute in a liquid  increases the freezing point of liquid.  decreases the freezing point of liquid.  does not the freezing point.  does any of the above, depending on the substance involved.    Which of the following statements is true concerning acids and bases?  acids and bases don't react with each other.  acids mixed with bases neutralize each other.  acids mixed with bases make stronger bases.  acids mixed with bases make stronger acids.    True or false: bases are sometimes called alkalis.  True.  False.    Which is true?  pH of less than 7 is basic; pH of more than 7 is acidic.  pH of less than 7 is acidic; pH of more than 7 is basic.    Which substance completely dissociates in water?  Weak acids.  Strong acids.    "
 },
 {
-  "id": "exercise-80",
+  "id": "exercise-81",
   "level": "2",
-  "url": "ex_ninth.html#exercise-80",
+  "url": "ex_ninth.html#exercise-81",
   "type": "Exercise",
   "number": "9.5.1",
   "title": "",
   "body": " The solubility of solid dissolved in a liquid increases with  increase of temperature.  decrease of temperature.  temperature does not effect solubility.  None of the above.    "
 },
 {
-  "id": "exercise-81",
+  "id": "exercise-82",
   "level": "2",
-  "url": "ex_ninth.html#exercise-81",
+  "url": "ex_ninth.html#exercise-82",
   "type": "Exercise",
   "number": "9.5.2",
   "title": "",
   "body": "Dissolving a solute in a liquid  increases the freezing point of liquid.  decreases the freezing point of liquid.  does not the freezing point.  does any of the above, depending on the substance involved.   "
 },
 {
-  "id": "exercise-82",
+  "id": "exercise-83",
   "level": "2",
-  "url": "ex_ninth.html#exercise-82",
+  "url": "ex_ninth.html#exercise-83",
   "type": "Exercise",
   "number": "9.5.3",
   "title": "",
   "body": "Which of the following statements is true concerning acids and bases?  acids and bases don't react with each other.  acids mixed with bases neutralize each other.  acids mixed with bases make stronger bases.  acids mixed with bases make stronger acids.   "
 },
 {
-  "id": "exercise-83",
+  "id": "exercise-84",
   "level": "2",
-  "url": "ex_ninth.html#exercise-83",
+  "url": "ex_ninth.html#exercise-84",
   "type": "Exercise",
   "number": "9.5.4",
   "title": "",
   "body": "True or false: bases are sometimes called alkalis.  True.  False.   "
 },
 {
-  "id": "exercise-84",
+  "id": "exercise-85",
   "level": "2",
-  "url": "ex_ninth.html#exercise-84",
+  "url": "ex_ninth.html#exercise-85",
   "type": "Exercise",
   "number": "9.5.5",
   "title": "",
   "body": "Which is true?  pH of less than 7 is basic; pH of more than 7 is acidic.  pH of less than 7 is acidic; pH of more than 7 is basic.   "
 },
 {
-  "id": "exercise-85",
+  "id": "exercise-86",
   "level": "2",
-  "url": "ex_ninth.html#exercise-85",
+  "url": "ex_ninth.html#exercise-86",
   "type": "Exercise",
   "number": "9.5.6",
   "title": "",
@@ -3241,22 +3259,13 @@ var ptx_lunr_docs = [
   "body": " Ozone molecule   "
 },
 {
-  "id": "p-659",
-  "level": "2",
-  "url": "sec_tenth-intro.html#p-659",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Ozone ozonosphere "
-},
-{
   "id": "p-661",
   "level": "2",
   "url": "sec_tenth-intro.html#p-661",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "ozone hole "
+  "body": "Ozone ozonosphere "
 },
 {
   "id": "p-663",
@@ -3265,16 +3274,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "precipitation or rain humidity relative humidity saturated Humid (or saturated) Dew point: "
-},
-{
-  "id": "p-664",
-  "level": "2",
-  "url": "sec_tenth-intro.html#p-664",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Weather Climate "
+  "body": "ozone hole "
 },
 {
   "id": "p-665",
@@ -3283,7 +3283,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "global warming "
+  "body": "precipitation or rain humidity relative humidity saturated Humid (or saturated) Dew point: "
 },
 {
   "id": "p-666",
@@ -3292,12 +3292,30 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "greenhouse "
+  "body": "Weather Climate "
 },
 {
   "id": "p-667",
   "level": "2",
   "url": "sec_tenth-intro.html#p-667",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "global warming "
+},
+{
+  "id": "p-668",
+  "level": "2",
+  "url": "sec_tenth-intro.html#p-668",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "greenhouse "
+},
+{
+  "id": "p-669",
+  "level": "2",
+  "url": "sec_tenth-intro.html#p-669",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3310,7 +3328,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.2",
   "title": "The Seasons",
-  "body": " The Seasons    Season on Earth    Earth's axis is tilted at an angle of about 23.5 degrees relative to its orbit around the Sun. As Earth orbits the Sun, different parts of the planet receive varying amounts of sunlight depending on the angle of the Sun's rays . During the summer months in the Northern Hemisphere, the North Pole is tilted toward the Sun, and the Sun's rays hit the Northern Hemisphere at a more direct angle, providing more heat and longer daylight hours. At the same time, the South Pole is tilted away from the Sun, resulting in shorter days and cooler temperatures in the Southern Hemisphere. During the winter months in the Northern Hemisphere, the North Pole is tilted away from the Sun, and the Sun's rays hit the Northern Hemisphere at a more indirect angle, providing less heat and shorter daylight hours. At the same time, the South Pole is tilted toward the Sun, resulting in longer days and warmer temperatures in the Southern Hemisphere. These changes in the angle of the Sun's rays as Earth orbits around the Sun cause the seasons to occur season animation . The distance between the Earth and the Sun does have an effect on the amount of solar radiation that the Earth receives, but it is not the main factor that determines the seasons. The primary factor that determines the seasons on Earth is the tilt of its axis.  Solstices and equinoxes are important astronomical events that mark the changing seasons on Earth. Solstices occur twice a year, around June 20-22 and December 21-23, and mark the points in the Earth's orbit around the Sun when one of the Earth's poles is tilted most directly towards or away from the Sun. During the June solstice, which marks the beginning of summer in the Northern Hemisphere and winter in the Southern Hemisphere, the North Pole is tilted towards the Sun, resulting in the longest day of the year in the Northern Hemisphere and the shortest day in the Southern Hemisphere. During the December solstice, which marks the beginning of winter in the Northern Hemisphere and summer in the Southern Hemisphere, the South Pole is tilted towards the Sun, resulting in the longest day of the year in the Southern Hemisphere and the shortest day in the Northern Hemisphere.   Equinoxes occur twice a year, around March 20-21 and September 22-23, and mark the points in the Earth's orbit around the Sun when the tilt of the Earth's axis is not inclined towards or away from the Sun. During the March equinox, which marks the beginning of spring in the Northern Hemisphere and autumn in the Southern Hemisphere, the plane of the Earth's equator passes through the center of the Sun, resulting in equal amounts of daylight and darkness all over the world. During the September equinox, which marks the beginning of autumn in the Northern Hemisphere and spring in the Southern Hemisphere, the plane of the Earth's equator passes through the center of the Sun again, resulting in another day of equal daylight and darkness all over the world.    Winds  Winds are primarily caused by differences in temperature and pressure between different parts of Earth's atmosphere. When air is heated, it becomes less dense and rises, creating an area of low pressure. Conversely, when air cools, it becomes more dense and sinks, creating an area of high pressure. This movement of air from high pressure to low pressure creates winds, which can be influenced by the rotation of the Earth and other factors such as the presence of mountains and oceans.  Temperature differences play a key role in creating these pressure systems and driving the movement of air. For example, the equator receives more direct sunlight and is therefore warmer than the poles, creating a temperature gradient that drives the movement of air from the equator towards the poles. This creates the global circulation patterns of the atmosphere, such as the trade winds and the westerlies. Local temperature differences can also create wind patterns, such as sea breezes and land breezes. During the day, land heats up more quickly than water, creating an area of low pressure over the land. The cooler, higher-pressure air over the ocean moves towards the land, creating a sea breeze. At night, the situation is reversed, with the land cooling down more quickly than the ocean and creating a high-pressure area. This causes the air to move from the land towards the ocean, creating a land breeze. Overall, temperature differences play a crucial role in creating the pressure systems that drive wind patterns and influence weather patterns across the Earth's surface.  The Coriolis effect is a phenomenon that occurs due to the rotation of the Earth on its axis. It causes moving objects, including air and water, to appear to veer off course from their straight-line motion. The Coriolis effect is caused by the Earth's rotation, which causes points on the equator to move at a faster speed than points closer to the poles. As a result, when air or water moves from one latitude to another, it appears to be deflected to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This deflection is due to the conservation of angular momentum, which causes the moving air or water to maintain its original speed and direction of motion as it moves across different latitudes. The Coriolis effect has important implications for weather patterns and ocean currents. In the Northern Hemisphere, the Coriolis effect causes air to rotate clockwise around areas of high pressure and counterclockwise around areas of low pressure. In the Southern Hemisphere, the rotation is opposite. Similarly, ocean currents in the Northern Hemisphere tend to flow to the right of their intended path, while those in the Southern Hemisphere tend to flow to the left. The Coriolis effect is also responsible for the formation of tropical cyclones, which are rotating storms that form over warm ocean waters. The rotation of the Earth causes these storms to spin counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere.   Cyclones & Anticyclones     Cyclones and Anticyclones Cyclones and anticyclones are weather systems that are characterized by areas of low and high pressure, respectively. These systems are important for understanding and predicting weather patterns. Cyclones are areas of low pressure that are typically associated with clouds, precipitation, and stormy weather. In the Northern Hemisphere, cyclones rotate counterclockwise and move in a west to east direction, while in the Southern Hemisphere, they rotate clockwise and move in an east to west direction. Cyclones are commonly referred to as hurricanes, typhoons, or tropical storms when they occur over warm ocean waters. .   Anticyclones , on the other hand, are areas of high pressure that are typically associated with clear skies, calm winds, and dry weather. In the Northern Hemisphere, anticyclones rotate clockwise and in the Southern Hemisphere, they rotate counterclockwise. Anticyclones are often referred to as high-pressure systems and are associated with stable weather conditions. Both cyclones and anticyclones are important for weather forecasting because they can influence the movement of other weather systems. Cyclones, for example, can cause strong winds, heavy rainfall, and storm surge, while anticyclones can cause calm winds, clear skies, and temperature inversions.  Tornado is a violent cyclonic storm. Tornadoes are capable of producing extreme winds, often in excess of 200 miles per hour, and can cause significant damage and loss of life. The warm, moist air near the ground rises rapidly, and the cooler, drier air aloft descends, creating a rotating updraft within the thunderstorm. This updraft can become concentrated and elongated, creating a visible funnel-shaped cloud. When the funnel cloud makes contact with the ground, it becomes a tornado. Tornadoes are typically short-lived, lasting only a few minutes, but can cause significant damage in that time. They can uproot trees, destroy buildings, and toss vehicles hundreds of yards away. Tornadoes can occur anywhere in the world, but the United States experiences more tornadoes than any other country, particularly in the central and southern regions known as Tornado Alley.    Hydrosphere  The hydrosphere is the part of Earth's surface where water exists, including oceans, rivers, lakes, groundwater, and other bodies of water. It plays a crucial role in  Maintaining Earth's Climate: The oceans absorb, store, and release heat, which helps regulate the Earth's temperature and climate.  Regulating Weather Patterns: The hydrosphere influences the movement and intensity of storms, hurricanes, and other weather patterns.  Supporting Life: Water is essential for all forms of life, and the hydrosphere provides habitat for aquatic plants and animals, as well as drinking water for humans and other animals.  Facilitating Transportation and Commerce: Oceans, rivers, and other bodies of water have been used for transportation and commerce for thousands of years, enabling the movement of people and goods around the world.  Supporting Agriculture: Water from the hydrosphere is used for irrigation, which is essential for growing crops and supporting agriculture.  Overall, the hydrosphere plays a crucial role in the Earth's systems and is interconnected with the other spheres, including the atmosphere (air), geosphere (rock, soil, and land), and biosphere (living things).  A tsunami is a series of ocean waves with very long wavelengths (hundred of kilometers long) caused by large-scale disturbances of the ocean due to earthquakes, volcanic eruptions, or underwater landslides. Tsunamis can also be generated by large meteorite impacts or nuclear explosions in the ocean. When a large disturbance occurs, it can create a series of waves that radiate outwards from the source. These waves can travel across entire ocean basins and can cause significant damage when they reach shore. Tsunami waves can reach heights of tens of meters, and their high energy can devastate coastal communities, causing flooding, erosion, and destruction of buildings and infrastructure. Tsunamis travel at high speeds, with typical speeds of around 700 kilometers per hour in deep water. Because of their high speed and long wavelength, they can pass unnoticed in the open ocean, with wave heights typically only a few centimeters. However, as the waves approach shallow waters near the coast, they slow down and the wave height increases, creating a wall of water that can inundate coastal areas.    Ocean Basins   Ocean Basins       "
+  "body": " The Seasons    Season on Earth    Earth's axis is tilted at an angle of about 23.5 degrees relative to its orbit around the Sun. As Earth orbits the Sun, different parts of the planet receive varying amounts of sunlight depending on the angle of the Sun's rays . During the summer months in the Northern Hemisphere, the North Pole is tilted toward the Sun, and the Sun's rays hit the Northern Hemisphere at a more direct angle, providing more heat and longer daylight hours. At the same time, the South Pole is tilted away from the Sun, resulting in shorter days and cooler temperatures in the Southern Hemisphere. During the winter months in the Northern Hemisphere, the North Pole is tilted away from the Sun, and the Sun's rays hit the Northern Hemisphere at a more indirect angle, providing less heat and shorter daylight hours. At the same time, the South Pole is tilted toward the Sun, resulting in longer days and warmer temperatures in the Southern Hemisphere. These changes in the angle of the Sun's rays as Earth orbits around the Sun cause the seasons to occur season animation . The distance between the Earth and the Sun does have an effect on the amount of solar radiation that the Earth receives, but it is not the main factor that determines the seasons. The primary factor that determines the seasons on Earth is the tilt of its axis.  Solstices and equinoxes are important astronomical events that mark the changing seasons on Earth. Solstices occur twice a year, around June 20-22 and December 21-23, and mark the points in the Earth's orbit around the Sun when one of the Earth's poles is tilted most directly towards or away from the Sun. During the June solstice, which marks the beginning of summer in the Northern Hemisphere and winter in the Southern Hemisphere, the North Pole is tilted towards the Sun, resulting in the longest day of the year in the Northern Hemisphere and the shortest day in the Southern Hemisphere. During the December solstice, which marks the beginning of winter in the Northern Hemisphere and summer in the Southern Hemisphere, the South Pole is tilted towards the Sun, resulting in the longest day of the year in the Southern Hemisphere and the shortest day in the Northern Hemisphere.   Equinoxes occur twice a year, around March 20-21 and September 22-23, and mark the points in the Earth's orbit around the Sun when the tilt of the Earth's axis is not inclined towards or away from the Sun. During the March equinox, which marks the beginning of spring in the Northern Hemisphere and autumn in the Southern Hemisphere, the plane of the Earth's equator passes through the center of the Sun, resulting in equal amounts of daylight and darkness all over the world. During the September equinox, which marks the beginning of autumn in the Northern Hemisphere and spring in the Southern Hemisphere, the plane of the Earth's equator passes through the center of the Sun again, resulting in another day of equal daylight and darkness all over the world.    Winds  Winds are primarily caused by differences in temperature and pressure between different parts of Earth's atmosphere. When air is heated, it becomes less dense and rises, creating an area of low pressure. Conversely, when air cools, it becomes more dense and sinks, creating an area of high pressure. This movement of air from high pressure to low pressure creates winds, which can be influenced by the rotation of the Earth and other factors such as the presence of mountains and oceans.  Temperature differences play a key role in creating these pressure systems and driving the movement of air. For example, the equator receives more direct sunlight and is therefore warmer than the poles, creating a temperature gradient that drives the movement of air from the equator towards the poles. This creates the global circulation patterns of the atmosphere, such as the trade winds and the westerlies. Local temperature differences can also create wind patterns, such as sea breezes and land breezes. During the day, land heats up more quickly than water, creating an area of low pressure over the land. The cooler, higher-pressure air over the ocean moves towards the land, creating a sea breeze. At night, the situation is reversed, with the land cooling down more quickly than the ocean and creating a high-pressure area. This causes the air to move from the land towards the ocean, creating a land breeze. Overall, temperature differences play a crucial role in creating the pressure systems that drive wind patterns and influence weather patterns across the Earth's surface.  The Coriolis effect is a phenomenon that occurs due to the rotation of the Earth on its axis. It causes moving objects, including air and water, to appear to veer off course from their straight-line motion. The Coriolis effect is caused by the Earth's rotation, which causes points on the equator to move at a faster speed than points closer to the poles. As a result, when air or water moves from one latitude to another, it appears to be deflected to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This deflection is due to the conservation of angular momentum, which causes the moving air or water to maintain its original speed and direction of motion as it moves across different latitudes. The Coriolis effect has important implications for weather patterns and ocean currents. In the Northern Hemisphere, the Coriolis effect causes air to rotate clockwise around areas of high pressure and counterclockwise around areas of low pressure. In the Southern Hemisphere, the rotation is opposite. Similarly, ocean currents in the Northern Hemisphere tend to flow to the right of their intended path, while those in the Southern Hemisphere tend to flow to the left. The Coriolis effect is also responsible for the formation of tropical cyclones, which are rotating storms that form over warm ocean waters. The rotation of the Earth causes these storms to spin counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere.   Cyclones & Anticyclones     Cyclones and Anticyclones Cyclones and anticyclones are weather systems that are characterized by areas of low and high pressure, respectively. These systems are important for understanding and predicting weather patterns. Cyclones are areas of low pressure that are typically associated with clouds, precipitation, and stormy weather. In the Northern Hemisphere, cyclones rotate counterclockwise and move in a west to east direction, while in the Southern Hemisphere, they rotate clockwise and move in an east to west direction. Cyclones are commonly referred to as hurricanes, typhoons, or tropical storms when they occur over warm ocean waters. .   Anticyclones , on the other hand, are areas of high pressure that are typically associated with clear skies, calm winds, and dry weather. In the Northern Hemisphere, anticyclones rotate clockwise and in the Southern Hemisphere, they rotate counterclockwise. Anticyclones are often referred to as high-pressure systems and are associated with stable weather conditions. Both cyclones and anticyclones are important for weather forecasting because they can influence the movement of other weather systems. Cyclones, for example, can cause strong winds, heavy rainfall, and storm surge, while anticyclones can cause calm winds, clear skies, and temperature inversions.   Tornado is a violent cyclonic storm. Tornadoes are capable of producing extreme winds, often in excess of 200 miles per hour, and can cause significant damage and loss of life. The warm, moist air near the ground rises rapidly, and the cooler, drier air aloft descends, creating a rotating updraft within the thunderstorm. This updraft can become concentrated and elongated, creating a visible funnel-shaped cloud. When the funnel cloud makes contact with the ground, it becomes a tornado. Tornadoes are typically short-lived, lasting only a few minutes, but can cause significant damage in that time. They can uproot trees, destroy buildings, and toss vehicles hundreds of yards away. Tornadoes can occur anywhere in the world, but the United States experiences more tornadoes than any other country, particularly in the central and southern regions known as Tornado Alley.   "
 },
 {
   "id": "fig-earthseason",
@@ -3322,36 +3340,36 @@ var ptx_lunr_docs = [
   "body": " Season on Earth   "
 },
 {
-  "id": "p-668",
-  "level": "2",
-  "url": "sec_tenth-seasons.html#p-668",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "seasons "
-},
-{
-  "id": "p-669",
-  "level": "2",
-  "url": "sec_tenth-seasons.html#p-669",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Solstices "
-},
-{
   "id": "p-670",
   "level": "2",
   "url": "sec_tenth-seasons.html#p-670",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "seasons "
+},
+{
+  "id": "p-671",
+  "level": "2",
+  "url": "sec_tenth-seasons.html#p-671",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Solstices "
+},
+{
+  "id": "p-672",
+  "level": "2",
+  "url": "sec_tenth-seasons.html#p-672",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "Equinoxes "
 },
 {
-  "id": "p-673",
+  "id": "p-675",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-673",
+  "url": "sec_tenth-seasons.html#p-675",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3367,31 +3385,22 @@ var ptx_lunr_docs = [
   "body": " Cyclones & Anticyclones   "
 },
 {
-  "id": "p-674",
-  "level": "2",
-  "url": "sec_tenth-seasons.html#p-674",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Cyclones and Anticyclones Cyclones "
-},
-{
-  "id": "p-675",
-  "level": "2",
-  "url": "sec_tenth-seasons.html#p-675",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Anticyclones "
-},
-{
   "id": "p-676",
   "level": "2",
   "url": "sec_tenth-seasons.html#p-676",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Tornado "
+  "body": "Cyclones and Anticyclones Cyclones "
+},
+{
+  "id": "p-677",
+  "level": "2",
+  "url": "sec_tenth-seasons.html#p-677",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Anticyclones "
 },
 {
   "id": "p-678",
@@ -3400,52 +3409,124 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "tsunami "
+  "body": "Tornado "
+},
+{
+  "id": "sec_tenth-hydros",
+  "level": "1",
+  "url": "sec_tenth-hydros.html",
+  "type": "Section",
+  "number": "10.3",
+  "title": "The Hydrosphere",
+  "body": " The Hydrosphere   The hydrosphere is the part of Earth's surface where water exists, including oceans, rivers, lakes, groundwater, and other bodies of water. Hydrosphere occupies over of earth's surface. It plays a crucial role in  Maintaining Earth's Climate: The oceans absorb, store, and release heat, which helps regulate the Earth's temperature and climate.  Regulating Weather Patterns: The hydrosphere influences the movement and intensity of storms, hurricanes, and other weather patterns.  Supporting Life: Water is essential for all forms of life, and the hydrosphere provides habitat for aquatic plants and animals, as well as drinking water for humans and other animals.  Facilitating Transportation and Commerce: Oceans, rivers, and other bodies of water have been used for transportation and commerce for thousands of years, enabling the movement of people and goods around the world.  Supporting Agriculture: Water from the hydrosphere is used for irrigation, which is essential for growing crops and supporting agriculture.  Overall, the hydrosphere plays a crucial role in the Earth's systems and is interconnected with the other spheres, including the atmosphere (air), geosphere (rock, soil, and land), and biosphere (living things).    Ocean Basins   Ocean Basins    Ocean basins are large depressions on the surface of the Earth that are filled with water. The ocean basins cover approximately 70% of the Earth's surface and are divided into several major basins, including the Atlantic, Indian, Pacific, and Southern Ocean basins. The ocean basins are formed by the process of plate tectonics, where the Earth's crust is broken up into several large plates that move around on the Earth's surface. As these plates move apart, new oceanic crust is formed at mid-ocean ridges, and the ocean basins are gradually widened. The ocean basins are also home to a wide variety of marine life, including fish, whales, dolphins, sharks, and many other types of sea creatures. The study of the ocean basins is important for understanding many aspects of the Earth's climate, such as ocean currents, temperature, and salinity. Ocean basins are bounded by continental landmasses. Ocean bottom generally slopes downward from the continental shelves to the deeper ocean basins. This slope is known as the continental slope and is usually steeper than the continental shelf. The slope continues down to the deep-sea floor, which is generally characterized by a flat plain known as the abyssal plain . Continental shelves are areas of the ocean floor that extend from the continents and are covered by shallow water . They are part of the continental crust that is submerged below sea level, and they slope gradually downward from the shorelines to the deeper ocean basins. The ocean floor is the bottom of the ocean, which covers about 70% of the Earth's surface. The ocean floor is characterized by a variety of geological features, including mountains, trenches, ridges, and plains.     Tsunami  A tsunami is a series of ocean waves with very long wavelengths (hundred of kilometers long) caused by large-scale disturbances of the ocean due to earthquakes, volcanic eruptions, or underwater landslides. Tsunamis can also be generated by large meteorite impacts or nuclear explosions in the ocean. When a large disturbance occurs, it can create a series of waves that radiate outwards from the source. These waves can travel across entire ocean basins and can cause significant damage when they reach shore. Tsunami waves can reach heights of tens of meters, and their high energy can devastate coastal communities, causing flooding, erosion, and destruction of buildings and infrastructure. Tsunamis travel at high speeds, with typical speeds of around 700 kilometers per hour in deep water. Because of their high speed and long wavelength, they can pass unnoticed in the open ocean, with wave heights typically only a few centimeters. However, as the waves approach shallow waters near the coast, they slow down and the wave height increases, creating a wall of water that can inundate coastal areas.   "
 },
 {
   "id": "fig-basin",
   "level": "2",
-  "url": "sec_tenth-seasons.html#fig-basin",
+  "url": "sec_tenth-hydros.html#fig-basin",
   "type": "Figure",
-  "number": "10.2.3",
+  "number": "10.3.1",
   "title": "",
   "body": " Ocean Basins   "
+},
+{
+  "id": "p-680",
+  "level": "2",
+  "url": "sec_tenth-hydros.html#p-680",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "continental shelves continental slope abyssal plain Continental shelves ocean floor "
+},
+{
+  "id": "p-682",
+  "level": "2",
+  "url": "sec_tenth-hydros.html#p-682",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "tsunami "
 },
 {
   "id": "sec_tenth-examples",
   "level": "1",
   "url": "sec_tenth-examples.html",
   "type": "Section",
-  "number": "10.3",
+  "number": "10.4",
   "title": "Examples",
-  "body": " Examples    Why carbon dioxide solution is acidic?        "
+  "body": " Examples    Which of the following gases are abundant in atmosphere?  Oxygen.  Hydrogen.  Nitrogen.  Carbon dioxide.      c.      The formation of clouds, rains, storms are found in  Tropospher.  Stratosphere.  Ozonosphere.  Exosphere.      a.      What causes the temperature to increase with altitude in stratosphere?  Water vapor.  Ozone.  Pollutants.  Nitogen.      b.      The role of ozone in stratosphere to  block ultraviolet radiation.  reflects radio waves.  reflects ultraviolet radiation.  give blue color of the sky.      a.      The relative humidity of saturated air is  zero.  100%.  50%.  1%.      a.      Air holds more water vapor when it is at  low temperature.  high temperature.  high relative humidity.  low relative humidity.      b.    "
 },
 {
-  "id": "example-117",
+  "id": "example-118",
   "level": "2",
-  "url": "sec_tenth-examples.html#example-117",
+  "url": "sec_tenth-examples.html#example-118",
   "type": "Example",
-  "number": "10.3.1",
+  "number": "10.4.1",
   "title": "",
-  "body": "  Why carbon dioxide solution is acidic?       "
+  "body": "  Which of the following gases are abundant in atmosphere?  Oxygen.  Hydrogen.  Nitrogen.  Carbon dioxide.      c.   "
+},
+{
+  "id": "example-119",
+  "level": "2",
+  "url": "sec_tenth-examples.html#example-119",
+  "type": "Example",
+  "number": "10.4.2",
+  "title": "",
+  "body": "  The formation of clouds, rains, storms are found in  Tropospher.  Stratosphere.  Ozonosphere.  Exosphere.      a.   "
+},
+{
+  "id": "example-120",
+  "level": "2",
+  "url": "sec_tenth-examples.html#example-120",
+  "type": "Example",
+  "number": "10.4.3",
+  "title": "",
+  "body": "  What causes the temperature to increase with altitude in stratosphere?  Water vapor.  Ozone.  Pollutants.  Nitogen.      b.   "
+},
+{
+  "id": "example-121",
+  "level": "2",
+  "url": "sec_tenth-examples.html#example-121",
+  "type": "Example",
+  "number": "10.4.4",
+  "title": "",
+  "body": "  The role of ozone in stratosphere to  block ultraviolet radiation.  reflects radio waves.  reflects ultraviolet radiation.  give blue color of the sky.      a.   "
+},
+{
+  "id": "example-122",
+  "level": "2",
+  "url": "sec_tenth-examples.html#example-122",
+  "type": "Example",
+  "number": "10.4.5",
+  "title": "",
+  "body": "  The relative humidity of saturated air is  zero.  100%.  50%.  1%.      a.   "
+},
+{
+  "id": "example-123",
+  "level": "2",
+  "url": "sec_tenth-examples.html#example-123",
+  "type": "Example",
+  "number": "10.4.6",
+  "title": "",
+  "body": "  Air holds more water vapor when it is at  low temperature.  high temperature.  high relative humidity.  low relative humidity.      b.   "
 },
 {
   "id": "ex_tenth",
   "level": "1",
   "url": "ex_tenth.html",
   "type": "Exercises",
-  "number": "10.4",
+  "number": "10.5",
   "title": "Exercises",
-  "body": "  Exercises      "
+  "body": "  Exercises   Dry air has relative humidity of  zero.  100%.  50%.  1%.     "
 },
 {
-  "id": "exercise-86",
+  "id": "exercise-87",
   "level": "2",
-  "url": "ex_tenth.html#exercise-86",
+  "url": "ex_tenth.html#exercise-87",
   "type": "Exercise",
-  "number": "10.4.1",
+  "number": "10.5.1",
   "title": "",
-  "body": "   "
+  "body": " Dry air has relative humidity of  zero.  100%.  50%.  1%.    "
 },
 {
   "id": "ch_eleventh",
@@ -3529,9 +3610,9 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-118",
+  "id": "example-124",
   "level": "2",
-  "url": "sec_features-blocks.html#example-118",
+  "url": "sec_features-blocks.html#example-124",
   "type": "Example",
   "number": "15.1.2",
   "title": "",
