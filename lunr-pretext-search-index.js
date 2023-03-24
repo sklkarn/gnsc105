@@ -3247,7 +3247,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.1",
   "title": "Ozone",
-  "body": " Ozone    Ozone molecule     Ozone is a molecule composed of three oxygen atoms and is an important component of the Earth's atmosphere. It is a highly reactive gas and is often referred to as a \"reactive oxygen species\". Ozone plays an essential role in absorbing and filtering harmful ultraviolet radiation from the sun, which can damage living organisms and cause skin cancer and other health problems. The ozonosphere , also known as the ozone layer, is a region of the Earth's stratosphere that contains a high concentration of ozone. It is located approximately 10 to 50 kilometers above the Earth's surface and is responsible for absorbing most of the sun's harmful ultraviolet (UV) radiation before it reaches the Earth's surface. The depletion of the ozone layer, caused by the release of chlorofluorocarbons (CFCs) and other pollutants into the atmosphere, is a significant environmental concern. The reduction of the ozone layer has been linked to an increase in skin cancer, cataracts, and other health problems, as well as changes in global weather patterns. Many countries have taken steps to reduce the use of ozone-depleting substances and to protect the ozone layer.  The formation of ozone in the Earth's atmosphere occurs through a complex reactions of oxygen molecules and a variety of other compounds. One of the most important reactions involved in the formation of ozone is the photodissociation of oxygen molecules by ultraviolet (UV) radiation: The resulting oxygen atoms (O) then react with other oxygen molecules to form ozone: In this reaction, some third molecule must collide with the oxygen atoms to stabilize the reaction. Nitrogen molecules are the most common third molecule in the Earth's atmosphere. The formation of ozone is a delicate balance between the production and destruction of ozone molecules. Ozone can also be destroyed through chemical reactions involving other compounds such as nitrogen oxides (NOx) and chlorine compounds (Cl), which can be released from human activities such as fossil fuel combustion and the use of certain chemicals. This is why it is important to monitor and regulate the release of these substances to prevent the depletion of the ozone layer.    Ozone Hole  The ozone hole refers to a severe depletion of the ozone layer in the Earth's atmosphere over the Antarctic region, which occurs annually during September to November. The depletion is caused by the release of man-made chemicals, particularly chlorofluorocarbons (CFCs), hydrofluorocarbons (HFCs), and other halogenated gases that have been used in refrigeration, air conditioning, and other industrial applications. These chemicals are transported into the upper atmosphere, where they are broken down by ultraviolet radiation from the sun, releasing chlorine and bromine atoms. These atoms then react with ozone molecules, breaking them down into oxygen molecules and causing a significant depletion of the ozone layer.  The most important reaction that leads to the depletion of ozone is as follows: The chlorine radical (Cl·) produced in the above reaction reacts with ozone as follows: The ClO· radical then reacts with another oxygen molecule to form more chlorine radicals: The chlorine radical produced in the second reaction then repeats the cycle, reacting with more ozone molecules to produce more chlorine radicals. This cycle continues until a large amount of ozone has been depleted. Another reaction that can also lead to ozone depletion involves bromine compounds, such as halons and methyl bromide, which are also released into the atmosphere from human activities.  The bromine radical (Br·) produced in the first reaction then reacts with more ozone molecules, leading to further ozone depletion. These reactions are of particular concern because they can destroy large amounts of ozone in a short period of time.    Atmospheric Moisture  Atmospheric moisture refers to the water vapor present in the Earth's atmosphere. Water vapor is one of the most important greenhouse gases, and it plays a critical role in regulating the Earth's temperature and climate. The amount of water vapor in the atmosphere can vary depending on factors such as temperature, humidity, and atmospheric pressure. Water vapor is constantly moving in and out of the atmosphere through processes such as evaporation, transpiration, and condensation. As warm air rises, water vapor in air expands, cools, and condenses into clouds , leading to precipitation or rain . When air cools to its dew point, water droplets may form, which can lead to fog or dew. The amount of moisture (water vapor) contained in the air is known as humidity . Humidity is typically measured in relative humidity . Relative humidity is the ratio of the amount of water vapor in the air to the maximum amount of water vapor the air can hold at a given temperature. Warmer air can hold more water vapor than cooler air, so relative humidity can change depending on temperature changes. When air contains the maximum amount of moisture, it is said to be saturated . A maximum of about 30 grams of water vapor can exist in a cubic meter volume of air at temperature about . Humid (or saturated) air is very uncomfortable, since the rate of evaporation is slowed by the high levels of water already in the air. At that time, human skin cannot sweat (perspirate) properly and we feel uncomfirtable. Dew point: is another way of expressing the saturation. The dew point is the temperature at which the air becomes saturated with the available water vapor causing condensation to occur. At this point, the air cannot hold any more moisture, and the excess water vapor begins to condense into liquid droplets. The dew point is an important measurement in weather forecasting, as it helps determine the likelihood of dew, fog, or frost formation. It is also used to calculate the relative humidity. When the dew point and temperature are close together, the relative humidity is high, which means that the air is nearly saturated with water vapor.    Meteorology  Meteorology is the study of the weather and climate. Meteorologists use a variety of tools and techniques to collect data on the atmosphere, including weather balloons, satellites, and radar. They analyze this data to create models and forecasts of weather patterns and atmospheric conditions. Weather forecasting is one of the most important applications of meteorology, as it provides critical information to help people prepare for severe weather events such as hurricanes, tornadoes, and blizzards. Meteorologists also study long-term climate patterns and changes, which can help inform public policy decisions related to environmental protection and resource management. Weather refers to the state of temperature, humidity, pressure, cloud formation, or precipitation at any given time. Weather is the short-term atmospheric conditions of a specific place at a specific time. Climate describes the summary of weather conditions for a specific region over a fairly long time period. Climate, is the long-term weather patterns and averages of weather conditions in a particular region over a period of several decades or centuries.    Greenhouse Effect  The greenhouse effect is a natural process by which certain gases in the Earth's atmosphere trap and re-emit heat radiated from the Earth's surface, leading to a warming effect on the planet's surface temperature. These gases, including carbon dioxide , methane , water vapor , and nitrous oxide , are known as greenhouse gases. Without the greenhouse effect, the Earth's average surface temperature would be around , which would be too cold to support life as we know it. However, human activities, such as burning fossil fuels, deforestation, and agriculture, have increased the concentration of greenhouse gases in the atmosphere, leading to an enhanced greenhouse effect and global warming . The consequences of global warming can include sea level rise, more frequent and severe weather events, changes in precipitation patterns, and impacts on ecosystems and human health. Therefore, it is important to reduce greenhouse gas emissions to mitigate the impacts of climate change.  A greenhouse is a man-made structure that is designed to grow plants in a controlled environment. It is typically made of glass or plastic panels that allow sunlight to enter while trapping heat inside, creating a warm and humid environment that is ideal for plant growth. Both greenhouse and greenhouse effect involve the trapping of heat, but the greenhouse effect occurs on a much larger scale and has much more significant consequences for the planet's climate.  When sunlight enters the Earth's atmosphere, some of it is reflected back into space, and some is absorbed by the Earth's surface, which then radiates it back into the atmosphere as heat. The greenhouse gases in the atmosphere absorb some of this heat energy and re-emit it in all directions, including back to the Earth's surface. As a result, the greenhouse gases act like a blanket that traps some of the heat energy and prevents it from escaping into space. This causes the Earth's temperature to be warmer than it would be otherwise, which is necessary for life as we know it to exist on the planet Greenhouse Effect . The energy of light is given by where is Planck's constant, is velocity of light, and is wavelength of the light. Suppose is the wavelength of light of energy coming from the sun's visible light to the earth. When the light eneters into the earth atmosphere and it gets absorbed by the atmospheric gases, plants, and the earth's surface but when it remits and reflects back from the earth surface towards the space it losses some of its energy and becomes less energetic to penetrate our atmosphere except that some amount of light energy is able to penetrate the atmosphere that makes our earth warmer as a suitable place to survive life. However, due to increasing population, deforestation, and industrialization the amount of greenhouse gases are increasing making more difficult to the less energetic light rays to leave our atmosphere. Such activities are leading the global warming .   "
+  "body": " Ozone    Ozone molecule     Ozone is a molecule composed of three oxygen atoms and is an important component of the Earth's atmosphere. It is a highly reactive gas and is often referred to as a \"reactive oxygen species\". Ozone plays an essential role in absorbing and filtering harmful ultraviolet radiation from the sun, which can damage living organisms and cause skin cancer and other health problems. The ozonosphere , also known as the ozone layer, is a region of the Earth's stratosphere that contains a high concentration of ozone. It is located approximately 10 to 50 kilometers above the Earth's surface and is responsible for absorbing most of the sun's harmful ultraviolet (UV) radiation before it reaches the Earth's surface. The depletion of the ozone layer, caused by the release of chlorofluorocarbons (CFCs) and other pollutants into the atmosphere, is a significant environmental concern. The reduction of the ozone layer has been linked to an increase in skin cancer, cataracts, and other health problems, as well as changes in global weather patterns. Many countries have taken steps to reduce the use of ozone-depleting substances and to protect the ozone layer.  The formation of ozone in the Earth's atmosphere occurs through a complex reactions of oxygen molecules and a variety of other compounds. One of the most important reactions involved in the formation of ozone is the photodissociation of oxygen molecules by ultraviolet (UV) radiation: The resulting oxygen atoms (O) then react with other oxygen molecules to form ozone: In this reaction, some third molecule must collide with the oxygen atoms to stabilize the reaction. Nitrogen molecules are the most common third molecule in the Earth's atmosphere. The formation of ozone is a delicate balance between the production and destruction of ozone molecules. Ozone can also be destroyed through chemical reactions involving other compounds such as nitrogen oxides (NOx) and chlorine compounds (Cl), which can be released from human activities such as fossil fuel combustion and the use of certain chemicals. This is why it is important to monitor and regulate the release of these substances to prevent the depletion of the ozone layer.    Ozone Hole  The ozone hole refers to a severe depletion of the ozone layer in the Earth's atmosphere over the Antarctic region, which occurs annually during September to November. The depletion is caused by the release of man-made chemicals, particularly chlorofluorocarbons (CFCs), hydrofluorocarbons (HFCs), and other halogenated gases that have been used in refrigeration, air conditioning, and other industrial applications. These chemicals are transported into the upper atmosphere, where they are broken down by ultraviolet radiation from the sun, releasing chlorine and bromine atoms. These atoms then react with ozone molecules, breaking them down into oxygen molecules and causing a significant depletion of the ozone layer.  The most important reaction that leads to the depletion of ozone is as follows: The chlorine radical (Cl·) produced in the above reaction reacts with ozone as follows: The ClO· radical then reacts with another oxygen molecule to form more chlorine radicals: The chlorine radical produced in the second reaction then repeats the cycle, reacting with more ozone molecules to produce more chlorine radicals. This cycle continues until a large amount of ozone has been depleted. Another reaction that can also lead to ozone depletion involves bromine compounds, such as halons and methyl bromide, which are also released into the atmosphere from human activities.  The bromine radical (Br·) produced in the first reaction then reacts with more ozone molecules, leading to further ozone depletion. These reactions are of particular concern because they can destroy large amounts of ozone in a short period of time.    Atmospheric Moisture  Atmospheric moisture refers to the water vapor present in the Earth's atmosphere. Water vapor is one of the most important greenhouse gases, and it plays a critical role in regulating the Earth's temperature and climate. The amount of water vapor in the atmosphere can vary depending on factors such as temperature, humidity, and atmospheric pressure. Water vapor is constantly moving in and out of the atmosphere through processes such as evaporation, transpiration, and condensation. As warm air rises, water vapor in air expands, cools, and condenses into clouds , leading to precipitation or rain  Water Cycles . When air cools to its dew point, water droplets may form, which can lead to fog or dew. The amount of moisture (water vapor) contained in the air is known as humidity . Humidity is typically measured in relative humidity . Relative humidity (R.H.) is the ratio of the amount of water vapor in the air to the maximum amount of water vapor the air can hold at a given temperature. Relative humidity expressed in percentage. Warmer air can hold more water vapor than cooler air, so relative humidity can change depending on temperature changes. When air contains the maximum amount of moisture, it is said to be saturated . A maximum of about 30 grams of water vapor can exist in a cubic meter volume of air at temperature about . Dry air has zero relative humidity but saturated air has 100% relative humidity. Humid (or saturated) air is very uncomfortable, since the rate of evaporation is slowed by the high levels of water already in the air. At that time, human skin cannot sweat (perspirate) properly and we feel uncomfirtable. Dew point: is another way of expressing the saturation. The dew point is the temperature at which the air becomes saturated with the available water vapor causing condensation to occur. At this point, the air cannot hold any more moisture, and the excess water vapor begins to condense into liquid droplets. The dew point is an important measurement in weather forecasting, as it helps determine the likelihood of dew, fog, or frost formation. It is also used to calculate the relative humidity. When the dew point and temperature are close together, the relative humidity is high, which means that the air is nearly saturated with water vapor.    Meteorology  Meteorology is the study of the weather and climate. Meteorologists use a variety of tools and techniques to collect data on the atmosphere, including weather balloons, satellites, and radar. They analyze this data to create models and forecasts of weather patterns and atmospheric conditions. Weather forecasting is one of the most important applications of meteorology, as it provides critical information to help people prepare for severe weather events such as hurricanes, tornadoes, and blizzards. Meteorologists also study long-term climate patterns and changes, which can help inform public policy decisions related to environmental protection and resource management. Weather refers to the state of temperature, humidity, pressure, cloud formation, or precipitation at any given time. Weather is the short-term atmospheric conditions of a specific place at a specific time. Climate describes the summary of weather conditions for a specific region over a fairly long time period. Climate, is the long-term weather patterns and averages of weather conditions in a particular region over a period of several decades or centuries.    Greenhouse Effect  The greenhouse effect is a natural process by which certain gases in the Earth's atmosphere trap and re-emit heat radiated from the Earth's surface, leading to a warming effect on the planet's surface temperature. These gases, including carbon dioxide , methane , water vapor , and nitrous oxide , are known as greenhouse gases. Without the greenhouse effect, the Earth's average surface temperature would be around , which would be too cold to support life as we know it. However, human activities, such as burning fossil fuels, deforestation, and agriculture, have increased the concentration of greenhouse gases in the atmosphere, leading to an enhanced greenhouse effect and global warming . The consequences of global warming can include sea level rise, more frequent and severe weather events, changes in precipitation patterns, and impacts on ecosystems and human health. Therefore, it is important to reduce greenhouse gas emissions to mitigate the impacts of climate change.  A greenhouse is a man-made structure that is designed to grow plants in a controlled environment. It is typically made of glass or plastic panels that allow sunlight to enter while trapping heat inside, creating a warm and humid environment that is ideal for plant growth. Both greenhouse and greenhouse effect involve the trapping of heat, but the greenhouse effect occurs on a much larger scale and has much more significant consequences for the planet's climate.  When sunlight enters the Earth's atmosphere, some of it is reflected back into space, and some is absorbed by the Earth's surface, which then radiates it back into the atmosphere as heat. The greenhouse gases in the atmosphere absorb some of this heat energy and re-emit it in all directions, including back to the Earth's surface. As a result, the greenhouse gases act like a blanket that traps some of the heat energy and prevents it from escaping into space. This causes the Earth's temperature to be warmer than it would be otherwise, which is necessary for life as we know it to exist on the planet Greenhouse Effect . The energy of light is given by where is Planck's constant, is velocity of light, and is wavelength of the light. Suppose is the wavelength of light of energy coming from the sun's visible light to the earth. When the light eneters into the earth atmosphere and it gets absorbed by the atmospheric gases, plants, and the earth's surface but when it remits and reflects back from the earth surface towards the space it losses some of its energy and becomes less energetic to penetrate our atmosphere except that some amount of light energy is able to penetrate the atmosphere that makes our earth warmer as a suitable place to survive life. However, due to increasing population, deforestation, and industrialization the amount of greenhouse gases are increasing making more difficult to the less energetic light rays to leave our atmosphere. Such activities are leading the global warming .   "
 },
 {
   "id": "fig-ozone",
@@ -3328,7 +3328,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.2",
   "title": "The Seasons",
-  "body": " The Seasons    Season on Earth    Earth's axis is tilted at an angle of about 23.5 degrees relative to its orbit around the Sun. As Earth orbits the Sun, different parts of the planet receive varying amounts of sunlight depending on the angle of the Sun's rays . During the summer months in the Northern Hemisphere, the North Pole is tilted toward the Sun, and the Sun's rays hit the Northern Hemisphere at a more direct angle, providing more heat and longer daylight hours. At the same time, the South Pole is tilted away from the Sun, resulting in shorter days and cooler temperatures in the Southern Hemisphere. During the winter months in the Northern Hemisphere, the North Pole is tilted away from the Sun, and the Sun's rays hit the Northern Hemisphere at a more indirect angle, providing less heat and shorter daylight hours. At the same time, the South Pole is tilted toward the Sun, resulting in longer days and warmer temperatures in the Southern Hemisphere. These changes in the angle of the Sun's rays as Earth orbits around the Sun cause the seasons to occur season animation . The distance between the Earth and the Sun does have an effect on the amount of solar radiation that the Earth receives, but it is not the main factor that determines the seasons. The primary factor that determines the seasons on Earth is the tilt of its axis.  Solstices and equinoxes are important astronomical events that mark the changing seasons on Earth. Solstices occur twice a year, around June 20-22 and December 21-23, and mark the points in the Earth's orbit around the Sun when one of the Earth's poles is tilted most directly towards or away from the Sun. During the June solstice, which marks the beginning of summer in the Northern Hemisphere and winter in the Southern Hemisphere, the North Pole is tilted towards the Sun, resulting in the longest day of the year in the Northern Hemisphere and the shortest day in the Southern Hemisphere. During the December solstice, which marks the beginning of winter in the Northern Hemisphere and summer in the Southern Hemisphere, the South Pole is tilted towards the Sun, resulting in the longest day of the year in the Southern Hemisphere and the shortest day in the Northern Hemisphere.   Equinoxes occur twice a year, around March 20-21 and September 22-23, and mark the points in the Earth's orbit around the Sun when the tilt of the Earth's axis is not inclined towards or away from the Sun. During the March equinox, which marks the beginning of spring in the Northern Hemisphere and autumn in the Southern Hemisphere, the plane of the Earth's equator passes through the center of the Sun, resulting in equal amounts of daylight and darkness all over the world. During the September equinox, which marks the beginning of autumn in the Northern Hemisphere and spring in the Southern Hemisphere, the plane of the Earth's equator passes through the center of the Sun again, resulting in another day of equal daylight and darkness all over the world.    Winds  Winds are primarily caused by differences in temperature and pressure between different parts of Earth's atmosphere. When air is heated, it becomes less dense and rises, creating an area of low pressure. Conversely, when air cools, it becomes more dense and sinks, creating an area of high pressure. This movement of air from high pressure to low pressure creates winds, which can be influenced by the rotation of the Earth and other factors such as the presence of mountains and oceans.  Temperature differences play a key role in creating these pressure systems and driving the movement of air. For example, the equator receives more direct sunlight and is therefore warmer than the poles, creating a temperature gradient that drives the movement of air from the equator towards the poles. This creates the global circulation patterns of the atmosphere, such as the trade winds and the westerlies. Local temperature differences can also create wind patterns, such as sea breezes and land breezes. During the day, land heats up more quickly than water, creating an area of low pressure over the land. The cooler, higher-pressure air over the ocean moves towards the land, creating a sea breeze. At night, the situation is reversed, with the land cooling down more quickly than the ocean and creating a high-pressure area. This causes the air to move from the land towards the ocean, creating a land breeze. Overall, temperature differences play a crucial role in creating the pressure systems that drive wind patterns and influence weather patterns across the Earth's surface.  The Coriolis effect is a phenomenon that occurs due to the rotation of the Earth on its axis. It causes moving objects, including air and water, to appear to veer off course from their straight-line motion. The Coriolis effect is caused by the Earth's rotation, which causes points on the equator to move at a faster speed than points closer to the poles. As a result, when air or water moves from one latitude to another, it appears to be deflected to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This deflection is due to the conservation of angular momentum, which causes the moving air or water to maintain its original speed and direction of motion as it moves across different latitudes. The Coriolis effect has important implications for weather patterns and ocean currents. In the Northern Hemisphere, the Coriolis effect causes air to rotate clockwise around areas of high pressure and counterclockwise around areas of low pressure. In the Southern Hemisphere, the rotation is opposite. Similarly, ocean currents in the Northern Hemisphere tend to flow to the right of their intended path, while those in the Southern Hemisphere tend to flow to the left. The Coriolis effect is also responsible for the formation of tropical cyclones, which are rotating storms that form over warm ocean waters. The rotation of the Earth causes these storms to spin counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere.   Cyclones & Anticyclones     Cyclones and Anticyclones Cyclones and anticyclones are weather systems that are characterized by areas of low and high pressure, respectively. These systems are important for understanding and predicting weather patterns. Cyclones are areas of low pressure that are typically associated with clouds, precipitation, and stormy weather. In the Northern Hemisphere, cyclones rotate counterclockwise and move in a west to east direction, while in the Southern Hemisphere, they rotate clockwise and move in an east to west direction. Cyclones are commonly referred to as hurricanes, typhoons, or tropical storms when they occur over warm ocean waters. .   Anticyclones , on the other hand, are areas of high pressure that are typically associated with clear skies, calm winds, and dry weather. In the Northern Hemisphere, anticyclones rotate clockwise and in the Southern Hemisphere, they rotate counterclockwise. Anticyclones are often referred to as high-pressure systems and are associated with stable weather conditions. Both cyclones and anticyclones are important for weather forecasting because they can influence the movement of other weather systems. Cyclones, for example, can cause strong winds, heavy rainfall, and storm surge, while anticyclones can cause calm winds, clear skies, and temperature inversions.   Tornado is a violent cyclonic storm. Tornadoes are capable of producing extreme winds, often in excess of 200 miles per hour, and can cause significant damage and loss of life. The warm, moist air near the ground rises rapidly, and the cooler, drier air aloft descends, creating a rotating updraft within the thunderstorm. This updraft can become concentrated and elongated, creating a visible funnel-shaped cloud. When the funnel cloud makes contact with the ground, it becomes a tornado. Tornadoes are typically short-lived, lasting only a few minutes, but can cause significant damage in that time. They can uproot trees, destroy buildings, and toss vehicles hundreds of yards away. Tornadoes can occur anywhere in the world, but the United States experiences more tornadoes than any other country, particularly in the central and southern regions known as Tornado Alley.   "
+  "body": " The Seasons    Season on Earth    Earth's axis is tilted at an angle of about 23.5 degrees relative to its orbit around the Sun. As Earth orbits the Sun, different parts of the planet receive varying amounts of sunlight depending on the angle of the Sun's rays . During the summer months in the Northern Hemisphere, the North Pole is tilted toward the Sun, and the Sun's rays hit the Northern Hemisphere at a more direct angle, providing more heat and longer daylight hours. At the same time, the South Pole is tilted away from the Sun, resulting in shorter days and cooler temperatures in the Southern Hemisphere. During the winter months in the Northern Hemisphere, the North Pole is tilted away from the Sun, and the Sun's rays hit the Northern Hemisphere at a more indirect angle, providing less heat and shorter daylight hours. At the same time, the South Pole is tilted toward the Sun, resulting in longer days and warmer temperatures in the Southern Hemisphere. These changes in the angle of the Sun's rays as Earth orbits around the Sun cause the seasons to occur season animation . The distance between the Earth and the Sun does have an effect on the amount of solar radiation that the Earth receives, but it is not the main factor that determines the seasons. The primary factor that determines the seasons on Earth is the tilt of its axis.  Solstices and equinoxes are important astronomical events that mark the changing seasons on Earth. Solstices occur twice a year, around June 20-22 and December 21-23, and mark the points in the Earth's orbit around the Sun when one of the Earth's poles is tilted most directly towards or away from the Sun. During the June solstice, which marks the beginning of summer in the Northern Hemisphere and winter in the Southern Hemisphere, the North Pole is tilted towards the Sun, resulting in the longest day of the year in the Northern Hemisphere and the shortest day in the Southern Hemisphere. During the December solstice, which marks the beginning of winter in the Northern Hemisphere and summer in the Southern Hemisphere, the South Pole is tilted towards the Sun, resulting in the longest day of the year in the Southern Hemisphere and the shortest day in the Northern Hemisphere.   Equinoxes occur twice a year, around March 20-21 and September 22-23, and mark the points in the Earth's orbit around the Sun when the tilt of the Earth's axis is not inclined towards or away from the Sun. During the March equinox, which marks the beginning of spring in the Northern Hemisphere and autumn in the Southern Hemisphere, the plane of the Earth's equator passes through the center of the Sun, resulting in equal amounts of daylight and darkness all over the world. During the September equinox, which marks the beginning of autumn in the Northern Hemisphere and spring in the Southern Hemisphere, the plane of the Earth's equator passes through the center of the Sun again, resulting in another day of equal daylight and darkness all over the world.    Winds  Winds are primarily caused by differences in temperature and pressure between different parts of Earth's atmosphere. When air is heated, it becomes less dense and rises, creating an area of low pressure. Conversely, when air cools, it becomes more dense and sinks, creating an area of high pressure. This movement of air from high pressure to low pressure creates winds, which can be influenced by the rotation of the Earth and other factors such as the presence of mountains and oceans.  Temperature differences play a key role in creating these pressure systems and driving the movement of air. For example, the equator receives more direct sunlight and is therefore warmer than the poles, creating a temperature gradient that drives the movement of air from the equator towards the poles. This creates the global circulation patterns of the atmosphere, such as the trade winds and the westerlies. Local temperature differences can also create wind patterns, such as sea breezes and land breezes. During the day, land heats up more quickly than water, creating an area of low pressure over the land. The cooler, higher-pressure air over the ocean moves towards the land, creating a sea breeze. At night, the situation is reversed, with the land cooling down more quickly than the ocean and creating a high-pressure area. This causes the air to move from the land towards the ocean, creating a land breeze. Overall, temperature differences play a crucial role in creating the pressure systems that drive wind patterns and influence weather patterns across the Earth's surface.  The Coriolis effect is a phenomenon that occurs due to the rotation of the Earth on its axis. It causes moving objects, including air and water, to appear to veer off course from their straight-line motion. The Coriolis effect is caused by the Earth's rotation, which causes points on the equator to move at a faster speed than points closer to the poles. As a result, when air or water moves from one latitude to another, it appears to be deflected to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This deflection is due to the conservation of angular momentum, which causes the moving air or water to maintain its original speed and direction of motion as it moves across different latitudes. The Coriolis effect has important implications for weather patterns and ocean currents. In the Northern Hemisphere, the Coriolis effect causes air to rotate clockwise around areas of high pressure and counterclockwise around areas of low pressure. In the Southern Hemisphere, the rotation is opposite. Similarly, ocean currents in the Northern Hemisphere tend to flow to the right of their intended path, while those in the Southern Hemisphere tend to flow to the left. The Coriolis effect is also responsible for the formation of tropical cyclones, which are rotating storms that form over warm ocean waters. The rotation of the Earth causes these storms to spin counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere.   Cyclones & Anticyclones     Cyclones and Anticyclones Cyclones and anticyclones are weather systems that are characterized by areas of low and high pressure, respectively. These systems are important for understanding and predicting weather patterns. Cyclones are areas of low pressure that are typically associated with clouds, precipitation, and stormy weather. In the Northern Hemisphere, cyclones rotate counterclockwise and move in a west to east direction, while in the Southern Hemisphere, they rotate clockwise and move in an east to west direction. Cyclones are commonly referred to as hurricanes, typhoons, or tropical storms when they occur over warm ocean waters. .   Anticyclones , on the other hand, are areas of high pressure that are typically associated with clear skies, calm winds, and dry weather. In the Northern Hemisphere, anticyclones rotate clockwise and in the Southern Hemisphere, they rotate counterclockwise. Anticyclones are often referred to as high-pressure systems and are associated with stable weather conditions. Both cyclones and anticyclones are important for weather forecasting because they can influence the movement of other weather systems. Cyclones, for example, can cause strong winds, heavy rainfall, and storm surge, while anticyclones can cause calm winds, clear skies, and temperature inversions.   Tornado is a violent cyclonic storm. Tornadoes are capable of producing extreme winds, often in excess of 200 miles per hour, and can cause significant damage and loss of life. The warm, moist air near the ground rises rapidly, and the cooler, drier air aloft descends, creating a rotating updraft within the thunderstorm. This updraft can become concentrated and elongated, creating a visible funnel-shaped cloud. When the funnel cloud makes contact with the ground, it becomes a tornado. Tornadoes are typically short-lived, lasting only a few minutes, but can cause significant damage in that time. They can uproot trees, destroy buildings, and toss vehicles hundreds of yards away. Tornadoes can occur anywhere in the world, but the United States experiences more tornadoes than any other country, particularly in the central and southern regions known as Tornado Alley.  A hurricane is a tropical cyclone that occurs in the Atlantic Ocean and northeastern Pacific Ocean. It is a rotating storm system that produces strong winds, heavy rain, storm surges, and flooding. Hurricanes are classified according to their wind speed such as catagory one through five. The higher the category, the more powerful the hurricane and the more damage it can cause. Hurricanes can be extremely dangerous and have the potential to cause significant damage to property, infrastructure, and human life. It is important to be prepared and heed the warnings and advice of local authorities during hurricane season.   "
 },
 {
   "id": "fig-earthseason",
@@ -3412,6 +3412,15 @@ var ptx_lunr_docs = [
   "body": "Tornado "
 },
 {
+  "id": "p-679",
+  "level": "2",
+  "url": "sec_tenth-seasons.html#p-679",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "hurricane "
+},
+{
   "id": "sec_tenth-hydros",
   "level": "1",
   "url": "sec_tenth-hydros.html",
@@ -3430,18 +3439,18 @@ var ptx_lunr_docs = [
   "body": " Ocean Basins   "
 },
 {
-  "id": "p-680",
+  "id": "p-681",
   "level": "2",
-  "url": "sec_tenth-hydros.html#p-680",
+  "url": "sec_tenth-hydros.html#p-681",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "continental shelves continental slope abyssal plain Continental shelves ocean floor "
 },
 {
-  "id": "p-682",
+  "id": "p-683",
   "level": "2",
-  "url": "sec_tenth-hydros.html#p-682",
+  "url": "sec_tenth-hydros.html#p-683",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3454,7 +3463,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.4",
   "title": "Examples",
-  "body": " Examples    Which of the following gases are abundant in atmosphere?  Oxygen.  Hydrogen.  Nitrogen.  Carbon dioxide.      c.      The formation of clouds, rains, storms are found in  Tropospher.  Stratosphere.  Ozonosphere.  Exosphere.      a.      What causes the temperature to increase with altitude in stratosphere?  Water vapor.  Ozone.  Pollutants.  Nitogen.      b.      The role of ozone in stratosphere to  block ultraviolet radiation.  reflects radio waves.  reflects ultraviolet radiation.  give blue color of the sky.      a.      The relative humidity of saturated air is  zero.  100%.  50%.  1%.      a.      Air holds more water vapor when it is at  low temperature.  high temperature.  high relative humidity.  low relative humidity.      b.    "
+  "body": " Examples    Which of the following gases are abundant in atmosphere?  Oxygen.  Hydrogen.  Nitrogen.  Carbon dioxide.      c.      The formation of clouds, rains, storms are found in  Tropospher.  Stratosphere.  Ozonosphere.  Exosphere.      a.      What causes the temperature to increase with altitude in stratosphere?  Water vapor.  Ozone.  Pollutants.  Nitogen.      b.      The role of ozone in stratosphere to  block ultraviolet radiation.  reflects radio waves.  reflects ultraviolet radiation.  give blue color of the sky.      a.      The relative humidity of saturated air is  zero.  100%.  50%.  1%.      a.      Air holds more water vapor when it is at  low temperature.  high temperature.  high relative humidity.  All of the above.      b.      The temperature at which water vapor condenses is the  freezing point.  melting point.  relative humidity.  dew point.      d.      Greenhouse effect can be described as  certain gases in the atmosphere that trap heat and warm the earth.  life on earth exhales gas that warms up the atmosphere.  the sun is putting out more radiant energy over time.  the tiltation causes the earth to receive more heat time to time.      a.      Clouds form when changes into tiny water droplets or ice crystals.    water vapor.      When air moves upward to an area of less pressure it forms     clouds.      What causes wind to blow?  The rotation of the earth.  Differences in air temperature and pressure.  Differences in longitude.  Shock waves from clouds.      b.      What causes the Coriolis effect?  The rotation of the earth.  The revolution of the earth around the Sun.  The Sun's radiation.  The fact that the Earth is an oblate ellipsoid.      b.    "
 },
 {
   "id": "example-118",
@@ -3508,7 +3517,61 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "10.4.6",
   "title": "",
-  "body": "  Air holds more water vapor when it is at  low temperature.  high temperature.  high relative humidity.  low relative humidity.      b.   "
+  "body": "  Air holds more water vapor when it is at  low temperature.  high temperature.  high relative humidity.  All of the above.      b.   "
+},
+{
+  "id": "example-124",
+  "level": "2",
+  "url": "sec_tenth-examples.html#example-124",
+  "type": "Example",
+  "number": "10.4.7",
+  "title": "",
+  "body": "  The temperature at which water vapor condenses is the  freezing point.  melting point.  relative humidity.  dew point.      d.   "
+},
+{
+  "id": "example-125",
+  "level": "2",
+  "url": "sec_tenth-examples.html#example-125",
+  "type": "Example",
+  "number": "10.4.8",
+  "title": "",
+  "body": "  Greenhouse effect can be described as  certain gases in the atmosphere that trap heat and warm the earth.  life on earth exhales gas that warms up the atmosphere.  the sun is putting out more radiant energy over time.  the tiltation causes the earth to receive more heat time to time.      a.   "
+},
+{
+  "id": "example-126",
+  "level": "2",
+  "url": "sec_tenth-examples.html#example-126",
+  "type": "Example",
+  "number": "10.4.9",
+  "title": "",
+  "body": "  Clouds form when changes into tiny water droplets or ice crystals.    water vapor.   "
+},
+{
+  "id": "example-127",
+  "level": "2",
+  "url": "sec_tenth-examples.html#example-127",
+  "type": "Example",
+  "number": "10.4.10",
+  "title": "",
+  "body": "  When air moves upward to an area of less pressure it forms     clouds.   "
+},
+{
+  "id": "example-128",
+  "level": "2",
+  "url": "sec_tenth-examples.html#example-128",
+  "type": "Example",
+  "number": "10.4.11",
+  "title": "",
+  "body": "  What causes wind to blow?  The rotation of the earth.  Differences in air temperature and pressure.  Differences in longitude.  Shock waves from clouds.      b.   "
+},
+{
+  "id": "example-129",
+  "level": "2",
+  "url": "sec_tenth-examples.html#example-129",
+  "type": "Example",
+  "number": "10.4.12",
+  "title": "",
+  "body": "  What causes the Coriolis effect?  The rotation of the earth.  The revolution of the earth around the Sun.  The Sun's radiation.  The fact that the Earth is an oblate ellipsoid.      b.   "
 },
 {
   "id": "ex_tenth",
@@ -3517,7 +3580,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "10.5",
   "title": "Exercises",
-  "body": "  Exercises   Dry air has relative humidity of  zero.  100%.  50%.  1%.     "
+  "body": "  Exercises   Dry air has relative humidity of  zero.  100%.  50%.  1%.      Because of the Coriolis effect, winds and other moving fluids are deflected to which direction in the Northern Hemisphere?  north  west.  east  south.      Hurricanes never occur   near the equator.  near Canada.  islands.  near mid-latitude cyclones.      Air flows from in the upper atmosphere.  west to east.  east to west.  north to south.  south to north.      A cyclone is centered towards  region of high pressure.  region of low pressure.  cannot tell.      Tsunamis are caused by  typhoons.  undersea earthquake.  tornados.  hurricanes.     "
 },
 {
   "id": "exercise-87",
@@ -3529,31 +3592,184 @@ var ptx_lunr_docs = [
   "body": " Dry air has relative humidity of  zero.  100%.  50%.  1%.    "
 },
 {
-  "id": "ch_eleventh",
-  "level": "1",
-  "url": "ch_eleventh.html",
-  "type": "Chapter",
-  "number": "11",
-  "title": "The Earth",
-  "body": " The Earth     The Globe    The Earth     Earth map        Earth's Layers    Water cycle Water Cycles   "
+  "id": "exercise-88",
+  "level": "2",
+  "url": "ex_tenth.html#exercise-88",
+  "type": "Exercise",
+  "number": "10.5.2",
+  "title": "",
+  "body": " Because of the Coriolis effect, winds and other moving fluids are deflected to which direction in the Northern Hemisphere?  north  west.  east  south.    "
 },
 {
-  "id": "figure-96",
+  "id": "exercise-89",
   "level": "2",
-  "url": "ch_eleventh.html#figure-96",
-  "type": "Figure",
-  "number": "11.0.1",
+  "url": "ex_tenth.html#exercise-89",
+  "type": "Exercise",
+  "number": "10.5.3",
   "title": "",
-  "body": "  The Globe    The Earth     Earth map     "
+  "body": " Hurricanes never occur   near the equator.  near Canada.  islands.  near mid-latitude cyclones.    "
+},
+{
+  "id": "exercise-90",
+  "level": "2",
+  "url": "ex_tenth.html#exercise-90",
+  "type": "Exercise",
+  "number": "10.5.4",
+  "title": "",
+  "body": " Air flows from in the upper atmosphere.  west to east.  east to west.  north to south.  south to north.    "
+},
+{
+  "id": "exercise-91",
+  "level": "2",
+  "url": "ex_tenth.html#exercise-91",
+  "type": "Exercise",
+  "number": "10.5.5",
+  "title": "",
+  "body": " A cyclone is centered towards  region of high pressure.  region of low pressure.  cannot tell.    "
+},
+{
+  "id": "exercise-92",
+  "level": "2",
+  "url": "ex_tenth.html#exercise-92",
+  "type": "Exercise",
+  "number": "10.5.6",
+  "title": "",
+  "body": " Tsunamis are caused by  typhoons.  undersea earthquake.  tornados.  hurricanes.    "
+},
+{
+  "id": "sec_eleventh-intro",
+  "level": "1",
+  "url": "sec_eleventh-intro.html",
+  "type": "Section",
+  "number": "11.1",
+  "title": "The Layers of Earth",
+  "body": " The Layers of Earth    Earth's Layers    Earth is composed of several layers , each with distinct physical and chemical properties. The layers are differentiated based on their composition, temperature, pressure, and density. Starting from the outermost layer, they are:   Crust: The Earth's crust is the outermost layer, and it is the thinnest layer of the planet, with an average thickness of around 30 kilometers (18.6 miles). It is composed of rocks, minerals, and sediment and is divided into two types: continental crust and oceanic crust. The continental crust is thicker and less dense than the oceanic crust. The oceanic crust is thinner and denser than the continental crust.   Mantle: The mantle is the layer beneath the crust and is the thickest layer of the Earth, extending to a depth of around 2,900 kilometers (1,800 miles). It is composed of solid, but flowing, rock material that is believed to be in a state of constant motion due to convection currents caused by heat from the Earth's core. The mantle plays a critical role in the Earth's geologic processes, including the movement of tectonic plates, volcanic activity, and the creation of new oceanic crust.   Outer core: The outer core is a liquid layer that is located beneath the mantle and is composed mainly of molten iron and nickel. It has a thickness of around 2,250 kilometers (1,400 miles) and is responsible for generating the Earth's magnetic field.   Inner core: The inner core is the innermost layer of the Earth, located at the center of the planet. It is a solid ball of iron and nickel, with a radius of around 1,220 kilometers (760 miles). The inner core is under immense pressure, and the temperature can reach up to 5,500 °C (9,932 °F).  These layers are constantly interacting with each other and are responsible for shaping the Earth's surface and its physical properties. The temperature of earth's layers increases with depth.    Composition of Earth's Crust      Composition of crust     Slicate ion      The Earth's crust is composed of a variety of different elements and minerals. The most abundant elements in the Earth's crust are oxygen (~47%), silicon (~28%), aluminum, iron, calcium, sodium, potassium, and magnesium. These elements combine to form a variety of minerals, such as quartz, feldspar, mica, and olivine. The exact composition of the Earth's crust varies depending on factors such as location and geological history, but in general, the crust is composed of three main types of rocks: igneous, sedimentary, and metamorphic .  Silica, or silicon dioxide , and Silicates (combination of silicon, oxygen, and other metals such as aluminum, iron, and magnesium) are the most abundant compounds of the Earth's crust. For example, quartz, which is composed of silicon dioxide, is one of the most common minerals in the Earth's crust. Silica also plays a critical role in the formation of rocks through the process of weathering and erosion. When rocks containing silica are exposed to the elements, such as wind and water, the silica can be broken down and transported to other locations, where it can form new rocks. Slicates are an important components of many types of rocks, including igneous, sedimentary, and metamorphic rocks. In igneous rocks, silicates are the dominant mineral group, and they are the primary component of rocks such as granite and basalt. In sedimentary rocks, silicates are also abundant and can be found in rocks such as sandstone and shale. In metamorphic rocks, silicates are often transformed into new minerals due to the effects of heat and pressure. Silicates are important in the Earth's crust because they are involved in many geological processes. For example, the weathering of silicate minerals can release nutrients such as potassium and phosphorus that are essential for plant growth. Silicates also play a role in the cycling of carbon dioxide between the atmosphere, the oceans, and the Earth's crust. The tetrahedron geometry of silicate ion is given in the    "
 },
 {
   "id": "fig-earthlayer",
   "level": "2",
-  "url": "ch_eleventh.html#fig-earthlayer",
+  "url": "sec_eleventh-intro.html#fig-earthlayer",
   "type": "Figure",
-  "number": "11.0.2",
+  "number": "11.1.1",
   "title": "",
   "body": " Earth's Layers   "
+},
+{
+  "id": "p-715",
+  "level": "2",
+  "url": "sec_eleventh-intro.html#p-715",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Crust: Mantle: Outer core: Inner core: "
+},
+{
+  "id": "figure-100",
+  "level": "2",
+  "url": "sec_eleventh-intro.html#figure-100",
+  "type": "Figure",
+  "number": "11.1.2",
+  "title": "",
+  "body": "    Composition of crust     Slicate ion     "
+},
+{
+  "id": "sec_eleventh-rockminr",
+  "level": "1",
+  "url": "sec_eleventh-rockminr.html",
+  "type": "Section",
+  "number": "11.2",
+  "title": "Rocks & Minerals",
+  "body": " Rocks & Minerals   Rocks and minerals are naturally occurring substances found in the earth's crust. Rocks are made up of one or more minerals, while minerals are pure substances with a definite chemical composition and crystalline structure. A mineral may be a single element such as copper (Cu) or gold (Au), or it may be a compound made up of a number of elements. About 2,500 different minerals have been described. Rocks are made up of one or more minerals but it does not have a definite chemical compositions . Minerals are classified based on their chemical composition and crystal structure. Some common minerals include quartz, feldspar, mica, calcite, and pyrite. Minerals have a wide range of uses, from building materials to electronics and jewelry.   Quartz: is composed of silicon and oxygen atoms in a continuous framework of silicon-oxygen tetrahedra, with each oxygen atom shared between two tetrahedra, giving an overall chemical formula of . It is a six-sided prisms with pointed ends (known as hexagonal crystals) with no cleavage. The color of quartz can vary depending on impurities, with clear quartz being colorless, while other colors such as pink, purple, and brown can be caused by trace amounts of other elements.   Feldspar: is a group of minerals that are the most abundant minerals in the Earth's crust comes with range of color, harder than glass and softer than quartz. The feldspar group is divided into two major groups: alkali feldspar and plagioclase feldspar. Alkali feldspar includes minerals such as orthoclase and microcline, while plagioclase feldspar includes minerals such as albite, anorthite, and labradorite.   Mica:    Calcite:    Pyrite:      Igneous rocks are formed from the solidification of magma or lava, and they make up a significant portion of the Earth's crust. Common examples of igneous rocks include granite, basalt, and obsidian. Sedimentary rocks are formed from the accumulation and cementation of sedimentary particles such as sand, silt, and clay. Examples of sedimentary rocks include sandstone, shale, and limestone. Metamorphic rocks are formed from the transformation of existing rocks due to heat, pressure, or chemical reactions. Examples of metamorphic rocks include marble, slate, and gneiss.   "
+},
+{
+  "id": "p-718",
+  "level": "2",
+  "url": "sec_eleventh-rockminr.html#p-718",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "mineral Rocks Quartz: Feldspar: Mica: Calcite: Pyrite: "
+},
+{
+  "id": "p-719",
+  "level": "2",
+  "url": "sec_eleventh-rockminr.html#p-719",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Igneous rocks Sedimentary rocks Metamorphic rocks "
+},
+{
+  "id": "sec_eleventh-quake",
+  "level": "1",
+  "url": "sec_eleventh-quake.html",
+  "type": "Section",
+  "number": "11.3",
+  "title": "Earthquakes",
+  "body": " Earthquakes      "
+},
+{
+  "id": "sec_eleventh-tectmov",
+  "level": "1",
+  "url": "sec_eleventh-tectmov.html",
+  "type": "Section",
+  "number": "11.4",
+  "title": "Tectonic Movement",
+  "body": " Tectonic Movement      "
+},
+{
+  "id": "sec_eleventh-histgeol",
+  "level": "1",
+  "url": "sec_eleventh-histgeol.html",
+  "type": "Section",
+  "number": "11.5",
+  "title": "Historical Geology",
+  "body": " Historical Geology      "
+},
+{
+  "id": "sec_eleventh-examples",
+  "level": "1",
+  "url": "sec_eleventh-examples.html",
+  "type": "Section",
+  "number": "11.6",
+  "title": "Examples",
+  "body": " Examples            "
+},
+{
+  "id": "example-130",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-130",
+  "type": "Example",
+  "number": "11.6.1",
+  "title": "",
+  "body": "         "
+},
+{
+  "id": "ex_eleventh",
+  "level": "1",
+  "url": "ex_eleventh.html",
+  "type": "Exercises",
+  "number": "11.7",
+  "title": "Exercises",
+  "body": "  Exercises       write your question  north  west.  east  south.     "
+},
+{
+  "id": "exercise-93",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-93",
+  "type": "Exercise",
+  "number": "11.7.1",
+  "title": "",
+  "body": "   "
+},
+{
+  "id": "exercise-94",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-94",
+  "type": "Exercise",
+  "number": "11.7.2",
+  "title": "",
+  "body": " write your question  north  west.  east  south.    "
 },
 {
   "id": "ch_twelvth",
@@ -3610,18 +3826,18 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-124",
+  "id": "example-131",
   "level": "2",
-  "url": "sec_features-blocks.html#example-124",
+  "url": "sec_features-blocks.html#example-131",
   "type": "Example",
   "number": "15.1.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-101",
+  "id": "figure-104",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-101",
+  "url": "sec_features-blocks.html#figure-104",
   "type": "Figure",
   "number": "15.1.3",
   "title": "",
