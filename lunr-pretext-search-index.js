@@ -3679,7 +3679,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.2",
   "title": "Rocks & Minerals",
-  "body": " Rocks & Minerals   Rocks and minerals are naturally occurring substances found in the earth's crust. Rocks are made up of one or more minerals, while minerals are pure substances with a definite chemical composition and crystalline structure. A mineral may be a single element such as copper (Cu) or gold (Au), or it may be a compound made up of a number of elements. About 2,500 different minerals have been described. Rocks are made up of one or more minerals but it does not have a definite chemical compositions . Minerals are classified based on their chemical composition and crystal structure. Some common minerals include quartz, feldspar, mica, calcite, and pyrite. Minerals have a wide range of uses, from building materials to electronics and jewelry.   Quartz: is composed of silicon and oxygen atoms in a continuous framework of silicon-oxygen tetrahedra, with each oxygen atom shared between two tetrahedra, giving an overall chemical formula of . It is a six-sided prisms with pointed ends (known as hexagonal crystals) with no cleavage. The color of quartz can vary depending on impurities, with clear quartz being colorless, while other colors such as pink, purple, and brown can be caused by trace amounts of other elements.   Feldspar: is a group of minerals that are the most abundant minerals in the Earth's crust comes with range of color, harder than glass and softer than quartz. The feldspar group is divided into two major groups: alkali feldspar and plagioclase feldspar. Alkali feldspar includes minerals such as orthoclase and microcline, while plagioclase feldspar includes minerals such as albite, anorthite, and labradorite.   Mica:    Calcite:    Pyrite:      Igneous rocks are formed from the solidification of magma or lava, and they make up a significant portion of the Earth's crust. Common examples of igneous rocks include granite, basalt, and obsidian. Sedimentary rocks are formed from the accumulation and cementation of sedimentary particles such as sand, silt, and clay. Examples of sedimentary rocks include sandstone, shale, and limestone. Metamorphic rocks are formed from the transformation of existing rocks due to heat, pressure, or chemical reactions. Examples of metamorphic rocks include marble, slate, and gneiss.   "
+  "body": " Rocks & Minerals    Some common minerals    Rocks and minerals are naturally occurring substances found in the earth's crust. Rocks are made up of one or more minerals, while minerals are pure substances with a definite chemical composition and crystalline structure. A mineral may be a single element such as copper (Cu) or gold (Au), or it may be a compound made up of a number of elements. About 2,500 different minerals have been described. Rocks are made up of one or more minerals but it does not have a definite chemical compositions . Minerals are classified based on their chemical composition and crystal structure. Some common minerals include quartz, feldspar, mica, calcite, and pyrite . Minerals have a wide range of uses, from building materials to electronics and jewelry.   Quartz: is composed of silicon and oxygen atoms in a continuous framework of silicon-oxygen tetrahedra, with each oxygen atom shared between two tetrahedra, giving an overall chemical formula of . It is a six-sided prisms with pointed ends (known as hexagonal crystals) with no cleavage. The color of quartz can vary depending on impurities, with clear quartz being colorless, while other colors such as pink, purple, and brown can be caused by trace amounts of other elements.   Feldspar: is a group of minerals that are the most abundant minerals in the Earth's crust comes with range of color, harder than glass and softer than quartz. The feldspar group is divided into two major groups: alkali feldspar and plagioclase feldspar. Alkali feldspar includes minerals such as orthoclase and microcline, while plagioclase feldspar includes minerals such as albite, anorthite, and labradorite.   Mica: Mica is a group of minerals that is found in rocks such as granite, gneiss, and schist. It is composed of silicate minerals with varying amounts of aluminum, potassium, magnesium, iron, and water. Mica is known for its unique properties, such as its ability to split into thin, flexible sheets, its excellent insulating properties, and its resistance to heat and chemicals. These properties make it a valuable material in a wide range of industries, including electronics, construction, cosmetics, and paint manufacturing.   Calcite: Calcite is a carbonate mineral that is commonly found in sedimentary rocks such as limestone and marble. It is composed of calcium carbonate and it is relatively soft. Calcite has many unique properties, including its ability to exhibit birefringence, a phenomenon where light passing through the mineral is split into two different rays, which can produce a double image. It is also fluorescent under ultraviolet light, and some varieties can even exhibit phosphorescence, meaning they continue to glow after the light source is removed.   Pyrite: Pyrite, also known as \"fool's gold,\" is a common mineral that is found in sedimentary, metamorphic, and igneous rocks around the world. It is composed of iron sulfide and has a metallic luster, giving it a shiny, brassy-yellow appearance. Pyrite is relatively hard and can scratch glass. It is often found in association with other minerals, such as quartz, calcite, and fluorite. Pyrite has been used as a source of sulfur for the production of sulfuric acid, and it is also used as a decorative stone and in jewelry. One of the most notable properties of pyrite is its ability to generate sparks when struck against steel or another hard surface. This property has made pyrite a popular material for use in flintlock firearms and other types of fire-starting tools.      Rocks   Types of Rocks    Rocks are made up of one or more minerals but it does not have a definite chemical compositions. The three types of rocks are given in .   Igneous rocks are formed from the solidification of magma or lava, and they make up a significant portion of the Earth's crust. Common examples of igneous rocks include granite, basalt, and obsidian. Igneous rocks can form either on the Earth's surface (extrusive) or beneath the surface (intrusive). Hence, it is of two types. Extrusive igneous rocks , such as basalt and andesite, are formed when magma or lava cools and solidifies quickly on the Earth's surface. These rocks often have a fine-grained texture because the rapid cooling does not allow time for large crystals to form. Intrusive igneous rocks , such as granite and gabbro, are formed when magma cools and solidifies slowly beneath the Earth's surface. These rocks often have a coarse-grained texture because the slow cooling allows time for large crystals to form. Igneous rocks provide valuable information about the Earth's history and geologic processes. For example, the composition of igneous rocks can give insight into the conditions and processes that led to their formation, such as volcanic activity or the melting and mixing of different rock types. Igneous rocks are also important economically, as they are a source of many valuable minerals and metals, such as copper, gold, and silver.   Sedimentary rocks are formed from the accumulation and cementation of sedimentary particles such as sand, silt, and clay. It is formed in layers. Examples of sedimentary rocks include sandstone, shale, and limestone. Sedimentary rocks cover about 75% of the Earth's surface, and they are the most common type of rock found at the Earth's surface. Sedimentary rocks provide clues about the Earth's history, such as the type of environment in which they were formed and the types of organisms that lived during that time. For example, fossils found in sedimentary rocks provide valuable information about the evolution of life on Earth. Sedimentary rocks are also important economically, as they are a source of many valuable minerals and resources, such as oil, gas, and coal. Fragmental and conglomerate sedimentary rocks are formed from the accumulation and lithification of rock fragments and other debris.   Metamorphic rocks are formed from the transformation of existing rocks (igneous, sedimentary, or other metamorphic rocks) due to heat, pressure, or chemical activity, without melting. Examples of metamorphic rocks include marble, slate, and gneiss. Metamorphic rocks can form deep beneath the Earth's surface, where they are subjected to extreme temperatures and pressures, or closer to the surface, where they are exposed to hot fluids or intense deformation. Metamorphic rocks can be classified into two main types: foliated and non-foliated . Foliated metamorphic rocks, such as slate, phyllite, schist, and gneiss, have a layered or banded appearance due to the alignment of mineral grains under pressure. Non-foliated metamorphic rocks, such as marble and quartzite, do not have a layered or banded appearance and are typically composed of a single mineral or mineral type. The texture and composition of metamorphic rocks can also provide information about the tectonic environment and geologic history of the region in which they formed. Metamorphic rocks provide valuable information about the Earth's history and geologic processes. For example, they can provide evidence of past mountain-building events and the movement of tectonic plates. Metamorphic rocks are also important economically, as they are a source of many valuable minerals, such as gold, silver, and copper.  List of some common rocks are given in .   Some common Rocks     "
+},
+{
+  "id": "fig-minerals",
+  "level": "2",
+  "url": "sec_eleventh-rockminr.html#fig-minerals",
+  "type": "Figure",
+  "number": "11.2.1",
+  "title": "",
+  "body": " Some common minerals   "
 },
 {
   "id": "p-718",
@@ -3691,13 +3700,31 @@ var ptx_lunr_docs = [
   "body": "mineral Rocks Quartz: Feldspar: Mica: Calcite: Pyrite: "
 },
 {
+  "id": "fig-rocks",
+  "level": "2",
+  "url": "sec_eleventh-rockminr.html#fig-rocks",
+  "type": "Figure",
+  "number": "11.2.2",
+  "title": "",
+  "body": " Types of Rocks   "
+},
+{
   "id": "p-719",
   "level": "2",
   "url": "sec_eleventh-rockminr.html#p-719",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Igneous rocks Sedimentary rocks Metamorphic rocks "
+  "body": "Igneous rocks Extrusive igneous rocks Intrusive igneous rocks Sedimentary rocks Fragmental and conglomerate Metamorphic rocks foliated and non-foliated "
+},
+{
+  "id": "fig-rocks2",
+  "level": "2",
+  "url": "sec_eleventh-rockminr.html#fig-rocks2",
+  "type": "Figure",
+  "number": "11.2.3",
+  "title": "",
+  "body": " Some common Rocks   "
 },
 {
   "id": "sec_eleventh-quake",
@@ -3706,7 +3733,52 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.3",
   "title": "Earthquakes",
-  "body": " Earthquakes      "
+  "body": " Earthquakes   An earthquake is a sudden and violent shaking of the Earth's surface, caused by the rapid release of energy stored in the Earth's crust. This energy is typically released along a fault , which is a fracture in the Earth's crust where the two sides have moved relative to each other. Earthquakes can vary in size and intensity, ranging from small tremors that are barely noticeable to massive earthquakes that can cause widespread destruction and loss of life. The size of an earthquake is measured on the Richter scale , which is a logarithmic scale that assigns a numerical value to the energy released by an earthquake. The Richter scale ranges from zero to 10. An earthquake of 4.0 or below is miner and go without noticing most often. 5.0 to 6.0 Richtor scale is moderate. 7.0 and over is major earthquake. Richter scale of 6.0 is 10 times more severe than one at 5.0 and one at 7.0 is 100 times more severe than 5.0. Earthquakes can occur anywhere in the world, but are most common along the boundaries of tectonic plates, where the movement of plates can cause stress and strain to build up in the crust. When this stress is released suddenly, it causes the ground to shake and can also trigger other geological events such as landslides, tsunamis, and volcanic eruptions.   Body and surface waves of Earthquake    Body Waves     Surface Wave      When an earthquake occurs, the energy released by the movement of the Earth's crust radiates outwards in the form of seismic waves. There are two main types of seismic waves: body waves and surface waves . Body waves are the fastest seismic waves and travel through the interior of the Earth. There are two types of body waves: P waves (primary waves) and S waves (secondary waves)  . P waves are longitudinal waves that travel through the Earth's interior by causing the rock particles to move back and forth in the direction of wave propagation. S waves are transverse waves that travel by causing the rock particles to move perpendicular to the direction of wave propagation. Surface waves are slower than the body waves and travel along the Earth's surface. There are two types of surface waves: Rayleigh waves and Love waves  . Rayleigh waves are similar to ocean waves and cause the ground to move in a rolling motion, while Love waves cause the ground to move in a side-to-side motion. Seismic waves can be transmitted through a variety of materials, including solid rock, sediment, and water. Seismic waves travel faster through dense, rigid materials such as solid rock, and slower through less dense, more fluid materials such as sediment. Seismic waves can also be reflected, refracted, and diffracted as they pass through different materials or encounter changes in the composition or structure of the Earth's crust. These interactions can cause seismic waves to change direction, speed up or slow down, and even amplify or dampen in intensity. By studying the behavior of seismic waves, scientists can gain insights into the internal structure and composition of the Earth's crust, as well as the properties of the materials through which the waves travel.  The point in the Earth's crust from where the energy is released is called the earthquake focus . The epicenter is the point on the Earth's surface directly above the focus. In seismology, shadow zones refer to areas on the Earth's surface where seismic waves are not detected or are significantly weaker than in surrounding areas. The existence of these shadow zones was one of the key pieces of evidence used to support the theory of plate tectonics.    Fults  Faults are crack in the earth's crust. Fults involve the movement of rock layers relative to each other. Here are some of the most common types of faults: Normal fault: occurs when two blocks of rock are pulled apart, causing one block to drop down relative to the other. Normal faults are common in areas where the Earth's crust is being stretched, such as at divergent plate boundaries. Reverse fault: occurs when two blocks of rock are pushed together, causing one block to be pushed up relative to the other. Reverse faults are common in areas where the Earth's crust is being compressed, such as at convergent plate boundaries. Strike-slip fault: occurs when two blocks of rock slide past each other horizontally. Strike-slip faults are common in areas where the Earth's crust is being sheared, such as at transform plate boundaries. Thrust fault: is a type of reverse fault in which the angle of the fault plane is shallow. Thrust faults are common in areas where the Earth's crust is being compressed, such as in mountain ranges.   "
+},
+{
+  "id": "p-720",
+  "level": "2",
+  "url": "sec_eleventh-quake.html#p-720",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "fault Richter scale "
+},
+{
+  "id": "figure-106",
+  "level": "2",
+  "url": "sec_eleventh-quake.html#figure-106",
+  "type": "Figure",
+  "number": "11.3.1",
+  "title": "",
+  "body": " Body and surface waves of Earthquake    Body Waves     Surface Wave     "
+},
+{
+  "id": "p-721",
+  "level": "2",
+  "url": "sec_eleventh-quake.html#p-721",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "body waves and surface waves P waves (primary waves) and S waves (secondary waves) Rayleigh waves and Love waves "
+},
+{
+  "id": "p-722",
+  "level": "2",
+  "url": "sec_eleventh-quake.html#p-722",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "focus epicenter shadow zones "
+},
+{
+  "id": "p-723",
+  "level": "2",
+  "url": "sec_eleventh-quake.html#p-723",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Normal fault: Reverse fault: Strike-slip fault: Thrust fault: "
 },
 {
   "id": "sec_eleventh-tectmov",
@@ -3835,9 +3907,9 @@ var ptx_lunr_docs = [
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-104",
+  "id": "figure-110",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-104",
+  "url": "sec_features-blocks.html#figure-110",
   "type": "Figure",
   "number": "15.1.3",
   "title": "",
