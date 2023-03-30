@@ -3679,7 +3679,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.2",
   "title": "Rocks & Minerals",
-  "body": " Rocks & Minerals    Some common minerals    Rocks and minerals are naturally occurring substances found in the earth's crust. Rocks are made up of one or more minerals, while minerals are pure substances with a definite chemical composition and crystalline structure. A mineral may be a single element such as copper (Cu) or gold (Au), or it may be a compound made up of a number of elements. About 2,500 different minerals have been described. Rocks are made up of one or more minerals but it does not have a definite chemical compositions . Minerals are classified based on their chemical composition and crystal structure. Some common minerals include quartz, feldspar, mica, calcite, and pyrite . Minerals have a wide range of uses, from building materials to electronics and jewelry.   Quartz: is composed of silicon and oxygen atoms in a continuous framework of silicon-oxygen tetrahedra, with each oxygen atom shared between two tetrahedra, giving an overall chemical formula of . It is a six-sided prisms with pointed ends (known as hexagonal crystals) with no cleavage. The color of quartz can vary depending on impurities, with clear quartz being colorless, while other colors such as pink, purple, and brown can be caused by trace amounts of other elements.   Feldspar: is a group of minerals that are the most abundant minerals in the Earth's crust comes with range of color, harder than glass and softer than quartz. The feldspar group is divided into two major groups: alkali feldspar and plagioclase feldspar. Alkali feldspar includes minerals such as orthoclase and microcline, while plagioclase feldspar includes minerals such as albite, anorthite, and labradorite.   Mica: Mica is a group of minerals that is found in rocks such as granite, gneiss, and schist. It is composed of silicate minerals with varying amounts of aluminum, potassium, magnesium, iron, and water. Mica is known for its unique properties, such as its ability to split into thin, flexible sheets, its excellent insulating properties, and its resistance to heat and chemicals. These properties make it a valuable material in a wide range of industries, including electronics, construction, cosmetics, and paint manufacturing.   Calcite: Calcite is a carbonate mineral that is commonly found in sedimentary rocks such as limestone and marble. It is composed of calcium carbonate and it is relatively soft. Calcite has many unique properties, including its ability to exhibit birefringence, a phenomenon where light passing through the mineral is split into two different rays, which can produce a double image. It is also fluorescent under ultraviolet light, and some varieties can even exhibit phosphorescence, meaning they continue to glow after the light source is removed.   Pyrite: Pyrite, also known as \"fool's gold,\" is a common mineral that is found in sedimentary, metamorphic, and igneous rocks around the world. It is composed of iron sulfide and has a metallic luster, giving it a shiny, brassy-yellow appearance. Pyrite is relatively hard and can scratch glass. It is often found in association with other minerals, such as quartz, calcite, and fluorite. Pyrite has been used as a source of sulfur for the production of sulfuric acid, and it is also used as a decorative stone and in jewelry. One of the most notable properties of pyrite is its ability to generate sparks when struck against steel or another hard surface. This property has made pyrite a popular material for use in flintlock firearms and other types of fire-starting tools.      Rocks   Types of Rocks    Rocks are made up of one or more minerals but it does not have a definite chemical compositions. The three types of rocks are given in .   Igneous rocks are formed from the solidification of magma or lava, and they make up a significant portion of the Earth's crust. Common examples of igneous rocks include granite, basalt, and obsidian. Igneous rocks can form either on the Earth's surface (extrusive) or beneath the surface (intrusive). Hence, it is of two types. Extrusive igneous rocks , such as basalt and andesite, are formed when magma or lava cools and solidifies quickly on the Earth's surface. These rocks often have a fine-grained texture because the rapid cooling does not allow time for large crystals to form. Intrusive igneous rocks , such as granite and gabbro, are formed when magma cools and solidifies slowly beneath the Earth's surface. These rocks often have a coarse-grained texture because the slow cooling allows time for large crystals to form. Igneous rocks provide valuable information about the Earth's history and geologic processes. For example, the composition of igneous rocks can give insight into the conditions and processes that led to their formation, such as volcanic activity or the melting and mixing of different rock types. Igneous rocks are also important economically, as they are a source of many valuable minerals and metals, such as copper, gold, and silver.   Sedimentary rocks are formed from the accumulation and cementation of sedimentary particles such as sand, silt, and clay. It is formed in layers. Examples of sedimentary rocks include sandstone, shale, and limestone. Sedimentary rocks cover about 75% of the Earth's surface, and they are the most common type of rock found at the Earth's surface. Sedimentary rocks provide clues about the Earth's history, such as the type of environment in which they were formed and the types of organisms that lived during that time. For example, fossils found in sedimentary rocks provide valuable information about the evolution of life on Earth. Sedimentary rocks are also important economically, as they are a source of many valuable minerals and resources, such as oil, gas, and coal. Fragmental and conglomerate sedimentary rocks are formed from the accumulation and lithification of rock fragments and other debris.   Metamorphic rocks are formed from the transformation of existing rocks (igneous, sedimentary, or other metamorphic rocks) due to heat, pressure, or chemical activity, without melting. Examples of metamorphic rocks include marble, slate, and gneiss. Metamorphic rocks can form deep beneath the Earth's surface, where they are subjected to extreme temperatures and pressures, or closer to the surface, where they are exposed to hot fluids or intense deformation. Metamorphic rocks can be classified into two main types: foliated and non-foliated . Foliated metamorphic rocks, such as slate, phyllite, schist, and gneiss, have a layered or banded appearance due to the alignment of mineral grains under pressure. Non-foliated metamorphic rocks, such as marble and quartzite, do not have a layered or banded appearance and are typically composed of a single mineral or mineral type. The texture and composition of metamorphic rocks can also provide information about the tectonic environment and geologic history of the region in which they formed. Metamorphic rocks provide valuable information about the Earth's history and geologic processes. For example, they can provide evidence of past mountain-building events and the movement of tectonic plates. Metamorphic rocks are also important economically, as they are a source of many valuable minerals, such as gold, silver, and copper. List of some common rocks are given in .     Some common Rocks     "
+  "body": " Rocks & Minerals    Some common minerals    Rocks and minerals are naturally occurring substances found in the earth's crust. Rocks are made up of one or more minerals, while minerals are pure substances with a definite chemical composition and crystalline structure. A mineral may be a single element such as copper (Cu) or gold (Au), or it may be a compound made up of a number of elements. About 2,500 different minerals have been described. Rocks are made up of one or more minerals but it does not have a definite chemical compositions . Minerals are classified based on their chemical composition and crystal structure. Some common minerals include quartz, feldspar, mica, calcite, and pyrite . Minerals have a wide range of uses, from building materials to electronics and jewelry.   Quartz: is composed of silicon and oxygen atoms in a continuous framework of silicon-oxygen tetrahedra, with each oxygen atom shared between two tetrahedra, giving an overall chemical formula of . It is a six-sided prisms with pointed ends (known as hexagonal crystals) with no cleavage. The color of quartz can vary depending on impurities, with clear quartz being colorless, while other colors such as pink, purple, and brown can be caused by trace amounts of other elements.   Feldspar: is a group of minerals that are the most abundant minerals in the Earth's crust comes with range of color, harder than glass and softer than quartz. The feldspar group is divided into two major groups: alkali feldspar and plagioclase feldspar. Alkali feldspar includes minerals such as orthoclase and microcline, while plagioclase feldspar includes minerals such as albite, anorthite, and labradorite.   Mica: Mica is a group of minerals that is found in rocks such as granite, gneiss, and schist. It is composed of silicate minerals with varying amounts of aluminum, potassium, magnesium, iron, and water. Mica is known for its unique properties, such as its ability to split into thin, flexible sheets, its excellent insulating properties, and its resistance to heat and chemicals. These properties make it a valuable material in a wide range of industries, including electronics, construction, cosmetics, and paint manufacturing.   Calcite: Calcite is a carbonate mineral that is commonly found in sedimentary rocks such as limestone and marble. It is composed of calcium carbonate and it is relatively soft. Calcite has many unique properties, including its ability to exhibit birefringence, a phenomenon where light passing through the mineral is split into two different rays, which can produce a double image. It is also fluorescent under ultraviolet light, and some varieties can even exhibit phosphorescence, meaning they continue to glow after the light source is removed.   Pyrite: Pyrite, also known as \"fool's gold,\" is a common mineral that is found in sedimentary, metamorphic, and igneous rocks around the world. It is composed of iron sulfide and has a metallic luster, giving it a shiny, brassy-yellow appearance. Pyrite is relatively hard and can scratch glass. It is often found in association with other minerals, such as quartz, calcite, and fluorite. Pyrite has been used as a source of sulfur for the production of sulfuric acid, and it is also used as a decorative stone and in jewelry. One of the most notable properties of pyrite is its ability to generate sparks when struck against steel or another hard surface. This property has made pyrite a popular material for use in flintlock firearms and other types of fire-starting tools.      Rocks   Types of Rocks    Rocks are made up of one or more minerals but it does not have a definite chemical compositions. The three types of rocks are given in .   Igneous rocks are formed from the solidification of magma or lava, and they make up a significant portion of the Earth's crust. Common examples of igneous rocks include granite, basalt, and obsidian. Igneous rocks can form either on the Earth's surface (extrusive) or beneath the surface (intrusive). Hence, it is of two types. Extrusive igneous rocks , such as basalt and andesite, are formed when magma or lava cools and solidifies quickly on the Earth's surface. These rocks often have a fine-grained texture because the rapid cooling does not allow time for large crystals to form. Intrusive igneous rocks , such as granite and gabbro, are formed when magma cools and solidifies slowly beneath the Earth's surface. These rocks often have a coarse-grained texture because the slow cooling allows time for large crystals to form. Igneous rocks provide valuable information about the Earth's history and geologic processes. For example, the composition of igneous rocks can give insight into the conditions and processes that led to their formation, such as volcanic activity or the melting and mixing of different rock types. Igneous rocks are also important economically, as they are a source of many valuable minerals and metals, such as copper, gold, and silver.   Sedimentary rocks are formed from the accumulation and cementation of sedimentary particles such as sand, silt, and clay. It is formed in layers. Examples of sedimentary rocks include sandstone, shale, and limestone. Sedimentary rocks cover about 75% of the Earth's surface, and they are the most common type of rock found at the Earth's surface. Sedimentary rocks provide clues about the Earth's history, such as the type of environment in which they were formed and the types of organisms that lived during that time. For example, fossils found in sedimentary rocks provide valuable information about the evolution of life on Earth. Sedimentary rocks are also important economically, as they are a source of many valuable minerals and resources, such as oil, gas, and coal. Fragmental and conglomerate sedimentary rocks are formed from the accumulation and lithification of rock fragments and other debris.   Metamorphic rocks are formed from the transformation of existing rocks (igneous, sedimentary, or other metamorphic rocks) due to heat, pressure, or chemical activity, without melting. Examples of metamorphic rocks include marble, slate, and gneiss. Metamorphic rocks can form deep beneath the Earth's surface, where they are subjected to extreme temperatures and pressures, or closer to the surface, where they are exposed to hot fluids or intense deformation. Metamorphic rocks can be classified into two main types: foliated and non-foliated . Foliated metamorphic rocks, such as slate, phyllite, schist, and gneiss, have a layered or banded appearance due to the alignment of mineral grains under pressure. Non-foliated metamorphic rocks, such as marble and quartzite, do not have a layered or banded appearance and are typically composed of a single mineral or mineral type. The texture and composition of metamorphic rocks can also provide information about the tectonic environment and geologic history of the region in which they formed. Metamorphic rocks provide valuable information about the Earth's history and geologic processes. For example, they can provide evidence of past mountain-building events and the movement of tectonic plates. Metamorphic rocks are also important economically, as they are a source of many valuable minerals, such as gold, silver, and copper. List of some common rocks are given in .     Some common Rocks     Basaltic Rock: , also known as basalt, is a type of volcanic rock that is formed from the rapid cooling and solidification of lava beneath oceanic surface. It is typically dark-colored, dense, and fine-grained. Basaltic rock is composed mainly of minerals such as plagioclase, pyroxene, and olivine. It is one of the most common types of volcanic rocks and is found in many parts of the world. Basaltic rocks are often found in areas of volcanic activity such as mid-ocean ridges, island arcs, and hotspots. Basaltic rocks have many uses, including as a building material, a road aggregate, and as a source of crushed stone. They are also used in the construction of many types of infrastructure, such as dams and bridges. Granitic Rock: , also known as granite, is a type of intrusive igneous rock that is composed mainly of quartz, feldspar, and mica minerals. It is a coarse-grained rock that forms from the slow cooling and solidification of magma beneath the continental crustal surface. Granite is typically light-colored and has a granular texture. It is a very durable rock and is often used as a building material for countertops, flooring, and monuments. It can also be used as a decorative stone in landscaping. Granitic rocks are found all over the world, but they are particularly common in areas with tectonic activity such as mountain ranges and volcanic regions. Coal is a combustible black or brownish-black sedimentary rock composed mostly of carbon and hydrocarbons. It is formed over millions of years from the remains of dead plants and animals that have been buried and subjected to high temperatures and pressures. Coal is primarily used as a fuel for electricity generation and industrial processes, as well as for heating and cooking in some parts of the world. There are several types of coal, including anthracite, bituminous, and lignite, which vary in their carbon content and properties. Coal mining can have significant environmental impacts, such as land degradation, water pollution, and greenhouse gas emissions. Limestone is a sedimentary rock composed mostly of calcium carbonate (CaCO3), usually in the form of calcite or aragonite. It forms from the accumulation of shells, coral, and other marine debris, as well as from the precipitation of calcium carbonate from water. Limestone is typically light-colored and can have a wide range of textures, from fine-grained to coarsely crystalline. It is often used as a building material and in the production of cement, lime, and other industrial materials. Limestone is also used as a decorative stone in landscaping and architecture, and can be carved into sculptures and other works of art. Some types of limestone, such as dolomite and travertine, can be formed by chemical precipitation from groundwater, rather than by the accumulation of marine debris. Limestone is vulnerable to weathering and erosion, and can be dissolved by acidic water or carbon dioxide in the atmosphere, forming features such as caves, sinkholes, and limestone pavements. Shale is a fine-grained sedimentary rock that is composed primarily of clay minerals, such as illite, kaolinite, and smectite, as well as other minerals such as quartz, feldspar, and calcite. Shale is typically gray or black in color and has a laminated, or layered, appearance due to the parallel alignment of clay particles. It is often used as a source of oil and natural gas, as the fine-grained nature of the rock allows it to serve as a reservoir for hydrocarbons. Shale is also used as a building material, especially in regions where it is abundant. One of the unique properties of shale is its ability to split into thin, flat layers, a property known as fissility. This property makes shale useful as a building material and as a decorative stone in architecture. However, the high water content of shale can make it unstable, and it is prone to weathering and erosion over time. Slate Slate is a fine-grained metamorphic rock that is derived from shale or mudstone. It is composed primarily of clay minerals such as illite, chlorite, and muscovite, along with small amounts of quartz, feldspar, pyrite, and other minerals. Slate typically has a flat, smooth surface and is highly fissile, meaning it can be split into thin, durable sheets. It is often gray in color, but can also be green, black, or red, depending on the minerals present. Slate can be used as a roofing material, flooring, and as a decorative stone in architecture. Slate forms from the compaction and recrystallization of clay and other fine-grained sedimentary rocks under high pressure and temperature. The pressure causes the clay minerals to reorient themselves into thin, parallel layers, which gives slate its characteristic fissility. The minerals present in the original sedimentary rock, as well as the degree and duration of heat and pressure, determine the color and texture of the resulting slate. Slate is known for its durability, resistance to weathering and erosion, and fire resistance, which makes it a popular choice for roofing and other construction applications.   "
 },
 {
   "id": "fig-minerals",
@@ -3727,18 +3727,27 @@ var ptx_lunr_docs = [
   "body": " Some common Rocks   "
 },
 {
+  "id": "p-720",
+  "level": "2",
+  "url": "sec_eleventh-rockminr.html#p-720",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Basaltic Rock: Granitic Rock: Coal Limestone Shale Slate "
+},
+{
   "id": "sec_eleventh-quake",
   "level": "1",
   "url": "sec_eleventh-quake.html",
   "type": "Section",
   "number": "11.3",
   "title": "Earthquakes",
-  "body": " Earthquakes   An earthquake is a sudden and violent shaking of the Earth's surface, caused by the rapid release of energy stored in the Earth's crust. This energy is typically released along a fault , which is a fracture in the Earth's crust where the two sides have moved relative to each other. Earthquakes can vary in size and intensity, ranging from small tremors that are barely noticeable to massive earthquakes that can cause widespread destruction and loss of life. The size of an earthquake is measured on the Richter scale , which is a logarithmic scale that assigns a numerical value to the energy released by an earthquake. The Richter scale ranges from zero to 8.9. An earthquake of 4.0 or below is miner and go without noticing most often. 5.0 to 6.0 Richtor scale is moderate. 7.0 and over is major earthquake. Richter scale of 6.0 is 10 times more severe than one at 5.0 and one at 7.0 is 100 times more severe than 5.0. Earthquakes can occur anywhere in the world, but are most common along the boundaries of tectonic plates, where the movement of plates can cause stress and strain to build up in the crust. When this stress is released suddenly, it causes the ground to shake and can also trigger other geological events such as landslides, tsunamis, and volcanic eruptions.    Types of waves in Earthquake    Body Waves     Surface Wave      When an earthquake occurs, the energy released by the movement of the Earth's crust radiates outwards in the form of seismic waves. There are two main types of seismic waves: body waves and surface waves . Body waves are the fastest seismic waves and travel through the interior of the Earth. There are two types of body waves: P waves (primary waves) and S waves (secondary waves)  . P waves are longitudinal waves that travel through the Earth's interior by causing the rock particles to move back and forth in the direction of wave propagation. S waves are transverse waves that travel by causing the rock particles to move perpendicular to the direction of wave propagation. S wave cannot pass through the liquid and hence it gets blocked by the core.  Surface waves are slower than the body waves and travel along the Earth's surface. There are two types of surface waves: Rayleigh waves and Love waves  . Rayleigh waves are similar to ocean waves and cause the ground to move in a rolling motion, while Love waves cause the ground to move in a side-to-side motion. Seismic waves can be transmitted through a variety of materials, including solid rock, sediment, and water. Seismic waves travel faster through dense, rigid materials such as solid rock, and slower through less dense, more fluid materials such as sediment. Seismic waves can also be reflected, refracted, and diffracted as they pass through different materials or encounter changes in the composition or structure of the Earth's crust. These interactions can cause seismic waves to change direction, speed up or slow down, and even amplify or dampen in intensity. By studying the behavior of seismic waves, scientists can gain insights into the internal structure and composition of the Earth's crust, as well as the properties of the materials through which the waves travel.   Propagation of body and surface waves    The point in the Earth's crust from where the energy is released is called the earthquake focus . The epicenter is the point on the Earth's surface directly above the focus. Focus is the place where crustal rocks moved and epicenter is the point on earth's surface directly over the focus as can be seen in . In seismology, shadow zones refer to areas on the Earth's surface where seismic waves are not detected or are significantly weaker than in surrounding areas. The existence of these shadow zones was one of the key pieces of evidence used to support the theory of plate tectonics.    Types of Deformation      Types of faults     Focus and epicenter     Richter scale      There are many types of structural deformation happens on the earth surface. They are faults, folds, warps, tilts, rises, and falls. Faults are crack in the earth's crust. A Fult is a fracture or break in the Earth's crust along which movement occurs relative to each other. Faults can be classified as either dip-slip faults, where the movement is vertical, or strike-slip faults, where the movement is horizontal. Here are some of the most common types of faults: Normal fault: occurs when two blocks of rock are pulled apart, causing one block to drop down relative to the other. Normal faults are common in areas where the Earth's crust is being stretched, such as at divergent plate boundaries. Reverse (or, thrust) fault: occurs when two blocks of rock are pushed together, causing one block to be pushed up relative to the other. Reverse faults are common in areas where the Earth's crust is being compressed, such as at convergent plate boundaries. Strike-slip fault: occurs when two blocks of rock slide past each other horizontally. Strike-slip faults are common in areas where the Earth's crust is being sheared, such as at transform plate boundaries. Thrust fault: is a type of reverse fault in which the angle of the fault plane is shallow. Thrust faults are common in areas where the Earth's crust is being compressed, such as in mountain ranges. Faults are seen in . Folds: A fold is a bend or curve in the Earth's crust that results from compressional forces. Folds can be classified as either anticlines, where the rock layers arch upwards, or synclines, where the rock layers fold downwards. Tilts: A tilt is a change in the angle of the Earth's crust relative to the horizontal. Tilts can be caused by various forces, including tectonic movements and the deposition of sedimentary layers. Warps: A warp is a broad upward or downward deformation of the Earth's crust. Warps can be caused by tectonic forces or the weight of overlying sedimentary layers. The rise and fall of the Earth's surface can occur due to tectonic activity, volcanic activity, erosion, and sedimentation. In tectonic activity, When plates collide or move apart, they can cause the Earth's surface to rise or fall. For example, the collision of the Indian and Eurasian plates caused the Himalayan Mountains to rise.   "
+  "body": " Earthquakes   An earthquake is a sudden and violent shaking of the Earth's surface, caused by the rapid release of energy stored in the Earth's crust. This energy is typically released along a fault , which is a fracture in the Earth's crust where the two sides have moved relative to each other. Earthquakes can vary in size and intensity, ranging from small tremors that are barely noticeable to massive earthquakes that can cause widespread destruction and loss of life. The size of an earthquake is measured on the Richter scale , which is a logarithmic scale that assigns a numerical value to the energy released by an earthquake. The Richter scale ranges from zero to 8.9. An earthquake of 4.0 or below is miner and go without noticing most often. 5.0 to 6.0 Richtor scale is moderate. 7.0 and over is major earthquake. Richter scale of 6.0 is 10 times more severe than one at 5.0 and one at 7.0 is 100 times more severe than 5.0. Earthquakes can occur anywhere in the world, but are most common along the boundaries of tectonic plates, where the movement of plates can cause stress and strain to build up in the crust. When this stress is released suddenly, it causes the ground to shake and can also trigger other geological events such as landslides, tsunamis, and volcanic eruptions.    Types of waves in Earthquake    Body Waves     Surface Wave      When an earthquake occurs, the energy released by the movement of the Earth's crust radiates outwards in the form of seismic waves. There are two main types of seismic waves: body waves and surface waves . Body waves are the fastest seismic waves and travel through the interior of the Earth. There are two types of body waves: P waves (primary waves) and S waves (secondary waves)  . P waves are longitudinal waves that travel through the Earth's interior by causing the rock particles to move back and forth in the direction of wave propagation. S waves are transverse waves that travel by causing the rock particles to move perpendicular to the direction of wave propagation. S wave cannot pass through the liquid and hence it gets blocked by the core . P wave is faster than the S wave. Surface waves are slower than the body waves and travel along the Earth's surface. There are two types of surface waves: Rayleigh waves and Love waves  . Rayleigh waves are similar to ocean waves and cause the ground to move in a rolling motion, while Love waves cause the ground to move in a side-to-side motion. Seismic waves can be transmitted through a variety of materials, including solid rock, sediment, and water. Seismic waves travel faster through dense, rigid materials such as solid rock, and slower through less dense, more fluid materials such as sediment. Seismic waves can also be reflected, refracted, and diffracted as they pass through different materials or encounter changes in the composition or structure of the Earth's crust. These interactions can cause seismic waves to change direction, speed up or slow down, and even amplify or dampen in intensity. By studying the behavior of seismic waves, scientists can gain insights into the internal structure and composition of the Earth's crust, as well as the properties of the materials through which the waves travel.   Propagation of body and surface waves    The point in the Earth's crust from where the energy is released is called the earthquake focus . The epicenter is the point on the Earth's surface directly above the focus. Focus is the place where crustal rocks moved and epicenter is the point on earth's surface directly over the focus as can be seen in . In seismology, shadow zones refer to areas on the Earth's surface where seismic waves are not detected or are significantly weaker than in surrounding areas. The existence of these shadow zones was one of the key pieces of evidence used to support the theory of plate tectonics.    Types of Deformation      Types of faults     Focus and epicenter     Richter scale      There are many types of structural deformation happens on the earth surface. They are faults, folds, warps, tilts, rises, and falls. Faults are crack in the earth's crust. A Fult is a fracture or break in the Earth's crust along which movement occurs relative to each other. Faults can be classified as either dip-slip faults, where the movement is vertical, or strike-slip faults, where the movement is horizontal. Here are some of the most common types of faults: Normal fault: occurs when two blocks of rock are pulled apart, causing one block to drop down relative to the other. Normal faults are common in areas where the Earth's crust is being stretched, such as at divergent plate boundaries. Reverse (or, thrust) fault: occurs when two blocks of rock are pushed together, causing one block to be pushed up relative to the other. Reverse faults are common in areas where the Earth's crust is being compressed, such as at convergent plate boundaries. Strike-slip fault: occurs when two blocks of rock slide past each other horizontally. Strike-slip faults are common in areas where the Earth's crust is being sheared, such as at transform plate boundaries. Thrust fault: is a type of reverse fault in which the angle of the fault plane is shallow. Thrust faults are common in areas where the Earth's crust is being compressed, such as in mountain ranges. Faults are seen in . Folds: A fold is a bend or curve in the Earth's crust that results from compressional forces. Folds can be classified as either anticlines, where the rock layers arch upwards, or synclines, where the rock layers fold downwards. Tilts: A tilt is a change in the angle of the Earth's crust relative to the horizontal. Tilts can be caused by various forces, including tectonic movements and the deposition of sedimentary layers. Warps: A warp is a broad upward or downward deformation of the Earth's crust. Warps can be caused by tectonic forces or the weight of overlying sedimentary layers. The rise and fall of the Earth's surface can occur due to tectonic activity, volcanic activity, erosion, and sedimentation. In tectonic activity, When plates collide or move apart, they can cause the Earth's surface to rise or fall. For example, the collision of the Indian and Eurasian plates caused the Himalayan Mountains to rise.   "
 },
 {
-  "id": "p-720",
+  "id": "p-721",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-720",
+  "url": "sec_eleventh-quake.html#p-721",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3754,9 +3763,9 @@ var ptx_lunr_docs = [
   "body": "  Types of waves in Earthquake    Body Waves     Surface Wave     "
 },
 {
-  "id": "p-721",
+  "id": "p-722",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-721",
+  "url": "sec_eleventh-quake.html#p-722",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3772,9 +3781,9 @@ var ptx_lunr_docs = [
   "body": " Propagation of body and surface waves   "
 },
 {
-  "id": "p-722",
+  "id": "p-723",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-722",
+  "url": "sec_eleventh-quake.html#p-723",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3790,9 +3799,9 @@ var ptx_lunr_docs = [
   "body": "    Types of faults     Focus and epicenter     Richter scale     "
 },
 {
-  "id": "p-723",
+  "id": "p-724",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-723",
+  "url": "sec_eleventh-quake.html#p-724",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3808,18 +3817,18 @@ var ptx_lunr_docs = [
   "body": " Tectonic Movement   Tectonic movement refers to the movement of large sections of the Earth's lithosphere (the rigid outer layer of the Earth that consists of the crust and uppermost part of the mantle) relative to each other. The lithosphere is broken up into a number of plates that move around on the underlying asthenosphere (the partially molten, ductile region of the mantle). Tectonic movement occurs primarily at plate boundaries, where plates interact with each other. There are three types of plate boundaries: Divergent boundaries: where plates move away from each other, creating new crust. This occurs mainly at mid-ocean ridges. Convergent boundaries: where plates move towards each other and one plate is usually subducted (forced beneath) the other. This can cause earthquakes, volcanoes and mountain-building. Transform boundaries: where plates slide past each other horizontally. This can also cause earthquakes. Tectonic movement Plate Tectonic is driven by the movement of molten rock in the mantle, which creates convection currents that move the plates. The speed of plate movement can vary from a few millimeters to several centimeters per year. A mid-ocean ridge is an underwater mountain range that runs along the floor of the Earth's ocean basins. It is a divergent plate boundary where two tectonic plates are moving away from each other, causing magma from the Earth's mantle to rise up and solidify, forming new oceanic crust. The mid-ocean ridge system is the longest mountain range on Earth, stretching over 40,000 miles (64,000 kilometers) and covering more than 23% of the Earth's surface. It is located in all of the Earth's major oceans, and its highest points are often found above sea level, forming volcanic islands. A volcanic eruption is a geological event that occurs when magma, ash, and gases escape from a volcano. Volcanic eruptions can be explosive or effusive and can vary in intensity and duration. Explosive eruptions occur when a buildup of pressure causes a sudden release of gas, ash, and magma. These eruptions can be violent and destructive, sending plumes of ash and debris high into the air and causing widespread damage to surrounding areas. Effusive eruptions, on the other hand, are characterized by a steady flow of lava from the volcano. These eruptions can last for weeks, months, or even years, and can create new land by adding layers of solidified lava to the landscape.    Continental Drift  Continental drift is the theory that the Earth's continents were once joined together in a single landmass and have since drifted apart over millions of years. This theory was first proposed by Alfred Wegener in 1912, based on the observation that the shapes of the continents on either side of the Atlantic Ocean seemed to fit together like puzzle pieces . According to the theory of continental drift, the continents were once part of a single supercontinent called Pangaea , which began to break apart about 200 million years ago. Over time, the continents moved away from each other, driven by the movement of tectonic plates in the Earth's lithosphere. The idea of continental drift was initially met with skepticism, but it gained support over time as evidence from different fields of science began to accumulate. One of the key pieces of evidence came from the study of paleomagnetism, which showed that the magnetic orientation of rocks on different continents matched up when the continents were brought together. Watch this video lecture Theory of Continental drift . Laurasia and Gondwana were two supercontinents that existed during the Mesozoic Era, between approximately 252 million to 66 million years ago. Laurasia was a northern supercontinent that consisted of present-day North America, Europe, and Asia (excluding India and Arabia). It formed during the Late Paleozoic Era when the supercontinent Pangaea began to break apart. Laurasia continued to fragment during the Mesozoic Era, eventually forming the continents we see today. Gondwana, on the other hand, was a southern supercontinent that consisted of present-day South America, Africa, Antarctica, Australia, the Indian subcontinent, and the Arabian Peninsula. It formed during the Neoproterozoic Era, when earlier supercontinents began to break apart. Gondwana also continued to fragment during the Mesozoic Era, eventually forming the continents we see today. Laurasia and Gondwana were separated by the Tethys Sea . The breakup of these supercontinents played a significant role in shaping the geography of the Earth and the evolution of life on the planet. For example, the separation of South America and Africa created an oceanic barrier that allowed different species to evolve independently. The separation of India from Antarctica and Australia led to the formation of the Himalayas.    Plate Tectonics   Plate collision      Oceanic-continental plate collision: When an oceanic plate collides with a continental plate, the denser oceanic plate is usually subducted, or forced beneath the less dense continental plate. This process can lead to the formation of subduction zones, where the oceanic plate is forced downward into the mantle, creating a deep oceanic trench  . As the oceanic plate is subducted, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can create a line of volcanoes known as a volcanic arc on the continental plate side of the subduction zone. The collision between the oceanic and continental plates can also cause folding and faulting of the continental crust, leading to the formation of mountain ranges. The collision can also cause earthquakes as the plates grind against each other and release energy. One well-known example of an oceanic-continental plate collision is the Andes Mountains in South America.  Oceanic-oceanic plate collision: When two oceanic plates collide, one plate usually subducts beneath the other, creating a subduction zone. The subducted plate is forced down into the mantle, creating a deep trench , while the overriding plate forms an island arc, a curved chain of volcanic islands. As the subducted plate sinks deeper into the mantle, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can contribute to the growth of the island arc. Over time, the volcanic activity can also lead to the formation of a new oceanic crust, as magma solidifies and builds up on the seafloor. This process is known as seafloor spreading. One example of an oceanic-oceanic plate collision is the collision between the Pacific Plate and the Philippine Sea Plate, which has created the Marianas Trench and the Mariana Islands, a volcanic island arc in the western Pacific Ocean.  Continental-continental plate collision: When two continental plates collide, neither plate is subducted because both plates are too buoyant to sink. Instead, the collision can lead to the formation of massive mountain ranges and intense deformation of the continental crust. As the two continental plates collide, they crumple and fold, leading to the formation of complex mountain belts. The collision can also cause extensive faulting and fracturing of the crust, leading to the formation of deep basins and rift valleys. Over time, erosion can wear down the mountains, leading to the deposition of sedimentary rocks in the basins and valleys. One example of a continental-continental plate collision is the collision between the Indian Plate and the Eurasian Plate, which has led to the formation of the Himalayan mountain range, the tallest mountain range in the world. The collision between these two plates is ongoing, and the Himalayas continue to grow taller each year.     "
 },
 {
-  "id": "p-724",
+  "id": "p-725",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-724",
+  "url": "sec_eleventh-tectmov.html#p-725",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Divergent boundaries: Convergent boundaries: Transform boundaries: mid-ocean ridge volcanic eruption "
 },
 {
-  "id": "p-725",
+  "id": "p-726",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-725",
+  "url": "sec_eleventh-tectmov.html#p-726",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3835,9 +3844,9 @@ var ptx_lunr_docs = [
   "body": " Plate collision   "
 },
 {
-  "id": "p-726",
+  "id": "p-727",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-726",
+  "url": "sec_eleventh-tectmov.html#p-727",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3850,7 +3859,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.5",
   "title": "Historical Geology",
-  "body": " Historical Geology      "
+  "body": " Historical Geology    Fossils    Animal fossil     Plant fossil      Fossils preserved remains or traces of past organisms that can be used to study geological events on the earth. Radiometric dating method is used to determine the age of rocks, fossils, and other geological events. By using the radiometric dating geologists are able to determine the last 542 million years of Earth's history as the Phanerozoic eon, which is divided into three eras: the Paleozoic, the Mesozoic, and the Cenozoic.  The Cenozoic era is the most recent era of Earth's history, following the Mesozoic era and spanning from 66 million years ago to the present day. It is divided into three periods: the Paleogene, the Neogene, and the Quaternary. During the Cenozoic era, the Earth underwent significant changes, including the evolution of mammals and the emergence of modern humans. The Paleogene period saw the rise of mammals after the extinction of the dinosaurs, with many groups diversifying and evolving to occupy new ecological niches. The Neogene period saw the diversification of grasses and the evolution of many modern plant and animal groups. Finally, the Quaternary period saw the evolution of modern humans and the development of human societies.  The Mesozoic era is the era of geological time that spans from about 252 to 66 million years ago. It is also referred to as the Age of Reptiles because dinosaurs, pterosaurs, and marine reptiles dominated the planet during this time. The Mesozoic era is divided into three periods: the Triassic, Jurassic, and Cretaceous. During the Triassic period, life on land began to recover from the Permian-Triassic extinction event, which had wiped out about 96% of marine species and 70% of terrestrial vertebrate species. During the Jurassic period, dinosaurs became more dominant, and the first birds evolved. The Cretaceous period saw the evolution of many new types of dinosaurs, including the tyrannosaurs and the ceratopsians. The end of the Mesozoic era is marked by the Cretaceous-Paleogene extinction event, which wiped out the dinosaurs and many other species. This event has been dated to about 66 million years ago using radiometric dating, and it is thought to have been caused by a massive asteroid impact. The extinction of the dinosaurs paved the way for the evolution of mammals and ultimately led to the emergence of modern terrestrial ecosystems.  The Paleozoic era is a geological era that spanned from about 541 to 252 million years ago. It is the earliest era of the Phanerozoic eon, and it is divided into six periods: the Cambrian, Ordovician, Silurian, Devonian, Carboniferous, and Permian periods. The Paleozoic era is characterized by significant geological and biological changes, including the emergence of complex multicellular life, the development of hard shells and skeletons, and the evolution of early fish, plants, and insects. The Cambrian explosion, which occurred during the Cambrian period, marked a rapid diversification of animal life, including the first appearance of many modern phyla. During the Paleozoic era, Earth's continents were united in the supercontinent of Pangaea, which began to break up during the Mesozoic era. The Paleozoic era ended with the Permian extinction event, which wiped out about 95% of marine species and 70% of terrestrial species. The cause of this extinction event is still debated, but it is thought to have been caused by a combination of volcanic activity, climate change, and asteroid impacts.    An eon is a geological time unit that represents a span of billions of years. The history of the Earth is divided into four eons: the Hadean, Archean, Proterozoic, and Phanerozoic eons. The Hadean eon represents the earliest period of Earth's history, from the formation of the planet about 4.6 billion years ago to about 4 billion years ago. The Hadean eon is characterized by intense volcanic activity, meteorite impacts, and the formation of the Earth's atmosphere and oceans. The Archean eon follows the Hadean eon and spans from about 4 billion to 2.5 billion years ago. During the Archean eon, the first life forms evolved, including the earliest prokaryotic cells. The Proterozoic eon follows the Archean eon and spans from about 2.5 billion to 541 million years ago. During the Proterozoic eon, the first eukaryotic cells and multicellular organisms evolved, and oxygen levels in the atmosphere rose significantly. The Phanerozoic eon is the most recent eon and spans from about 541 million years ago to the present day. The Phanerozoic eon is divided into three eras: the Paleozoic, Mesozoic, and Cenozoic eras. During the Phanerozoic eon, complex life forms, such as fishes, amphibians, reptiles, mammals, and birds, evolved and diversified, and the Earth underwent significant geological changes, such as the formation and breakup of supercontinents.    Geological History     Geological Time   "
+},
+{
+  "id": "figure-115",
+  "level": "2",
+  "url": "sec_eleventh-histgeol.html#figure-115",
+  "type": "Figure",
+  "number": "11.5.1",
+  "title": "",
+  "body": " Fossils    Animal fossil     Plant fossil     "
+},
+{
+  "id": "fig-geologicaltime",
+  "level": "2",
+  "url": "sec_eleventh-histgeol.html#fig-geologicaltime",
+  "type": "Figure",
+  "number": "11.5.2",
+  "title": "",
+  "body": " Geological History   "
 },
 {
   "id": "sec_eleventh-examples",
@@ -3859,7 +3886,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.6",
   "title": "Examples",
-  "body": " Examples            "
+  "body": " Examples    Which one of the following is the most abundant element in the earth's crust?  Nitrogen  Oxygen  Silican  Carbon      b.      Write any two differences between rocks and minerals.    A mineral is a naturally occurring inorganic solid substance with a specific chemical composition and a crystalline structure. Examples of minerals include quartz, feldspar, and mica. Minerals have specific physical and chemical properties, such as hardness, color, cleavage, and luster which distinguish it from rock.  A rock is a naturally occurring solid substance that is composed of one or more minerals, as well as other materials such as organic matter, volcanic glass, and mineraloids. Examples of rocks include granite, limestone, and sandstone. Rocks can be classified into three main types based on how they were formed: igneous, sedimentary, and metamorphic.      The tendency of splting of minerals along a particular plane is called  foliation  cleavage  gnesis  faulting      b.      What is quartz?  is a mineral composed of silicon dioxide.  is a mineral composed of calcium carbonate.  is fools' gold.  is a type of pyrite mineral.      a.      How are igneous rocks formed  by solidification of magma.  by cementation of sedimentary particles.  by transformation of other rocks due to heat and pressure.  by precipitaion from solution.      a.      What type of rock is a Coal  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      d.      What type of rock is a Marble  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      a.      Fossils are most likely to be found in  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      d.      The point where movement occurred which triggered the earthquake is the   epicenter.  focus.  strike.  dip.      b.      Which type of faulting would be least likely to occur along the mid-Atlantic ridge?  normal.  reverse or thrust.  transform.  all of these could occur.      b.      Which of the following could trigger a tsunami?  undersea earthquakes.  the eruption of an oceanic volcano.  undersea landslides.  all of these.      a.      Which of the following waves is the slowest?  P waves.  S waves.  Surface waves.  all of these.      a.    "
 },
 {
   "id": "example-130",
@@ -3868,7 +3895,106 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.1",
   "title": "",
-  "body": "         "
+  "body": "  Which one of the following is the most abundant element in the earth's crust?  Nitrogen  Oxygen  Silican  Carbon      b.   "
+},
+{
+  "id": "example-131",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-131",
+  "type": "Example",
+  "number": "11.6.2",
+  "title": "",
+  "body": "  Write any two differences between rocks and minerals.    A mineral is a naturally occurring inorganic solid substance with a specific chemical composition and a crystalline structure. Examples of minerals include quartz, feldspar, and mica. Minerals have specific physical and chemical properties, such as hardness, color, cleavage, and luster which distinguish it from rock.  A rock is a naturally occurring solid substance that is composed of one or more minerals, as well as other materials such as organic matter, volcanic glass, and mineraloids. Examples of rocks include granite, limestone, and sandstone. Rocks can be classified into three main types based on how they were formed: igneous, sedimentary, and metamorphic.   "
+},
+{
+  "id": "example-132",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-132",
+  "type": "Example",
+  "number": "11.6.3",
+  "title": "",
+  "body": "  The tendency of splting of minerals along a particular plane is called  foliation  cleavage  gnesis  faulting      b.   "
+},
+{
+  "id": "example-133",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-133",
+  "type": "Example",
+  "number": "11.6.4",
+  "title": "",
+  "body": "  What is quartz?  is a mineral composed of silicon dioxide.  is a mineral composed of calcium carbonate.  is fools' gold.  is a type of pyrite mineral.      a.   "
+},
+{
+  "id": "example-134",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-134",
+  "type": "Example",
+  "number": "11.6.5",
+  "title": "",
+  "body": "  How are igneous rocks formed  by solidification of magma.  by cementation of sedimentary particles.  by transformation of other rocks due to heat and pressure.  by precipitaion from solution.      a.   "
+},
+{
+  "id": "example-135",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-135",
+  "type": "Example",
+  "number": "11.6.6",
+  "title": "",
+  "body": "  What type of rock is a Coal  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      d.   "
+},
+{
+  "id": "example-136",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-136",
+  "type": "Example",
+  "number": "11.6.7",
+  "title": "",
+  "body": "  What type of rock is a Marble  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      a.   "
+},
+{
+  "id": "example-137",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-137",
+  "type": "Example",
+  "number": "11.6.8",
+  "title": "",
+  "body": "  Fossils are most likely to be found in  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      d.   "
+},
+{
+  "id": "example-138",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-138",
+  "type": "Example",
+  "number": "11.6.9",
+  "title": "",
+  "body": "  The point where movement occurred which triggered the earthquake is the   epicenter.  focus.  strike.  dip.      b.   "
+},
+{
+  "id": "example-139",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-139",
+  "type": "Example",
+  "number": "11.6.10",
+  "title": "",
+  "body": "  Which type of faulting would be least likely to occur along the mid-Atlantic ridge?  normal.  reverse or thrust.  transform.  all of these could occur.      b.   "
+},
+{
+  "id": "example-140",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-140",
+  "type": "Example",
+  "number": "11.6.11",
+  "title": "",
+  "body": "  Which of the following could trigger a tsunami?  undersea earthquakes.  the eruption of an oceanic volcano.  undersea landslides.  all of these.      a.   "
+},
+{
+  "id": "example-141",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-141",
+  "type": "Example",
+  "number": "11.6.12",
+  "title": "",
+  "body": "  Which of the following waves is the slowest?  P waves.  S waves.  Surface waves.  all of these.      a.   "
 },
 {
   "id": "ex_eleventh",
@@ -3877,7 +4003,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "11.7",
   "title": "Exercises",
-  "body": "  Exercises       write your question  north  west.  east  south.     "
+  "body": "  Exercises   Body waves consist of the:  P waves only  S waves only.  P and S waves.  Surface waves.      Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.  A is 10 times more intense than B.  A is 1000 more intense than B.  B is 0.01X as intense than A.  Richter magnitude does not measure intensity.      Where is the focus with respect to the epicenter:  directly below the epicenter.  in the P wave shadow zone.  in the S wave shadow zone.  directly above the epicenter.      Which of the following could be the consequences of the underground earthquake?  cyclone.  tsunami.  a landslide.  none of the above.      Which of the following statements is false?  Most earthquakes occur at plate boundaries.  Most earthquakes can be predicted several days in advance.  Earthquakes can be caused by normal, reverse, and strike-slip faulting.  P waves travel faster than both S waves and Surface waves.      which one of the following is a volcanic rock?  granite.  basalt.  shale.  marble.     "
 },
 {
   "id": "exercise-93",
@@ -3886,7 +4012,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "11.7.1",
   "title": "",
-  "body": "   "
+  "body": " Body waves consist of the:  P waves only  S waves only.  P and S waves.  Surface waves.    "
 },
 {
   "id": "exercise-94",
@@ -3895,7 +4021,43 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "11.7.2",
   "title": "",
-  "body": " write your question  north  west.  east  south.    "
+  "body": " Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.  A is 10 times more intense than B.  A is 1000 more intense than B.  B is 0.01X as intense than A.  Richter magnitude does not measure intensity.    "
+},
+{
+  "id": "exercise-95",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-95",
+  "type": "Exercise",
+  "number": "11.7.3",
+  "title": "",
+  "body": " Where is the focus with respect to the epicenter:  directly below the epicenter.  in the P wave shadow zone.  in the S wave shadow zone.  directly above the epicenter.    "
+},
+{
+  "id": "exercise-96",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-96",
+  "type": "Exercise",
+  "number": "11.7.4",
+  "title": "",
+  "body": " Which of the following could be the consequences of the underground earthquake?  cyclone.  tsunami.  a landslide.  none of the above.    "
+},
+{
+  "id": "exercise-97",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-97",
+  "type": "Exercise",
+  "number": "11.7.5",
+  "title": "",
+  "body": " Which of the following statements is false?  Most earthquakes occur at plate boundaries.  Most earthquakes can be predicted several days in advance.  Earthquakes can be caused by normal, reverse, and strike-slip faulting.  P waves travel faster than both S waves and Surface waves.    "
+},
+{
+  "id": "exercise-98",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-98",
+  "type": "Exercise",
+  "number": "11.7.6",
+  "title": "",
+  "body": " which one of the following is a volcanic rock?  granite.  basalt.  shale.  marble.    "
 },
 {
   "id": "ch_twelvth",
@@ -3952,18 +4114,18 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-131",
+  "id": "example-142",
   "level": "2",
-  "url": "sec_features-blocks.html#example-131",
+  "url": "sec_features-blocks.html#example-142",
   "type": "Example",
   "number": "15.1.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-116",
+  "id": "figure-120",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-116",
+  "url": "sec_features-blocks.html#figure-120",
   "type": "Figure",
   "number": "15.1.3",
   "title": "",
