@@ -2959,7 +2959,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.2",
   "title": "Solution",
-  "body": " Solution   A solution is a homogeneous mixture composed of two or more substances. The substance that dissolves is called the solute , and the substance that does the dissolving is called the solvent . When the solute dissolves in the solvent, the resulting solution is a uniform mixture, called solution.  Solubility is the ability of a substance to dissolve in a solvent to form a solution. The solubility of a substance depends on various factors such as temperature, pressure, and the nature of the solute and solvent. In general, \" like dissolves like ,\" meaning that substances with similar chemical properties tend to dissolve in each other. The amount of solute that can dissolve in a given amount of solvent is limited by the solubility of the solute in the solvent. When a solution contains the maximum amount of solute that can dissolve in the solvent at a given temperature and pressure, is said to be a saturated solution. If more solute is added to a saturated solution, it will not dissolve and will form a separate phase, such as a solid precipitate or gas bubbles.   Concentration: The concentration of a solution is the amount of solute dissolved in a specific amount of solvent or solution. The term \"saturated\" and \"unsaturated\" are used to describe the concentration of solute in a solution. A saturated solution contains maximum amount of solute that can dissolve in a given solvent at a particular temperature and pressure. No more solute can be dissolved in the solvent of the saturated solution without increasing the temperature or pressure. Any additional solute added to the solution will not dissolve and will remain as a solid. On the other hand, an unsaturated solution contains less than the maximum amount of solute that can dissolve in a given solvent at a particular temperature and pressure. In an unsaturated solution, more solute can be added and dissolved in the solvent. It's important to note that a solution can also be supersaturated , which means it contains more solute than what can theoretically be dissolved at a given temperature and pressure. Supersaturated solutions are not stable and can spontaneously crystallize, forming a precipitate, or solid, out of excess solute.   Solubility of various solutes in water.      Types of Solution  There are several types of solutions, based on their composition and properties. Here are some common types of solutions:   Homogeneous solutions: These are solutions that have uniform composition and properties throughout. The solute particles are evenly distributed in the solvent. Examples include saltwater, sugar water, and ethanol-water mixtures.   Heterogeneous solutions: These are solutions that have non-uniform composition and properties. The solute particles are not evenly distributed in the solvent. Examples include suspensions, emulsions, and colloids.   Dilute solutions: These are solutions that have a low concentration of solute. The amount of solute is relatively small compared to the amount of solvent. Examples include a drop of food coloring in a glass of water or a pinch of salt in a pot of soup.   Concentrated solutions: These are solutions that have a high concentration of solute. The amount of solute is relatively large compared to the amount of solvent. Examples include concentrated sulfuric acid, concentrated sodium hydroxide, and concentrated ammonia solutions.   Saturated solutions: These are solutions that contain the maximum amount of solute that can dissolve in a given amount of solvent at a particular temperature and pressure. Any additional solute added to the solution will not dissolve and will remain as a solid. Examples include sugar-water solutions and saltwater solutions.   Unsaturated solutions: These are solutions that contain less than the maximum amount of solute that can dissolve in a given amount of solvent at a particular temperature and pressure. More solute can be added to the solution and dissolved. Examples include weak tea and weak coffee.   Supersaturated solutions: These are solutions that contain more solute than what can theoretically dissolve at a given temperature and pressure. These solutions are not stable and can spontaneously crystallize, forming a precipitate or solid out of excess solute. Examples include supersaturated sugar-water solutions and supersaturated sodium acetate solutions.    There are also several types of solutions based on the phases of the solute and solvent. Here are some common types of solutions:   Solid-solid solutions: It is also known as solid solutions or alloys, are homogeneous mixtures of two or more solid elements or compounds. In a solid solution, the atoms of one component are dispersed uniformly throughout the crystal lattice of the other component, resulting in a single, continuous phase. Examples of solid-solid solutions include brass, which is an alloy of copper and zinc; steel, which is an alloy of iron and carbon; and bronze, which is an alloy of copper and tin.   Liquid-liquid solutions: These are solutions in which the solute and solvent are both liquids. Examples include milk in water, ethanol in water, and benzene in toluene.   Gas-liquid solutions: also known as gas solutions. These are solutions in which the solute is a gas that dissolves in a liquid solvent. Examples include cold drink, carbon dioxide in water, oxygen in blood, and nitrogen in beer.   Solid-liquid solutions: Here solid is solute and liquid is solvent. For example: salt water solution, sugar water solution.      Colligative property of a solution   Freezing point elevation is a colligative property of a solution that describes the increase in the freezing point of a solvent when a non-volatile solute is dissolved in it. This phenomenon occurs because the presence of the solute interferes with the formation of the crystal lattice of the solvent during freezing. The magnitude of the freezing point elevation is proportional to the concentration of the solute in the solution. Melting point depression is a colligative property of a solution that describes the decrease in the melting point of a solvent when a non-volatile solute is dissolved in it. This phenomenon occurs because the presence of the solute disrupts the regular crystal structure of the solvent during melting, making it more difficult for the solvent molecules to organize themselves into a solid. The magnitude of the melting point depression is proportional to the concentration of the solute in the solution.   "
+  "body": " Solution   A solution is a homogeneous mixture composed of two or more substances. The substance that dissolves is called the solute , and the substance that does the dissolving is called the solvent . When the solute dissolves in the solvent, the resulting solution is a uniform mixture, called solution.  Solubility is the ability of a substance to dissolve in a solvent to form a solution. The solubility of a substance depends on various factors such as temperature, pressure, and the nature of the solute and solvent. In general, \" like dissolves like ,\" meaning that substances with similar chemical properties tend to dissolve in each other. The amount of solute that can dissolve in a given amount of solvent is limited by the solubility of the solute in the solvent. When a solution contains the maximum amount of solute that can dissolve in the solvent at a given temperature and pressure, is said to be a saturated solution. If more solute is added to a saturated solution, it will not dissolve and will form a separate phase, such as a solid precipitate or gas bubbles.   Concentration: The concentration of a solution is the amount of solute dissolved in a specific amount of solvent or solution. The term \"saturated\" and \"unsaturated\" are used to describe the concentration of solute in a solution. A saturated solution contains maximum amount of solute that can dissolve in a given solvent at a particular temperature and pressure. No more solute can be dissolved in the solvent of the saturated solution without increasing the temperature or pressure. Any additional solute added to the solution will not dissolve and will remain as a solid. On the other hand, an unsaturated solution contains less than the maximum amount of solute that can dissolve in a given solvent at a particular temperature and pressure. In an unsaturated solution, more solute can be added and dissolved in the solvent. It's important to note that a solution can also be supersaturated , which means it contains more solute than what can theoretically be dissolved at a given temperature and pressure. Supersaturated solutions are not stable and can spontaneously crystallize, forming a precipitate, or solid, out of excess solute.   Solubility of various solutes in water.      Types of Solution  There are several types of solutions, based on their composition and properties. Here are some common types of solutions:   Homogeneous solutions: These are solutions that have uniform composition and properties throughout. The solute particles are evenly distributed in the solvent. Examples include saltwater, sugar water, and ethanol-water mixtures.   Heterogeneous solutions: These are solutions that have non-uniform composition and properties. The solute particles are not evenly distributed in the solvent. Examples include suspensions, emulsions, and colloids.   Dilute solutions: These are solutions that have a low concentration of solute. The amount of solute is relatively small compared to the amount of solvent. Examples include a drop of food coloring in a glass of water or a pinch of salt in a pot of soup.   Concentrated solutions: These are solutions that have a high concentration of solute. The amount of solute is relatively large compared to the amount of solvent. Examples include concentrated sulfuric acid, concentrated sodium hydroxide, and concentrated ammonia solutions.   Saturated solutions: These are solutions that contain the maximum amount of solute that can dissolve in a given amount of solvent at a particular temperature and pressure. Any additional solute added to the solution will not dissolve and will remain as a solid. Examples include sugar-water solutions and saltwater solutions.   Unsaturated solutions: These are solutions that contain less than the maximum amount of solute that can dissolve in a given amount of solvent at a particular temperature and pressure. More solute can be added to the solution and dissolved. Examples include weak tea and weak coffee.   Supersaturated solutions: These are solutions that contain more solute than what can theoretically dissolve at a given temperature and pressure. These solutions are not stable and can spontaneously crystallize, forming a precipitate or solid out of excess solute. Examples include supersaturated sugar-water solutions and supersaturated sodium acetate solutions.    There are also several types of solutions based on the phases of the solute and solvent. Here are some common types of solutions:   Solid-solid solutions: It is also known as solid solutions or alloys, are homogeneous mixtures of two or more solid elements or compounds. In a solid solution, the atoms of one component are dispersed uniformly throughout the crystal lattice of the other component, resulting in a single, continuous phase. Examples of solid-solid solutions include brass, which is an alloy of copper and zinc; steel, which is an alloy of iron and carbon; and bronze, which is an alloy of copper and tin.   Liquid-liquid solutions: These are solutions in which the solute and solvent are both liquids. Examples include milk in water, ethanol in water, and benzene in toluene.   Gas-liquid solutions: also known as gas solutions. These are solutions in which the solute is a gas that dissolves in a liquid solvent. Examples include cold drink, carbon dioxide in water, oxygen in blood, and nitrogen in beer.   Solid-liquid solutions: Here solid is solute and liquid is solvent. For example: salt water solution, sugar water solution.      Colligative property of a solution   Freezing point depression is a colligative property of a solution that describes how the presence of a solute lowers the freezing point of the solvent. Colligative properties are properties of solutions that depend on the concentration of solute particles in the solution, but not on the identity of the solute particles. The freezing point of a pure solvent is a characteristic property that is dependent only on the identity of the solvent. However, when a solute is added to the solvent, the freezing point of the resulting solution is lower than that of the pure solvent. This occurs because the solute particles disrupt the crystal lattice structure of the solvent, making it more difficult for the solvent molecules to form solid crystals.   Melting point elevation Melting point elevation is a colligative property of a solution that describes how the melting point of a solid solvent is increased when a solute is dissolved in it. Like freezing point depression, it is a property of solutions that depends on the concentration of solute particles in the solution, but not on the identity of the solute particles. When a solute is dissolved in a solvent, it disrupts the crystal lattice structure of the solvent, making it more difficult for the solvent molecules to transition from the solid to the liquid state. As a result, the melting point of the solution is higher than that of the pure solvent.   "
 },
 {
   "id": "p-621",
@@ -3013,7 +3013,16 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Freezing point elevation Melting point depression "
+  "body": "Freezing point depression "
+},
+{
+  "id": "p-626",
+  "level": "2",
+  "url": "sec_ninth-solut.html#p-626",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Melting point elevation "
 },
 {
   "id": "sec_ninth-acidbase",
@@ -3025,27 +3034,27 @@ var ptx_lunr_docs = [
   "body": " Acids and Base   Acids and bases are two types of chemical compounds that have unique properties and behavior. Acids are compounds that have a high concentration of hydrogen ions , which they release when they are dissolved in water. Acid tests sour. (It is compeletely prohibited to test any liquid in the laboratory.) Orange, lemon, tomato, tamarind, and grapefruit are sour and contain acid in their juice. Bases , on the other hand, have a high concentration of hydroxide ions , which they release when they are dissolved in water. Base also known as Alkali tests bitter. Cucumber, asparagus, garlic, yam, broccoli, and fish slime are alkaline.  Acid dissociates into hydrogen ion when dissolve in water.    Base dissociates into hydroxide ion when dissolve in water.  Acids can be classified as either weak or strong, depending on their ability to dissociate in water. A strong acid is an acid that completely dissociates in water, meaning that all of its molecules break apart into ions. Examples of strong acids include hydrochloric acid , sulfuric acid , and nitric acid . These acids have a very low pH and are highly reactive. A weak acid , on the other hand, only partially dissociates in water, meaning that only a small fraction of its molecules break apart into ions. Examples of weak acids include acetic acid , formic acid , and citric acid . These acids have a higher pH than strong acids and are less reactive. The strength of an acid is determined by its dissociation constant (Ka), which is a measure of how easily the acid donates a proton to water. A high Ka value indicates a strong acid, while a low Ka value indicates a weak acid. Explanation of dissociation constant (Ka) is out of the course requirement here.   A base is a substance that can accept a proton from another substance or donate a hydroxide ion to another substance. Bases can be classified as either strong or weak, depending on their ability to dissociate in water. A strong base is a base that completely dissociates in water, meaning that all of its molecules break apart into ions. Examples of strong bases include sodium hydroxide , potassium hydroxide , and calcium hydroxide . These bases have a very high pH and are highly reactive. A weak base , on the other hand, only partially dissociates in water, meaning that only a small fraction of its molecules break apart into ions. Examples of weak bases include ammonia , pyridine , and trimethylamine . These bases have a lower pH than strong bases and are less reactive. The strength of a base is determined by its dissociation constant (Kb), which is a measure of how easily the base accepts a proton from water. A high Kb value indicates a strong base, while a low Kb value indicates a weak base. Explanation of dissociation constant (Kb) is out of the course requirement here.     The pH Scale   pH scale    One of the most important properties of acids and bases is their level. The pH scale is a measurement system used to describe the acidity or basicity (alkalinity) of a solution. It is a logarithmic scale that ranges from 0 to 14, with 7 being neutral . A solution with a pH less than 7 is considered acidic , while a solution with a pH greater than 7 is considered basic (alkaline). The strength of an acid or base depends on its ability to release or accept hydrogen ions. Each unit on the pH scale represents a tenfold difference in acidity or basicity. For example, a solution with a pH of 4 is ten times more acidic than a solution with a pH of 5, and 100 times more acidic than a solution with a pH of 6. Similarly, a solution with a pH of 10 is ten times more basic than a solution with a pH of 9, and 100 times more basic than a solution with a pH of 8. The pH scale is important in many scientific fields, including chemistry, biology, and environmental science. It is used to measure the acidity or basicity of substances such as water, soil, and blood.  The hydronium ion , also known as the oxonium ion, is a positively charged ion with the chemical formula . It is formed when a water molecule, , accepts a hydrogen ion, , from an acid. The hydronium ion is an important species in acid-base chemistry because it represents the acidic character of a solution. In aqueous solutions, the concentration of hydronium ions determines the pH of the solution. Solutions with a high concentration of hydronium ions have a low pH and are considered acidic, while solutions with a low concentration of hydronium ions have a high pH and are considered basic (alkaline). Hydronium ion can act as a proton donor (acid) or proton acceptor (base) in chemical reactions, making it an important species in acid-base catalysis. Pure water has some contents of hydronium ion when it dissociates but these ions recombines also very fast, hence, pure water is neutral and has pH scale of 7. Since hydroxide ion, attract ion strongly there is reverse reaction keep happening in water Thus we can write     Salts  An acid-base reaction is a chemical reaction that occurs between an acid and a base. In this type of reaction, the acid donates a proton (H+) to the base, which accepts the proton. This results in the formation of a new compound that is neither acidic nor basic in nature. Neutralization is a specific type of acid-base reaction where an acid and a base react to form a salt and water. The salt formed is composed of the cation of the base and the anion of the acid, and it is typically a neutral compound. For example, when hydrochloric acid (HCl) reacts with sodium hydroxide (NaOH), the following reaction takes place: In this reaction, HCl is the acid, NaOH is the base, NaCl is the salt, and is the water that is formed. The resulting solution is neutral because the and ions from the acid and base, respectively, have combined to form water, leaving behind only the and ions from the salt. Table salt , Epsom salt , Gypsom salt , Baking soda are some examples of salt.   "
 },
 {
-  "id": "p-626",
+  "id": "p-627",
   "level": "2",
-  "url": "sec_ninth-acidbase.html#p-626",
+  "url": "sec_ninth-acidbase.html#p-627",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Acids Bases "
 },
 {
-  "id": "p-628",
+  "id": "p-629",
   "level": "2",
-  "url": "sec_ninth-acidbase.html#p-628",
+  "url": "sec_ninth-acidbase.html#p-629",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "strong acid weak acid "
 },
 {
-  "id": "p-629",
+  "id": "p-630",
   "level": "2",
-  "url": "sec_ninth-acidbase.html#p-629",
+  "url": "sec_ninth-acidbase.html#p-630",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3061,27 +3070,27 @@ var ptx_lunr_docs = [
   "body": " pH scale   "
 },
 {
-  "id": "p-630",
-  "level": "2",
-  "url": "sec_ninth-acidbase.html#p-630",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "pH scale "
-},
-{
   "id": "p-631",
   "level": "2",
   "url": "sec_ninth-acidbase.html#p-631",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "hydronium ion "
+  "body": "pH scale "
 },
 {
   "id": "p-632",
   "level": "2",
   "url": "sec_ninth-acidbase.html#p-632",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "hydronium ion "
+},
+{
+  "id": "p-633",
+  "level": "2",
+  "url": "sec_ninth-acidbase.html#p-633",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3184,7 +3193,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "9.5",
   "title": "Exercises",
-  "body": "  Exercises   The solubility of solid dissolved in a liquid increases with  increase of temperature.  decrease of temperature.  temperature does not effect solubility.  None of the above.     Dissolving a solute in a liquid  increases the freezing point of liquid.  decreases the freezing point of liquid.  does not the freezing point.  does any of the above, depending on the substance involved.    Which of the following statements is true concerning acids and bases?  acids and bases don't react with each other.  acids mixed with bases neutralize each other.  acids mixed with bases make stronger bases.  acids mixed with bases make stronger acids.    True or false: bases are sometimes called alkalis.  True.  False.    Which is true?  pH of less than 7 is basic; pH of more than 7 is acidic.  pH of less than 7 is acidic; pH of more than 7 is basic.    Which substance completely dissociates in water?  Weak acids.  Strong acids.    "
+  "body": "  Exercises   The solubility of solid dissolved in a liquid increases with  increase of temperature.  decrease of temperature.  temperature does not effect solubility.  None of the above.     Dissolving a solute in a liquid  increases the freezing point of liquid.  decreases the freezing point of liquid.  does not the freezing point.  does any of the above, depending on the substance involved.    Which of the following statements is true concerning acids and bases?  acids and bases don't react with each other.  acids mixed with bases neutralize each other.  acids mixed with bases make stronger bases.  acids mixed with bases make stronger acids.    True or false: bases are sometimes called alkalis.  True.  False.    Which is true?  pH of less than 7 is basic; pH of more than 7 is acidic.  pH of less than 7 is acidic; pH of more than 7 is basic.    Which substance completely dissociates in water?  Weak acids.  Strong acids.    What is the pH of a neutral solution?  7  0  14  1    Which of the following is a strong acid?  HClO  HF      c.   Which of the following is a weak base?  KOH  NaOH      c.   What is the product of the neutralization reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH)?  Water and sodium chloride.  Carbon dioxide and sodium chloride.  Water and sodium carbonate.  None of the above.>    a.   "
 },
 {
   "id": "exercise-81",
@@ -3241,6 +3250,42 @@ var ptx_lunr_docs = [
   "body": "Which substance completely dissociates in water?  Weak acids.  Strong acids.   "
 },
 {
+  "id": "exercise-87",
+  "level": "2",
+  "url": "ex_ninth.html#exercise-87",
+  "type": "Exercise",
+  "number": "9.5.7",
+  "title": "",
+  "body": "What is the pH of a neutral solution?  7  0  14  1   "
+},
+{
+  "id": "exercise-88",
+  "level": "2",
+  "url": "ex_ninth.html#exercise-88",
+  "type": "Exercise",
+  "number": "9.5.8",
+  "title": "",
+  "body": "Which of the following is a strong acid?  HClO  HF      c.  "
+},
+{
+  "id": "exercise-89",
+  "level": "2",
+  "url": "ex_ninth.html#exercise-89",
+  "type": "Exercise",
+  "number": "9.5.9",
+  "title": "",
+  "body": "Which of the following is a weak base?  KOH  NaOH      c.  "
+},
+{
+  "id": "exercise-90",
+  "level": "2",
+  "url": "ex_ninth.html#exercise-90",
+  "type": "Exercise",
+  "number": "9.5.10",
+  "title": "",
+  "body": "What is the product of the neutralization reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH)?  Water and sodium chloride.  Carbon dioxide and sodium chloride.  Water and sodium carbonate.  None of the above.>    a.  "
+},
+{
   "id": "sec_tenth-intro",
   "level": "1",
   "url": "sec_tenth-intro.html",
@@ -3259,63 +3304,63 @@ var ptx_lunr_docs = [
   "body": " Ozone molecule   "
 },
 {
-  "id": "p-661",
+  "id": "p-669",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-661",
+  "url": "sec_tenth-intro.html#p-669",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Ozone ozonosphere "
 },
 {
-  "id": "p-663",
+  "id": "p-671",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-663",
+  "url": "sec_tenth-intro.html#p-671",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "ozone hole "
 },
 {
-  "id": "p-665",
+  "id": "p-673",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-665",
+  "url": "sec_tenth-intro.html#p-673",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "precipitation or rain humidity relative humidity saturated Humid (or saturated) Dew point: "
 },
 {
-  "id": "p-666",
+  "id": "p-674",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-666",
+  "url": "sec_tenth-intro.html#p-674",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Weather Climate "
 },
 {
-  "id": "p-667",
+  "id": "p-675",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-667",
+  "url": "sec_tenth-intro.html#p-675",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "global warming "
 },
 {
-  "id": "p-668",
+  "id": "p-676",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-668",
+  "url": "sec_tenth-intro.html#p-676",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "greenhouse "
 },
 {
-  "id": "p-669",
+  "id": "p-677",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-669",
+  "url": "sec_tenth-intro.html#p-677",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3340,36 +3385,36 @@ var ptx_lunr_docs = [
   "body": " Season on Earth   "
 },
 {
-  "id": "p-670",
+  "id": "p-678",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-670",
+  "url": "sec_tenth-seasons.html#p-678",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "seasons "
 },
 {
-  "id": "p-671",
+  "id": "p-679",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-671",
+  "url": "sec_tenth-seasons.html#p-679",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Solstices "
 },
 {
-  "id": "p-672",
+  "id": "p-680",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-672",
+  "url": "sec_tenth-seasons.html#p-680",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Equinoxes "
 },
 {
-  "id": "p-675",
+  "id": "p-683",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-675",
+  "url": "sec_tenth-seasons.html#p-683",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3385,36 +3430,36 @@ var ptx_lunr_docs = [
   "body": " Cyclones & Anticyclones   "
 },
 {
-  "id": "p-676",
+  "id": "p-684",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-676",
+  "url": "sec_tenth-seasons.html#p-684",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Cyclones and Anticyclones Cyclones "
 },
 {
-  "id": "p-677",
+  "id": "p-685",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-677",
+  "url": "sec_tenth-seasons.html#p-685",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Anticyclones "
 },
 {
-  "id": "p-678",
+  "id": "p-686",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-678",
+  "url": "sec_tenth-seasons.html#p-686",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Tornado "
 },
 {
-  "id": "p-679",
+  "id": "p-687",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-679",
+  "url": "sec_tenth-seasons.html#p-687",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3439,18 +3484,18 @@ var ptx_lunr_docs = [
   "body": " Ocean Basins   "
 },
 {
-  "id": "p-681",
+  "id": "p-689",
   "level": "2",
-  "url": "sec_tenth-hydros.html#p-681",
+  "url": "sec_tenth-hydros.html#p-689",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "continental shelves continental slope abyssal plain Continental shelves ocean floor "
 },
 {
-  "id": "p-683",
+  "id": "p-691",
   "level": "2",
-  "url": "sec_tenth-hydros.html#p-683",
+  "url": "sec_tenth-hydros.html#p-691",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3583,54 +3628,54 @@ var ptx_lunr_docs = [
   "body": "  Exercises   Dry air has relative humidity of  zero.  100%.  50%.  1%.      Because of the Coriolis effect, winds and other moving fluids are deflected to which direction in the Northern Hemisphere?  north  west.  east  south.      Hurricanes never occur   near the equator.  near Canada.  islands.  near mid-latitude cyclones.      Air flows from in the upper atmosphere.  west to east.  east to west.  north to south.  south to north.      A cyclone is centered towards  region of high pressure.  region of low pressure.  cannot tell.      Tsunamis are caused by  typhoons.  undersea earthquake.  tornados.  hurricanes.     "
 },
 {
-  "id": "exercise-87",
+  "id": "exercise-91",
   "level": "2",
-  "url": "ex_tenth.html#exercise-87",
+  "url": "ex_tenth.html#exercise-91",
   "type": "Exercise",
   "number": "10.5.1",
   "title": "",
   "body": " Dry air has relative humidity of  zero.  100%.  50%.  1%.    "
 },
 {
-  "id": "exercise-88",
+  "id": "exercise-92",
   "level": "2",
-  "url": "ex_tenth.html#exercise-88",
+  "url": "ex_tenth.html#exercise-92",
   "type": "Exercise",
   "number": "10.5.2",
   "title": "",
   "body": " Because of the Coriolis effect, winds and other moving fluids are deflected to which direction in the Northern Hemisphere?  north  west.  east  south.    "
 },
 {
-  "id": "exercise-89",
+  "id": "exercise-93",
   "level": "2",
-  "url": "ex_tenth.html#exercise-89",
+  "url": "ex_tenth.html#exercise-93",
   "type": "Exercise",
   "number": "10.5.3",
   "title": "",
   "body": " Hurricanes never occur   near the equator.  near Canada.  islands.  near mid-latitude cyclones.    "
 },
 {
-  "id": "exercise-90",
+  "id": "exercise-94",
   "level": "2",
-  "url": "ex_tenth.html#exercise-90",
+  "url": "ex_tenth.html#exercise-94",
   "type": "Exercise",
   "number": "10.5.4",
   "title": "",
   "body": " Air flows from in the upper atmosphere.  west to east.  east to west.  north to south.  south to north.    "
 },
 {
-  "id": "exercise-91",
+  "id": "exercise-95",
   "level": "2",
-  "url": "ex_tenth.html#exercise-91",
+  "url": "ex_tenth.html#exercise-95",
   "type": "Exercise",
   "number": "10.5.5",
   "title": "",
   "body": " A cyclone is centered towards  region of high pressure.  region of low pressure.  cannot tell.    "
 },
 {
-  "id": "exercise-92",
+  "id": "exercise-96",
   "level": "2",
-  "url": "ex_tenth.html#exercise-92",
+  "url": "ex_tenth.html#exercise-96",
   "type": "Exercise",
   "number": "10.5.6",
   "title": "",
@@ -3655,9 +3700,9 @@ var ptx_lunr_docs = [
   "body": " Earth's Layers   "
 },
 {
-  "id": "p-715",
+  "id": "p-723",
   "level": "2",
-  "url": "sec_eleventh-intro.html#p-715",
+  "url": "sec_eleventh-intro.html#p-723",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3691,9 +3736,9 @@ var ptx_lunr_docs = [
   "body": " Some common minerals   "
 },
 {
-  "id": "p-718",
+  "id": "p-726",
   "level": "2",
-  "url": "sec_eleventh-rockminr.html#p-718",
+  "url": "sec_eleventh-rockminr.html#p-726",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3709,9 +3754,9 @@ var ptx_lunr_docs = [
   "body": " Types of Rocks   "
 },
 {
-  "id": "p-719",
+  "id": "p-727",
   "level": "2",
-  "url": "sec_eleventh-rockminr.html#p-719",
+  "url": "sec_eleventh-rockminr.html#p-727",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3727,9 +3772,9 @@ var ptx_lunr_docs = [
   "body": " Some common Rocks   "
 },
 {
-  "id": "p-720",
+  "id": "p-728",
   "level": "2",
-  "url": "sec_eleventh-rockminr.html#p-720",
+  "url": "sec_eleventh-rockminr.html#p-728",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3745,9 +3790,9 @@ var ptx_lunr_docs = [
   "body": " Earthquakes   An earthquake is a sudden and violent shaking of the Earth's surface, caused by the rapid release of energy stored in the Earth's crust. This energy is typically released along a fault , which is a fracture in the Earth's crust where the two sides have moved relative to each other. Earthquakes can vary in size and intensity, ranging from small tremors that are barely noticeable to massive earthquakes that can cause widespread destruction and loss of life. The size of an earthquake is measured on the Richter scale , which is a logarithmic scale that assigns a numerical value to the energy released by an earthquake. The Richter scale ranges from zero to 8.9. An earthquake of 4.0 or below is miner and go without noticing most often. 5.0 to 6.0 Richtor scale is moderate. 7.0 and over is major earthquake. Richter scale of 6.0 is 10 times more severe than one at 5.0 and one at 7.0 is 100 times more severe than 5.0. Earthquakes can occur anywhere in the world, but are most common along the boundaries of tectonic plates, where the movement of plates can cause stress and strain to build up in the crust. When this stress is released suddenly, it causes the ground to shake and can also trigger other geological events such as landslides, tsunamis, and volcanic eruptions.    Types of waves in Earthquake    Body Waves     Surface Wave      When an earthquake occurs, the energy released by the movement of the Earth's crust radiates outwards in the form of seismic waves. There are two main types of seismic waves: body waves and surface waves . Body waves are the fastest seismic waves and travel through the interior of the Earth. There are two types of body waves: P waves (primary waves) and S waves (secondary waves)  . P waves are longitudinal waves that travel through the Earth's interior by causing the rock particles to move back and forth in the direction of wave propagation. S waves are transverse waves that travel by causing the rock particles to move perpendicular to the direction of wave propagation. S wave cannot pass through the liquid and hence it gets blocked by the core . P wave is faster than the S wave. Surface waves are slower than the body waves and travel along the Earth's surface. There are two types of surface waves: Rayleigh waves and Love waves  . Rayleigh waves are similar to ocean waves and cause the ground to move in a rolling motion, while Love waves cause the ground to move in a side-to-side motion. Seismic waves can be transmitted through a variety of materials, including solid rock, sediment, and water. Seismic waves travel faster through dense, rigid materials such as solid rock, and slower through less dense, more fluid materials such as sediment. Seismic waves can also be reflected, refracted, and diffracted as they pass through different materials or encounter changes in the composition or structure of the Earth's crust. These interactions can cause seismic waves to change direction, speed up or slow down, and even amplify or dampen in intensity. By studying the behavior of seismic waves, scientists can gain insights into the internal structure and composition of the Earth's crust, as well as the properties of the materials through which the waves travel.   Propagation of body and surface waves    The point in the Earth's crust from where the energy is released is called the earthquake focus . The epicenter is the point on the Earth's surface directly above the focus. Focus is the place where crustal rocks moved and epicenter is the point on earth's surface directly over the focus as can be seen in . In seismology, shadow zones refer to areas on the Earth's surface where seismic waves are not detected or are significantly weaker than in surrounding areas. The existence of these shadow zones was one of the key pieces of evidence used to support the theory of plate tectonics.    Types of Deformation      Types of faults     Focus and epicenter     Richter scale      There are many types of structural deformation happens on the earth surface. They are faults, folds, warps, tilts, rises, and falls. Faults are crack in the earth's crust. A Fult is a fracture or break in the Earth's crust along which movement occurs relative to each other. Faults can be classified as either dip-slip faults, where the movement is vertical, or strike-slip faults, where the movement is horizontal. Here are some of the most common types of faults: Normal fault: occurs when two blocks of rock are pulled apart, causing one block to drop down relative to the other. Normal faults are common in areas where the Earth's crust is being stretched, such as at divergent plate boundaries. Reverse (or, thrust) fault: occurs when two blocks of rock are pushed together, causing one block to be pushed up relative to the other. Reverse faults are common in areas where the Earth's crust is being compressed, such as at convergent plate boundaries. Strike-slip fault: occurs when two blocks of rock slide past each other horizontally. Strike-slip faults are common in areas where the Earth's crust is being sheared, such as at transform plate boundaries. Thrust fault: is a type of reverse fault in which the angle of the fault plane is shallow. Thrust faults are common in areas where the Earth's crust is being compressed, such as in mountain ranges. Faults are seen in . Folds: A fold is a bend or curve in the Earth's crust that results from compressional forces. Folds can be classified as either anticlines, where the rock layers arch upwards, or synclines, where the rock layers fold downwards. Tilts: A tilt is a change in the angle of the Earth's crust relative to the horizontal. Tilts can be caused by various forces, including tectonic movements and the deposition of sedimentary layers. Warps: A warp is a broad upward or downward deformation of the Earth's crust. Warps can be caused by tectonic forces or the weight of overlying sedimentary layers. The rise and fall of the Earth's surface can occur due to tectonic activity, volcanic activity, erosion, and sedimentation. In tectonic activity, When plates collide or move apart, they can cause the Earth's surface to rise or fall. For example, the collision of the Indian and Eurasian plates caused the Himalayan Mountains to rise.   "
 },
 {
-  "id": "p-721",
+  "id": "p-729",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-721",
+  "url": "sec_eleventh-quake.html#p-729",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3763,9 +3808,9 @@ var ptx_lunr_docs = [
   "body": "  Types of waves in Earthquake    Body Waves     Surface Wave     "
 },
 {
-  "id": "p-722",
+  "id": "p-730",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-722",
+  "url": "sec_eleventh-quake.html#p-730",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3781,9 +3826,9 @@ var ptx_lunr_docs = [
   "body": " Propagation of body and surface waves   "
 },
 {
-  "id": "p-723",
+  "id": "p-731",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-723",
+  "url": "sec_eleventh-quake.html#p-731",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3799,9 +3844,9 @@ var ptx_lunr_docs = [
   "body": "    Types of faults     Focus and epicenter     Richter scale     "
 },
 {
-  "id": "p-724",
+  "id": "p-732",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-724",
+  "url": "sec_eleventh-quake.html#p-732",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3817,18 +3862,18 @@ var ptx_lunr_docs = [
   "body": " Tectonic Movement   Tectonic movement refers to the movement of large sections of the Earth's lithosphere (the rigid outer layer of the Earth that consists of the crust and uppermost part of the mantle) relative to each other. The lithosphere is broken up into a number of plates that move around on the underlying asthenosphere (the partially molten, ductile region of the mantle). Tectonic movement occurs primarily at plate boundaries, where plates interact with each other. There are three types of plate boundaries: Divergent boundaries: where plates move away from each other, creating new crust. This occurs mainly at mid-ocean ridges. Convergent boundaries: where plates move towards each other and one plate is usually subducted (forced beneath) the other. This can cause earthquakes, volcanoes and mountain-building. Transform boundaries: where plates slide past each other horizontally. This can also cause earthquakes. Tectonic movement Plate Tectonic is driven by the movement of molten rock in the mantle, which creates convection currents that move the plates. The speed of plate movement can vary from a few millimeters to several centimeters per year. A mid-ocean ridge is an underwater mountain range that runs along the floor of the Earth's ocean basins. It is a divergent plate boundary where two tectonic plates are moving away from each other, causing magma from the Earth's mantle to rise up and solidify, forming new oceanic crust. The mid-ocean ridge system is the longest mountain range on Earth, stretching over 40,000 miles (64,000 kilometers) and covering more than 23% of the Earth's surface. It is located in all of the Earth's major oceans, and its highest points are often found above sea level, forming volcanic islands. A volcanic eruption is a geological event that occurs when magma, ash, and gases escape from a volcano. Volcanic eruptions can be explosive or effusive and can vary in intensity and duration. Explosive eruptions occur when a buildup of pressure causes a sudden release of gas, ash, and magma. These eruptions can be violent and destructive, sending plumes of ash and debris high into the air and causing widespread damage to surrounding areas. Effusive eruptions, on the other hand, are characterized by a steady flow of lava from the volcano. These eruptions can last for weeks, months, or even years, and can create new land by adding layers of solidified lava to the landscape.    Continental Drift  Continental drift is the theory that the Earth's continents were once joined together in a single landmass and have since drifted apart over millions of years. This theory was first proposed by Alfred Wegener in 1912, based on the observation that the shapes of the continents on either side of the Atlantic Ocean seemed to fit together like puzzle pieces . According to the theory of continental drift, the continents were once part of a single supercontinent called Pangaea , which began to break apart about 200 million years ago. Over time, the continents moved away from each other, driven by the movement of tectonic plates in the Earth's lithosphere. The idea of continental drift was initially met with skepticism, but it gained support over time as evidence from different fields of science began to accumulate. One of the key pieces of evidence came from the study of paleomagnetism, which showed that the magnetic orientation of rocks on different continents matched up when the continents were brought together. Watch this video lecture Theory of Continental drift . Laurasia and Gondwana were two supercontinents that existed during the Mesozoic Era, between approximately 252 million to 66 million years ago. Laurasia was a northern supercontinent that consisted of present-day North America, Europe, and Asia (excluding India and Arabia). It formed during the Late Paleozoic Era when the supercontinent Pangaea began to break apart. Laurasia continued to fragment during the Mesozoic Era, eventually forming the continents we see today. Gondwana, on the other hand, was a southern supercontinent that consisted of present-day South America, Africa, Antarctica, Australia, the Indian subcontinent, and the Arabian Peninsula. It formed during the Neoproterozoic Era, when earlier supercontinents began to break apart. Gondwana also continued to fragment during the Mesozoic Era, eventually forming the continents we see today. Laurasia and Gondwana were separated by the Tethys Sea . The breakup of these supercontinents played a significant role in shaping the geography of the Earth and the evolution of life on the planet. For example, the separation of South America and Africa created an oceanic barrier that allowed different species to evolve independently. The separation of India from Antarctica and Australia led to the formation of the Himalayas.    Plate Tectonics   Plate collision      Oceanic-continental plate collision: When an oceanic plate collides with a continental plate, the denser oceanic plate is usually subducted, or forced beneath the less dense continental plate. This process can lead to the formation of subduction zones, where the oceanic plate is forced downward into the mantle, creating a deep oceanic trench  . As the oceanic plate is subducted, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can create a line of volcanoes known as a volcanic arc on the continental plate side of the subduction zone. The collision between the oceanic and continental plates can also cause folding and faulting of the continental crust, leading to the formation of mountain ranges. The collision can also cause earthquakes as the plates grind against each other and release energy. One well-known example of an oceanic-continental plate collision is the Andes Mountains in South America.  Oceanic-oceanic plate collision: When two oceanic plates collide, one plate usually subducts beneath the other, creating a subduction zone. The subducted plate is forced down into the mantle, creating a deep trench , while the overriding plate forms an island arc, a curved chain of volcanic islands. As the subducted plate sinks deeper into the mantle, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can contribute to the growth of the island arc. Over time, the volcanic activity can also lead to the formation of a new oceanic crust, as magma solidifies and builds up on the seafloor. This process is known as seafloor spreading. One example of an oceanic-oceanic plate collision is the collision between the Pacific Plate and the Philippine Sea Plate, which has created the Marianas Trench and the Mariana Islands, a volcanic island arc in the western Pacific Ocean.  Continental-continental plate collision: When two continental plates collide, neither plate is subducted because both plates are too buoyant to sink. Instead, the collision can lead to the formation of massive mountain ranges and intense deformation of the continental crust. As the two continental plates collide, they crumple and fold, leading to the formation of complex mountain belts. The collision can also cause extensive faulting and fracturing of the crust, leading to the formation of deep basins and rift valleys. Over time, erosion can wear down the mountains, leading to the deposition of sedimentary rocks in the basins and valleys. One example of a continental-continental plate collision is the collision between the Indian Plate and the Eurasian Plate, which has led to the formation of the Himalayan mountain range, the tallest mountain range in the world. The collision between these two plates is ongoing, and the Himalayas continue to grow taller each year.     "
 },
 {
-  "id": "p-725",
+  "id": "p-733",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-725",
+  "url": "sec_eleventh-tectmov.html#p-733",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Divergent boundaries: Convergent boundaries: Transform boundaries: mid-ocean ridge volcanic eruption "
 },
 {
-  "id": "p-726",
+  "id": "p-734",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-726",
+  "url": "sec_eleventh-tectmov.html#p-734",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3844,9 +3889,9 @@ var ptx_lunr_docs = [
   "body": " Plate collision   "
 },
 {
-  "id": "p-727",
+  "id": "p-735",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-727",
+  "url": "sec_eleventh-tectmov.html#p-735",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3859,7 +3904,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.5",
   "title": "Historical Geology",
-  "body": " Historical Geology    Fossils    Animal fossil     Plant fossil      Fossils preserved remains or traces of past organisms that can be used to study geological events on the earth. Radiometric dating method is used to determine the age of rocks, fossils, and other geological events. By using the radiometric dating geologists are able to determine the last 542 million years of Earth's history as the Phanerozoic eon, which is divided into three eras: the Paleozoic, the Mesozoic, and the Cenozoic.  The Cenozoic era is the most recent era of Earth's history, following the Mesozoic era and spanning from 66 million years ago to the present day. It is divided into three periods: the Paleogene, the Neogene, and the Quaternary. During the Cenozoic era, the Earth underwent significant changes, including the evolution of mammals and the emergence of modern humans. The Paleogene period saw the rise of mammals after the extinction of the dinosaurs, with many groups diversifying and evolving to occupy new ecological niches. The Neogene period saw the diversification of grasses and the evolution of many modern plant and animal groups. Finally, the Quaternary period saw the evolution of modern humans and the development of human societies.  The Mesozoic era is the era of geological time that spans from about 252 to 66 million years ago. It is also referred to as the Age of Reptiles because dinosaurs, pterosaurs, and marine reptiles dominated the planet during this time. The Mesozoic era is divided into three periods: the Triassic, Jurassic, and Cretaceous. During the Triassic period, life on land began to recover from the Permian-Triassic extinction event, which had wiped out about 96% of marine species and 70% of terrestrial vertebrate species. During the Jurassic period, dinosaurs became more dominant, and the first birds evolved. The Cretaceous period saw the evolution of many new types of dinosaurs, including the tyrannosaurs and the ceratopsians. The end of the Mesozoic era is marked by the Cretaceous-Paleogene extinction event, which wiped out the dinosaurs and many other species. This event has been dated to about 66 million years ago using radiometric dating, and it is thought to have been caused by a massive asteroid impact. The extinction of the dinosaurs paved the way for the evolution of mammals and ultimately led to the emergence of modern terrestrial ecosystems.  The Paleozoic era is a geological era that spanned from about 541 to 252 million years ago. It is the earliest era of the Phanerozoic eon, and it is divided into six periods: the Cambrian, Ordovician, Silurian, Devonian, Carboniferous, and Permian periods. The Paleozoic era is characterized by significant geological and biological changes, including the emergence of complex multicellular life, the development of hard shells and skeletons, and the evolution of early fish, plants, and insects. The Cambrian explosion, which occurred during the Cambrian period, marked a rapid diversification of animal life, including the first appearance of many modern phyla. During the Paleozoic era, Earth's continents were united in the supercontinent of Pangaea, which began to break up during the Mesozoic era. The Paleozoic era ended with the Permian extinction event, which wiped out about 95% of marine species and 70% of terrestrial species. The cause of this extinction event is still debated, but it is thought to have been caused by a combination of volcanic activity, climate change, and asteroid impacts.    An eon is a geological time unit that represents a span of billions of years. The history of the Earth is divided into four eons: the Hadean, Archean, Proterozoic, and Phanerozoic eons. The Hadean eon represents the earliest period of Earth's history, from the formation of the planet about 4.6 billion years ago to about 4 billion years ago. The Hadean eon is characterized by intense volcanic activity, meteorite impacts, and the formation of the Earth's atmosphere and oceans. The Archean eon follows the Hadean eon and spans from about 4 billion to 2.5 billion years ago. During the Archean eon, the first life forms evolved, including the earliest prokaryotic cells. The Proterozoic eon follows the Archean eon and spans from about 2.5 billion to 541 million years ago. During the Proterozoic eon, the first eukaryotic cells and multicellular organisms evolved, and oxygen levels in the atmosphere rose significantly. The Phanerozoic eon is the most recent eon and spans from about 541 million years ago to the present day. The Phanerozoic eon is divided into three eras: the Paleozoic, Mesozoic, and Cenozoic eras. During the Phanerozoic eon, complex life forms, such as fishes, amphibians, reptiles, mammals, and birds, evolved and diversified, and the Earth underwent significant geological changes, such as the formation and breakup of supercontinents.    Geological History     Geological Time   "
+  "body": " Historical Geology    Fossils    Animal fossil     Plant fossil      Fossils preserved remains or traces of past organisms that can be used to study geological events on the earth. Radiometric dating method is used to determine the age of rocks, fossils, and other geological events. By using the radiometric dating geologists are able to determine the last 542 million years of Earth's history as the Phanerozoic eon, which is divided into three eras: the Paleozoic, the Mesozoic, and the Cenozoic.  The Cenozoic era is the most recent era of Earth's history, following the Mesozoic era and spanning from 66 million years ago to the present day. It is divided into three periods: the Paleogene, the Neogene, and the Quaternary. During the Cenozoic era, the Earth underwent significant changes, including the evolution of mammals and the emergence of modern humans. The Paleogene period saw the rise of mammals after the extinction of the dinosaurs, with many groups diversifying and evolving to occupy new ecological niches. The Neogene period saw the diversification of grasses and the evolution of many modern plant and animal groups. Finally, the Quaternary period saw the evolution of modern humans and the development of human societies.  The Mesozoic era is the era of geological time that spans from about 252 to 66 million years ago. It is also referred to as the Age of Reptiles because dinosaurs, pterosaurs, and marine reptiles dominated the planet during this time. The Mesozoic era is divided into three periods: the Triassic, Jurassic, and Cretaceous. During the Triassic period, life on land began to recover from the Permian-Triassic extinction event, which had wiped out about 96% of marine species and 70% of terrestrial vertebrate species. During the Jurassic period, dinosaurs became more dominant, and the first birds evolved. The Cretaceous period saw the evolution of many new types of dinosaurs, including the tyrannosaurs and the ceratopsians. The end of the Mesozoic era is marked by the Cretaceous-Paleogene extinction event, which wiped out the dinosaurs and many other species. This event has been dated to about 66 million years ago using radiometric dating, and it is thought to have been caused by a massive asteroid impact. The extinction of the dinosaurs paved the way for the evolution of mammals and ultimately led to the emergence of modern terrestrial ecosystems.  The Paleozoic era is a geological era that spanned from about 541 to 252 million years ago. It is the earliest era of the Phanerozoic eon, and it is divided into six periods: the Cambrian, Ordovician, Silurian, Devonian, Carboniferous, and Permian periods. The Paleozoic era is characterized by significant geological and biological changes, including the emergence of complex multicellular life, the development of hard shells and skeletons, and the evolution of early fish, plants, and insects. The Cambrian explosion, which occurred during the Cambrian period, marked a rapid diversification of animal life, including the first appearance of many modern phyla. During the Paleozoic era, Earth's continents were united in the supercontinent of Pangaea, which began to break up during the Mesozoic era. The Paleozoic era ended with the Permian extinction event, which wiped out about 95% of marine species and 70% of terrestrial species. The cause of this extinction event is still debated, but it is thought to have been caused by a combination of volcanic activity, climate change, and asteroid impacts.    An eon is a geological time unit that represents a span of billions of years. The history of the Earth is divided into four eons: the Hadean, Archean, Proterozoic, and Phanerozoic eons. The Hadean eon represents the earliest period of Earth's history, from the formation of the planet about 4.6 billion years ago to about 4 billion years ago. The Hadean eon is characterized by intense volcanic activity, meteorite impacts, and the formation of the Earth's atmosphere and oceans. The Archean eon follows the Hadean eon and spans from about 4 billion to 2.5 billion years ago. During the Archean eon, the first life forms evolved, including the earliest prokaryotic cells. The Proterozoic eon follows the Archean eon and spans from about 2.5 billion to 541 million years ago. During the Proterozoic eon, the first eukaryotic cells and multicellular organisms evolved, and oxygen levels in the atmosphere rose significantly. The Phanerozoic eon is the most recent eon and spans from about 541 million years ago to the present day. The Phanerozoic eon is divided into three eras: the Paleozoic, Mesozoic, and Cenozoic eras. During the Phanerozoic eon, complex life forms, such as fishes, amphibians, reptiles, mammals, and birds, evolved and diversified, and the Earth underwent significant geological changes, such as the formation and breakup of supercontinents.   Precambrian time: The Precambrian is a geological eon that spans from about 4.6 billion years ago to approximately 541 million years ago, which is the beginning of the Phanerozoic eon. It is divided into three eras: the Hadean, the Archean, and the Proterozoic. During the Hadean era, the Earth was formed and underwent intense geological activity, including volcanic eruptions, meteorite impacts, and the formation of the oceans and atmosphere. The first life forms may have emerged during this time. The Archean era saw the emergence of the first prokaryotic cells, as well as the formation of the continents and the stabilization of the Earth's crust. Cyanobacteria, which are photosynthetic bacteria, also emerged during this era and started to produce oxygen, which changed the composition of the atmosphere. The Proterozoic era saw the emergence of eukaryotic cells, which have a nucleus and other organelles, as well as the evolution of multicellular organisms. This era also saw the development of complex ecosystems and the first appearance of animals.   Geological History      Human History   Human Evolutionary Tree    Human history is the study of the past experiences, actions, and achievements of human beings from ancient times to the present day. The Great Rift Valley has played a significant role in human history, as it is considered by many anthropologists and archaeologists to be the cradle of humanity. The region's abundant resources and diverse landscapes have attracted human settlements for hundreds of thousands of years, and it has been the site of numerous important archaeological discoveries. The earliest evidence of human ancestors in the Great Rift Valley dates back to about 6 million years ago, with the discovery of Sahelanthropus tchadensis fossils in Chad. However, the most significant discoveries in the region are associated with the emergence of the Homo genus, which includes modern humans. Hominins are a group of primates that includes humans and our closest extinct relatives. The term \"hominin\" is used to describe all species that belong to the human lineage since it split from the lineage that led to himpanzees and bonobos, our closest living relatives.   "
 },
 {
   "id": "figure-115",
@@ -3871,6 +3916,15 @@ var ptx_lunr_docs = [
   "body": " Fossils    Animal fossil     Plant fossil     "
 },
 {
+  "id": "p-738",
+  "level": "2",
+  "url": "sec_eleventh-histgeol.html#p-738",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Precambrian time: "
+},
+{
   "id": "fig-geologicaltime",
   "level": "2",
   "url": "sec_eleventh-histgeol.html#fig-geologicaltime",
@@ -3880,13 +3934,31 @@ var ptx_lunr_docs = [
   "body": " Geological History   "
 },
 {
+  "id": "fig-humhist",
+  "level": "2",
+  "url": "sec_eleventh-histgeol.html#fig-humhist",
+  "type": "Figure",
+  "number": "11.5.3",
+  "title": "",
+  "body": " Human Evolutionary Tree   "
+},
+{
+  "id": "p-739",
+  "level": "2",
+  "url": "sec_eleventh-histgeol.html#p-739",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Hominins "
+},
+{
   "id": "sec_eleventh-examples",
   "level": "1",
   "url": "sec_eleventh-examples.html",
   "type": "Section",
   "number": "11.6",
   "title": "Examples",
-  "body": " Examples    Which one of the following is the most abundant element in the earth's crust?  Nitrogen  Oxygen  Silican  Carbon      b.      Write any two differences between rocks and minerals.    A mineral is a naturally occurring inorganic solid substance with a specific chemical composition and a crystalline structure. Examples of minerals include quartz, feldspar, and mica. Minerals have specific physical and chemical properties, such as hardness, color, cleavage, and luster which distinguish it from rock.  A rock is a naturally occurring solid substance that is composed of one or more minerals, as well as other materials such as organic matter, volcanic glass, and mineraloids. Examples of rocks include granite, limestone, and sandstone. Rocks can be classified into three main types based on how they were formed: igneous, sedimentary, and metamorphic.      The tendency of splting of minerals along a particular plane is called  foliation  cleavage  gnesis  faulting      b.      What is quartz?  is a mineral composed of silicon dioxide.  is a mineral composed of calcium carbonate.  is fools' gold.  is a type of pyrite mineral.      a.      How are igneous rocks formed  by solidification of magma.  by cementation of sedimentary particles.  by transformation of other rocks due to heat and pressure.  by precipitaion from solution.      a.      What type of rock is a Coal  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      d.      What type of rock is a Marble  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      a.      Fossils are most likely to be found in  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      d.      The point where movement occurred which triggered the earthquake is the   epicenter.  focus.  strike.  dip.      b.      Which type of faulting would be least likely to occur along the mid-Atlantic ridge?  normal.  reverse or thrust.  transform.  all of these could occur.      b.      Which of the following could trigger a tsunami?  undersea earthquakes.  the eruption of an oceanic volcano.  undersea landslides.  all of these.      a.      Which of the following waves is the slowest?  P waves.  S waves.  Surface waves.  all of these.      a.    "
+  "body": " Examples    Which one of the following is the most abundant element in the earth's crust?  Nitrogen  Oxygen  Silican  Carbon      b.      Write any two differences between rocks and minerals.    A mineral is a naturally occurring inorganic solid substance with a specific chemical composition and a crystalline structure. Examples of minerals include quartz, feldspar, and mica. Minerals have specific physical and chemical properties, such as hardness, color, cleavage, and luster which distinguish it from rock.  A rock is a naturally occurring solid substance that is composed of one or more minerals, as well as other materials such as organic matter, volcanic glass, and mineraloids. Examples of rocks include granite, limestone, and sandstone. Rocks can be classified into three main types based on how they were formed: igneous, sedimentary, and metamorphic.      The tendency of splting of minerals along a particular plane is called  foliation  cleavage  gnesis  faulting      b.      What is quartz?  is a mineral composed of silicon dioxide.  is a mineral composed of calcium carbonate.  is fools' gold.  is a type of pyrite mineral.      a.      How are igneous rocks formed  by solidification of magma.  by cementation of sedimentary particles.  by transformation of other rocks due to heat and pressure.  by precipitaion from solution.      a.      What type of rock is a Coal  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      d.      What type of rock is a Marble  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      a.      Fossils are most likely to be found in  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      d.      The point where movement occurred which triggered the earthquake is the   epicenter.  focus.  strike.  dip.      b.      Which type of faulting would be least likely to occur along the mid-Atlantic ridge?  normal.  reverse or thrust.  transform.  all of these could occur.      b.      Which of the following could trigger a tsunami?  undersea earthquakes.  the eruption of an oceanic volcano.  undersea landslides.  all of these.      a.      Which of the following waves is the slowest?  P waves.  S waves.  Surface waves.  all of these.      a.      What is \"Pangea\"?  Supercontinent.  Ancient land.  Big earth.  All land.      d.      The Tethys Sea once existed between the continents of Gondwana and Laurasia during the Mesozoic era was surrounded by which of the following mountain ranges  The Alps.  The Himalayas.  The Pyrenees.  The Zagros Mountains.  All of the above.      e.      A crack on earth's crust along which movement is taken place is called  Fault.  Volcano.  Earthquake.  Tsunami.      a.      The separation of the ancient supercontinents Laurasia and Gondwana was primarily caused by  Plate tectonics.  Volcanic activity.  Climate change.  Asteroid impact.      a.      The ancient supercontinents Laurasia and Gondwana were separated by  Caribbean Sea.  Red Sea.  Tethys Sea.  Dead Sea.      c.      Compared to continents, the ocean floors are generally  younger and more geologically active.  older and more geologically stable.  composed of different types of rocks.  more densely populated with life forms.      a.      Compared to the crust under the ocean, the crust under continents is generally  thicker and less dense.  thinner and more dense.  younger and more geologically active.  older and more geologically stable.      a.    "
 },
 {
   "id": "example-130",
@@ -3997,67 +4069,148 @@ var ptx_lunr_docs = [
   "body": "  Which of the following waves is the slowest?  P waves.  S waves.  Surface waves.  all of these.      a.   "
 },
 {
+  "id": "example-142",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-142",
+  "type": "Example",
+  "number": "11.6.13",
+  "title": "",
+  "body": "  What is \"Pangea\"?  Supercontinent.  Ancient land.  Big earth.  All land.      d.   "
+},
+{
+  "id": "example-143",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-143",
+  "type": "Example",
+  "number": "11.6.14",
+  "title": "",
+  "body": "  The Tethys Sea once existed between the continents of Gondwana and Laurasia during the Mesozoic era was surrounded by which of the following mountain ranges  The Alps.  The Himalayas.  The Pyrenees.  The Zagros Mountains.  All of the above.      e.   "
+},
+{
+  "id": "example-144",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-144",
+  "type": "Example",
+  "number": "11.6.15",
+  "title": "",
+  "body": "  A crack on earth's crust along which movement is taken place is called  Fault.  Volcano.  Earthquake.  Tsunami.      a.   "
+},
+{
+  "id": "example-145",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-145",
+  "type": "Example",
+  "number": "11.6.16",
+  "title": "",
+  "body": "  The separation of the ancient supercontinents Laurasia and Gondwana was primarily caused by  Plate tectonics.  Volcanic activity.  Climate change.  Asteroid impact.      a.   "
+},
+{
+  "id": "example-146",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-146",
+  "type": "Example",
+  "number": "11.6.17",
+  "title": "",
+  "body": "  The ancient supercontinents Laurasia and Gondwana were separated by  Caribbean Sea.  Red Sea.  Tethys Sea.  Dead Sea.      c.   "
+},
+{
+  "id": "example-147",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-147",
+  "type": "Example",
+  "number": "11.6.18",
+  "title": "",
+  "body": "  Compared to continents, the ocean floors are generally  younger and more geologically active.  older and more geologically stable.  composed of different types of rocks.  more densely populated with life forms.      a.   "
+},
+{
+  "id": "example-148",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-148",
+  "type": "Example",
+  "number": "11.6.19",
+  "title": "",
+  "body": "  Compared to the crust under the ocean, the crust under continents is generally  thicker and less dense.  thinner and more dense.  younger and more geologically active.  older and more geologically stable.      a.   "
+},
+{
   "id": "ex_eleventh",
   "level": "1",
   "url": "ex_eleventh.html",
   "type": "Exercises",
   "number": "11.7",
   "title": "Exercises",
-  "body": "  Exercises   Body waves consist of the:  P waves only  S waves only.  P and S waves.  Surface waves.      Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.  A is 10 times more intense than B.  A is 1000 more intense than B.  B is 0.01X as intense than A.  Richter magnitude does not measure intensity.      Where is the focus with respect to the epicenter:  directly below the epicenter.  in the P wave shadow zone.  in the S wave shadow zone.  directly above the epicenter.      Which of the following could be the consequences of the underground earthquake?  cyclone.  tsunami.  a landslide.  none of the above.      Which of the following statements is false?  Most earthquakes occur at plate boundaries.  Most earthquakes can be predicted several days in advance.  Earthquakes can be caused by normal, reverse, and strike-slip faulting.  P waves travel faster than both S waves and Surface waves.      which one of the following is a volcanic rock?  granite.  basalt.  shale.  marble.     "
-},
-{
-  "id": "exercise-93",
-  "level": "2",
-  "url": "ex_eleventh.html#exercise-93",
-  "type": "Exercise",
-  "number": "11.7.1",
-  "title": "",
-  "body": " Body waves consist of the:  P waves only  S waves only.  P and S waves.  Surface waves.    "
-},
-{
-  "id": "exercise-94",
-  "level": "2",
-  "url": "ex_eleventh.html#exercise-94",
-  "type": "Exercise",
-  "number": "11.7.2",
-  "title": "",
-  "body": " Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.  A is 10 times more intense than B.  A is 1000 more intense than B.  B is 0.01X as intense than A.  Richter magnitude does not measure intensity.    "
-},
-{
-  "id": "exercise-95",
-  "level": "2",
-  "url": "ex_eleventh.html#exercise-95",
-  "type": "Exercise",
-  "number": "11.7.3",
-  "title": "",
-  "body": " Where is the focus with respect to the epicenter:  directly below the epicenter.  in the P wave shadow zone.  in the S wave shadow zone.  directly above the epicenter.    "
-},
-{
-  "id": "exercise-96",
-  "level": "2",
-  "url": "ex_eleventh.html#exercise-96",
-  "type": "Exercise",
-  "number": "11.7.4",
-  "title": "",
-  "body": " Which of the following could be the consequences of the underground earthquake?  cyclone.  tsunami.  a landslide.  none of the above.    "
+  "body": "  Exercises   Body waves consist of the:  P waves only  S waves only.  P and S waves.  Surface waves.      Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.  A is 10 times more intense than B.  A is 1000 more intense than B.  B is 0.01X as intense than A.  Richter magnitude does not measure intensity.      Where is the focus with respect to the epicenter:  directly below the epicenter.  in the P wave shadow zone.  in the S wave shadow zone.  directly above the epicenter.      Which of the following could be the consequences of the underground earthquake?  cyclone.  tsunami.  a landslide.  none of the above.      Which of the following statements is false?  Most earthquakes occur at plate boundaries.  Most earthquakes can be predicted several days in advance.  Earthquakes can be caused by normal, reverse, and strike-slip faulting.  P waves travel faster than both S waves and Surface waves.      which one of the following is a volcanic rock?  granite.  basalt.  shale.  marble.      A region where the edge of one lithospheric plate slides under the edge of another plate is  Transform fault.  Divergent boundary.  Convergent boundary.  Subduction zone.     d.    Most volcanoes are found along  Divergent boundaries.  Transform faults.  Convergent boundaries.  Hotspots.     c.   "
 },
 {
   "id": "exercise-97",
   "level": "2",
   "url": "ex_eleventh.html#exercise-97",
   "type": "Exercise",
-  "number": "11.7.5",
+  "number": "11.7.1",
   "title": "",
-  "body": " Which of the following statements is false?  Most earthquakes occur at plate boundaries.  Most earthquakes can be predicted several days in advance.  Earthquakes can be caused by normal, reverse, and strike-slip faulting.  P waves travel faster than both S waves and Surface waves.    "
+  "body": " Body waves consist of the:  P waves only  S waves only.  P and S waves.  Surface waves.    "
 },
 {
   "id": "exercise-98",
   "level": "2",
   "url": "ex_eleventh.html#exercise-98",
   "type": "Exercise",
+  "number": "11.7.2",
+  "title": "",
+  "body": " Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.  A is 10 times more intense than B.  A is 1000 more intense than B.  B is 0.01X as intense than A.  Richter magnitude does not measure intensity.    "
+},
+{
+  "id": "exercise-99",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-99",
+  "type": "Exercise",
+  "number": "11.7.3",
+  "title": "",
+  "body": " Where is the focus with respect to the epicenter:  directly below the epicenter.  in the P wave shadow zone.  in the S wave shadow zone.  directly above the epicenter.    "
+},
+{
+  "id": "exercise-100",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-100",
+  "type": "Exercise",
+  "number": "11.7.4",
+  "title": "",
+  "body": " Which of the following could be the consequences of the underground earthquake?  cyclone.  tsunami.  a landslide.  none of the above.    "
+},
+{
+  "id": "exercise-101",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-101",
+  "type": "Exercise",
+  "number": "11.7.5",
+  "title": "",
+  "body": " Which of the following statements is false?  Most earthquakes occur at plate boundaries.  Most earthquakes can be predicted several days in advance.  Earthquakes can be caused by normal, reverse, and strike-slip faulting.  P waves travel faster than both S waves and Surface waves.    "
+},
+{
+  "id": "exercise-102",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-102",
+  "type": "Exercise",
   "number": "11.7.6",
   "title": "",
   "body": " which one of the following is a volcanic rock?  granite.  basalt.  shale.  marble.    "
+},
+{
+  "id": "exercise-103",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-103",
+  "type": "Exercise",
+  "number": "11.7.7",
+  "title": "",
+  "body": " A region where the edge of one lithospheric plate slides under the edge of another plate is  Transform fault.  Divergent boundary.  Convergent boundary.  Subduction zone.     d.  "
+},
+{
+  "id": "exercise-104",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-104",
+  "type": "Exercise",
+  "number": "11.7.8",
+  "title": "",
+  "body": " Most volcanoes are found along  Divergent boundaries.  Transform faults.  Convergent boundaries.  Hotspots.     c.  "
 },
 {
   "id": "ch_twelvth",
@@ -4066,16 +4219,16 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "12",
   "title": "The Solar System",
-  "body": " The Solar System   Our solar system      Solar System Animation    "
+  "body": " The Solar System      Our solar system     Oort's Cloud        Solar System Animation    "
 },
 {
-  "id": "fig-solarsystem",
+  "id": "figure-120",
   "level": "2",
-  "url": "ch_twelvth.html#fig-solarsystem",
+  "url": "ch_twelvth.html#figure-120",
   "type": "Figure",
   "number": "12.0.1",
   "title": "",
-  "body": " Our solar system   "
+  "body": "    Our solar system     Oort's Cloud     "
 },
 {
   "id": "ch_thirteenth",
@@ -4114,18 +4267,18 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-142",
+  "id": "example-149",
   "level": "2",
-  "url": "sec_features-blocks.html#example-142",
+  "url": "sec_features-blocks.html#example-149",
   "type": "Example",
   "number": "15.1.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-120",
+  "id": "figure-123",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-120",
+  "url": "sec_features-blocks.html#figure-123",
   "type": "Figure",
   "number": "15.1.3",
   "title": "",
