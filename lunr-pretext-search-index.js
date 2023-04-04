@@ -4303,6 +4303,69 @@ var ptx_lunr_docs = [
   "body": " Mammals became dominant in which era?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.    "
 },
 {
+  "id": "subsec-debribelts",
+  "level": "1",
+  "url": "subsec-debribelts.html",
+  "type": "Subsection",
+  "number": "12.1",
+  "title": "Debri Belts",
+  "body": " Debri Belts  Asteroids are small, rocky objects that orbit the sun. There are millions of asteroids in our solar system, ranging in size from tiny pebbles to massive rocks several hundred kilometers across. Most asteroids are found in the asteroid belt , [ ] a region of space between Mars and Jupiter. Asteroids are thought to be remnants from the early solar system, left over from the formation of the planets. Studying asteroids can give us insights into the formation and evolution of the solar system, as well as provide clues about the potential hazards that these objects pose to our planet. Meteoroids can come from various sources, including the asteroid belt. Small rocky objects in asteroids belt sometimes collide with each other and create meteoroids. However, meteoroids can also come from other sources, such as comets or other objects in space. Once a meteoroid enters the Earth's atmosphere, it is called a meteor or shooting star.  A meteor shower occurs when the Earth passes through a trail of debris left behind by a comet or asteroid. As the Earth moves through this debris field, the small particles, called meteoroids, enter the Earth's atmosphere at high speeds and burn up, creating streaks of light in the sky that we call meteors or shooting stars . Meteor showers can occur at various times throughout the year, and they are often named after the constellation that appears to be the source of the meteors (the radiant). Some of the most well-known meteor showers include the Perseids (in August), the Leonids (in November), and the Geminids (in December).  The Kuiper Belt [ ] is a region of the solar system located beyond the orbit of Neptune, extending from about 30 to 50 astronomical units (AU) from the Sun. It is a vast region of space containing many small icy objects, including dwarf planets such as Pluto, Haumea, Makemake, and Eris, as well as numerous smaller bodies known as Kuiper Belt Objects (KBOs). The Kuiper Belt is thought to be the source of many short-period comets, which are believed to be icy bodies that originate from this region and are gravitationally perturbed by the gas giants, particularly Jupiter.  The Oort Cloud [ ] is a theoretical region of the outer solar system that is thought to be the source of most long-period comets. It is believed to extend from about 2,000 to 100,000 astronomical units (AU) from the Sun, which is well beyond the Kuiper Belt. The Oort Cloud is composed of icy objects, including comets, that are thought to have formed in the early solar system and were gravitationally scattered to the outer reaches of the solar system by the gas giants. The comets in the Oort Cloud can be perturbed by passing stars, which can send them on trajectories that bring them into the inner solar system, where they become visible as long-period comets. The Oort Cloud is named after Dutch astronomer Jan Oort, who first proposed its existence in 1950 based on observations of comets.      Hale-Bopp comet     Comet's orbit       Comets are celestial bodies that orbit the sun and are primarily composed of ice, dust, and rock [ ]. They are often referred to as \"dirty snowballs\" because of their composition. When a comet approaches the sun, its ice begins to vaporize, releasing gas and dust that form a glowing coma, a temporary atmosphere around the nucleus. The solar wind and radiation pressure from the sun cause the coma to form a tail that points away from the sun. Comets can have highly elliptical orbits [ ] that take them far from the sun and then back towards it, sometimes taking thousands of years to complete a single orbit. Many comets are believed to originate in the Kuiper Belt, a region beyond Neptune that contains icy bodies and small planets. Some comets have been known to collide with planets or moons, and these collisions can have significant impacts on the celestial body's surface. Comets have fascinated people for centuries and have been the subject of many myths and legends. They have also been studied extensively by astronomers, who use them as a tool to study the formation and evolution of the solar system.  "
+},
+{
+  "id": "p-807",
+  "level": "2",
+  "url": "subsec-debribelts.html#p-807",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "asteroid belt Meteoroids "
+},
+{
+  "id": "p-808",
+  "level": "2",
+  "url": "subsec-debribelts.html#p-808",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "meteor shower meteors or shooting stars "
+},
+{
+  "id": "p-809",
+  "level": "2",
+  "url": "subsec-debribelts.html#p-809",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Kuiper Belt dwarf planets Pluto, "
+},
+{
+  "id": "p-810",
+  "level": "2",
+  "url": "subsec-debribelts.html#p-810",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Oort Cloud "
+},
+{
+  "id": "figure-124",
+  "level": "2",
+  "url": "subsec-debribelts.html#figure-124",
+  "type": "Figure",
+  "number": "12.1.3",
+  "title": "",
+  "body": "    Hale-Bopp comet     Comet's orbit     "
+},
+{
+  "id": "p-811",
+  "level": "2",
+  "url": "subsec-debribelts.html#p-811",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Comets "
+},
+{
   "id": "sec_twelvth-intro",
   "level": "1",
   "url": "sec_twelvth-intro.html",
@@ -4321,40 +4384,22 @@ var ptx_lunr_docs = [
   "body": " The Planets of Our Solar System                                                        "
 },
 {
-  "id": "p-811",
+  "id": "p-813",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-811",
+  "url": "sec_twelvth-intro.html#p-813",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Mercury Mariner 10 Messenger "
 },
 {
-  "id": "p-816",
+  "id": "p-818",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-816",
+  "url": "sec_twelvth-intro.html#p-818",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Red Planet "
-},
-{
-  "id": "p-819",
-  "level": "2",
-  "url": "sec_twelvth-intro.html#p-819",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Phobos and Deimos "
-},
-{
-  "id": "p-820",
-  "level": "2",
-  "url": "sec_twelvth-intro.html#p-820",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "red spot "
 },
 {
   "id": "p-821",
@@ -4363,7 +4408,16 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Europa "
+  "body": "Phobos and Deimos "
+},
+{
+  "id": "p-822",
+  "level": "2",
+  "url": "sec_twelvth-intro.html#p-822",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "red spot "
 },
 {
   "id": "p-823",
@@ -4372,21 +4426,30 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "Europa "
+},
+{
+  "id": "p-825",
+  "level": "2",
+  "url": "sec_twelvth-intro.html#p-825",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "Titan "
 },
 {
-  "id": "p-824",
+  "id": "p-826",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-824",
+  "url": "sec_twelvth-intro.html#p-826",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Miranda "
 },
 {
-  "id": "p-825",
+  "id": "p-827",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-825",
+  "url": "sec_twelvth-intro.html#p-827",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4399,7 +4462,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "12.2",
   "title": "The Moon",
-  "body": " The Moon    Our Moon    The Moon     Phases of the Moon      The Moon [ ] is Earth's only natural satellite and the fifth largest moon in the solar system. It is approximately 238,855 miles (384,400 kilometers) away from Earth and has a diameter of 2,159 miles (3,474 kilometers). The Moon is thought to have formed about 4.5 billion years ago, shortly after the formation of the solar system, when a Mars-sized object collided with Earth. The Moon's surface is covered in craters, mountains, valleys, and vast plains called maria, which were formed by ancient volcanic activity. The Moon has a very thin atmosphere, known as an exosphere, and no active geological processes. The temperature on the Moon can vary greatly, with daytime temperatures reaching 253 degrees Fahrenheit (123 degrees Celsius) and nighttime temperatures dropping to -387 degrees Fahrenheit (-233 degrees Celsius). The Moon has been the subject of scientific study for centuries and has been visited by astronauts from several countries. The first human landing on the Moon was accomplished by NASA's Apollo 11 mission in 1969, and a total of twelve astronauts have walked on its surface between 1969 and 1972.   Lunar Layers: The outermost layer of the Moon is composed of a layer of rock called the regolith. The regolith is made up of small rock fragments and dust that have been broken down over time by the impact of meteoroids and the bombardment of charged particles from the Sun. Beneath the regolith, the Moon is composed of several distinct layers. The outermost layer is the crust, which is about 30-40 km thick and is composed of a mixture of rocks, including basalt and anorthosite. Beneath the crust is the mantle, which extends to a depth of about 1,000 km. The mantle is composed of denser rocks than the crust and contains a small amount of partially molten material. Finally, at the center of the Moon is a metallic core, which is thought to be about 800 km in diameter. The composition and structure of the Moon's interior have been studied through a variety of methods, including seismic measurements from Apollo missions, observations of the Moon's gravity field, and computer simulations. These studies have helped to refine our understanding of the Moon's formation and evolution, as well as its potential for future scientific exploration and resource utilization.  The Moon does not have a significant atmosphere like Earth's, but it does have a very thin and tenuous exosphere. The exosphere is a layer of gas that is so sparse that its particles rarely collide with each other. It is made up mostly of particles that have been ejected from the Moon's surface by impacts from solar wind and micrometeoroids. The exosphere is composed mainly of helium-4, neon, and argon, which are the lightest and most volatile elements found in the solar system. There are also trace amounts of other gases, such as hydrogen, helium-3, and methane. The total mass of the exosphere is only about 10 metric tons, which is less than a billionth of the mass of Earth's atmosphere. The lack of a significant atmosphere on the Moon means that there is no weather, no wind, and no erosion by air or water. However, the exosphere does have some important effects on the Moon's surface, such as influencing the behavior of charged particles from the solar wind and affecting the distribution of dust and other materials on the surface. The exosphere also presents some challenges for future human exploration and settlement of the Moon, as it can be difficult to manage and may pose health risks to astronauts.  The lunar landscape is characterized by a vast expanse of barren, rocky terrain. The Moon's surface is covered in a layer of loose, powdery soil called regolith, which is composed of small rock fragments and dust that have been ground down by the impact of meteoroids over millions of years. The lunar landscape is marked by numerous impact craters , which range in size from small bowl-shaped depressions to vast circular basins hundreds of kilometers across. These craters were formed by the impact of meteoroids and other objects over billions of years, and their shapes and sizes provide important clues about the history and evolution of the Moon. In addition to craters, the lunar landscape also features several other prominent surface features. These include mountains , such as the towering peaks of the Montes Apenninus and the Taurus-Littrow Valley, as well as vast plains, such as the dark and flat lava plains known as mare (singular: \"maria\"). The Moon's lack of atmosphere and weather means that its landscape has remained largely unchanged for billions of years, making it a valuable natural laboratory for studying the geology and evolution of planetary bodies. The Moon's unique features and scientific potential have also made it a target for future exploration and potential resource utilization.    The phases of the moon  The phases of the moon [ ] refer to the appearance of the illuminated portion of the moon as seen from Earth as it orbits around our planet. The moon goes through a cycle of eight distinct phases:   New Moon: The moon is not visible from Earth because it is positioned between the sun and Earth.   Waxing Crescent: A small crescent of the moon is visible, with the illuminated portion increasing each night.   First Quarter: Half of the moon is visible, with the illuminated portion continuing to increase.   Waxing Gibbous: More than half, but not yet fully, of the moon is visible, with the illuminated portion still increasing.   Full Moon: The entire illuminated portion of the moon is visible from Earth.   Waning Gibbous: More than half, but not yet fully, of the moon is visible, with the illuminated portion decreasing each night.   Third Quarter: Half of the moon is visible, with the illuminated portion continuing to decrease.   Waning Crescent: A small crescent of the moon is visible, with the illuminated portion decreasing each night until the cycle begins again with the new moon.  The rotation period of the Moon is approximately 27.3 days to complete one rotation on its axis. This is the same amount of time that it takes for the Moon to orbit around the Earth. As a result, the same side of the Moon always faces the Earth, a phenomenon known as \"tidal locking.\" While the moon orbits a complete circle around the earth, the earth itself rotates around the sun. As a result, it seems to us that moon is taking about 29.53 days to orbit around the earth. This 29.53 days is called lunar month. A lunar month is the time it takes for the Moon to complete one cycle of phases, from New Moon to New Moon. It's worth noting that this period of 29.53 days is different from the Moon's orbital period around the Earth, which is approximately 27.3 days. The difference between these two periods is due to the fact that the Earth is also orbiting around the Sun, so the Moon has to travel slightly farther to complete a full cycle of phases as seen from Earth Moon phase animation .    Eclipse  An eclipse occurs when an astronomical object is temporarily obscured, either partially or completely, by another object [ The Lunar and Solar Eclipses ]. The two main types of eclipses are solar eclipses and lunar eclipses. A solar eclipse occurs when the Moon passes between the Sun and the Earth, blocking the Sun's light and creating a shadow on the Earth. There are three types of solar eclipses: total, partial, and annular. During a total solar eclipse , the Moon completely covers the Sun, leaving only its corona visible. During a partial solar eclipse, only a portion of the Sun is covered by the Moon. During an annular solar eclipse, the Moon is too far away from the Earth to completely cover the Sun, creating a \"ring of fire\" effect. A lunar eclipse occurs when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. There are two types of lunar eclipses: total and partial. During a total lunar eclipse, the Moon is completely covered by the Earth's shadow, creating a reddish hue. During a partial lunar eclipse, only a portion of the Moon is covered by the Earth's shadow. Eclipses are relatively rare events that require specific alignment of the Sun, Moon, and Earth. While there are several eclipses each year, they are typically only visible from specific regions of the Earth and require clear skies and proper viewing conditions to be seen.  During a New Moon, the Moon is located between the Earth and the Sun, and the side of the Moon that faces Earth is not illuminated by the Sun, making it invisible from Earth. When the Moon passes directly in front of the Sun during a New Moon, a solar eclipse can occur, temporarily blocking out the Sun's light and casting a shadow on the Earth. On the other hand, a full moon occurs when the Earth is located between the Sun and the Moon, with the illuminated side of the Moon facing Earth. It's worth noting that a lunar eclipse can only occur during a Full Moon phase, when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. During a lunar eclipse, the Moon may appear reddish in color due to the Earth's atmosphere refracting sunlight onto the Moon's surface.    Origin of the Moon  The origin of the Moon is a topic of much scientific debate and research, but the most widely accepted theory is that it was formed as a result of a giant impact between Earth and a Mars-sized object called Theia, early in the history of the solar system, about 4.5 billion years ago. According to this theory, the impact would have melted both the Earth and Theia, and a large amount of debris would have been ejected into space. This debris eventually coalesced to form the Moon. The evidence for this theory comes from the fact that the Moon's composition is very similar to that of Earth's mantle, suggesting that it was formed from material that originated from Earth. Another piece of evidence for the giant impact theory is that the Moon has a lower density than Earth, which suggests that it is composed of lighter materials. The impact would have caused a lot of the heavier materials to sink into the Earth, leaving behind a lighter mixture of materials that eventually formed the Moon. While the giant impact theory is currently the most widely accepted explanation for the origin of the Moon, there are other competing theories that propose different mechanisms for the Moon's formation. These include ideas such as the capture of a passing object by Earth's gravity, or the fission of a rapidly spinning Earth. However, these theories are generally considered to be less likely than the giant impact theory.   "
+  "body": " The Moon    Our Moon    The Moon     Phases of the Moon      The Moon [ ] is Earth's only natural satellite and the fifth largest moon in the solar system. It is approximately 238,855 miles (384,400 kilometers) away from Earth and has a diameter of 2,159 miles (3,474 kilometers). The Moon is thought to have formed about 4.5 billion years ago, shortly after the formation of the solar system, when a Mars-sized object collided with Earth. The Moon's surface is covered in craters, mountains, valleys, and vast plains called maria, which were formed by ancient volcanic activity. The Moon has a very thin atmosphere, known as an exosphere, and no active geological processes. The temperature on the Moon can vary greatly, with daytime temperatures reaching 253 degrees Fahrenheit (123 degrees Celsius) and nighttime temperatures dropping to -387 degrees Fahrenheit (-233 degrees Celsius). The Moon has been the subject of scientific study for centuries and has been visited by astronauts from several countries. The first human landing on the Moon was accomplished by NASA's Apollo 11 mission in 1969, and a total of twelve astronauts have walked on its surface between 1969 and 1972.   Lunar Layers: The outermost layer of the Moon is composed of a layer of rock called the regolith. The regolith is made up of small rock fragments and dust that have been broken down over time by the impact of meteoroids and the bombardment of charged particles from the Sun. Beneath the regolith, the Moon is composed of several distinct layers. The outermost layer is the crust, which is about 30-40 km thick and is composed of a mixture of rocks, including basalt and anorthosite. Beneath the crust is the mantle, which extends to a depth of about 1,000 km. The mantle is composed of denser rocks than the crust and contains a small amount of partially molten material. Finally, at the center of the Moon is a metallic core, which is thought to be about 800 km in diameter. The composition and structure of the Moon's interior have been studied through a variety of methods, including seismic measurements from Apollo missions, observations of the Moon's gravity field, and computer simulations. These studies have helped to refine our understanding of the Moon's formation and evolution, as well as its potential for future scientific exploration and resource utilization.  The Moon does not have a significant atmosphere like Earth's, but it does have a very thin and tenuous exosphere. The exosphere is a layer of gas that is so sparse that its particles rarely collide with each other. It is made up mostly of particles that have been ejected from the Moon's surface by impacts from solar wind and micrometeoroids. The exosphere is composed mainly of helium-4, neon, and argon, which are the lightest and most volatile elements found in the solar system. There are also trace amounts of other gases, such as hydrogen, helium-3, and methane. The total mass of the exosphere is only about 10 metric tons, which is less than a billionth of the mass of Earth's atmosphere. The lack of a significant atmosphere on the Moon means that there is no weather, no wind, and no erosion by air or water. However, the exosphere does have some important effects on the Moon's surface, such as influencing the behavior of charged particles from the solar wind and affecting the distribution of dust and other materials on the surface. The exosphere also presents some challenges for future human exploration and settlement of the Moon, as it can be difficult to manage and may pose health risks to astronauts.  The lunar landscape is characterized by a vast expanse of barren, rocky terrain. The Moon's surface is covered in a layer of loose, powdery soil called regolith, which is composed of small rock fragments and dust that have been ground down by the impact of meteoroids over millions of years. The lunar landscape is marked by numerous impact craters , which range in size from small bowl-shaped depressions to vast circular basins hundreds of kilometers across. These craters were formed by the impact of meteoroids and other objects over billions of years, and their shapes and sizes provide important clues about the history and evolution of the Moon. In addition to craters, the lunar landscape also features several other prominent surface features. These include mountains , such as the towering peaks of the Montes Apenninus and the Taurus-Littrow Valley, as well as vast plains, such as the dark and flat lava plains known as mare (singular: \"maria\"). The Moon's lack of atmosphere and weather means that its landscape has remained largely unchanged for billions of years, making it a valuable natural laboratory for studying the geology and evolution of planetary bodies. The Moon's unique features and scientific potential have also made it a target for future exploration and potential resource utilization.    The phases of the moon  The phases of the moon [ ] refer to the appearance of the illuminated portion of the moon as seen from Earth as it orbits around our planet. The moon goes through a cycle of eight distinct phases:   New Moon: The moon is not visible from Earth because it is positioned between the sun and Earth.   Waxing Crescent: A small crescent of the moon is visible, with the illuminated portion increasing each night.   First Quarter: Half of the moon is visible, with the illuminated portion continuing to increase.   Waxing Gibbous: More than half, but not yet fully, of the moon is visible, with the illuminated portion still increasing.   Full Moon: The entire illuminated portion of the moon is visible from Earth.   Waning Gibbous: More than half, but not yet fully, of the moon is visible, with the illuminated portion decreasing each night.   Third Quarter: Half of the moon is visible, with the illuminated portion continuing to decrease.   Waning Crescent: A small crescent of the moon is visible, with the illuminated portion decreasing each night until the cycle begins again with the new moon.  The rotation period of the Moon is approximately 27.3 days to complete one rotation on its axis. This time is also known as sidereal month. A sidereal month is the time it takes for the Moon to complete one orbit around the Earth as measured against the fixed background of stars. This is slightly shorter than the time it takes for the Moon to return to the same phase (such as full moon to full moon) as observed from Earth, which is known as the synodic month . This is the same amount of time that the Moon takes to orbit around the Earth as seen from the moon. As a result, the same side of the Moon always faces the Earth, a phenomenon known as \"tidal locking.\" While the moon orbits a complete circle around the earth, the earth itself rotates around the sun. As a result, it seems to us that moon is taking about 29.53 days to orbit around the earth. This 29.53 days is called lunar month. A lunar month is the time it takes for the Moon to complete one cycle of phases, from New Moon to New Moon. It's worth noting that this period of 29.53 days is different from the Moon's orbital period around the Earth, which is approximately 27.3 days. The difference between these two periods is due to the fact that the Earth is also orbiting around the Sun, so the Moon has to travel slightly farther to complete a full cycle of phases as seen from Earth Moon phase animation .    Eclipse  An eclipse occurs when an astronomical object is temporarily obscured, either partially or completely, by another object [ The Lunar and Solar Eclipses ]. The two main types of eclipses are solar eclipses and lunar eclipses. A solar eclipse occurs when the Moon passes between the Sun and the Earth, blocking the Sun's light and creating a shadow on the Earth. There are three types of solar eclipses: total, partial, and annular. During a total solar eclipse , the Moon completely covers the Sun, leaving only its corona visible. During a partial solar eclipse, only a portion of the Sun is covered by the Moon. During an annular solar eclipse, the Moon is too far away from the Earth to completely cover the Sun, creating a \"ring of fire\" effect. A lunar eclipse occurs when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. There are two types of lunar eclipses: total and partial. During a total lunar eclipse, the Moon is completely covered by the Earth's shadow, creating a reddish hue. During a partial lunar eclipse, only a portion of the Moon is covered by the Earth's shadow. Eclipses are relatively rare events that require specific alignment of the Sun, Moon, and Earth. While there are several eclipses each year, they are typically only visible from specific regions of the Earth and require clear skies and proper viewing conditions to be seen.  During a New Moon , the Moon is located between the Earth and the Sun , and the side of the Moon that faces Earth is not illuminated by the Sun, making it invisible from Earth. When the Moon passes directly in front of the Sun during a New Moon, a solar eclipse can occur, temporarily blocking out the Sun's light and casting a shadow on the Earth. On the other hand, a full moon occurs when the Earth is located between the Sun and the Moon , with the illuminated side of the Moon facing Earth. It's worth noting that a lunar eclipse can only occur during a Full Moon phase, when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. During a lunar eclipse, the Moon may appear reddish in color due to the Earth's atmosphere refracting sunlight onto the Moon's surface.    Origin of the Moon   Origin of the Moon    The most widely accepted theory is that moon was formed as a result of a giant impact between Earth and a Mars-sized object called Theia , early in the history of the solar system, about 4.5 billion years ago. According to this theory, the impact would have melted both the Earth and Theia, and a large amount of debris would have been ejected into space. This debris eventually coalesced to form the Moon. The evidence for this theory comes from the fact that the Moon's composition is very similar to that of Earth's mantle, suggesting that it was formed from material that originated from Earth. Another piece of evidence for the giant impact theory is that the Moon has a lower density than Earth, which suggests that it is composed of lighter materials. The impact would have caused a lot of the heavier materials to sink into the Earth, leaving behind a lighter mixture of materials that eventually formed the Moon. While the giant impact theory is currently the most widely accepted explanation for the origin of the Moon, there are other competing theories that propose different mechanisms for the Moon's formation. These include ideas such as the capture of a passing object by Earth's gravity, or the fission of a rapidly spinning Earth. However, these theories are generally considered to be less likely than the giant impact theory.   "
 },
 {
   "id": "figure-135",
@@ -4411,31 +4474,13 @@ var ptx_lunr_docs = [
   "body": " Our Moon    The Moon     Phases of the Moon     "
 },
 {
-  "id": "p-827",
-  "level": "2",
-  "url": "sec_twelvth-moon.html#p-827",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Lunar Layers: "
-},
-{
-  "id": "p-828",
-  "level": "2",
-  "url": "sec_twelvth-moon.html#p-828",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "atmosphere "
-},
-{
   "id": "p-829",
   "level": "2",
   "url": "sec_twelvth-moon.html#p-829",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "lunar landscape craters mountains "
+  "body": "Lunar Layers: "
 },
 {
   "id": "p-830",
@@ -4444,7 +4489,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "New Moon: Waxing Crescent: First Quarter: Waxing Gibbous: Full Moon: Waning Gibbous: Third Quarter: Waning Crescent: "
+  "body": "atmosphere "
 },
 {
   "id": "p-831",
@@ -4453,7 +4498,43 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "lunar landscape craters mountains "
+},
+{
+  "id": "p-832",
+  "level": "2",
+  "url": "sec_twelvth-moon.html#p-832",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "New Moon: Waxing Crescent: First Quarter: Waxing Gibbous: Full Moon: Waning Gibbous: Third Quarter: Waning Crescent: sidereal month synodic month "
+},
+{
+  "id": "p-833",
+  "level": "2",
+  "url": "sec_twelvth-moon.html#p-833",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "solar eclipse lunar eclipse "
+},
+{
+  "id": "p-834",
+  "level": "2",
+  "url": "sec_twelvth-moon.html#p-834",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "New Moon Earth and the Sun full moon Sun and the Moon "
+},
+{
+  "id": "fig-moonform",
+  "level": "2",
+  "url": "sec_twelvth-moon.html#fig-moonform",
+  "type": "Figure",
+  "number": "12.2.2",
+  "title": "",
+  "body": " Origin of the Moon   "
 },
 {
   "id": "sec_twelvth-examples",
@@ -4462,7 +4543,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "12.3",
   "title": "Examples",
-  "body": " Examples            "
+  "body": " Examples    What is a comet?  A type of asteroid  A small, icy celestial body  A planet in our solar systemd  A star with a tail      b.      What is the difference between a comet and an asteroid?  Comets are larger than asteroids  Comets are made of rock and metal, while asteroids are made of ice and dust  Comets have a tail, while asteroids do not  Comets orbit the sun, while asteroids orbit other planets      c.      What is a comet's tail made of?  Gas and dust  Ice and rock  Iron and nickel  Water and oils      a.      What causes a comet's tail to form?  Solar wind pushing gas and dust away from the nucleus  Collision with other celestial bodies  Nuclear fission within the nucleus  The gravitational pull of nearby planets      a.      What is a shooting star?  A star that is falling to Earth  A type of comet  A meteor burning up in Earth's atmosphere  A distant galaxy      c.      At which time in a year a meteor showers occurs  at the same time each year  At various time throughout the year  whenever solar eclipses happen  whenever lunar eclipses happen      b.      Which planet has the most known moons?  Earth  Mars  Jupiter  Uranus        What is the largest planet in our solar system?  Earth  Saturn  Jupiter  Neptune      c.      Which planet looks nearly to the moon?  Jupiter  Mercury  Venus  Saturn      c.      What is a solar eclipse?  When the Moon passes between the Earth and the Sun  When the Earth passes between the Sun and the Moon  When the Moon passes through the Earth's shadow  When the Earth passes through the Moon's shadow      a.    "
 },
 {
   "id": "example-151",
@@ -4471,25 +4552,187 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "12.3.1",
   "title": "",
-  "body": "         "
+  "body": "  What is a comet?  A type of asteroid  A small, icy celestial body  A planet in our solar systemd  A star with a tail      b.   "
+},
+{
+  "id": "example-152",
+  "level": "2",
+  "url": "sec_twelvth-examples.html#example-152",
+  "type": "Example",
+  "number": "12.3.2",
+  "title": "",
+  "body": "  What is the difference between a comet and an asteroid?  Comets are larger than asteroids  Comets are made of rock and metal, while asteroids are made of ice and dust  Comets have a tail, while asteroids do not  Comets orbit the sun, while asteroids orbit other planets      c.   "
+},
+{
+  "id": "example-153",
+  "level": "2",
+  "url": "sec_twelvth-examples.html#example-153",
+  "type": "Example",
+  "number": "12.3.3",
+  "title": "",
+  "body": "  What is a comet's tail made of?  Gas and dust  Ice and rock  Iron and nickel  Water and oils      a.   "
+},
+{
+  "id": "example-154",
+  "level": "2",
+  "url": "sec_twelvth-examples.html#example-154",
+  "type": "Example",
+  "number": "12.3.4",
+  "title": "",
+  "body": "  What causes a comet's tail to form?  Solar wind pushing gas and dust away from the nucleus  Collision with other celestial bodies  Nuclear fission within the nucleus  The gravitational pull of nearby planets      a.   "
+},
+{
+  "id": "example-155",
+  "level": "2",
+  "url": "sec_twelvth-examples.html#example-155",
+  "type": "Example",
+  "number": "12.3.5",
+  "title": "",
+  "body": "  What is a shooting star?  A star that is falling to Earth  A type of comet  A meteor burning up in Earth's atmosphere  A distant galaxy      c.   "
+},
+{
+  "id": "example-156",
+  "level": "2",
+  "url": "sec_twelvth-examples.html#example-156",
+  "type": "Example",
+  "number": "12.3.6",
+  "title": "",
+  "body": "  At which time in a year a meteor showers occurs  at the same time each year  At various time throughout the year  whenever solar eclipses happen  whenever lunar eclipses happen      b.   "
+},
+{
+  "id": "example-157",
+  "level": "2",
+  "url": "sec_twelvth-examples.html#example-157",
+  "type": "Example",
+  "number": "12.3.7",
+  "title": "",
+  "body": "  Which planet has the most known moons?  Earth  Mars  Jupiter  Uranus     "
+},
+{
+  "id": "example-158",
+  "level": "2",
+  "url": "sec_twelvth-examples.html#example-158",
+  "type": "Example",
+  "number": "12.3.8",
+  "title": "",
+  "body": "  What is the largest planet in our solar system?  Earth  Saturn  Jupiter  Neptune      c.   "
+},
+{
+  "id": "example-159",
+  "level": "2",
+  "url": "sec_twelvth-examples.html#example-159",
+  "type": "Example",
+  "number": "12.3.9",
+  "title": "",
+  "body": "  Which planet looks nearly to the moon?  Jupiter  Mercury  Venus  Saturn      c.   "
+},
+{
+  "id": "example-160",
+  "level": "2",
+  "url": "sec_twelvth-examples.html#example-160",
+  "type": "Example",
+  "number": "12.3.10",
+  "title": "",
+  "body": "  What is a solar eclipse?  When the Moon passes between the Earth and the Sun  When the Earth passes between the Sun and the Moon  When the Moon passes through the Earth's shadow  When the Earth passes through the Moon's shadow      a.   "
 },
 {
   "id": "ex_twelvth",
   "level": "1",
   "url": "ex_twelvth.html",
   "type": "Exercises",
-  "number": "12.4",
+  "number": "12.5",
   "title": "Exercise",
-  "body": "  Exercise       "
+  "body": "  Exercise  What are the three main parts of a comet?  Nucleus, coma, and tail  Mantle, crust, and core  Lithosphere, hydrosphere, and atmosphere  Ionosphere, thermosphere, and exosphere    From where the Meteoroids come  it come from asteroids, comets, and the debri belt  it come from the sun  it come from the moon  meteorids are member of the solar system    What is the name of the region in our solar system where comets originate?  Asteroid belt  Kuiper belt  Oort cloud  Heliopause    c.   Why are the planets visble to us?  They are hot enough to radiate light  They reflect sun light  They reflect star light  Their atmospheres emit light due to solar wind    Which planet is sometimes referred to as the \"Red Planet\" due to its reddish appearance?  Earth  Jupiter  Mars  Saturn    c.   Which planet is known for having a thick atmosphere of carbon dioxide?  Mars  Venus  Uranus  Neptune    b.   What is the smallest planet in our solar system?  Mars  Mercury  Uranus  Neptune    Which planet looks nearly to the moon?  Jupiter  Mercury  Venus  Saturn    c.   Name two planets that do not have satellites  Jupiter and Saturn  Mercury and Venus  Earth and Mars  Uranus and Neptune    What is a lunar eclipse?  When the Moon passes between the Earth and the Sun  When the Earth passes between the Sun and the Moon  When the Moon passes through the Earth's shadow  When the Earth passes through the Moon's shadow    "
 },
 {
   "id": "exercise-112",
   "level": "2",
   "url": "ex_twelvth.html#exercise-112",
   "type": "Exercise",
-  "number": "12.4.1",
+  "number": "12.5.1",
   "title": "",
-  "body": " "
+  "body": "What are the three main parts of a comet?  Nucleus, coma, and tail  Mantle, crust, and core  Lithosphere, hydrosphere, and atmosphere  Ionosphere, thermosphere, and exosphere   "
+},
+{
+  "id": "exercise-113",
+  "level": "2",
+  "url": "ex_twelvth.html#exercise-113",
+  "type": "Exercise",
+  "number": "12.5.2",
+  "title": "",
+  "body": "From where the Meteoroids come  it come from asteroids, comets, and the debri belt  it come from the sun  it come from the moon  meteorids are member of the solar system   "
+},
+{
+  "id": "exercise-114",
+  "level": "2",
+  "url": "ex_twelvth.html#exercise-114",
+  "type": "Exercise",
+  "number": "12.5.3",
+  "title": "",
+  "body": "What is the name of the region in our solar system where comets originate?  Asteroid belt  Kuiper belt  Oort cloud  Heliopause    c.  "
+},
+{
+  "id": "exercise-115",
+  "level": "2",
+  "url": "ex_twelvth.html#exercise-115",
+  "type": "Exercise",
+  "number": "12.5.4",
+  "title": "",
+  "body": "Why are the planets visble to us?  They are hot enough to radiate light  They reflect sun light  They reflect star light  Their atmospheres emit light due to solar wind   "
+},
+{
+  "id": "exercise-116",
+  "level": "2",
+  "url": "ex_twelvth.html#exercise-116",
+  "type": "Exercise",
+  "number": "12.5.5",
+  "title": "",
+  "body": "Which planet is sometimes referred to as the \"Red Planet\" due to its reddish appearance?  Earth  Jupiter  Mars  Saturn    c.  "
+},
+{
+  "id": "exercise-117",
+  "level": "2",
+  "url": "ex_twelvth.html#exercise-117",
+  "type": "Exercise",
+  "number": "12.5.6",
+  "title": "",
+  "body": "Which planet is known for having a thick atmosphere of carbon dioxide?  Mars  Venus  Uranus  Neptune    b.  "
+},
+{
+  "id": "exercise-118",
+  "level": "2",
+  "url": "ex_twelvth.html#exercise-118",
+  "type": "Exercise",
+  "number": "12.5.7",
+  "title": "",
+  "body": "What is the smallest planet in our solar system?  Mars  Mercury  Uranus  Neptune   "
+},
+{
+  "id": "exercise-119",
+  "level": "2",
+  "url": "ex_twelvth.html#exercise-119",
+  "type": "Exercise",
+  "number": "12.5.8",
+  "title": "",
+  "body": "Which planet looks nearly to the moon?  Jupiter  Mercury  Venus  Saturn    c.  "
+},
+{
+  "id": "exercise-120",
+  "level": "2",
+  "url": "ex_twelvth.html#exercise-120",
+  "type": "Exercise",
+  "number": "12.5.9",
+  "title": "",
+  "body": "Name two planets that do not have satellites  Jupiter and Saturn  Mercury and Venus  Earth and Mars  Uranus and Neptune   "
+},
+{
+  "id": "exercise-121",
+  "level": "2",
+  "url": "ex_twelvth.html#exercise-121",
+  "type": "Exercise",
+  "number": "12.5.10",
+  "title": "",
+  "body": "What is a lunar eclipse?  When the Moon passes between the Earth and the Sun  When the Earth passes between the Sun and the Moon  When the Moon passes through the Earth's shadow  When the Earth passes through the Moon's shadow   "
 },
 {
   "id": "ch_thirteenth",
@@ -4528,18 +4771,18 @@ var ptx_lunr_docs = [
   "body": " My Theorem   Theorem statement.    Proof of theorem.   "
 },
 {
-  "id": "example-152",
+  "id": "example-161",
   "level": "2",
-  "url": "sec_features-blocks.html#example-152",
+  "url": "sec_features-blocks.html#example-161",
   "type": "Example",
   "number": "15.1.2",
   "title": "",
   "body": "  Statement of example    The solution.   "
 },
 {
-  "id": "figure-138",
+  "id": "figure-139",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-138",
+  "url": "sec_features-blocks.html#figure-139",
   "type": "Figure",
   "number": "15.1.3",
   "title": "",
