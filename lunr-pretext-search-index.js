@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Dedication",
   "number": "",
   "title": "Dedication",
-  "body": " For my wife Pushpa Kantha and daughters, Priya and Roma.  "
+  "body": " To my wife Pushpa Kantha and daughters, Priya and Roma, who has been my constant source of support and inspiration.  "
 },
 {
   "id": "acknowledgement-1",
@@ -4735,58 +4735,121 @@ var ptx_lunr_docs = [
   "body": "What is a lunar eclipse?  When the Moon passes between the Earth and the Sun  When the Earth passes between the Sun and the Moon  When the Moon passes through the Earth's shadow  When the Earth passes through the Moon's shadow   "
 },
 {
-  "id": "ch_thirteenth",
+  "id": "sec_thirteenth-observ",
   "level": "1",
-  "url": "ch_thirteenth.html",
-  "type": "Chapter",
-  "number": "13",
-  "title": "The Stars",
-  "body": " The Stars   Try adding your own content here!   "
-},
-{
-  "id": "ch_fourteenth",
-  "level": "1",
-  "url": "ch_fourteenth.html",
-  "type": "Chapter",
-  "number": "14",
-  "title": "The Universe",
-  "body": " The Universe   Try adding your own content here!   "
-},
-{
-  "id": "sec_features-blocks",
-  "level": "1",
-  "url": "sec_features-blocks.html",
+  "url": "sec_thirteenth-observ.html",
   "type": "Section",
-  "number": "15.1",
-  "title": "Environments and Blocks",
-  "body": " Environments and Blocks  Some text   My Theorem   Theorem statement.    Proof of theorem.      Statement of example    The solution.    Now a figure.   A frog   A nice-looking frog with a longish description.    "
+  "number": "13.1",
+  "title": "Observational Astronomy",
+  "body": " Observational Astronomy   Observational astronomy is the branch of astronomy that deals with observing celestial objects and phenomena using telescopes and other instruments. It involves the collection, analysis, and interpretation of data obtained from observations of the sky. Observational astronomers study a wide range of objects and phenomena, including stars, galaxies, planets, asteroids, comets, and other celestial bodies. They use various techniques to gather data, such as visible light, radio waves, X-rays, and other forms of electromagnetic radiation. Observational astronomers use telescopes, cameras, and other instruments to collect data, and then analyze that data to draw conclusions about the nature and behavior of celestial objects. They may also use computer simulations and models to better understand what they observe. Observational astronomy is a critical field of study in modern astrophysics, as it provides the data and insights necessary to test and refine theories about the nature of the universe. It also plays a key role in developing new technologies and techniques for studying the cosmos.    The Tools in Astronomy   The Telescope      Visible light Telescope     Radio Telescope      A telescope is an instrument used in astronomy to observe and study celestial objects such as stars, planets, galaxies, and nebulae. It works by collecting and focusing light, allowing astronomers to see objects that are too faint or distant to be seen with the naked eye. The basic design of a telescope involves two main components: a lens or a mirror to collect and focus light, and an eyepiece or a camera to view or record the image. The lens or mirror is the most important part of the telescope, and its size and quality determine how much light the telescope can gather and how clear the image will be. There are several types of telescopes used in astronomy, including refracting telescopes, reflecting telescopes , [ ] and compound telescopes that combine both. Beside these there are also other kinds of telescope which are being used in astronomy. Such as Radio telescopes: Radio telescopes [ ] use radio waves to observe celestial objects. They have large dish-shaped antennas that collect radio waves and a receiver that converts the waves into electrical signals that can be analyzed. Radio telescopes are used to study radio emissions from galaxies, quasars, pulsars, and other objects. X-ray telescopes: X-ray telescopes use mirrors or grazing incidence optics to focus and reflect X-rays to create an image. They are typically mounted on satellites or high-altitude balloons to avoid absorption by the Earth's atmosphere. X-ray telescopes are used to study X-ray emissions from hot gas in galaxy clusters, supernova remnants, and other objects. Each type has its advantages and disadvantages, depending on the intended use and the preferences of the observer. Telescopes have played a crucial role in advancing our understanding of the universe. They have allowed astronomers to observe and study objects and phenomena that were previously unknown, and have provided important data for testing and refining theories about the nature and behavior of the cosmos. Today, telescopes continue to be a vital tool for astronomers, from ground-based observatories to space-based telescopes like the Hubble Space Telescope.    The Spectrometer  A spectrometer is an instrument used in astronomy to measure the spectrum of light [ ] emitted by celestial objects. It breaks down the light into its constituent colors, or wavelengths, allowing astronomers to study the chemical composition, temperature, and other physical properties of the object. The spectrometer works by passing light through a prism or a diffraction grating, which separates the light into its different wavelengths. The resulting spectrum can be analyzed to determine the composition of the object emitting the light. Spectrometers can also be used to study the motion of celestial objects, as the Doppler shift of the spectral lines can provide information about the object's velocity. There are several types of spectrometers used in astronomy, including optical, infrared, ultraviolet, and X-ray spectrometers. Each type is optimized to detect light within a specific range of wavelengths, allowing astronomers to study different types of celestial objects and phenomena. Spectrometers have played a critical role in advancing our understanding of the universe. They have helped astronomers discover new elements and compounds in stars, galaxies, and other celestial objects, and have provided evidence for the Big Bang theory and other fundamental concepts in astrophysics.    Spectrum Analysis  Blackbody radiation is the electromagnetic radiation emitted by an object that absorbs all radiation incident upon it, and then emits radiation in thermal equilibrium. The spectrum of blackbody radiation depends only on the temperature of the object [ ], and not on its composition or other properties. The spectrum of blackbody radiation can be described by Planck's law, which relates the energy density of radiation at a given wavelength to the temperature of the emitting object. The resulting spectrum is a continuous distribution of radiation with a peak wavelength that depends on the temperature of the object. As the temperature increases, the peak wavelength of the spectrum shifts to shorter wavelengths, and the total amount of radiation emitted increases. Spectrum analysis is the process of breaking down the light emitted by an object into its constituent colors or wavelengths, using a spectrometer or other instrument. By analyzing the spectrum of an object, astronomers can determine its composition, temperature, and other physical properties. When a star emits light, it produces a continuous spectrum of blackbody radiation that is modified by absorption lines caused by the presence of specific chemical elements in the star's atmosphere. By analyzing the absorption lines in a star's spectrum, astronomers can determine the chemical composition and other properties of the star. Spectrum analysis is also used to study other celestial objects, such as galaxies, supernovae, and quasars. By analyzing the spectrum of these objects, astronomers can determine their composition, motion, and other physical properties, and gain insights into the nature and behavior of the universe.     Solar Energy  Solar energy refers to the energy that is generated from the sun's radiation. Stars produce energy through a process known as nuclear fusion, which occurs in their cores. The high temperature and pressure in the core of a star cause the atomic nuclei to collide and merge, creating a heavier nucleus and releasing energy in the process. The most common fusion reaction in stars involves the fusion of hydrogen atoms into helium. This process requires a high temperature and pressure to overcome the electrostatic repulsion between the positively charged atomic nuclei. Once the fusion reaction begins, it releases a tremendous amount of energy in the form of light and heat. The energy produced by the fusion reactions The Nuclear Fusion Reaction in a star is carried by radiation in the form of photons, which slowly make their way outwards from the core of the star. This energy is what powers the star and allows it to shine brightly in the sky. As a star ages and begins to run out of hydrogen fuel in its core, it may begin to undergo other fusion reactions that involve heavier elements. These reactions can produce even more energy, but eventually the star will exhaust all of its nuclear fuel and will either become a white dwarf, neutron star, or black hole, depending on its mass.   "
 },
 {
-  "id": "thm_features-blocks-my-theorem",
+  "id": "figure-140",
   "level": "2",
-  "url": "sec_features-blocks.html#thm_features-blocks-my-theorem",
-  "type": "Theorem",
-  "number": "15.1.1",
-  "title": "My Theorem.",
-  "body": " My Theorem   Theorem statement.    Proof of theorem.   "
+  "url": "sec_thirteenth-observ.html#figure-140",
+  "type": "Figure",
+  "number": "13.1.1",
+  "title": "",
+  "body": "    Visible light Telescope     Radio Telescope     "
+},
+{
+  "id": "p-871",
+  "level": "2",
+  "url": "sec_thirteenth-observ.html#p-871",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "refracting telescopes, reflecting telescopes Radio telescopes X-ray telescopes: "
+},
+{
+  "id": "sec_thirteenth-intro",
+  "level": "1",
+  "url": "sec_thirteenth-intro.html",
+  "type": "Section",
+  "number": "13.2",
+  "title": "H-R Diagram",
+  "body": " H-R Diagram       Supernovas      Neutron Stars      Pulsars      Black Holes     "
+},
+{
+  "id": "sec_thirteenth-examples",
+  "level": "1",
+  "url": "sec_thirteenth-examples.html",
+  "type": "Section",
+  "number": "13.3",
+  "title": "Examples",
+  "body": " Examples    What is a comet?  A type of asteroid  A small, icy celestial body  A planet in our solar systemd  A star with a tail      b.    "
 },
 {
   "id": "example-161",
   "level": "2",
-  "url": "sec_features-blocks.html#example-161",
+  "url": "sec_thirteenth-examples.html#example-161",
   "type": "Example",
-  "number": "15.1.2",
+  "number": "13.3.1",
   "title": "",
-  "body": "  Statement of example    The solution.   "
+  "body": "  What is a comet?  A type of asteroid  A small, icy celestial body  A planet in our solar systemd  A star with a tail      b.   "
 },
 {
-  "id": "figure-139",
+  "id": "ex_thirteenth",
+  "level": "1",
+  "url": "ex_thirteenth.html",
+  "type": "Exercises",
+  "number": "13.4",
+  "title": "Exercise",
+  "body": "  Exercise  What are the three main parts of a comet?  Nucleus, coma, and tail  Mantle, crust, and core  Lithosphere, hydrosphere, and atmosphere  Ionosphere, thermosphere, and exosphere    "
+},
+{
+  "id": "exercise-122",
   "level": "2",
-  "url": "sec_features-blocks.html#figure-139",
-  "type": "Figure",
-  "number": "15.1.3",
+  "url": "ex_thirteenth.html#exercise-122",
+  "type": "Exercise",
+  "number": "13.4.1",
   "title": "",
-  "body": " A frog   A nice-looking frog with a longish description.   "
+  "body": "What are the three main parts of a comet?  Nucleus, coma, and tail  Mantle, crust, and core  Lithosphere, hydrosphere, and atmosphere  Ionosphere, thermosphere, and exosphere   "
+},
+{
+  "id": "sec_fourteenth-intro",
+  "level": "1",
+  "url": "sec_fourteenth-intro.html",
+  "type": "Section",
+  "number": "14.1",
+  "title": "Galaxies",
+  "body": " Galaxies       Nebulae      Dark Matter      Evolution of the Universe      Quasars     "
+},
+{
+  "id": "sec_fourteenth-examples",
+  "level": "1",
+  "url": "sec_fourteenth-examples.html",
+  "type": "Section",
+  "number": "14.2",
+  "title": "Examples",
+  "body": " Examples    What is a comet?  A type of asteroid  A small, icy celestial body  A planet in our solar systemd  A star with a tail      b.    "
+},
+{
+  "id": "example-162",
+  "level": "2",
+  "url": "sec_fourteenth-examples.html#example-162",
+  "type": "Example",
+  "number": "14.2.1",
+  "title": "",
+  "body": "  What is a comet?  A type of asteroid  A small, icy celestial body  A planet in our solar systemd  A star with a tail      b.   "
+},
+{
+  "id": "ex_fourteenth",
+  "level": "1",
+  "url": "ex_fourteenth.html",
+  "type": "Exercises",
+  "number": "14.3",
+  "title": "Exercise",
+  "body": "  Exercise  What are the three main parts of a comet?  Nucleus, coma, and tail  Mantle, crust, and core  Lithosphere, hydrosphere, and atmosphere  Ionosphere, thermosphere, and exosphere    "
+},
+{
+  "id": "exercise-123",
+  "level": "2",
+  "url": "ex_fourteenth.html#exercise-123",
+  "type": "Exercise",
+  "number": "14.3.1",
+  "title": "",
+  "body": "What are the three main parts of a comet?  Nucleus, coma, and tail  Mantle, crust, and core  Lithosphere, hydrosphere, and atmosphere  Ionosphere, thermosphere, and exosphere   "
 },
 {
   "id": "solutions-1",
@@ -4832,15 +4895,6 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "References",
   "body": " 2018 Secondary Energy Infobook. www.NEED.org  Physical Universe, Krauskopf, Beiser, McGrow Hill  Physical Science, Shipman, Wilson,Higgins, Torres, Cengage Learning  Principles of Physics, Karna, Kindle Publication  Open AI, chatGPT  "
-},
-{
-  "id": "colophon-2",
-  "level": "1",
-  "url": "colophon-2.html",
-  "type": "Colophon",
-  "number": "",
-  "title": "Colophon",
-  "body": " This book was authored in PreTeXt .  "
 }
 ]
 
