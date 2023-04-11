@@ -14,7 +14,7 @@
 <meta property="og:type" content="book">
 <meta property="book:title" content="Physical Science">
 <meta property="book:author" content="Dr. Sunil Karna">
-<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script><script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+<script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
 window.MathJax = {
   tex: {
     inlineMath: [['\\(','\\)']],
@@ -26,19 +26,6 @@ window.MathJax = {
   options: {
     ignoreHtmlClass: "tex2jax_ignore|ignore-math",
     processHtmlClass: "process-math",
-    renderActions: {
-        findScript: [10, function (doc) {
-            document.querySelectorAll('script[type^="math/tex"]').forEach(function(node) {
-                var display = !!node.type.match(/; *mode=display/);
-                var math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
-                var text = document.createTextNode('');
-                node.parentNode.replaceChild(text, node);
-                math.start = {node: text, delim: '', n: 0};
-                math.end = {node: text, delim: '', n: 0};
-                doc.math.push(math);
-            });
-        }, '']
-    },
   },
   chtml: {
     scale: 0.98,
@@ -619,7 +606,7 @@ window.MathJax = {
 <span class="type">Exercises</span> <span class="codenumber">11.7</span> <span class="title">Exercises</span>
 </h2>
 <article class="exercise exercise-like" id="exercise-103"><h3 class="heading"><span class="codenumber">1<span class="period">.</span></span></h3>
-<div class="para logical" id="p-812">
+<div class="para logical" id="p-814">
 <div class="para">Body waves consist of the:</div>
 <ol class="lower-alpha">
 <li id="li-842"><div class="para" id="p-derived-li-842">P waves only</div></li>
@@ -628,7 +615,7 @@ window.MathJax = {
 <li id="li-845"><div class="para" id="p-derived-li-845">Surface waves.</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-104"><h3 class="heading"><span class="codenumber">2<span class="period">.</span></span></h3>
-<div class="para logical" id="p-813">
+<div class="para logical" id="p-815">
 <div class="para">Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.</div>
 <ol class="lower-alpha">
 <li id="li-846"><div class="para" id="p-derived-li-846">A is 10 times more intense than B.</div></li>
@@ -637,7 +624,7 @@ window.MathJax = {
 <li id="li-849"><div class="para" id="p-derived-li-849">Richter magnitude does not measure intensity.</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-105"><h3 class="heading"><span class="codenumber">3<span class="period">.</span></span></h3>
-<div class="para logical" id="p-814">
+<div class="para logical" id="p-816">
 <div class="para">Where is the focus with respect to the epicenter:</div>
 <ol class="lower-alpha">
 <li id="li-850"><div class="para" id="p-derived-li-850">directly below the epicenter.</div></li>
@@ -646,7 +633,7 @@ window.MathJax = {
 <li id="li-853"><div class="para" id="p-derived-li-853">directly above the epicenter.</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-106"><h3 class="heading"><span class="codenumber">4<span class="period">.</span></span></h3>
-<div class="para logical" id="p-815">
+<div class="para logical" id="p-817">
 <div class="para">Which of the following could be the consequences of the underground earthquake?</div>
 <ol class="lower-alpha">
 <li id="li-854"><div class="para" id="p-derived-li-854">cyclone.</div></li>
@@ -655,7 +642,7 @@ window.MathJax = {
 <li id="li-857"><div class="para" id="p-derived-li-857">none of the above.</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-107"><h3 class="heading"><span class="codenumber">5<span class="period">.</span></span></h3>
-<div class="para logical" id="p-816">
+<div class="para logical" id="p-818">
 <div class="para">Which of the following statements is false?</div>
 <ol class="lower-alpha">
 <li id="li-858"><div class="para" id="p-derived-li-858">Most earthquakes occur at plate boundaries.</div></li>
@@ -664,7 +651,7 @@ window.MathJax = {
 <li id="li-861"><div class="para" id="p-derived-li-861">P waves travel faster than both S waves and Surface waves.</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-108"><h3 class="heading"><span class="codenumber">6<span class="period">.</span></span></h3>
-<div class="para logical" id="p-817">
+<div class="para logical" id="p-819">
 <div class="para">which one of the following is a volcanic rock?</div>
 <ol class="lower-alpha">
 <li id="li-862"><div class="para" id="p-derived-li-862">granite.</div></li>
@@ -673,7 +660,7 @@ window.MathJax = {
 <li id="li-865"><div class="para" id="p-derived-li-865">marble.</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-109"><h3 class="heading"><span class="codenumber">7<span class="period">.</span></span></h3>
-<div class="para logical" id="p-818">
+<div class="para logical" id="p-820">
 <div class="para">A region where the edge of one lithospheric plate slides under the edge of another plate is</div>
 <ol class="lower-alpha">
 <li id="li-866"><div class="para" id="p-derived-li-866">Transform fault.</div></li>
@@ -683,9 +670,9 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-69" id="answer-69"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-69"><div class="answer solution-like"><div class="para" id="p-819">d.</div></div></div>
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-69" id="answer-69"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-69"><div class="answer solution-like"><div class="para" id="p-821">d.</div></div></div>
 </div></article><article class="exercise exercise-like" id="exercise-110"><h3 class="heading"><span class="codenumber">8<span class="period">.</span></span></h3>
-<div class="para logical" id="p-820">
+<div class="para logical" id="p-822">
 <div class="para">Most volcanoes are found along</div>
 <ol class="lower-alpha">
 <li id="li-870"><div class="para" id="p-derived-li-870">Divergent boundaries.</div></li>
@@ -695,9 +682,9 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-70" id="answer-70"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-70"><div class="answer solution-like"><div class="para" id="p-821">c.</div></div></div>
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-70" id="answer-70"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-70"><div class="answer solution-like"><div class="para" id="p-823">c.</div></div></div>
 </div></article><article class="exercise exercise-like" id="exercise-111"><h3 class="heading"><span class="codenumber">9<span class="period">.</span></span></h3>
-<div class="para logical" id="p-822">
+<div class="para logical" id="p-824">
 <div class="para">Which of the follwing is a primary cause of volcanoes, earthquake, and mountain building?</div>
 <ol class="lower-alpha">
 <li id="li-874"><div class="para" id="p-derived-li-874">solar radiation.</div></li>
@@ -707,9 +694,9 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-71" id="answer-71"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-71"><div class="answer solution-like"><div class="para" id="p-823">b.</div></div></div>
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-71" id="answer-71"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-71"><div class="answer solution-like"><div class="para" id="p-825">b.</div></div></div>
 </div></article><article class="exercise exercise-like" id="exercise-112"><h3 class="heading"><span class="codenumber">10<span class="period">.</span></span></h3>
-<div class="para logical" id="p-824">
+<div class="para logical" id="p-826">
 <div class="para">Which type of plate boundaries exists at subduction zones?</div>
 <ol class="lower-alpha">
 <li id="li-878"><div class="para" id="p-derived-li-878">divergent.</div></li>
@@ -718,7 +705,7 @@ window.MathJax = {
 <li id="li-881"><div class="para" id="p-derived-li-881">reverse.</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-113"><h3 class="heading"><span class="codenumber">11<span class="period">.</span></span></h3>
-<div class="para logical" id="p-825">
+<div class="para logical" id="p-827">
 <div class="para">What do paleontologists study?</div>
 <ol class="lower-alpha">
 <li id="li-882"><div class="para" id="p-derived-li-882">Eart interior.</div></li>
@@ -728,9 +715,9 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-72" id="answer-72"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-72"><div class="answer solution-like"><div class="para" id="p-826">c.</div></div></div>
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-72" id="answer-72"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-72"><div class="answer solution-like"><div class="para" id="p-828">c.</div></div></div>
 </div></article><article class="exercise exercise-like" id="exercise-114"><h3 class="heading"><span class="codenumber">12<span class="period">.</span></span></h3>
-<div class="para logical" id="p-827">
+<div class="para logical" id="p-829">
 <div class="para">In what time spans are eras next divided?</div>
 <ol class="lower-alpha">
 <li id="li-886"><div class="para" id="p-derived-li-886">eons.</div></li>
@@ -740,9 +727,9 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-73" id="answer-73"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-73"><div class="answer solution-like"><div class="para" id="p-828">d.</div></div></div>
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-73" id="answer-73"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-73"><div class="answer solution-like"><div class="para" id="p-830">d.</div></div></div>
 </div></article><article class="exercise exercise-like" id="exercise-115"><h3 class="heading"><span class="codenumber">13<span class="period">.</span></span></h3>
-<div class="para logical" id="p-829">
+<div class="para logical" id="p-831">
 <div class="para">In which era did the dinosaurs extinct?</div>
 <ol class="lower-alpha">
 <li id="li-890"><div class="para" id="p-derived-li-890">Cenozoic.</div></li>
@@ -751,7 +738,7 @@ window.MathJax = {
 <li id="li-893"><div class="para" id="p-derived-li-893">Mesozoic.</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-116"><h3 class="heading"><span class="codenumber">14<span class="period">.</span></span></h3>
-<div class="para logical" id="p-830">
+<div class="para logical" id="p-832">
 <div class="para">When did the giant landmass Pangea split into Laurasia and Gondwana?</div>
 <ol class="lower-alpha">
 <li id="li-894"><div class="para" id="p-derived-li-894">Cenozoic.</div></li>
@@ -760,7 +747,7 @@ window.MathJax = {
 <li id="li-897"><div class="para" id="p-derived-li-897">Mesozoic.</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-117"><h3 class="heading"><span class="codenumber">15<span class="period">.</span></span></h3>
-<div class="para logical" id="p-831">
+<div class="para logical" id="p-833">
 <div class="para">Mammals became dominant in which era?</div>
 <ol class="lower-alpha">
 <li id="li-898"><div class="para" id="p-derived-li-898">Cenozoic.</div></li>

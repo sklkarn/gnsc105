@@ -14,7 +14,7 @@
 <meta property="og:type" content="book">
 <meta property="book:title" content="Physical Science">
 <meta property="book:author" content="Dr. Sunil Karna">
-<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script><script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+<script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
 window.MathJax = {
   tex: {
     inlineMath: [['\\(','\\)']],
@@ -26,19 +26,6 @@ window.MathJax = {
   options: {
     ignoreHtmlClass: "tex2jax_ignore|ignore-math",
     processHtmlClass: "process-math",
-    renderActions: {
-        findScript: [10, function (doc) {
-            document.querySelectorAll('script[type^="math/tex"]').forEach(function(node) {
-                var display = !!node.type.match(/; *mode=display/);
-                var math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
-                var text = document.createTextNode('');
-                node.parentNode.replaceChild(text, node);
-                math.start = {node: text, delim: '', n: 0};
-                math.end = {node: text, delim: '', n: 0};
-                doc.math.push(math);
-            });
-        }, '']
-    },
   },
   chtml: {
     scale: 0.98,
@@ -621,7 +608,7 @@ window.MathJax = {
 <article class="example example-like" id="example-168"><h3 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">13.3.1</span><span class="period">.</span>
 </h3>
-<div class="para logical" id="p-920">
+<div class="para logical" id="p-922">
 <div class="para">What is the HR diagram used for?</div>
 <ol class="lower-alpha">
 <li id="li-996"><div class="para" id="p-derived-li-996">To identify the different types of stars</div></li>
@@ -631,11 +618,11 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-121" id="solution-121"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-121"><div class="solution solution-like"><div class="para" id="p-921">d.</div></div></div>
+<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-121" id="solution-121"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-121"><div class="solution solution-like"><div class="para" id="p-923">d.</div></div></div>
 </div></article><article class="example example-like" id="example-169"><h3 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">13.3.2</span><span class="period">.</span>
 </h3>
-<div class="para logical" id="p-922">
+<div class="para logical" id="p-924">
 <div class="para">Which of the following is NOT a parameter used to construct the HR diagram?</div>
 <ol class="lower-alpha">
 <li id="li-1000"><div class="para" id="p-derived-li-1000">Luminosity</div></li>
@@ -645,11 +632,11 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-122" id="solution-122"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-122"><div class="solution solution-like"><div class="para" id="p-923">c.</div></div></div>
+<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-122" id="solution-122"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-122"><div class="solution solution-like"><div class="para" id="p-925">c.</div></div></div>
 </div></article><article class="example example-like" id="example-170"><h3 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">13.3.3</span><span class="period">.</span>
 </h3>
-<div class="para logical" id="p-924">
+<div class="para logical" id="p-926">
 <div class="para">The majority of stars on the HR diagram are located on the:</div>
 <ol class="lower-alpha">
 <li id="li-1004"><div class="para" id="p-derived-li-1004">Main sequence</div></li>
@@ -659,11 +646,11 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-123" id="solution-123"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-123"><div class="solution solution-like"><div class="para" id="p-925">a.</div></div></div>
+<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-123" id="solution-123"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-123"><div class="solution solution-like"><div class="para" id="p-927">a.</div></div></div>
 </div></article><article class="example example-like" id="example-171"><h3 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">13.3.4</span><span class="period">.</span>
 </h3>
-<div class="para logical" id="p-926">
+<div class="para logical" id="p-928">
 <div class="para">Which of the following types of stars has the longest lifespan?</div>
 <ol class="lower-alpha">
 <li id="li-1008"><div class="para" id="p-derived-li-1008">O-type stars</div></li>
@@ -673,11 +660,11 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-124" id="solution-124"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-124"><div class="solution solution-like"><div class="para" id="p-927">d.</div></div></div>
+<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-124" id="solution-124"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-124"><div class="solution solution-like"><div class="para" id="p-929">d.</div></div></div>
 </div></article><article class="example example-like" id="example-172"><h3 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">13.3.5</span><span class="period">.</span>
 </h3>
-<div class="para logical" id="p-928">
+<div class="para logical" id="p-930">
 <div class="para">Which of the following types of stars are located in the upper right portion of the HR diagram?</div>
 <ol class="lower-alpha">
 <li id="li-1012"><div class="para" id="p-derived-li-1012">Red giants</div></li>
@@ -687,11 +674,11 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-125" id="solution-125"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-125"><div class="solution solution-like"><div class="para" id="p-929">a.</div></div></div>
+<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-125" id="solution-125"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-125"><div class="solution solution-like"><div class="para" id="p-931">a.</div></div></div>
 </div></article><article class="example example-like" id="example-173"><h3 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">13.3.6</span><span class="period">.</span>
 </h3>
-<div class="para logical" id="p-930">
+<div class="para logical" id="p-932">
 <div class="para">Which of the following is NOT a feature of the Sun's magnetic field?</div>
 <ol class="lower-alpha">
 <li id="li-1016"><div class="para" id="p-derived-li-1016">Sunspots</div></li>
@@ -701,11 +688,11 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-126" id="solution-126"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-126"><div class="solution solution-like"><div class="para" id="p-931">d.</div></div></div>
+<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-126" id="solution-126"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-126"><div class="solution solution-like"><div class="para" id="p-933">d.</div></div></div>
 </div></article><article class="example example-like" id="example-174"><h3 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">13.3.7</span><span class="period">.</span>
 </h3>
-<div class="para logical" id="p-932">
+<div class="para logical" id="p-934">
 <div class="para">Which layer of the Sun's atmosphere is visible during a total solar eclipse?</div>
 <ol class="lower-alpha">
 <li id="li-1020"><div class="para" id="p-derived-li-1020">Photosphere</div></li>
@@ -715,11 +702,11 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-127" id="solution-127"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-127"><div class="solution solution-like"><div class="para" id="p-933">c.</div></div></div>
+<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-127" id="solution-127"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-127"><div class="solution solution-like"><div class="para" id="p-935">c.</div></div></div>
 </div></article><article class="example example-like" id="example-175"><h3 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">13.3.8</span><span class="period">.</span>
 </h3>
-<div class="para logical" id="p-934">
+<div class="para logical" id="p-936">
 <div class="para">How old is the Sun?</div>
 <ol class="lower-alpha">
 <li id="li-1024"><div class="para" id="p-derived-li-1024">4.6 million years</div></li>
@@ -729,11 +716,11 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-128" id="solution-128"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-128"><div class="solution solution-like"><div class="para" id="p-935">b.</div></div></div>
+<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-128" id="solution-128"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-128"><div class="solution solution-like"><div class="para" id="p-937">b.</div></div></div>
 </div></article><article class="example example-like" id="example-176"><h3 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">13.3.9</span><span class="period">.</span>
 </h3>
-<div class="para logical" id="p-936">
+<div class="para logical" id="p-938">
 <div class="para">Which of the following is the most accurate description of the Sun?</div>
 <ol class="lower-alpha">
 <li id="li-1028"><div class="para" id="p-derived-li-1028">A planet</div></li>
@@ -743,11 +730,11 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-129" id="solution-129"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-129"><div class="solution solution-like"><div class="para" id="p-937">c.</div></div></div>
+<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-129" id="solution-129"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-129"><div class="solution solution-like"><div class="para" id="p-939">c.</div></div></div>
 </div></article><article class="example example-like" id="example-177"><h3 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">13.3.10</span><span class="period">.</span>
 </h3>
-<div class="para logical" id="p-938">
+<div class="para logical" id="p-940">
 <div class="para">Which of the following is NOT a possible fate for a star?</div>
 <ol class="lower-alpha">
 <li id="li-1032"><div class="para" id="p-derived-li-1032">Black hole</div></li>
@@ -757,11 +744,11 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-130" id="solution-130"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-130"><div class="solution solution-like"><div class="para" id="p-939">d.</div></div></div>
+<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-130" id="solution-130"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-130"><div class="solution solution-like"><div class="para" id="p-941">d.</div></div></div>
 </div></article><article class="example example-like" id="example-178"><h3 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">13.3.11</span><span class="period">.</span>
 </h3>
-<div class="para logical" id="p-940">
+<div class="para logical" id="p-942">
 <div class="para">What is a planetary nebula?</div>
 <ol class="lower-alpha">
 <li id="li-1036"><div class="para" id="p-derived-li-1036">A cloud of gas and dust that forms around a star as it dies</div></li>
@@ -771,11 +758,11 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-131" id="solution-131"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-131"><div class="solution solution-like"><div class="para" id="p-941">a.</div></div></div>
+<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-131" id="solution-131"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-131"><div class="solution solution-like"><div class="para" id="p-943">a.</div></div></div>
 </div></article><article class="example example-like" id="example-179"><h3 class="heading">
 <span class="type">Example</span><span class="space"> </span><span class="codenumber">13.3.12</span><span class="period">.</span>
 </h3>
-<div class="para logical" id="p-942">
+<div class="para logical" id="p-944">
 <div class="para">What is a neutron star?</div>
 <ol class="lower-alpha">
 <li id="li-1040"><div class="para" id="p-derived-li-1040">A type of white dwarf</div></li>
@@ -785,7 +772,7 @@ window.MathJax = {
 </ol>
 </div>
 <div class="solutions">
-<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-132" id="solution-132"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-132"><div class="solution solution-like"><div class="para" id="p-943">b.</div></div></div>
+<a href="" data-knowl="" class="id-ref solution-knowl original" data-refid="hk-solution-132" id="solution-132"><span class="type">Solution</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-solution-132"><div class="solution solution-like"><div class="para" id="p-945">b.</div></div></div>
 </div></article></section></div>
 <div class="ptx-content-footer">
 <a class="previous-button button" href="sec_thirteenth-intro.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon">^</span><span class="name">Top</span></a><a class="next-button button" href="ex_thirteenth.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a>

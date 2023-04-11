@@ -14,7 +14,7 @@
 <meta property="og:type" content="book">
 <meta property="book:title" content="Physical Science">
 <meta property="book:author" content="Dr. Sunil Karna">
-<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script><script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+<script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
 window.MathJax = {
   tex: {
     inlineMath: [['\\(','\\)']],
@@ -26,19 +26,6 @@ window.MathJax = {
   options: {
     ignoreHtmlClass: "tex2jax_ignore|ignore-math",
     processHtmlClass: "process-math",
-    renderActions: {
-        findScript: [10, function (doc) {
-            document.querySelectorAll('script[type^="math/tex"]').forEach(function(node) {
-                var display = !!node.type.match(/; *mode=display/);
-                var math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
-                var text = document.createTextNode('');
-                node.parentNode.replaceChild(text, node);
-                math.start = {node: text, delim: '', n: 0};
-                math.end = {node: text, delim: '', n: 0};
-                doc.math.push(math);
-            });
-        }, '']
-    },
   },
   chtml: {
     scale: 0.98,
@@ -619,7 +606,7 @@ window.MathJax = {
 <span class="type">Exercises</span> <span class="codenumber">14.3</span> <span class="title">Exercise</span>
 </h2>
 <article class="exercise exercise-like" id="exercise-139"><h3 class="heading"><span class="codenumber">1<span class="period">.</span></span></h3>
-<div class="para logical" id="p-988">
+<div class="para logical" id="p-990">
 <div class="para">What is the universe?</div>
 <ol class="lower-alpha">
 <li id="li-1119"><div class="para" id="p-derived-li-1119">The solar system</div></li>
@@ -628,8 +615,8 @@ window.MathJax = {
 <li id="li-1122"><div class="para" id="p-derived-li-1122">The region of space beyond the Earth's atmosphere</div></li>
 </ol>
 </div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-85" id="answer-85"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-85"><div class="answer solution-like"><div class="para" id="p-989">c.</div></div></div></article><article class="exercise exercise-like" id="exercise-140"><h3 class="heading"><span class="codenumber">2<span class="period">.</span></span></h3>
-<div class="para logical" id="p-990">
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-85" id="answer-85"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-85"><div class="answer solution-like"><div class="para" id="p-991">c.</div></div></div></article><article class="exercise exercise-like" id="exercise-140"><h3 class="heading"><span class="codenumber">2<span class="period">.</span></span></h3>
+<div class="para logical" id="p-992">
 <div class="para">What is dark energy?</div>
 <ol class="lower-alpha">
 <li id="li-1123"><div class="para" id="p-derived-li-1123">A mysterious force that is causing the expansion of the universe to accelerate</div></li>
@@ -638,8 +625,8 @@ window.MathJax = {
 <li id="li-1126"><div class="para" id="p-derived-li-1126">A force that causes galaxies to collide with each other</div></li>
 </ol>
 </div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-86" id="answer-86"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-86"><div class="answer solution-like"><div class="para" id="p-991">a.</div></div></div></article><article class="exercise exercise-like" id="exercise-141"><h3 class="heading"><span class="codenumber">3<span class="period">.</span></span></h3>
-<div class="para logical" id="p-992">
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-86" id="answer-86"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-86"><div class="answer solution-like"><div class="para" id="p-993">a.</div></div></div></article><article class="exercise exercise-like" id="exercise-141"><h3 class="heading"><span class="codenumber">3<span class="period">.</span></span></h3>
+<div class="para logical" id="p-994">
 <div class="para">What is a galaxy?</div>
 <ol class="lower-alpha">
 <li id="li-1127"><div class="para" id="p-derived-li-1127">A group of stars that orbit around a common center of mass</div></li>
@@ -648,8 +635,8 @@ window.MathJax = {
 <li id="li-1130"><div class="para" id="p-derived-li-1130">A planet</div></li>
 </ol>
 </div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-87" id="answer-87"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-87"><div class="answer solution-like"><div class="para" id="p-993">a.</div></div></div></article><article class="exercise exercise-like" id="exercise-142"><h3 class="heading"><span class="codenumber">4<span class="period">.</span></span></h3>
-<div class="para logical" id="p-994">
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-87" id="answer-87"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-87"><div class="answer solution-like"><div class="para" id="p-995">a.</div></div></div></article><article class="exercise exercise-like" id="exercise-142"><h3 class="heading"><span class="codenumber">4<span class="period">.</span></span></h3>
+<div class="para logical" id="p-996">
 <div class="para">Which force keeps stars in a galaxy from flying off into space?</div>
 <ol class="lower-alpha">
 <li id="li-1131"><div class="para" id="p-derived-li-1131">Electromagnetic force</div></li>
@@ -658,8 +645,8 @@ window.MathJax = {
 <li id="li-1134"><div class="para" id="p-derived-li-1134">Gravitational force</div></li>
 </ol>
 </div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-88" id="answer-88"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-88"><div class="answer solution-like"><div class="para" id="p-995">d.</div></div></div></article><article class="exercise exercise-like" id="exercise-143"><h3 class="heading"><span class="codenumber">5<span class="period">.</span></span></h3>
-<div class="para logical" id="p-996">
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-88" id="answer-88"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-88"><div class="answer solution-like"><div class="para" id="p-997">d.</div></div></div></article><article class="exercise exercise-like" id="exercise-143"><h3 class="heading"><span class="codenumber">5<span class="period">.</span></span></h3>
+<div class="para logical" id="p-998">
 <div class="para">What is Hubble's law?</div>
 <ol class="lower-alpha">
 <li id="li-1135"><div class="para" id="p-derived-li-1135">The law that describes the expansion of the universe</div></li>
@@ -668,7 +655,7 @@ window.MathJax = {
 <li id="li-1138"><div class="para" id="p-derived-li-1138">The law that describes the behavior of waves in a medium</div></li>
 </ol>
 </div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-89" id="answer-89"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-89"><div class="answer solution-like"><div class="para" id="p-997">a.</div></div></div></article></section></div>
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-89" id="answer-89"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-89"><div class="answer solution-like"><div class="para" id="p-999">a.</div></div></div></article></section></div>
 <div class="ptx-content-footer">
 <a class="previous-button button" href="sec_fourteenth-examples.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon">^</span><span class="name">Top</span></a><a class="next-button button" href="meta_backmatter.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a>
 </div></main>

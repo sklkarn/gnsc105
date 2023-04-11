@@ -14,7 +14,7 @@
 <meta property="og:type" content="book">
 <meta property="book:title" content="Physical Science">
 <meta property="book:author" content="Dr. Sunil Karna">
-<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script><script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+<script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
 window.MathJax = {
   tex: {
     inlineMath: [['\\(','\\)']],
@@ -26,19 +26,6 @@ window.MathJax = {
   options: {
     ignoreHtmlClass: "tex2jax_ignore|ignore-math",
     processHtmlClass: "process-math",
-    renderActions: {
-        findScript: [10, function (doc) {
-            document.querySelectorAll('script[type^="math/tex"]').forEach(function(node) {
-                var display = !!node.type.match(/; *mode=display/);
-                var math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
-                var text = document.createTextNode('');
-                node.parentNode.replaceChild(text, node);
-                math.start = {node: text, delim: '', n: 0};
-                math.end = {node: text, delim: '', n: 0};
-                doc.math.push(math);
-            });
-        }, '']
-    },
   },
   chtml: {
     scale: 0.98,
@@ -619,7 +606,7 @@ window.MathJax = {
 <span class="type">Exercises</span> <span class="codenumber">13.4</span> <span class="title">Exercise</span>
 </h2>
 <article class="exercise exercise-like" id="exercise-128"><h3 class="heading"><span class="codenumber">1<span class="period">.</span></span></h3>
-<div class="para logical" id="p-944">
+<div class="para logical" id="p-946">
 <div class="para">A star with high luminosity and low temperature would be located in which part of the HR diagram?</div>
 <ol class="lower-alpha">
 <li id="li-1044"><div class="para" id="p-derived-li-1044">Upper left</div></li>
@@ -628,7 +615,7 @@ window.MathJax = {
 <li id="li-1047"><div class="para" id="p-derived-li-1047">Lower right</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-129"><h3 class="heading"><span class="codenumber">2<span class="period">.</span></span></h3>
-<div class="para logical" id="p-945">
+<div class="para logical" id="p-947">
 <div class="para">Which of the following statements about the HR diagram is true?</div>
 <ol class="lower-alpha">
 <li id="li-1048"><div class="para" id="p-derived-li-1048">Stars on the main sequence fuse hydrogen into helium in their cores</div></li>
@@ -637,7 +624,7 @@ window.MathJax = {
 <li id="li-1051"><div class="para" id="p-derived-li-1051">The HR diagram only applies to stars in our galaxy</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-130"><h3 class="heading"><span class="codenumber">3<span class="period">.</span></span></h3>
-<div class="para logical" id="p-946">
+<div class="para logical" id="p-948">
 <div class="para">What is the significance of the position of a star on the HR diagram?</div>
 <ol class="lower-alpha">
 <li id="li-1052"><div class="para" id="p-derived-li-1052">It indicates the star's distance from Earth</div></li>
@@ -646,8 +633,8 @@ window.MathJax = {
 <li id="li-1055"><div class="para" id="p-derived-li-1055">It determines the star's brightness in the night sky</div></li>
 </ol>
 </div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-81" id="answer-81"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-81"><div class="answer solution-like"><div class="para" id="p-947">c.</div></div></div></article><article class="exercise exercise-like" id="exercise-131"><h3 class="heading"><span class="codenumber">4<span class="period">.</span></span></h3>
-<div class="para logical" id="p-948">
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-81" id="answer-81"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-81"><div class="answer solution-like"><div class="para" id="p-949">c.</div></div></div></article><article class="exercise exercise-like" id="exercise-131"><h3 class="heading"><span class="codenumber">4<span class="period">.</span></span></h3>
+<div class="para logical" id="p-950">
 <div class="para">What is the Sun's approximate distance from Earth?</div>
 <ol class="lower-alpha">
 <li id="li-1056"><div class="para" id="p-derived-li-1056">93,000 miles</div></li>
@@ -656,8 +643,8 @@ window.MathJax = {
 <li id="li-1059"><div class="para" id="p-derived-li-1059">93 million kilometers</div></li>
 </ol>
 </div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-82" id="answer-82"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-82"><div class="answer solution-like"><div class="para" id="p-949">c.</div></div></div></article><article class="exercise exercise-like" id="exercise-132"><h3 class="heading"><span class="codenumber">5<span class="period">.</span></span></h3>
-<div class="para logical" id="p-950">
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-82" id="answer-82"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-82"><div class="answer solution-like"><div class="para" id="p-951">c.</div></div></div></article><article class="exercise exercise-like" id="exercise-132"><h3 class="heading"><span class="codenumber">5<span class="period">.</span></span></h3>
+<div class="para logical" id="p-952">
 <div class="para">What is the Sun's approximate distance from Earth?</div>
 <ol class="lower-alpha">
 <li id="li-1060"><div class="para" id="p-derived-li-1060">93,000 miles</div></li>
@@ -666,8 +653,8 @@ window.MathJax = {
 <li id="li-1063"><div class="para" id="p-derived-li-1063">93 million kilometers</div></li>
 </ol>
 </div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-83" id="answer-83"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-83"><div class="answer solution-like"><div class="para" id="p-951">c.</div></div></div></article><article class="exercise exercise-like" id="exercise-133"><h3 class="heading"><span class="codenumber">6<span class="period">.</span></span></h3>
-<div class="para logical" id="p-952">
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-83" id="answer-83"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-83"><div class="answer solution-like"><div class="para" id="p-953">c.</div></div></div></article><article class="exercise exercise-like" id="exercise-133"><h3 class="heading"><span class="codenumber">6<span class="period">.</span></span></h3>
+<div class="para logical" id="p-954">
 <div class="para">What is the Sun mostly made of?</div>
 <ol class="lower-alpha">
 <li id="li-1064"><div class="para" id="p-derived-li-1064">Hydrogen and helium</div></li>
@@ -676,7 +663,7 @@ window.MathJax = {
 <li id="li-1067"><div class="para" id="p-derived-li-1067">Silicon and magnesium</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-134"><h3 class="heading"><span class="codenumber">7<span class="period">.</span></span></h3>
-<div class="para logical" id="p-953">
+<div class="para logical" id="p-955">
 <div class="para">What is the Sun's primary source of energy?</div>
 <ol class="lower-alpha">
 <li id="li-1068"><div class="para" id="p-derived-li-1068">Nuclear fusion</div></li>
@@ -685,7 +672,7 @@ window.MathJax = {
 <li id="li-1071"><div class="para" id="p-derived-li-1071">Gravitational energym</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-135"><h3 class="heading"><span class="codenumber">8<span class="period">.</span></span></h3>
-<div class="para logical" id="p-954">
+<div class="para logical" id="p-956">
 <div class="para">Which type of star is most likely to end its life as a black hole?</div>
 <ol class="lower-alpha">
 <li id="li-1072"><div class="para" id="p-derived-li-1072">Red giant</div></li>
@@ -694,8 +681,8 @@ window.MathJax = {
 <li id="li-1075"><div class="para" id="p-derived-li-1075">Blue supergiant</div></li>
 </ol>
 </div>
-<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-84" id="answer-84"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-84"><div class="answer solution-like"><div class="para" id="p-955">d.</div></div></div></article><article class="exercise exercise-like" id="exercise-136"><h3 class="heading"><span class="codenumber">9<span class="period">.</span></span></h3>
-<div class="para logical" id="p-956">
+<a href="" data-knowl="" class="id-ref answer-knowl original" data-refid="hk-answer-84" id="answer-84"><span class="type">Answer</span><span class="period">.</span></a><div class="hidden-content tex2jax_ignore" id="hk-answer-84"><div class="answer solution-like"><div class="para" id="p-957">d.</div></div></div></article><article class="exercise exercise-like" id="exercise-136"><h3 class="heading"><span class="codenumber">9<span class="period">.</span></span></h3>
+<div class="para logical" id="p-958">
 <div class="para">What happens to a star when it runs out of fuel for nuclear fusion?</div>
 <ol class="lower-alpha">
 <li id="li-1076"><div class="para" id="p-derived-li-1076">It explodes in a supernova</div></li>
@@ -704,7 +691,7 @@ window.MathJax = {
 <li id="li-1079"><div class="para" id="p-derived-li-1079">It continues to shine by burning its outer layers</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-137"><h3 class="heading"><span class="codenumber">10<span class="period">.</span></span></h3>
-<div class="para logical" id="p-957">
+<div class="para logical" id="p-959">
 <div class="para">What happens to the core of a massive star after a supernova explosion?</div>
 <ol class="lower-alpha">
 <li id="li-1080"><div class="para" id="p-derived-li-1080">It collapses into a black hole</div></li>
@@ -713,7 +700,7 @@ window.MathJax = {
 <li id="li-1083"><div class="para" id="p-derived-li-1083">It continues to shine as a red giant</div></li>
 </ol>
 </div></article><article class="exercise exercise-like" id="exercise-138"><h3 class="heading"><span class="codenumber">11<span class="period">.</span></span></h3>
-<div class="para logical" id="p-958">
+<div class="para logical" id="p-960">
 <div class="para">What is the ultimate fate of a low-mass star, like the Sun?</div>
 <ol class="lower-alpha">
 <li id="li-1084"><div class="para" id="p-derived-li-1084">It becomes a black hole</div></li>
