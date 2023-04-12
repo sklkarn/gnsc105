@@ -97,7 +97,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Examples",
-  "body": " Examples    Write the sum of the numbers and in a proper significant figures.    The mathematical sum of the numbers is but, the lowest decimal place in the data is one, hence the correct answer would be       Write the numbers in correct to its significant figures if is subtracted from .    The mathematical subtraction is but, the lowest decimal place in the data is two, hence the correct answer would be       Round off the numbers and to the three significant figures.   2.57, 2.57, 2.73 (or, 2.72).     Round off the numbers and to the two significant figures.   2100 (or, 2000), 8600, 5700.      Write the answer for each expression using scientific notation with the appropriate number of significant figures.                          What is the SI unit for measuring temperature?  Kelvin  Degree Celsius  Fahrenheit  Rankine      a.      What is the SI unit for measuring length?  Kelvin  Second  Meter  Kilogram      c.     What is the SI unit for measuring time?  Meter  Kilogram  Second  Watt      What is the conversion factor for converting centimeters to inch?  2.54  100  10  25.4     a.    "
+  "body": " Examples    Write the sum of the numbers and in a proper significant figures.    The mathematical sum of the numbers is but, the lowest decimal place in the data is one, hence the correct answer would be       Write the numbers in correct to its significant figures if is subtracted from .    The mathematical subtraction is but, the lowest decimal place in the data is two, hence the correct answer would be       Round off the numbers and to the three significant figures.   2.57, 2.57, 2.73 (or, 2.72).     Round off the numbers and to the two significant figures.   2100 (or, 2000), 8600, 5700.      Write the answer for each expression using scientific notation with the appropriate number of significant figures.                              What is the SI unit for measuring temperature?  Kelvin  Degree Celsius  Fahrenheit  Rankine      a.      What is the SI unit for measuring length?  Kelvin  Second  Meter  Kilogram      c.     What is the SI unit for measuring time?  Meter  Kilogram  Second  Watt      What is the conversion factor for converting centimeters to inch?  2.54  100  10  25.4     a.    "
 },
 {
   "id": "example-3",
@@ -3643,7 +3643,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.4",
   "title": "Examples",
-  "body": " Examples    Which of the following gases are abundant in atmosphere?  Oxygen.  Hydrogen.  Nitrogen.  Carbon dioxide.      c.      The formation of clouds, rains, storms are found in  Tropospher.  Stratosphere.  Ozonosphere.  Exosphere.      a.      What causes the temperature to increase with altitude in stratosphere?  Water vapor.  Ozone.  Pollutants.  Nitogen.      b.      The role of ozone in stratosphere to  block ultraviolet radiation.  reflects radio waves.  reflects ultraviolet radiation.  give blue color of the sky.      a.      The relative humidity of saturated air is  zero.  100%.  50%.  1%.      a.      Air holds more water vapor when it is at  low temperature.  high temperature.  high relative humidity.  All of the above.      b.      The temperature at which water vapor condenses is the  freezing point.  melting point.  relative humidity.  dew point.      d.      Greenhouse effect can be described as  certain gases in the atmosphere that trap heat and warm the earth.  life on earth exhales gas that warms up the atmosphere.  the sun is putting out more radiant energy over time.  the tiltation causes the earth to receive more heat time to time.      a.      Clouds form when changes into tiny water droplets or ice crystals.    water vapor.      When air moves upward to an area of less pressure it forms     clouds.      What causes wind to blow?  The rotation of the earth.  Differences in air temperature and pressure.  Differences in longitude.  Shock waves from clouds.      b.      What causes the Coriolis effect?  The rotation of the earth.  The revolution of the earth around the Sun.  The Sun's radiation.  The fact that the Earth is an oblate ellipsoid.      b.    "
+  "body": " Examples    Which of the following gases are abundant in atmosphere?  Oxygen.  Hydrogen.  Nitrogen.  Carbon dioxide.      c.      The formation of clouds, rains, storms are found in  Tropospher.  Stratosphere.  Ozonosphere.  Exosphere.      a.      What causes the temperature to increase with altitude in stratosphere?  Water vapor.  Ozone.  Pollutants.  Nitogen.      b.      The role of ozone in stratosphere to  block ultraviolet radiation.  reflects radio waves.  reflects ultraviolet radiation.  give blue color of the sky.      a.      The relative humidity of saturated air is  zero.  100%.  50%.  1%.      b.      Air holds more water vapor when it is at  low temperature.  high temperature.  high relative humidity.  All of the above.      b.      The temperature at which water vapor condenses is the  freezing point.  melting point.  relative humidity.  dew point.      d.      Greenhouse effect can be described as  certain gases in the atmosphere that trap heat and warm the earth.  life on earth exhales gas that warms up the atmosphere.  the sun is putting out more radiant energy over time.  the tiltation causes the earth to receive more heat time to time.      a.      Clouds form when changes into tiny water droplets or ice crystals.    water vapor.      When air moves upward to an area of less pressure it forms     clouds.      What causes wind to blow?  The rotation of the earth.  Differences in air temperature and pressure.  Differences in longitude.  Shock waves from clouds.      b.      What causes the Coriolis effect?  The rotation of the earth.  The revolution of the earth around the Sun.  The Sun's radiation.  The fact that the Earth is an oblate ellipsoid.      a.    "
 },
 {
   "id": "example-125",
@@ -3688,7 +3688,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "10.4.5",
   "title": "",
-  "body": "  The relative humidity of saturated air is  zero.  100%.  50%.  1%.      a.   "
+  "body": "  The relative humidity of saturated air is  zero.  100%.  50%.  1%.      b.   "
 },
 {
   "id": "example-130",
@@ -3751,7 +3751,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "10.4.12",
   "title": "",
-  "body": "  What causes the Coriolis effect?  The rotation of the earth.  The revolution of the earth around the Sun.  The Sun's radiation.  The fact that the Earth is an oblate ellipsoid.      b.   "
+  "body": "  What causes the Coriolis effect?  The rotation of the earth.  The revolution of the earth around the Sun.  The Sun's radiation.  The fact that the Earth is an oblate ellipsoid.      a.   "
 },
 {
   "id": "ex_tenth",
