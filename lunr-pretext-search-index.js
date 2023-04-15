@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Ancient Observations",
-  "body": " Ancient Observations   We have been observing sky solar system since the begining of human history. It seems that the sun is revolving around the earth. On such observation the Greek astronomer, Claudius Ptolemy in 150 AD came up with the idea of Geocentric Theory  geocentric theory in which unmoving earth is at the center of the universe and the sun is revolving around it. He was able to predict fairly accurate positions of celectial objects and his theory was the longest ever (about 2500 years) accepted theory of universe. However, his theory was not able to explain Retrograde Motion correctly.    Retrograde Motion  Sometimes celestial objects such as some planets appear to move backward in their orbit around the sun as shown in the animation below. Retrograde Motion Please click on start button in the animation. In the animation retrograde motion is shown for the planet \"Mars\". The projection of mars in the sky is shown by the background stars. We notice that when mars reaches certain positions it looks suddenly moving backward as seen from the earth and after some time in the year it again starts moving forward in its orbit around the sun. Such an apparent reverse motion of the planets is called retrograde motion. Ptolmy's geocentric theory was not able to explain this event cleary. So in 1543, Polish astronomer, Nicholas Copernicus publish revised but completly radical theory called Heliocentric Theory . In this theory the unmovable sun at the center of the universe nd all the planets are moving around it in the specific oribit. This theory was able to solve almost all the puzzles of the time. In heliocentric model of the solar system Copernicus proposed that the Earth has three distinct motions: a daily axial rotation, an annual rotation about the Sun, and a precessional motion of its axis.    Tides  The regular rise and fall of ocean water is called tides tides >. Tides are water waves that occur naturally in ocean due to force of gravity on earth surface due to the moon and the sun. Please watch this video to understand the tides. Tide Formation Because of moon's gravity water bulges out of the earth surface and keep getting dragged as the moon moves around the earth. The effect of moon's gravity is more on the earth surface than the sun's gravity due to their distant positions. When sun and moon are located along the same direction high tide is higher than normal high tide and low tide is lower than normal low tide and they are collectivly called Spring Tide . When sun and moon are at right angles to each other than high tide and low tide both are shorter than usual and they are called Neep Tide . There are alawyes two high and two low tides in every 24 hours.    Some more observations  In the animation window, observe some more natural phenomena and prepare your own hypotheses. celestial sphere The yellow circle in the animation is called an Ecliptic line. It is an apparent path of the sun in the sky as viewed from the earth over the course of a year.   "
+  "body": " Ancient Observations   We have been observing sky night sky since the begining of human history. It seems that the sun is revolving around the earth. On such observation the Greek astronomer, Claudius Ptolemy in 150 AD came up with the idea of Geocentric Theory  geocentric theory in which unmoving earth is at the center of the universe and the sun is revolving around it. He was able to predict fairly accurate positions of celectial objects and his theory was the longest ever (about 2500 years) accepted theory of universe. However, his theory was not able to explain Retrograde Motion correctly.    Retrograde Motion  Sometimes celestial objects such as some planets appear to move backward in their orbit around the sun as shown in the animation below. Retrograde Motion Please click on start button in the animation. In the animation retrograde motion is shown for the planet \"Mars\". The projection of mars in the sky is shown by the background stars. We notice that when mars reaches certain positions it looks suddenly moving backward as seen from the earth and after some time in the year it again starts moving forward in its orbit around the sun. Such an apparent reverse motion of the planets is called retrograde motion. Ptolmy's geocentric theory was not able to explain this event cleary. So in 1543, Polish astronomer, Nicholas Copernicus publish revised but completly radical theory called Heliocentric Theory . In this theory the unmovable sun at the center of the universe nd all the planets are moving around it in the specific oribit. This theory was able to solve almost all the puzzles of the time. In heliocentric model of the solar system Copernicus proposed that the Earth has three distinct motions: a daily axial rotation, an annual rotation about the Sun, and a precessional motion of its axis.    Tides  The regular rise and fall of ocean water is called tides tides >. Tides are water waves that occur naturally in ocean due to force of gravity on earth surface due to the moon and the sun. Please watch this video to understand the tides. Tide Formation Because of moon's gravity water bulges out of the earth surface and keep getting dragged as the moon moves around the earth. The effect of moon's gravity is more on the earth surface than the sun's gravity due to their distant positions. When sun and moon are located along the same direction high tide is higher than normal high tide and low tide is lower than normal low tide and they are collectivly called Spring Tide . When sun and moon are at right angles to each other than high tide and low tide both are shorter than usual and they are called Neep Tide . There are alawyes two high and two low tides in every 24 hours.    Some more observations  In the animation window, observe some more natural phenomena and prepare your own hypotheses. celestial sphere The yellow circle in the animation is called an Ecliptic line. It is an apparent path of the sun in the sky as viewed from the earth over the course of a year.   "
 },
 {
   "id": "sec_unit_convers",
@@ -4057,7 +4057,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.3",
   "title": "The Hydrosphere",
-  "body": " The Hydrosphere   The hydrosphere is the part of Earth's surface where water exists, including oceans, rivers, lakes, groundwater, and other bodies of water. Hydrosphere occupies over of earth's surface. It plays a crucial role in  Maintaining Earth's Climate: The oceans absorb, store, and release heat, which helps regulate the Earth's temperature and climate.  Regulating Weather Patterns: The hydrosphere influences the movement and intensity of storms, hurricanes, and other weather patterns.  Supporting Life: Water is essential for all forms of life, and the hydrosphere provides habitat for aquatic plants and animals, as well as drinking water for humans and other animals.  Facilitating Transportation and Commerce: Oceans, rivers, and other bodies of water have been used for transportation and commerce for thousands of years, enabling the movement of people and goods around the world.  Supporting Agriculture: Water from the hydrosphere is used for irrigation, which is essential for growing crops and supporting agriculture.  Overall, the hydrosphere plays a crucial role in the Earth's systems and is interconnected with the other spheres, including the atmosphere (air), geosphere (rock, soil, and land), and biosphere (living things).    Ocean Basins   Ocean Basins    Ocean basins are large depressions on the surface of the Earth that are filled with water. The ocean basins cover approximately 70% of the Earth's surface and are divided into several major basins, including the Atlantic, Indian, Pacific, and Southern Ocean basins. The ocean basins are formed by the process of plate tectonics, where the Earth's crust is broken up into several large plates that move around on the Earth's surface. As these plates move apart, new oceanic crust is formed at mid-ocean ridges [ ], and the ocean basins are gradually widened. The ocean basins are also home to a wide variety of marine life, including fish, whales, dolphins, sharks, and many other types of sea creatures. The study of the ocean basins is important for understanding many aspects of the Earth's climate, such as ocean currents, temperature, and salinity. Ocean basins are bounded by continental landmasses. Ocean bottom generally slopes downward from the continental shelves to the deeper ocean basins. This slope is known as the continental slope and is usually steeper than the continental shelf. The slope continues down to the deep-sea floor, which is generally characterized by a flat plain known as the abyssal plain . Continental shelves are areas of the ocean floor that extend from the continents and are covered by shallow water . They are part of the continental crust that is submerged below sea level, and they slope gradually downward from the shorelines to the deeper ocean basins. The ocean floor is the bottom of the ocean, which covers about 70% of the Earth's surface. The ocean floor is characterized by a variety of geological features, including mountains, trenches, ridges, and plains.     Weathering  Weathering refers to the process by which rocks and other materials are broken down and degraded over time by exposure to the elements. This can happen through physical, chemical, or biological means, and can be caused by a variety of factors such as temperature changes, wind, water, and living organisms. Physical weathering involves the mechanical breakdown of rocks and other materials due to factors such as freeze-thaw cycles, abrasion, and the expansion and contraction of materials due to temperature changes. Chemical weathering involves the breakdown of rocks and other materials through chemical reactions such as oxidation, dissolution, and hydrolysis. Biological weathering involves the breakdown of materials due to the activities of living organisms such as plants, animals, and bacteria. Weathering plays a key role in the formation of soils, the erosion of mountains, and the creation of landscapes such as canyons and valleys.    Erosion  Erosion refers to the process by which soil, rock, and other geological materials are moved from one place to another by natural agents such as wind, water, ice, and gravity. Water erosion is one of the most common types of erosion, occurring when rainwater or runoff moves soil particles downhill and into streams or rivers. This can lead to the formation of gullies, stream channels, and river deltas. Wind erosion occurs when wind picks up and carries soil particles, causing them to be deposited in other areas and potentially causing soil degradation and loss of vegetation. Glacial erosion occurs when glaciers move over the land, scraping and eroding the surface and transporting rocks and other materials to other locations. Human activities such as deforestation, agriculture, and construction can also contribute to erosion by removing vegetation and disturbing the soil, leading to increased susceptibility to erosion by natural agents. Erosion can have both positive and negative effects on the environment. It can create new landforms and shape landscapes. It can also lead to soil degradation, loss of biodiversity, and the accumulation of sediment in water bodies, which can have negative impacts on aquatic ecosystems.   Erosion by running water is one of the most common types of erosion and occurs when rainwater or surface runoff flows over land and picks up soil particles, which are then transported downstream. The amount of erosion by running water depends on several factors such as the velocity of the water, the amount of rainfall, and the characteristics of the soil or rock being eroded. High-velocity water, such as that found in rivers and streams, can cause significant erosion by carrying large quantities of sediment downstream. This can lead to the formation of gullies, canyons, and river channels. Sheet erosion, on the other hand, occurs when surface runoff moves over a wide area, gradually removing thin layers of soil from the surface. This type of erosion can be caused by heavy rainfall, snowmelt, or other factors that increase the amount of runoff. Over time, erosion by running water can cause significant changes to the landscape, including the formation of valleys and other landforms. It can also lead to soil degradation, loss of vegetation, and the deposition of sediment in water bodies, which can have negative impacts on aquatic ecosystems. To reduce erosion by running water, several measures can be taken, including the use of erosion control structures, such as retaining walls or riprap, planting vegetation to stabilize soil, and reducing the amount of impervious surfaces in urban areas to decrease runoff.    Ground Water  Water is found in various forms on Earth, including oceans, rivers, lakes, glaciers, groundwater, and atmospheric water vapor. The Earth's water cycle, also known as the hydrologic cycle, involves the continuous movement of water between these different forms, driven by processes such as evaporation, precipitation, and transpiration. The vast majority of Earth's water is contained in the oceans, which cover about 70% of the planet's surface. The remaining water is found in freshwater sources such as lakes, rivers, and groundwater. Groundwater refers to water that is stored beneath the Earth's surface in porous rock or soil. It is an important source of freshwater for many people around the world and plays a crucial role in the Earth's hydrologic cycle. Groundwater is replenished through processes such as precipitation and infiltration, which cause water to percolate down through soil and rock layers until it reaches an impermeable layer, such as bedrock. The water is stored in the pores and fractures of the rock or soil, forming an aquifer. The amount of water that can be stored in an aquifer depends on several factors, including the porosity and permeability of the rock or soil, the amount of rainfall or recharge, and the rate of extraction. Groundwater is often accessed through wells, which are drilled into the aquifer to extract water. Groundwater can also discharge into surface water bodies such as lakes and rivers, providing a source of water for these ecosystems. However, overuse of groundwater can lead to depletion of the aquifer, which can have negative impacts on human water supplies and natural ecosystems. Groundwater can also become contaminated through human activities such as agriculture, mining, and waste disposal, which can have negative impacts on human health and the environment.  A spring is a natural water source that flows from the ground to the surface. Springs occur when groundwater, which is water stored beneath the Earth's surface in soil, sediment, or rocks, becomes saturated and flows out to the surface. The location and flow of springs are determined by the geology of the area, including the types of rocks and sediments present, as well as the amount of rainfall and the shape of the land. Springs are important sources of freshwater for human consumption and are also critical habitats for many plant and animal species. Springs can be classified into several types based on the geologic and hydrologic characteristics of the aquifer that they originate from, including artesian springs, seepage springs, and karst springs.  The water table is the level below the ground surface where the soil or rock is saturated with water. It represents the upper boundary of the zone of saturation, which is the area beneath the ground surface where all of the pore spaces in the soil or rock are filled with water. The water table can be at different depths depending on the local geology, climate, and land use practices. The water table can rise or fall depending on the amount of precipitation, evaporation, and human water use in the area. When there is excess rainfall or snowmelt, the water table can rise, which can cause shallow wells and basements to flood. Conversely, during periods of drought or increased human water use, the water table can fall, which can cause wells to go dry and lead to decreased streamflow and other environmental impacts. The depth of the water table is an important factor in determining the availability of groundwater for drinking water, agriculture, and other uses. It is typically measured using a monitoring well that is drilled into the ground and equipped with a device that can measure the water level in the well. Groundwater management practices often focus on maintaining the water table at a sustainable level to ensure continued availability of this important resource.    Sediment Deposition  Sediment deposition sites refer to locations where sediment is deposited and accumulates over time. Sediments can come from a variety of sources, including erosion of rock and soil, volcanic activity, and human activities such as mining, construction, and agriculture. One common type of sediment deposition site is a delta, which is an area where a river or stream enters a larger body of water, such as a lake or ocean. The sediment carried by the river or stream is deposited at the mouth of the river, gradually building up the delta over time. Another type of sediment deposition site is a floodplain, which is an area of land that is adjacent to a river or stream and is prone to flooding. Floodwaters carry sediment, which is deposited on the floodplain when the water recedes. Over time, this can lead to the accumulation of a thick layer of sediment on the floodplain. Coastal areas can also be sediment deposition sites, where sediment is deposited by ocean currents and waves. This can lead to the formation of beaches, sand dunes, and other coastal landforms. Finally, human activities such as mining, construction, and agriculture can also create sediment deposition sites. For example, mining activities can create tailings, which are waste materials that contain high concentrations of sediment. These tailings can be deposited in designated areas, where they can accumulate over time. Which forms the new landforms and habitats, provide important resources such as fertile soil and minerals, and contribute to the overall health and functioning of natural ecosystems.    Caves  Caves are formed by various geological processes, such as erosion, weathering, and dissolution of rocks. The most common type of cave is a solution cave, which is formed in soluble rocks, such as limestone, dolomite, and gypsum, by the action of water and acids. When rainwater or groundwater passes through soil and vegetation, it becomes slightly acidic due to the presence of carbon dioxide. This slightly acidic water can dissolve the soluble minerals in rocks, creating cracks and fissures. Over time, these cracks and fissures can widen and form underground channels and caverns.    Tsunami  A tsunami  tsunami is a series of ocean waves with very long wavelengths (hundred of kilometers long) caused by large-scale disturbances of the ocean due to earthquakes , volcanic eruptions, or underwater landslides. Tsunamis can also be generated by large meteorite impacts or nuclear explosions in the ocean. When a large disturbance occurs, it can create a series of waves that radiate outwards from the source. These waves can travel across entire ocean basins and can cause significant damage when they reach shore. Tsunami waves can reach heights of tens of meters, and their high energy can devastate coastal communities, causing flooding, erosion, and destruction of buildings and infrastructure. Tsunamis travel at high speeds, with typical speeds of around 700 kilometers per hour in deep water. Because of their high speed and long wavelength, they can pass unnoticed in the open ocean, with wave heights typically only a few centimeters. However, as the waves approach shallow waters near the coast, they slow down and the wave height increases, creating a wall of water that can inundate coastal areas.    Tsunami     "
+  "body": " The Hydrosphere   The hydrosphere is the part of Earth's surface where water exists, including oceans, rivers, lakes, groundwater, and other bodies of water. Hydrosphere occupies over of earth's surface. It plays a crucial role in  Maintaining Earth's Climate: The oceans absorb, store, and release heat, which helps regulate the Earth's temperature and climate.  Regulating Weather Patterns: The hydrosphere influences the movement and intensity of storms, hurricanes, and other weather patterns.  Supporting Life: Water is essential for all forms of life, and the hydrosphere provides habitat for aquatic plants and animals, as well as drinking water for humans and other animals.  Facilitating Transportation and Commerce: Oceans, rivers, and other bodies of water have been used for transportation and commerce for thousands of years, enabling the movement of people and goods around the world.  Supporting Agriculture: Water from the hydrosphere is used for irrigation, which is essential for growing crops and supporting agriculture.  Overall, the hydrosphere plays a crucial role in the Earth's systems and is interconnected with the other spheres, including the atmosphere (air), geosphere (rock, soil, and land), and biosphere (living things).    Ocean Basins   Ocean Basins    Ocean basins are large depressions on the surface of the Earth that are filled with water. The ocean basins cover approximately 70% of the Earth's surface and are divided into several major basins, including the Atlantic, Indian, Pacific, and Southern Ocean basins. The ocean basins are formed by the process of plate tectonics, where the Earth's crust is broken up into several large plates that move around on the Earth's surface. As these plates move apart, new oceanic crust is formed at mid-ocean ridges [ ], and the ocean basins are gradually widened. The ocean basins are also home to a wide variety of marine life, including fish, whales, dolphins, sharks, and many other types of sea creatures. The study of the ocean basins is important for understanding many aspects of the Earth's climate, such as ocean currents, temperature, and salinity. Ocean basins are bounded by continental landmasses. Ocean bottom generally slopes downward from the continental shelves to the deeper ocean basins. This slope is known as the continental slope and is usually steeper than the continental shelf. The slope continues down to the deep-sea floor, which is generally characterized by a flat plain known as the abyssal plain . Continental shelves are areas of the ocean floor that extend from the continents and are covered by shallow water . They are part of the continental crust that is submerged below sea level, and they slope gradually downward from the shorelines to the deeper ocean basins. The ocean floor is the bottom of the ocean, which covers about 70% of the Earth's surface. The ocean floor is characterized by a variety of geological features, including mountains, trenches, ridges, and plains.     Weathering  Weathering refers to the process by which rocks and other materials are broken down and degraded over time by exposure to the elements. This can happen through physical, chemical, or biological means, and can be caused by a variety of factors such as temperature changes, wind, water, and living organisms. Physical weathering involves the mechanical breakdown of rocks and other materials due to factors such as freeze-thaw cycles, abrasion, and the expansion and contraction of materials due to temperature changes. Chemical weathering involves the breakdown of rocks and other materials through chemical reactions such as oxidation, dissolution, and hydrolysis. Biological weathering involves the breakdown of materials due to the activities of living organisms such as plants, animals, and bacteria. Weathering plays a key role in the formation of soils, the erosion of mountains, and the creation of landscapes such as canyons and valleys.    Erosion  Erosion refers to the process by which soil, rock, and other geological materials are moved from one place to another by natural agents such as wind, water, ice, and gravity. Water erosion is one of the most common types of erosion, occurring when rainwater or runoff moves soil particles downhill and into streams or rivers. This can lead to the formation of gullies, stream channels, and river deltas. Wind erosion occurs when wind picks up and carries soil particles, causing them to be deposited in other areas and potentially causing soil degradation and loss of vegetation. Glacial erosion occurs when glaciers move over the land, scraping and eroding the surface and transporting rocks and other materials to other locations. Human activities such as deforestation, agriculture, and construction can also contribute to erosion by removing vegetation and disturbing the soil, leading to increased susceptibility to erosion by natural agents. Erosion can have both positive and negative effects on the environment. It can create new landforms and shape landscapes. It can also lead to soil degradation, loss of biodiversity, and the accumulation of sediment in water bodies, which can have negative impacts on aquatic ecosystems.   Erosion by running water is one of the most common types of erosion and occurs when rainwater or surface runoff flows over land and picks up soil particles, which are then transported downstream. The amount of erosion by running water depends on several factors such as the velocity of the water, the amount of rainfall, and the characteristics of the soil or rock being eroded. High-velocity water, such as that found in rivers and streams, can cause significant erosion by carrying large quantities of sediment downstream. This can lead to the formation of gullies, canyons, and river channels. Sheet erosion, on the other hand, occurs when surface runoff moves over a wide area, gradually removing thin layers of soil from the surface. This type of erosion can be caused by heavy rainfall, snowmelt, or other factors that increase the amount of runoff. Over time, erosion by running water can cause significant changes to the landscape, including the formation of valleys and other landforms. It can also lead to soil degradation, loss of vegetation, and the deposition of sediment in water bodies, which can have negative impacts on aquatic ecosystems. To reduce erosion by running water, several measures can be taken, including the use of erosion control structures, such as retaining walls or riprap, planting vegetation to stabilize soil, and reducing the amount of impervious surfaces in urban areas to decrease runoff.    Ground Water  Water is found in various forms on Earth, including oceans, rivers, lakes, glaciers, groundwater, and atmospheric water vapor. The Earth's water cycle, also known as the hydrologic cycle, involves the continuous movement of water between these different forms, driven by processes such as evaporation, precipitation, and transpiration. The vast majority of Earth's water is contained in the oceans, which cover about 70% of the planet's surface. The remaining water is found in freshwater sources such as lakes, rivers, and groundwater. Groundwater refers to water that is stored beneath the Earth's surface in porous rock or soil. It is an important source of freshwater for many people around the world and plays a crucial role in the Earth's hydrologic cycle. Groundwater is replenished through processes such as precipitation and infiltration, which cause water to percolate down through soil and rock layers until it reaches an impermeable layer, such as bedrock. The water is stored in the pores and fractures of the rock or soil, forming an aquifer. The amount of water that can be stored in an aquifer depends on several factors, including the porosity and permeability of the rock or soil, the amount of rainfall or recharge, and the rate of extraction. Groundwater is often accessed through wells, which are drilled into the aquifer to extract water. Groundwater can also discharge into surface water bodies such as lakes and rivers, providing a source of water for these ecosystems. However, overuse of groundwater can lead to depletion of the aquifer, which can have negative impacts on human water supplies and natural ecosystems. Groundwater can also become contaminated through human activities such as agriculture, mining, and waste disposal, which can have negative impacts on human health and the environment.  A spring is a natural water source that flows from the ground to the surface. Springs occur when groundwater, which is water stored beneath the Earth's surface in soil, sediment, or rocks, becomes saturated and flows out to the surface. The location and flow of springs are determined by the geology of the area, including the types of rocks and sediments present, as well as the amount of rainfall and the shape of the land. Springs are important sources of freshwater for human consumption and are also critical habitats for many plant and animal species. Springs can be classified into several types based on the geologic and hydrologic characteristics of the aquifer that they originate from, including artesian springs, seepage springs, and karst springs.  The water table is the level below the ground surface where the soil or rock is saturated with water. It represents the upper boundary of the zone of saturation, which is the area beneath the ground surface where all of the pore spaces in the soil or rock are filled with water. The water table can be at different depths depending on the local geology, climate, and land use practices. The water table can rise or fall depending on the amount of precipitation, evaporation, and human water use in the area. When there is excess rainfall or snowmelt, the water table can rise, which can cause shallow wells and basements to flood. Conversely, during periods of drought or increased human water use, the water table can fall, which can cause wells to go dry and lead to decreased streamflow and other environmental impacts. The depth of the water table is an important factor in determining the availability of groundwater for drinking water, agriculture, and other uses. It is typically measured using a monitoring well that is drilled into the ground and equipped with a device that can measure the water level in the well. Groundwater management practices often focus on maintaining the water table at a sustainable level to ensure continued availability of this important resource.    Sediment Deposition  Sediment deposition sites refer to locations where sediment is deposited and accumulates over time. Sediments can come from a variety of sources, including erosion of rock and soil, volcanic activity, and human activities such as mining, construction, and agriculture. One common type of sediment deposition site is a delta, which is an area where a river or stream enters a larger body of water, such as a lake or ocean. The sediment carried by the river or stream is deposited at the mouth of the river, gradually building up the delta over time. Another type of sediment deposition site is a floodplain, which is an area of land that is adjacent to a river or stream and is prone to flooding. Floodwaters carry sediment, which is deposited on the floodplain when the water recedes. Over time, this can lead to the accumulation of a thick layer of sediment on the floodplain. Coastal areas can also be sediment deposition sites, where sediment is deposited by ocean currents and waves. This can lead to the formation of beaches, sand dunes, and other coastal landforms. Finally, human activities such as mining, construction, and agriculture can also create sediment deposition sites. For example, mining activities can create tailings, which are waste materials that contain high concentrations of sediment. These tailings can be deposited in designated areas, where they can accumulate over time. Which forms the new landforms and habitats, provide important resources such as fertile soil and minerals, and contribute to the overall health and functioning of natural ecosystems.    Caves  Caves are formed by various geological processes, such as erosion, weathering, and dissolution of rocks. The most common type of cave is a solution cave, which is formed in soluble rocks, such as limestone, dolomite, and gypsum, by the action of water and acids. When rainwater or groundwater passes through soil and vegetation, it becomes slightly acidic due to the presence of carbon dioxide. This slightly acidic water can dissolve the soluble minerals in rocks, creating cracks and fissures. Over time, these cracks and fissures can widen and form underground channels and caverns.    Coral Reef  Coral reefs are underwater ecosystems that are built by colonies of small organisms called coral polyps. Coral reefs are found in shallow, clear waters, primarily in tropical and subtropical regions around the world. They are important because they provide habitat for a diverse array of marine species, and they also provide a natural barrier that protects coastal areas from storms and erosion. Coral reefs are particularly vulnerable to changes in water temperature, acidity, and pollution, which can cause coral bleaching and damage to the entire ecosystem.    Tsunami  A tsunami  tsunami is a series of ocean waves with very long wavelengths (hundred of kilometers long) caused by large-scale disturbances of the ocean due to earthquakes , volcanic eruptions, or underwater landslides. Tsunamis can also be generated by large meteorite impacts or nuclear explosions in the ocean. When a large disturbance occurs, it can create a series of waves that radiate outwards from the source. These waves can travel across entire ocean basins and can cause significant damage when they reach shore. Tsunami waves can reach heights of tens of meters, and their high energy can devastate coastal communities, causing flooding, erosion, and destruction of buildings and infrastructure. Tsunamis travel at high speeds, with typical speeds of around 700 kilometers per hour in deep water. Because of their high speed and long wavelength, they can pass unnoticed in the open ocean, with wave heights typically only a few centimeters. However, as the waves approach shallow waters near the coast, they slow down and the wave height increases, creating a wall of water that can inundate coastal areas.    Tsunami     "
 },
 {
   "id": "fig-basin",
@@ -4114,9 +4114,9 @@ var ptx_lunr_docs = [
   "body": "water table "
 },
 {
-  "id": "p-808",
+  "id": "p-809",
   "level": "2",
-  "url": "sec_tenth-hydros.html#p-808",
+  "url": "sec_tenth-hydros.html#p-809",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4501,9 +4501,9 @@ var ptx_lunr_docs = [
   "body": " Earth's Layers   "
 },
 {
-  "id": "p-878",
+  "id": "p-879",
   "level": "2",
-  "url": "sec_eleventh-intro.html#p-878",
+  "url": "sec_eleventh-intro.html#p-879",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4546,9 +4546,9 @@ var ptx_lunr_docs = [
   "body": " Some common minerals   "
 },
 {
-  "id": "p-881",
+  "id": "p-882",
   "level": "2",
-  "url": "sec_eleventh-rockminr.html#p-881",
+  "url": "sec_eleventh-rockminr.html#p-882",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4564,9 +4564,9 @@ var ptx_lunr_docs = [
   "body": " Types of Rocks   "
 },
 {
-  "id": "p-882",
+  "id": "p-883",
   "level": "2",
-  "url": "sec_eleventh-rockminr.html#p-882",
+  "url": "sec_eleventh-rockminr.html#p-883",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4582,9 +4582,9 @@ var ptx_lunr_docs = [
   "body": " Some common Rocks   "
 },
 {
-  "id": "p-883",
+  "id": "p-884",
   "level": "2",
-  "url": "sec_eleventh-rockminr.html#p-883",
+  "url": "sec_eleventh-rockminr.html#p-884",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4609,9 +4609,9 @@ var ptx_lunr_docs = [
   "body": "  Earthquake   "
 },
 {
-  "id": "p-884",
+  "id": "p-885",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-884",
+  "url": "sec_eleventh-quake.html#p-885",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4627,9 +4627,9 @@ var ptx_lunr_docs = [
   "body": "  Types of waves in Earthquake    Body Waves     Surface Wave     "
 },
 {
-  "id": "p-885",
+  "id": "p-886",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-885",
+  "url": "sec_eleventh-quake.html#p-886",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4645,9 +4645,9 @@ var ptx_lunr_docs = [
   "body": " Propagation of body and surface waves   "
 },
 {
-  "id": "p-886",
+  "id": "p-887",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-886",
+  "url": "sec_eleventh-quake.html#p-887",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4663,9 +4663,9 @@ var ptx_lunr_docs = [
   "body": "    Types of faults     Focus and epicenter     Richter scale     "
 },
 {
-  "id": "p-887",
+  "id": "p-888",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-887",
+  "url": "sec_eleventh-quake.html#p-888",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4681,9 +4681,9 @@ var ptx_lunr_docs = [
   "body": " Tectonic Movement   Tectonic movement refers to the movement of large sections of the Earth's lithosphere (the rigid outer layer of the Earth that consists of the crust and uppermost part of the mantle) relative to each other. The lithosphere is broken up into a number of plates that move around on the underlying asthenosphere (the partially molten, ductile region of the mantle). Tectonic movement occurs primarily at plate boundaries, where plates interact with each other. There are three types of plate boundaries: Divergent boundaries: where plates move away from each other, creating new crust. This occurs mainly at mid-ocean ridges. Convergent boundaries: where plates move towards each other and one plate is usually subducted (forced beneath) the other. This can cause earthquakes, volcanoes and mountain-building. Transform boundaries: where plates slide past each other horizontally. This can also cause earthquakes. Tectonic movement is driven by the movement of molten rock in the mantle, which creates convection currents that move the plates.    Plate Tectonic    The speed of plate movement can vary from a few millimet4Xebwzb3dDEers to several centimeters per year. A mid-ocean ridge is an underwater mountain range that runs along the floor of the Earth's ocean basins. It is a divergent plate boundary where two tectonic plates are moving away from each other, causing magma from the Earth's mantle to rise up and solidify, forming new oceanic crust. The mid-ocean ridge system is the longest mountain range on Earth, stretching over 40,000 miles (64,000 kilometers) and covering more than 23% of the Earth's surface. It is located in all of the Earth's major oceans, and its highest points are often found above sea level, forming volcanic islands. A volcanic eruption is a geological event that occurs when magma, ash, and gases escape from a volcano. Volcanic eruptions can be explosive or effusive and can vary in intensity and duration. Explosive eruptions occur when a buildup of pressure causes a sudden release of gas, ash, and magma. These eruptions can be violent and destructive, sending plumes of ash and debris high into the air and causing widespread damage to surrounding areas. Effusive eruptions, on the other hand, are characterized by a steady flow of lava from the volcano. These eruptions can last for weeks, months, or even years, and can create new land by adding layers of solidified lava to the landscape.    Continental Drift   Earth map    Continental drift is the theory that the Earth's continents were once joined together in a single landmass and have since drifted apart over millions of years. This theory was first proposed by Alfred Wegener in 1912, based on the observation that the shapes of the continents on either side of the Atlantic Ocean seemed to fit together like puzzle pieces . According to the theory of continental drift, the continents were once part of a single supercontinent called Pangaea , which began to break apart about 200 million years ago. Over time, the continents moved away from each other, driven by the movement of tectonic plates in the Earth's lithosphere. The idea of continental drift was initially met with skepticism, but it gained support over time as evidence from different fields of science began to accumulate. One of the key pieces of evidence came from the study of paleomagnetism, which showed that the magnetic orientation of rocks on different continents matched up when the continents were brought together. Watch this video lecture    Theory of Continental drift     Laurasia and Gondwana were two supercontinents that existed during the Mesozoic Era, between approximately 252 million to 66 million years ago. Laurasia was a northern supercontinent that consisted of present-day North America, Europe, and Asia (excluding India and Arabia). It formed during the Late Paleozoic Era when the supercontinent Pangaea began to break apart. Laurasia continued to fragment during the Mesozoic Era, eventually forming the continents we see today. Gondwana, on the other hand, was a southern supercontinent that consisted of present-day South America, Africa, Antarctica, Australia, the Indian subcontinent, and the Arabian Peninsula. It formed during the Neoproterozoic Era, when earlier supercontinents began to break apart. Gondwana also continued to fragment during the Mesozoic Era, eventually forming the continents we see today. Laurasia and Gondwana were separated by the Tethys Sea . The breakup of these supercontinents played a significant role in shaping the geography of the Earth and the evolution of life on the planet. For example, the separation of South America and Africa created an oceanic barrier that allowed different species to evolve independently. The separation of India from Antarctica and Australia led to the formation of the Himalayas.    Plate Tectonics   Plate collision    There are around 15 major tectonic plates on Earth, as well as several smaller ones. The major plates include the African Plate, Antarctic Plate, Australian Plate, Eurasian Plate, North American Plate, Pacific Plate, South American Plate, and others. These plates are in constant motion, with some moving towards each other (convergent boundaries), some moving apart from each other (divergent boundaries), and some sliding past each other (transform boundaries). These movements can cause geological phenomena such as earthquakes, volcanic eruptions, and the formation of mountain ranges.  Oceanic-continental plate collision: When an oceanic plate collides with a continental plate, the denser oceanic plate is usually subducted, or forced beneath the less dense continental plate. This process can lead to the formation of subduction zones, where the oceanic plate is forced downward into the mantle, creating a deep oceanic trench  . As the oceanic plate is subducted, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can create a line of volcanoes known as a volcanic arc on the continental plate side of the subduction zone. The collision between the oceanic and continental plates can also cause folding and faulting of the continental crust, leading to the formation of mountain ranges. The collision can also cause earthquakes as the plates grind against each other and release energy. One well-known example of an oceanic-continental plate collision is the Andes Mountains in South America.  Oceanic-oceanic plate collision: When two oceanic plates collide, one plate usually subducts beneath the other, creating a subduction zone. The subducted plate is forced down into the mantle, creating a deep trench , while the overriding plate forms an island arc, a curved chain of volcanic islands. As the subducted plate sinks deeper into the mantle, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can contribute to the growth of the island arc. Over time, the volcanic activity can also lead to the formation of a new oceanic crust, as magma solidifies and builds up on the seafloor. This process is known as seafloor spreading. One example of an oceanic-oceanic plate collision is the collision between the Pacific Plate and the Philippine Sea Plate, which has created the Marianas Trench and the Mariana Islands, a volcanic island arc in the western Pacific Ocean.  Continental-continental plate collision: When two continental plates collide, neither plate is subducted because both plates are too buoyant to sink. Instead, the collision can lead to the formation of massive mountain ranges and intense deformation of the continental crust. As the two continental plates collide, they crumple and fold, leading to the formation of complex mountain belts. The collision can also cause extensive faulting and fracturing of the crust, leading to the formation of deep basins and rift valleys. Over time, erosion can wear down the mountains, leading to the deposition of sedimentary rocks in the basins and valleys. One example of a continental-continental plate collision is the collision between the Indian Plate and the Eurasian Plate, which has led to the formation of the Himalayan mountain range, the tallest mountain range in the world. The collision between these two plates is ongoing, and the Himalayas continue to grow taller each year.     "
 },
 {
-  "id": "p-888",
+  "id": "p-889",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-888",
+  "url": "sec_eleventh-tectmov.html#p-889",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4699,9 +4699,9 @@ var ptx_lunr_docs = [
   "body": "  Plate Tectonic   "
 },
 {
-  "id": "p-889",
+  "id": "p-890",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-889",
+  "url": "sec_eleventh-tectmov.html#p-890",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4726,9 +4726,9 @@ var ptx_lunr_docs = [
   "body": "  Theory of Continental drift   "
 },
 {
-  "id": "p-891",
+  "id": "p-892",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-891",
+  "url": "sec_eleventh-tectmov.html#p-892",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4744,9 +4744,9 @@ var ptx_lunr_docs = [
   "body": " Plate collision   "
 },
 {
-  "id": "p-892",
+  "id": "p-893",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-892",
+  "url": "sec_eleventh-tectmov.html#p-893",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4771,9 +4771,9 @@ var ptx_lunr_docs = [
   "body": " Fossils    Animal fossil     Plant fossil     "
 },
 {
-  "id": "p-895",
+  "id": "p-896",
   "level": "2",
-  "url": "sec_eleventh-histgeol.html#p-895",
+  "url": "sec_eleventh-histgeol.html#p-896",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4789,9 +4789,9 @@ var ptx_lunr_docs = [
   "body": " Geological History   "
 },
 {
-  "id": "p-896",
+  "id": "p-897",
   "level": "2",
-  "url": "sec_eleventh-histgeol.html#p-896",
+  "url": "sec_eleventh-histgeol.html#p-897",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4807,9 +4807,9 @@ var ptx_lunr_docs = [
   "body": " Human Evolutionary Tree   "
 },
 {
-  "id": "p-897",
+  "id": "p-898",
   "level": "2",
-  "url": "sec_eleventh-histgeol.html#p-897",
+  "url": "sec_eleventh-histgeol.html#p-898",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5167,22 +5167,13 @@ var ptx_lunr_docs = [
   "body": " Debri Belts  Asteroids are small, rocky objects that orbit the sun. There are millions of asteroids in our solar system, ranging in size from tiny pebbles to massive rocks several hundred kilometers across. Most asteroids are found in the asteroid belt , [ ] a region of space between Mars and Jupiter. Asteroids are thought to be remnants from the early solar system, left over from the formation of the planets. Studying asteroids can give us insights into the formation and evolution of the solar system, as well as provide clues about the potential hazards that these objects pose to our planet. Meteoroids can come from various sources, including the asteroid belt. Small rocky objects in asteroids belt sometimes collide with each other and create meteoroids. However, meteoroids can also come from other sources, such as comets or other objects in space. Once a meteoroid enters the Earth's atmosphere, it is called a meteor or shooting star.  A meteor shower occurs when the Earth passes through a trail of debris left behind by a comet or asteroid. As the Earth moves through this debris field, the small particles, called meteoroids, enter the Earth's atmosphere at high speeds and burn up, creating streaks of light in the sky that we call meteors or shooting stars . Meteor showers can occur at various times throughout the year, and they are often named after the constellation that appears to be the source of the meteors (the radiant). Some of the most well-known meteor showers include the Perseids (in August), the Leonids (in November), and the Geminids (in December).  The Kuiper Belt [ ] is a region of the solar system located beyond the orbit of Neptune, extending from about 30 to 50 astronomical units (AU) from the Sun. It is a vast region of space containing many small icy objects, including dwarf planets such as Pluto, Haumea, Makemake, and Eris, as well as numerous smaller bodies known as Kuiper Belt Objects (KBOs). The Kuiper Belt is thought to be the source of many short-period comets, which are believed to be icy bodies that originate from this region and are gravitationally perturbed by the gas giants, particularly Jupiter.  The Oort Cloud [ ] is a theoretical region of the outer solar system that is thought to be the source of most long-period comets. It is believed to extend from about 2,000 to 100,000 astronomical units (AU) from the Sun, which is well beyond the Kuiper Belt. The Oort Cloud is composed of icy objects, including comets, that are thought to have formed in the early solar system and were gravitationally scattered to the outer reaches of the solar system by the gas giants. The comets in the Oort Cloud can be perturbed by passing stars, which can send them on trajectories that bring them into the inner solar system, where they become visible as long-period comets. The Oort Cloud is named after Dutch astronomer Jan Oort, who first proposed its existence in 1950 based on observations of comets.      Hale-Bopp comet     Comet's orbit       Comets are celestial bodies that orbit the sun and are primarily composed of ice, dust, and rock [ ]. They are often referred to as \"dirty snowballs\" because of their composition. When a comet approaches the sun, its ice begins to vaporize, releasing gas and dust that form a glowing coma, a temporary atmosphere around the nucleus. The solar wind and radiation pressure from the sun cause the coma to form a tail that points away from the sun. Comets can have highly elliptical orbits [ ] that take them far from the sun and then back towards it, sometimes taking thousands of years to complete a single orbit. Many comets are believed to originate in the Kuiper Belt, a region beyond Neptune that contains icy bodies and small planets. Some comets have been known to collide with planets or moons, and these collisions can have significant impacts on the celestial body's surface. Comets have fascinated people for centuries and have been the subject of many myths and legends. They have also been studied extensively by astronomers, who use them as a tool to study the formation and evolution of the solar system.  "
 },
 {
-  "id": "p-964",
-  "level": "2",
-  "url": "subsec-debribelts.html#p-964",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "asteroid belt Meteoroids "
-},
-{
   "id": "p-965",
   "level": "2",
   "url": "subsec-debribelts.html#p-965",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "meteor shower meteors or shooting stars "
+  "body": "asteroid belt Meteoroids "
 },
 {
   "id": "p-966",
@@ -5191,12 +5182,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Kuiper Belt dwarf planets Pluto, "
+  "body": "meteor shower meteors or shooting stars "
 },
 {
   "id": "p-967",
   "level": "2",
   "url": "subsec-debribelts.html#p-967",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Kuiper Belt dwarf planets Pluto, "
+},
+{
+  "id": "p-968",
+  "level": "2",
+  "url": "subsec-debribelts.html#p-968",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5212,9 +5212,9 @@ var ptx_lunr_docs = [
   "body": "    Hale-Bopp comet     Comet's orbit     "
 },
 {
-  "id": "p-968",
+  "id": "p-969",
   "level": "2",
-  "url": "subsec-debribelts.html#p-968",
+  "url": "subsec-debribelts.html#p-969",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5239,31 +5239,22 @@ var ptx_lunr_docs = [
   "body": " The Planets of Our Solar System                                                        "
 },
 {
-  "id": "p-970",
+  "id": "p-971",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-970",
+  "url": "sec_twelvth-intro.html#p-971",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Mercury Mariner 10 Messenger "
 },
 {
-  "id": "p-975",
+  "id": "p-976",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-975",
+  "url": "sec_twelvth-intro.html#p-976",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Red Planet "
-},
-{
-  "id": "p-978",
-  "level": "2",
-  "url": "sec_twelvth-intro.html#p-978",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Phobos and Deimos "
 },
 {
   "id": "p-979",
@@ -5272,7 +5263,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "red spot "
+  "body": "Phobos and Deimos "
 },
 {
   "id": "p-980",
@@ -5281,16 +5272,16 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Europa "
+  "body": "red spot "
 },
 {
-  "id": "p-982",
+  "id": "p-981",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-982",
+  "url": "sec_twelvth-intro.html#p-981",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Titan "
+  "body": "Europa "
 },
 {
   "id": "p-983",
@@ -5299,12 +5290,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Miranda "
+  "body": "Titan "
 },
 {
   "id": "p-984",
   "level": "2",
   "url": "sec_twelvth-intro.html#p-984",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Miranda "
+},
+{
+  "id": "p-985",
+  "level": "2",
+  "url": "sec_twelvth-intro.html#p-985",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5329,22 +5329,13 @@ var ptx_lunr_docs = [
   "body": " Our Moon    The Moon     Phases of the Moon     "
 },
 {
-  "id": "p-986",
-  "level": "2",
-  "url": "sec_twelvth-moon.html#p-986",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Lunar Layers: "
-},
-{
   "id": "p-987",
   "level": "2",
   "url": "sec_twelvth-moon.html#p-987",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "atmosphere "
+  "body": "Lunar Layers: "
 },
 {
   "id": "p-988",
@@ -5353,7 +5344,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "lunar landscape craters mountains "
+  "body": "atmosphere "
 },
 {
   "id": "p-989",
@@ -5362,7 +5353,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "New Moon: Waxing Crescent: First Quarter: Waxing Gibbous: Full Moon: Waning Gibbous: Third Quarter: Waning Crescent: sidereal month synodic month "
+  "body": "lunar landscape craters mountains "
 },
 {
   "id": "p-990",
@@ -5371,12 +5362,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "solar eclipse lunar eclipse "
+  "body": "New Moon: Waxing Crescent: First Quarter: Waxing Gibbous: Full Moon: Waning Gibbous: Third Quarter: Waning Crescent: sidereal month synodic month "
 },
 {
   "id": "p-991",
   "level": "2",
   "url": "sec_twelvth-moon.html#p-991",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "solar eclipse lunar eclipse "
+},
+{
+  "id": "p-992",
+  "level": "2",
+  "url": "sec_twelvth-moon.html#p-992",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5608,9 +5608,9 @@ var ptx_lunr_docs = [
   "body": "    Refracting Telescope     Reflecting Telescope     Radio Telescope     "
 },
 {
-  "id": "p-1028",
+  "id": "p-1029",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1028",
+  "url": "sec_thirteenth-observ.html#p-1029",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5626,9 +5626,9 @@ var ptx_lunr_docs = [
   "body": " The Sun    Sunspot     Nuclear Fusion     Solar Spectrum     "
 },
 {
-  "id": "p-1031",
+  "id": "p-1032",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1031",
+  "url": "sec_thirteenth-observ.html#p-1032",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5644,9 +5644,9 @@ var ptx_lunr_docs = [
   "body": " Sun's parts   "
 },
 {
-  "id": "p-1032",
+  "id": "p-1033",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1032",
+  "url": "sec_thirteenth-observ.html#p-1033",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5662,27 +5662,27 @@ var ptx_lunr_docs = [
   "body": " Aurora   "
 },
 {
-  "id": "p-1035",
-  "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1035",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Note: "
-},
-{
   "id": "p-1036",
   "level": "2",
   "url": "sec_thirteenth-observ.html#p-1036",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Parallax Method: Spectroscopic Method: Main Sequence Fitting: Cepheid Variables: Supernova Brightness: "
+  "body": "Note: "
 },
 {
   "id": "p-1037",
   "level": "2",
   "url": "sec_thirteenth-observ.html#p-1037",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Parallax Method: Spectroscopic Method: Main Sequence Fitting: Cepheid Variables: Supernova Brightness: "
+},
+{
+  "id": "p-1038",
+  "level": "2",
+  "url": "sec_thirteenth-observ.html#p-1038",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5707,22 +5707,13 @@ var ptx_lunr_docs = [
   "body": " H-R Diagram    HR Diagram     Supernova     "
 },
 {
-  "id": "p-1038",
-  "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1038",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Hertzsprung-Russell Diagram Temperature: Luminosity: Main sequence: Red giants and supergiants: White dwarfs: Stellar evolution: "
-},
-{
   "id": "p-1039",
   "level": "2",
   "url": "sec_thirteenth-intro.html#p-1039",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "brown dwarf "
+  "body": "Hertzsprung-Russell Diagram Temperature: Luminosity: Main sequence: Red giants and supergiants: White dwarfs: Stellar evolution: "
 },
 {
   "id": "p-1040",
@@ -5731,21 +5722,30 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "brown dwarf "
+},
+{
+  "id": "p-1041",
+  "level": "2",
+  "url": "sec_thirteenth-intro.html#p-1041",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "black dwarf "
 },
 {
-  "id": "p-1042",
+  "id": "p-1043",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1042",
+  "url": "sec_thirteenth-intro.html#p-1043",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "O, B, A, F, G, K, M Sun "
 },
 {
-  "id": "p-1043",
+  "id": "p-1044",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1043",
+  "url": "sec_thirteenth-intro.html#p-1044",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5761,18 +5761,18 @@ var ptx_lunr_docs = [
   "body": "    Neutron Star     Pulsars     Black Hole     "
 },
 {
-  "id": "p-1044",
+  "id": "p-1045",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1044",
+  "url": "sec_thirteenth-intro.html#p-1045",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "pulsar "
 },
 {
-  "id": "p-1047",
+  "id": "p-1048",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1047",
+  "url": "sec_thirteenth-intro.html#p-1048",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6031,27 +6031,27 @@ var ptx_lunr_docs = [
   "body": " Galaxies    Model of Galaxies     Milky Way     Andromeda     "
 },
 {
-  "id": "p-1092",
-  "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1092",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "black hole "
-},
-{
   "id": "p-1093",
   "level": "2",
   "url": "sec_fourteenth-intro.html#p-1093",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "black hole "
+},
+{
+  "id": "p-1094",
+  "level": "2",
+  "url": "sec_fourteenth-intro.html#p-1094",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "Local Group Andromeda galaxy open and globular clusters "
 },
 {
-  "id": "p-1098",
+  "id": "p-1099",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1098",
+  "url": "sec_fourteenth-intro.html#p-1099",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6067,22 +6067,13 @@ var ptx_lunr_docs = [
   "body": "    Crab Nebula     Eye Nebula     Horsehead Nebula     "
 },
 {
-  "id": "p-1099",
-  "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1099",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "birthplaces of stars "
-},
-{
   "id": "p-1100",
   "level": "2",
   "url": "sec_fourteenth-intro.html#p-1100",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Dark matter Dark energy "
+  "body": "birthplaces of stars "
 },
 {
   "id": "p-1101",
@@ -6091,12 +6082,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Quasars "
+  "body": "Dark matter Dark energy "
 },
 {
   "id": "p-1102",
   "level": "2",
   "url": "sec_fourteenth-intro.html#p-1102",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Quasars "
+},
+{
+  "id": "p-1103",
+  "level": "2",
+  "url": "sec_fourteenth-intro.html#p-1103",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
