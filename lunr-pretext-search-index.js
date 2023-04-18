@@ -52,7 +52,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Ancient Observations",
-  "body": " Ancient Observations   We have been observing sky ss scope since the begining of human history. It seems that the sun is revolving around the earth. On such observation the Greek astronomer, Claudius Ptolemy in 150 AD came up with the idea of Geocentric Theory  geocentric theory in which unmoving earth is at the center of the universe and the sun is revolving around it. He was able to predict fairly accurate positions of celectial objects and his theory was the longest ever (about 2500 years) accepted theory of universe. However, his theory was not able to explain Retrograde Motion correctly.    Retrograde Motion   retrograde motion Sometimes celestial objects such as some planets appear to move backward in their orbit around the sun as shown in the animation below. Retrograde Motion Please click on start button in the animation. In the animation retrograde motion is shown for the planet \"Mars\". The projection of mars in the sky is shown by the background stars. We notice that when mars reaches certain positions it looks suddenly moving backward as seen from the earth and after some time in the year it again starts moving forward in its orbit around the sun. Such an apparent reverse motion of the planets is called retrograde motion. Ptolmy's geocentric theory was not able to explain this event cleary. So in 1543, Polish astronomer, Nicholas Copernicus publish revised but completly radical theory called Heliocentric Theory . In this theory the unmovable sun at the center of the universe nd all the planets are moving around it in the specific oribit. This theory was able to solve almost all the puzzles of the time. In heliocentric model of the solar system Copernicus proposed that the Earth has three distinct motions: a daily axial rotation, an annual rotation about the Sun, and a precessional motion of its axis.    Tides  The regular rise and fall of ocean water is called tides. tides Tides are water waves that occur naturally in ocean due to force of gravity on earth surface due to the moon and the sun. Please watch this video to understand the tides. Tide Formation Because of moon's gravity water bulges out of the earth surface and keep getting dragged as the moon moves around the earth. The effect of moon's gravity is more on the earth surface than the sun's gravity due to their distant positions. When sun and moon are located along the same direction high tide is higher than normal high tide and low tide is lower than normal low tide and they are collectivly called Spring Tide . When sun and moon are at right angles to each other than high tide and low tide both are shorter than usual and they are called Neep Tide . There are alawyes two high and two low tides in every 24 hours.  Please observe the link: Celestial Sphere The yellow circle in the animation is called an Ecliptic line . It is an apparent path of the sun in the sky as viewed from the earth over the course of a year.   "
+  "body": " Ancient Observations   We have been observing sky ss scope since the begining of human history. It seems that the sun is revolving around the earth. On such observation the Greek astronomer, Claudius Ptolemy in 150 AD came up with the idea of Geocentric Theory  geocentric theory in which unmoving earth is at the center of the universe and the sun is revolving around it. He was able to predict fairly accurate positions of celectial objects and his theory was the longest ever (about 2500 years) accepted theory of universe. However, his theory was not able to explain Retrograde Motion correctly.    Retrograde Motion  Sometimes celestial objects such as some planets appear to move backward in their orbit around the sun as shown in the animation below. Retrograde Motion Please click on start button in the animation. In the animation retrograde motion retrograde motion is shown for the planet \"Mars\". The projection of mars in the sky is shown by the background stars. We notice that when mars reaches certain positions it looks suddenly moving backward as seen from the earth and after some time in the year it again starts moving forward in its orbit around the sun. Such an apparent reverse motion of the planets is called retrograde motion. Ptolmy's geocentric theory was not able to explain this event cleary. So in 1543, Polish astronomer, Nicholas Copernicus publish revised but completly radical theory called Heliocentric Theory . In this theory the unmovable sun at the center of the universe nd all the planets are moving around it in the specific oribit. This theory was able to solve almost all the puzzles of the time. In heliocentric model of the solar system Copernicus proposed that the Earth has three distinct motions: a daily axial rotation, an annual rotation about the Sun, and a precessional motion of its axis.    Tides  The regular rise and fall of ocean water is called tides. tides Tides are water waves that occur naturally in ocean due to force of gravity on earth surface due to the moon and the sun. Please watch this video to understand the tides. Tide Formation Because of moon's gravity water bulges out of the earth surface and keep getting dragged as the moon moves around the earth. The effect of moon's gravity is more on the earth surface than the sun's gravity due to their distant positions. When sun and moon are located along the same direction high tide is higher than normal high tide and low tide is lower than normal low tide and they are collectivly called Spring Tide . When sun and moon are at right angles to each other than high tide and low tide both are shorter than usual and they are called Neep Tide . There are alawyes two high and two low tides in every 24 hours.  Please observe the link: Celestial Sphere The yellow circle in the animation is called an Ecliptic line . It is an apparent path of the sun in the sky as viewed from the earth over the course of a year.   "
 },
 {
   "id": "p-18",
@@ -4840,7 +4840,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.6",
   "title": "Examples",
-  "body": " Examples    Which one of the following is the most abundant element in the earth's crust?  Nitrogen  Oxygen  Silican  Carbon      b.      Write any two differences between rocks and minerals.    A mineral is a naturally occurring inorganic solid substance with a specific chemical composition and a crystalline structure. Examples of minerals include quartz, feldspar, and mica. Minerals have specific physical and chemical properties, such as hardness, color, cleavage, and luster which distinguish it from rock.  A rock is a naturally occurring solid substance that is composed of one or more minerals, as well as other materials such as organic matter, volcanic glass, and mineraloids. Examples of rocks include granite, limestone, and sandstone. Rocks can be classified into three main types based on how they were formed: igneous, sedimentary, and metamorphic.      The tendency of splting of minerals along a particular plane is called  foliation  cleavage  gnesis  faulting      b.      What is quartz?  is a mineral composed of silicon dioxide.  is a mineral composed of calcium carbonate.  is fools' gold.  is a type of pyrite mineral.      a.      How are igneous rocks formed  by solidification of magma.  by cementation of sedimentary particles.  by transformation of other rocks due to heat and pressure.  by precipitaion from solution.      a.      What type of rock is a Coal  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      d.      What type of rock is a Marble  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      a.      Fossils are most likely to be found in  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      d.      The point where movement occurred which triggered the earthquake is the   epicenter.  focus.  strike.  dip.      b.      Which type of faulting would be least likely to occur along the mid-Atlantic ridge?  normal.  reverse or thrust.  transform.  all of these could occur.      b.      Which of the following could trigger a tsunami?  undersea earthquakes.  the eruption of an oceanic volcano.  undersea landslides.  all of these.      a.      Which of the following waves is the slowest?  P waves.  S waves.  Surface waves.  all of these.      a.      What is \"Pangea\"?  Supercontinent.  Ancient land.  Big earth.  All land.      d.      The Tethys Sea once existed between the continents of Gondwana and Laurasia during the Mesozoic era was surrounded by which of the following mountain ranges  The Alps.  The Himalayas.  The Pyrenees.  The Zagros Mountains.  All of the above.      e.      A crack on earth's crust along which movement is taken place is called  Fault.  Volcano.  Earthquake.  Tsunami.      a.      The separation of the ancient supercontinents Laurasia and Gondwana was primarily caused by  Plate tectonics.  Volcanic activity.  Climate change.  Asteroid impact.      a.      The ancient supercontinents Laurasia and Gondwana were separated by  Caribbean Sea.  Red Sea.  Tethys Sea.  Dead Sea.      c.      Compared to continents, the ocean floors are generally  younger and more geologically active.  older and more geologically stable.  composed of different types of rocks.  more densely populated with life forms.      a.      Compared to the crust under the ocean, the crust under continents is generally  thicker and less dense.  thinner and more dense.  younger and more geologically active.  older and more geologically stable.      a.      About how many major plates exist on the earth?  7.  15.  250.  1000.      b.      Dinosaurs appeared on earth during which era?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.      d.    "
+  "body": " Examples    Which one of the following is the most abundant element in the earth's crust?  Nitrogen  Oxygen  Silican  Carbon      b.      Write any two differences between rocks and minerals.    A mineral is a naturally occurring inorganic solid substance with a specific chemical composition and a crystalline structure. Examples of minerals include quartz, feldspar, and mica. Minerals have specific physical and chemical properties, such as hardness, color, cleavage, and luster which distinguish it from rock.  A rock is a naturally occurring solid substance that is composed of one or more minerals, as well as other materials such as organic matter, volcanic glass, and mineraloids. Examples of rocks include granite, limestone, and sandstone. Rocks can be classified into three main types based on how they were formed: igneous, sedimentary, and metamorphic.      The tendency of splting of minerals along a particular plane is called  foliation  cleavage  gnesis  faulting      b.      What is quartz?  is a mineral composed of silicon dioxide.  is a mineral composed of calcium carbonate.  is fools' gold.  is a type of pyrite mineral.      a.      How are igneous rocks formed  by solidification of magma.  by cementation of sedimentary particles.  by transformation of other rocks due to heat and pressure.  by precipitaion from solution.      a.      What type of rock is a Coal  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      d.      What type of rock is a Marble  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      a.      Fossils are most likely to be found in  Metamorphic rock.  Intrusive igneous rock.  Extrusive igneous rock.  Sedimentary rock.      d.      Coral reefs are made of  shale.  granite.  limestone.  quartz.      c.      Subduction zones are never associated with what type of tectonic plate?  Oceanic  Continental  Transform  Divergent      d.      The point where movement occurred which triggered the earthquake is the   epicenter.  focus.  strike.  dip.      b.      Which type of faulting would be least likely to occur along the mid-Atlantic ridge?  normal.  reverse or thrust.  transform.  all of these could occur.      b.      Which of the following could trigger a tsunami?  undersea earthquakes.  the eruption of an oceanic volcano.  undersea landslides.  all of these.      a.      Which of the following waves is the slowest?  P waves.  S waves.  Surface waves.  all of these.      a.      What is \"Pangea\"?  Supercontinent.  Ancient land.  Big earth.  All land.      d.      The Tethys Sea once existed between the continents of Gondwana and Laurasia during the Mesozoic era was surrounded by which of the following mountain ranges  The Alps.  The Himalayas.  The Pyrenees.  The Zagros Mountains.  All of the above.      e.      A crack on earth's crust along which movement is taken place is called  Fault.  Volcano.  Earthquake.  Tsunami.      a.      The separation of the ancient supercontinents Laurasia and Gondwana was primarily caused by  Plate tectonics.  Volcanic activity.  Climate change.  Asteroid impact.      a.      The ancient supercontinents Laurasia and Gondwana were separated by  Caribbean Sea.  Red Sea.  Tethys Sea.  Dead Sea.      c.      Compared to continents, the ocean floors are generally  younger and more geologically active.  older and more geologically stable.  composed of different types of rocks.  more densely populated with life forms.      a.      Compared to the crust under the ocean, the crust under continents is generally  thicker and less dense.  thinner and more dense.  younger and more geologically active.  older and more geologically stable.      a.      About how many major plates exist on the earth?  7.  15.  250.  1000.      b.      Dinosaurs appeared on earth during which era?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.      d.      Mammals originated in which era?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.      "
 },
 {
   "id": "example-174",
@@ -4921,7 +4921,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.9",
   "title": "",
-  "body": "  The point where movement occurred which triggered the earthquake is the   epicenter.  focus.  strike.  dip.      b.   "
+  "body": "  Coral reefs are made of  shale.  granite.  limestone.  quartz.      c.   "
 },
 {
   "id": "example-183",
@@ -4930,7 +4930,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.10",
   "title": "",
-  "body": "  Which type of faulting would be least likely to occur along the mid-Atlantic ridge?  normal.  reverse or thrust.  transform.  all of these could occur.      b.   "
+  "body": "  Subduction zones are never associated with what type of tectonic plate?  Oceanic  Continental  Transform  Divergent      d.   "
 },
 {
   "id": "example-184",
@@ -4939,7 +4939,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.11",
   "title": "",
-  "body": "  Which of the following could trigger a tsunami?  undersea earthquakes.  the eruption of an oceanic volcano.  undersea landslides.  all of these.      a.   "
+  "body": "  The point where movement occurred which triggered the earthquake is the   epicenter.  focus.  strike.  dip.      b.   "
 },
 {
   "id": "example-185",
@@ -4948,7 +4948,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.12",
   "title": "",
-  "body": "  Which of the following waves is the slowest?  P waves.  S waves.  Surface waves.  all of these.      a.   "
+  "body": "  Which type of faulting would be least likely to occur along the mid-Atlantic ridge?  normal.  reverse or thrust.  transform.  all of these could occur.      b.   "
 },
 {
   "id": "example-186",
@@ -4957,7 +4957,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.13",
   "title": "",
-  "body": "  What is \"Pangea\"?  Supercontinent.  Ancient land.  Big earth.  All land.      d.   "
+  "body": "  Which of the following could trigger a tsunami?  undersea earthquakes.  the eruption of an oceanic volcano.  undersea landslides.  all of these.      a.   "
 },
 {
   "id": "example-187",
@@ -4966,7 +4966,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.14",
   "title": "",
-  "body": "  The Tethys Sea once existed between the continents of Gondwana and Laurasia during the Mesozoic era was surrounded by which of the following mountain ranges  The Alps.  The Himalayas.  The Pyrenees.  The Zagros Mountains.  All of the above.      e.   "
+  "body": "  Which of the following waves is the slowest?  P waves.  S waves.  Surface waves.  all of these.      a.   "
 },
 {
   "id": "example-188",
@@ -4975,7 +4975,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.15",
   "title": "",
-  "body": "  A crack on earth's crust along which movement is taken place is called  Fault.  Volcano.  Earthquake.  Tsunami.      a.   "
+  "body": "  What is \"Pangea\"?  Supercontinent.  Ancient land.  Big earth.  All land.      d.   "
 },
 {
   "id": "example-189",
@@ -4984,7 +4984,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.16",
   "title": "",
-  "body": "  The separation of the ancient supercontinents Laurasia and Gondwana was primarily caused by  Plate tectonics.  Volcanic activity.  Climate change.  Asteroid impact.      a.   "
+  "body": "  The Tethys Sea once existed between the continents of Gondwana and Laurasia during the Mesozoic era was surrounded by which of the following mountain ranges  The Alps.  The Himalayas.  The Pyrenees.  The Zagros Mountains.  All of the above.      e.   "
 },
 {
   "id": "example-190",
@@ -4993,7 +4993,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.17",
   "title": "",
-  "body": "  The ancient supercontinents Laurasia and Gondwana were separated by  Caribbean Sea.  Red Sea.  Tethys Sea.  Dead Sea.      c.   "
+  "body": "  A crack on earth's crust along which movement is taken place is called  Fault.  Volcano.  Earthquake.  Tsunami.      a.   "
 },
 {
   "id": "example-191",
@@ -5002,7 +5002,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.18",
   "title": "",
-  "body": "  Compared to continents, the ocean floors are generally  younger and more geologically active.  older and more geologically stable.  composed of different types of rocks.  more densely populated with life forms.      a.   "
+  "body": "  The separation of the ancient supercontinents Laurasia and Gondwana was primarily caused by  Plate tectonics.  Volcanic activity.  Climate change.  Asteroid impact.      a.   "
 },
 {
   "id": "example-192",
@@ -5011,7 +5011,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.19",
   "title": "",
-  "body": "  Compared to the crust under the ocean, the crust under continents is generally  thicker and less dense.  thinner and more dense.  younger and more geologically active.  older and more geologically stable.      a.   "
+  "body": "  The ancient supercontinents Laurasia and Gondwana were separated by  Caribbean Sea.  Red Sea.  Tethys Sea.  Dead Sea.      c.   "
 },
 {
   "id": "example-193",
@@ -5020,7 +5020,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.20",
   "title": "",
-  "body": "  About how many major plates exist on the earth?  7.  15.  250.  1000.      b.   "
+  "body": "  Compared to continents, the ocean floors are generally  younger and more geologically active.  older and more geologically stable.  composed of different types of rocks.  more densely populated with life forms.      a.   "
 },
 {
   "id": "example-194",
@@ -5029,7 +5029,34 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "11.6.21",
   "title": "",
+  "body": "  Compared to the crust under the ocean, the crust under continents is generally  thicker and less dense.  thinner and more dense.  younger and more geologically active.  older and more geologically stable.      a.   "
+},
+{
+  "id": "example-195",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-195",
+  "type": "Example",
+  "number": "11.6.22",
+  "title": "",
+  "body": "  About how many major plates exist on the earth?  7.  15.  250.  1000.      b.   "
+},
+{
+  "id": "example-196",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-196",
+  "type": "Example",
+  "number": "11.6.23",
+  "title": "",
   "body": "  Dinosaurs appeared on earth during which era?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.      d.   "
+},
+{
+  "id": "example-197",
+  "level": "2",
+  "url": "sec_eleventh-examples.html#example-197",
+  "type": "Example",
+  "number": "11.6.24",
+  "title": "",
+  "body": "  Mammals originated in which era?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.     "
 },
 {
   "id": "ex_eleventh",
@@ -5038,7 +5065,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "11.7",
   "title": "Exercises",
-  "body": "  Exercises   Body waves consist of the:  P waves only  S waves only.  P and S waves.  Surface waves.      Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.  A is 10 times more intense than B.  A is 1000 more intense than B.  B is 0.01X as intense than A.  Richter magnitude does not measure intensity.      Where is the focus with respect to the epicenter:  directly below the epicenter.  in the P wave shadow zone.  in the S wave shadow zone.  directly above the epicenter.      Which of the following could be the consequences of the underground earthquake?  cyclone.  tsunami.  a landslide.  none of the above.      Which of the following statements is false?  Most earthquakes occur at plate boundaries.  Most earthquakes can be predicted several days in advance.  Earthquakes can be caused by normal, reverse, and strike-slip faulting.  P waves travel faster than both S waves and Surface waves.      which one of the following is a volcanic rock?  granite.  basalt.  shale.  marble.      A region where the edge of one lithospheric plate slides under the edge of another plate is  Transform fault.  Divergent boundary.  Convergent boundary.  Subduction zone.     d.    Most volcanoes are found along  Divergent boundaries.  Transform faults.  Convergent boundaries.  Hotspots.     c.    Which of the follwing is a primary cause of volcanoes, earthquake, and mountain building?  solar radiation.  plate tectonics.  remanent magnetism.  hotspots.     b.    Which type of plate boundaries exists at subduction zones?  divergent.  convergent.  transform.  reverse.      What do paleontologists study?  Eart interior.  Time.  Fossils.  Rocks.     c.    In what time spans are eras next divided?  eons.  epochs.  ages.  periods.     d.    In which era did the dinosaurs extinct?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.      When did the giant landmass Pangea split into Laurasia and Gondwana?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.      Mammals became dominant in which era?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.     "
+  "body": "  Exercises   Body waves consist of the:  P waves only  S waves only.  P and S waves.  Surface waves.      Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.  A is 10 times more intense than B.  A is 1000 more intense than B.  B is 0.01X as intense than A.  Richter magnitude does not measure intensity.      Where is the focus with respect to the epicenter:  directly below the epicenter.  in the P wave shadow zone.  in the S wave shadow zone.  directly above the epicenter.      Which of the following could be the consequences of the underground earthquake?  cyclone.  tsunami.  a landslide.  none of the above.      Which of the following statements is false?  Most earthquakes occur at plate boundaries.  Most earthquakes can be predicted several days in advance.  Earthquakes can be caused by normal, reverse, and strike-slip faulting.  P waves travel faster than both S waves and Surface waves.      which one of the following is a volcanic rock?  granite.  basalt.  shale.  marble.      A region where the edge of one lithospheric plate slides under the edge of another plate is  Transform fault.  Divergent boundary.  Convergent boundary.  Subduction zone.     d.    Most volcanoes are found along  Divergent boundaries.  Transform faults.  Convergent boundaries.  Hotspots.     c.    Which of the follwing is a primary cause of volcanoes, earthquake, and mountain building?  solar radiation.  plate tectonics.  remanent magnetism.  hotspots.     b.    Which type of plate boundaries exists at subduction zones?  divergent.  convergent.  transform.  reverse.     Subduction zone is never located at  midocean ridge  isaland chain  continental margin  mountain range     What do paleontologists study?  Eart interior.  Time.  Fossils.  Rocks.     c.    In what time spans are eras next divided?  eons.  epochs.  ages.  periods.     d.    In which era did the dinosaurs extinct?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.      When did the giant landmass Pangea split into Laurasia and Gondwana?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.     Birds are descendend from  fish  insects  dinosaurs  mammals     Mammals became dominant in which era?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.     "
 },
 {
   "id": "exercise-136",
@@ -5137,7 +5164,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "11.7.11",
   "title": "",
-  "body": " What do paleontologists study?  Eart interior.  Time.  Fossils.  Rocks.     c.  "
+  "body": "Subduction zone is never located at  midocean ridge  isaland chain  continental margin  mountain range   "
 },
 {
   "id": "exercise-147",
@@ -5146,7 +5173,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "11.7.12",
   "title": "",
-  "body": " In what time spans are eras next divided?  eons.  epochs.  ages.  periods.     d.  "
+  "body": " What do paleontologists study?  Eart interior.  Time.  Fossils.  Rocks.     c.  "
 },
 {
   "id": "exercise-148",
@@ -5155,7 +5182,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "11.7.13",
   "title": "",
-  "body": " In which era did the dinosaurs extinct?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.    "
+  "body": " In what time spans are eras next divided?  eons.  epochs.  ages.  periods.     d.  "
 },
 {
   "id": "exercise-149",
@@ -5164,7 +5191,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "11.7.14",
   "title": "",
-  "body": " When did the giant landmass Pangea split into Laurasia and Gondwana?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.    "
+  "body": " In which era did the dinosaurs extinct?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.    "
 },
 {
   "id": "exercise-150",
@@ -5172,6 +5199,24 @@ var ptx_lunr_docs = [
   "url": "ex_eleventh.html#exercise-150",
   "type": "Exercise",
   "number": "11.7.15",
+  "title": "",
+  "body": " When did the giant landmass Pangea split into Laurasia and Gondwana?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.    "
+},
+{
+  "id": "exercise-151",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-151",
+  "type": "Exercise",
+  "number": "11.7.16",
+  "title": "",
+  "body": "Birds are descendend from  fish  insects  dinosaurs  mammals   "
+},
+{
+  "id": "exercise-152",
+  "level": "2",
+  "url": "ex_eleventh.html#exercise-152",
+  "type": "Exercise",
+  "number": "11.7.17",
   "title": "",
   "body": " Mammals became dominant in which era?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.    "
 },
@@ -5185,36 +5230,36 @@ var ptx_lunr_docs = [
   "body": " Debri Belts  Asteroids are small, rocky objects that orbit the sun. There are millions of asteroids in our solar system, ranging in size from tiny pebbles to massive rocks several hundred kilometers across. Most asteroids are found in the asteroid belt , [ ] a region of space between Mars and Jupiter. Asteroids are thought to be remnants from the early solar system, left over from the formation of the planets. Studying asteroids can give us insights into the formation and evolution of the solar system, as well as provide clues about the potential hazards that these objects pose to our planet. Meteoroids can come from various sources, including the asteroid belt. Small rocky objects in asteroids belt sometimes collide with each other and create meteoroids. However, meteoroids can also come from other sources, such as comets or other objects in space. Once a meteoroid enters the Earth's atmosphere, it is called a meteor or shooting star.  A meteor shower occurs when the Earth passes through a trail of debris left behind by a comet or asteroid. As the Earth moves through this debris field, the small particles, called meteoroids, enter the Earth's atmosphere at high speeds and burn up, creating streaks of light in the sky that we call meteors or shooting stars . Meteor showers can occur at various times throughout the year, and they are often named after the constellation that appears to be the source of the meteors (the radiant). Some of the most well-known meteor showers include the Perseids (in August), the Leonids (in November), and the Geminids (in December).  The Kuiper Belt [ ] is a region of the solar system located beyond the orbit of Neptune, extending from about 30 to 50 astronomical units (AU) from the Sun. It is a vast region of space containing many small icy objects, including dwarf planets such as Pluto, Haumea, Makemake, and Eris, as well as numerous smaller bodies known as Kuiper Belt Objects (KBOs). The Kuiper Belt is thought to be the source of many short-period comets, which are believed to be icy bodies that originate from this region and are gravitationally perturbed by the gas giants, particularly Jupiter.  The Oort Cloud [ ] is a theoretical region of the outer solar system that is thought to be the source of most long-period comets. It is believed to extend from about 2,000 to 100,000 astronomical units (AU) from the Sun, which is well beyond the Kuiper Belt. The Oort Cloud is composed of icy objects, including comets, that are thought to have formed in the early solar system and were gravitationally scattered to the outer reaches of the solar system by the gas giants. The comets in the Oort Cloud can be perturbed by passing stars, which can send them on trajectories that bring them into the inner solar system, where they become visible as long-period comets. The Oort Cloud is named after Dutch astronomer Jan Oort, who first proposed its existence in 1950 based on observations of comets.      Hale-Bopp comet     Comet's orbit       Comets are celestial bodies that orbit the sun and are primarily composed of ice, dust, and rock [ ]. They are often referred to as \"dirty snowballs\" because of their composition. When a comet approaches the sun, its ice begins to vaporize, releasing gas and dust that form a glowing coma, a temporary atmosphere around the nucleus. The solar wind and radiation pressure from the sun cause the coma to form a tail that points away from the sun. Comets can have highly elliptical orbits [ ] that take them far from the sun and then back towards it, sometimes taking thousands of years to complete a single orbit. Many comets are believed to originate in the Kuiper Belt, a region beyond Neptune that contains icy bodies and small planets. Some comets have been known to collide with planets or moons, and these collisions can have significant impacts on the celestial body's surface. Comets have fascinated people for centuries and have been the subject of many myths and legends. They have also been studied extensively by astronomers, who use them as a tool to study the formation and evolution of the solar system.  "
 },
 {
-  "id": "p-962",
+  "id": "p-969",
   "level": "2",
-  "url": "subsec-debribelts.html#p-962",
+  "url": "subsec-debribelts.html#p-969",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "asteroid belt Meteoroids "
 },
 {
-  "id": "p-963",
+  "id": "p-970",
   "level": "2",
-  "url": "subsec-debribelts.html#p-963",
+  "url": "subsec-debribelts.html#p-970",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "meteor shower meteors or shooting stars "
 },
 {
-  "id": "p-964",
+  "id": "p-971",
   "level": "2",
-  "url": "subsec-debribelts.html#p-964",
+  "url": "subsec-debribelts.html#p-971",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Kuiper Belt dwarf planets Pluto, "
 },
 {
-  "id": "p-965",
+  "id": "p-972",
   "level": "2",
-  "url": "subsec-debribelts.html#p-965",
+  "url": "subsec-debribelts.html#p-972",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5230,9 +5275,9 @@ var ptx_lunr_docs = [
   "body": "    Hale-Bopp comet     Comet's orbit     "
 },
 {
-  "id": "p-966",
+  "id": "p-973",
   "level": "2",
-  "url": "subsec-debribelts.html#p-966",
+  "url": "subsec-debribelts.html#p-973",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5257,49 +5302,13 @@ var ptx_lunr_docs = [
   "body": " The Planets of Our Solar System                                                        "
 },
 {
-  "id": "p-968",
+  "id": "p-975",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-968",
+  "url": "sec_twelvth-intro.html#p-975",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Mercury Mariner 10 Messenger "
-},
-{
-  "id": "p-973",
-  "level": "2",
-  "url": "sec_twelvth-intro.html#p-973",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Red Planet "
-},
-{
-  "id": "p-976",
-  "level": "2",
-  "url": "sec_twelvth-intro.html#p-976",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Phobos and Deimos "
-},
-{
-  "id": "p-977",
-  "level": "2",
-  "url": "sec_twelvth-intro.html#p-977",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "red spot "
-},
-{
-  "id": "p-978",
-  "level": "2",
-  "url": "sec_twelvth-intro.html#p-978",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Europa "
 },
 {
   "id": "p-980",
@@ -5308,21 +5317,57 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "Red Planet "
+},
+{
+  "id": "p-983",
+  "level": "2",
+  "url": "sec_twelvth-intro.html#p-983",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Phobos and Deimos "
+},
+{
+  "id": "p-984",
+  "level": "2",
+  "url": "sec_twelvth-intro.html#p-984",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "red spot "
+},
+{
+  "id": "p-985",
+  "level": "2",
+  "url": "sec_twelvth-intro.html#p-985",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Europa "
+},
+{
+  "id": "p-987",
+  "level": "2",
+  "url": "sec_twelvth-intro.html#p-987",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "Titan "
 },
 {
-  "id": "p-981",
+  "id": "p-988",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-981",
+  "url": "sec_twelvth-intro.html#p-988",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Miranda "
 },
 {
-  "id": "p-982",
+  "id": "p-989",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-982",
+  "url": "sec_twelvth-intro.html#p-989",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5347,54 +5392,54 @@ var ptx_lunr_docs = [
   "body": " Our Moon    The Moon     Phases of the Moon     "
 },
 {
-  "id": "p-984",
+  "id": "p-991",
   "level": "2",
-  "url": "sec_twelvth-moon.html#p-984",
+  "url": "sec_twelvth-moon.html#p-991",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Lunar Layers: "
 },
 {
-  "id": "p-985",
+  "id": "p-992",
   "level": "2",
-  "url": "sec_twelvth-moon.html#p-985",
+  "url": "sec_twelvth-moon.html#p-992",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "atmosphere "
 },
 {
-  "id": "p-986",
+  "id": "p-993",
   "level": "2",
-  "url": "sec_twelvth-moon.html#p-986",
+  "url": "sec_twelvth-moon.html#p-993",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "lunar landscape craters mountains "
 },
 {
-  "id": "p-987",
+  "id": "p-994",
   "level": "2",
-  "url": "sec_twelvth-moon.html#p-987",
+  "url": "sec_twelvth-moon.html#p-994",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "New Moon: Waxing Crescent: First Quarter: Waxing Gibbous: Full Moon: Waning Gibbous: Third Quarter: Waning Crescent: sidereal month synodic month "
 },
 {
-  "id": "p-988",
+  "id": "p-995",
   "level": "2",
-  "url": "sec_twelvth-moon.html#p-988",
+  "url": "sec_twelvth-moon.html#p-995",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "solar eclipse lunar eclipse "
 },
 {
-  "id": "p-989",
+  "id": "p-996",
   "level": "2",
-  "url": "sec_twelvth-moon.html#p-989",
+  "url": "sec_twelvth-moon.html#p-996",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5419,90 +5464,90 @@ var ptx_lunr_docs = [
   "body": " Examples    What is a comet?  A type of asteroid  A small, icy celestial body  A planet in our solar systemd  A star with a tail      b.      What is the difference between a comet and an asteroid?  Comets are larger than asteroids  Comets are made of rock and metal, while asteroids are made of ice and dust  Comets have a tail, while asteroids do not  Comets orbit the sun, while asteroids orbit other planets      c.      What is a comet's tail made of?  Gas and dust  Ice and rock  Iron and nickel  Water and oils      a.      What causes a comet's tail to form?  Solar wind pushing gas and dust away from the nucleus  Collision with other celestial bodies  Nuclear fission within the nucleus  The gravitational pull of nearby planets      a.      What is a shooting star?  A star that is falling to Earth  A type of comet  A meteor burning up in Earth's atmosphere  A distant galaxy      c.      At which time in a year a meteor showers occurs  at the same time each year  At various time throughout the year  whenever solar eclipses happen  whenever lunar eclipses happen      b.      Which planet has the most known moons?  Earth  Mars  Jupiter  Uranus        What is the largest planet in our solar system?  Earth  Saturn  Jupiter  Neptune      c.      Which planet looks nearly to the moon?  Jupiter  Mercury  Venus  Saturn      c.      What is a solar eclipse?  When the Moon passes between the Earth and the Sun  When the Earth passes between the Sun and the Moon  When the Moon passes through the Earth's shadow  When the Earth passes through the Moon's shadow      a.    "
 },
 {
-  "id": "example-195",
+  "id": "example-198",
   "level": "2",
-  "url": "sec_twelvth-examples.html#example-195",
+  "url": "sec_twelvth-examples.html#example-198",
   "type": "Example",
   "number": "12.3.1",
   "title": "",
   "body": "  What is a comet?  A type of asteroid  A small, icy celestial body  A planet in our solar systemd  A star with a tail      b.   "
 },
 {
-  "id": "example-196",
+  "id": "example-199",
   "level": "2",
-  "url": "sec_twelvth-examples.html#example-196",
+  "url": "sec_twelvth-examples.html#example-199",
   "type": "Example",
   "number": "12.3.2",
   "title": "",
   "body": "  What is the difference between a comet and an asteroid?  Comets are larger than asteroids  Comets are made of rock and metal, while asteroids are made of ice and dust  Comets have a tail, while asteroids do not  Comets orbit the sun, while asteroids orbit other planets      c.   "
 },
 {
-  "id": "example-197",
+  "id": "example-200",
   "level": "2",
-  "url": "sec_twelvth-examples.html#example-197",
+  "url": "sec_twelvth-examples.html#example-200",
   "type": "Example",
   "number": "12.3.3",
   "title": "",
   "body": "  What is a comet's tail made of?  Gas and dust  Ice and rock  Iron and nickel  Water and oils      a.   "
 },
 {
-  "id": "example-198",
+  "id": "example-201",
   "level": "2",
-  "url": "sec_twelvth-examples.html#example-198",
+  "url": "sec_twelvth-examples.html#example-201",
   "type": "Example",
   "number": "12.3.4",
   "title": "",
   "body": "  What causes a comet's tail to form?  Solar wind pushing gas and dust away from the nucleus  Collision with other celestial bodies  Nuclear fission within the nucleus  The gravitational pull of nearby planets      a.   "
 },
 {
-  "id": "example-199",
+  "id": "example-202",
   "level": "2",
-  "url": "sec_twelvth-examples.html#example-199",
+  "url": "sec_twelvth-examples.html#example-202",
   "type": "Example",
   "number": "12.3.5",
   "title": "",
   "body": "  What is a shooting star?  A star that is falling to Earth  A type of comet  A meteor burning up in Earth's atmosphere  A distant galaxy      c.   "
 },
 {
-  "id": "example-200",
+  "id": "example-203",
   "level": "2",
-  "url": "sec_twelvth-examples.html#example-200",
+  "url": "sec_twelvth-examples.html#example-203",
   "type": "Example",
   "number": "12.3.6",
   "title": "",
   "body": "  At which time in a year a meteor showers occurs  at the same time each year  At various time throughout the year  whenever solar eclipses happen  whenever lunar eclipses happen      b.   "
 },
 {
-  "id": "example-201",
+  "id": "example-204",
   "level": "2",
-  "url": "sec_twelvth-examples.html#example-201",
+  "url": "sec_twelvth-examples.html#example-204",
   "type": "Example",
   "number": "12.3.7",
   "title": "",
   "body": "  Which planet has the most known moons?  Earth  Mars  Jupiter  Uranus     "
 },
 {
-  "id": "example-202",
+  "id": "example-205",
   "level": "2",
-  "url": "sec_twelvth-examples.html#example-202",
+  "url": "sec_twelvth-examples.html#example-205",
   "type": "Example",
   "number": "12.3.8",
   "title": "",
   "body": "  What is the largest planet in our solar system?  Earth  Saturn  Jupiter  Neptune      c.   "
 },
 {
-  "id": "example-203",
+  "id": "example-206",
   "level": "2",
-  "url": "sec_twelvth-examples.html#example-203",
+  "url": "sec_twelvth-examples.html#example-206",
   "type": "Example",
   "number": "12.3.9",
   "title": "",
   "body": "  Which planet looks nearly to the moon?  Jupiter  Mercury  Venus  Saturn      c.   "
 },
 {
-  "id": "example-204",
+  "id": "example-207",
   "level": "2",
-  "url": "sec_twelvth-examples.html#example-204",
+  "url": "sec_twelvth-examples.html#example-207",
   "type": "Example",
   "number": "12.3.10",
   "title": "",
@@ -5518,90 +5563,90 @@ var ptx_lunr_docs = [
   "body": "  Exercise  What are the three main parts of a comet?  Nucleus, coma, and tail  Mantle, crust, and core  Lithosphere, hydrosphere, and atmosphere  Ionosphere, thermosphere, and exosphere    From where the Meteoroids come  it come from asteroids, comets, and the debri belt  it come from the sun  it come from the moon  meteorids are member of the solar system    What is the name of the region in our solar system where comets originate?  Asteroid belt  Kuiper belt  Oort cloud  Heliopause    c.   Why are the planets visble to us?  They are hot enough to radiate light  They reflect sun light  They reflect star light  Their atmospheres emit light due to solar wind    Which planet is sometimes referred to as the \"Red Planet\" due to its reddish appearance?  Earth  Jupiter  Mars  Saturn    c.   Which planet is known for having a thick atmosphere of carbon dioxide?  Mars  Venus  Uranus  Neptune    b.   What is the smallest planet in our solar system?  Mars  Mercury  Uranus  Neptune    Which planet looks nearly to the moon?  Jupiter  Mercury  Venus  Saturn    c.   Name two planets that do not have satellites  Jupiter and Saturn  Mercury and Venus  Earth and Mars  Uranus and Neptune    What is a lunar eclipse?  When the Moon passes between the Earth and the Sun  When the Earth passes between the Sun and the Moon  When the Moon passes through the Earth's shadow  When the Earth passes through the Moon's shadow    "
 },
 {
-  "id": "exercise-151",
+  "id": "exercise-153",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-151",
+  "url": "ex_twelvth.html#exercise-153",
   "type": "Exercise",
   "number": "12.5.1",
   "title": "",
   "body": "What are the three main parts of a comet?  Nucleus, coma, and tail  Mantle, crust, and core  Lithosphere, hydrosphere, and atmosphere  Ionosphere, thermosphere, and exosphere   "
 },
 {
-  "id": "exercise-152",
+  "id": "exercise-154",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-152",
+  "url": "ex_twelvth.html#exercise-154",
   "type": "Exercise",
   "number": "12.5.2",
   "title": "",
   "body": "From where the Meteoroids come  it come from asteroids, comets, and the debri belt  it come from the sun  it come from the moon  meteorids are member of the solar system   "
 },
 {
-  "id": "exercise-153",
+  "id": "exercise-155",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-153",
+  "url": "ex_twelvth.html#exercise-155",
   "type": "Exercise",
   "number": "12.5.3",
   "title": "",
   "body": "What is the name of the region in our solar system where comets originate?  Asteroid belt  Kuiper belt  Oort cloud  Heliopause    c.  "
 },
 {
-  "id": "exercise-154",
+  "id": "exercise-156",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-154",
+  "url": "ex_twelvth.html#exercise-156",
   "type": "Exercise",
   "number": "12.5.4",
   "title": "",
   "body": "Why are the planets visble to us?  They are hot enough to radiate light  They reflect sun light  They reflect star light  Their atmospheres emit light due to solar wind   "
 },
 {
-  "id": "exercise-155",
+  "id": "exercise-157",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-155",
+  "url": "ex_twelvth.html#exercise-157",
   "type": "Exercise",
   "number": "12.5.5",
   "title": "",
   "body": "Which planet is sometimes referred to as the \"Red Planet\" due to its reddish appearance?  Earth  Jupiter  Mars  Saturn    c.  "
 },
 {
-  "id": "exercise-156",
+  "id": "exercise-158",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-156",
+  "url": "ex_twelvth.html#exercise-158",
   "type": "Exercise",
   "number": "12.5.6",
   "title": "",
   "body": "Which planet is known for having a thick atmosphere of carbon dioxide?  Mars  Venus  Uranus  Neptune    b.  "
 },
 {
-  "id": "exercise-157",
+  "id": "exercise-159",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-157",
+  "url": "ex_twelvth.html#exercise-159",
   "type": "Exercise",
   "number": "12.5.7",
   "title": "",
   "body": "What is the smallest planet in our solar system?  Mars  Mercury  Uranus  Neptune   "
 },
 {
-  "id": "exercise-158",
+  "id": "exercise-160",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-158",
+  "url": "ex_twelvth.html#exercise-160",
   "type": "Exercise",
   "number": "12.5.8",
   "title": "",
   "body": "Which planet looks nearly to the moon?  Jupiter  Mercury  Venus  Saturn    c.  "
 },
 {
-  "id": "exercise-159",
+  "id": "exercise-161",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-159",
+  "url": "ex_twelvth.html#exercise-161",
   "type": "Exercise",
   "number": "12.5.9",
   "title": "",
   "body": "Name two planets that do not have satellites  Jupiter and Saturn  Mercury and Venus  Earth and Mars  Uranus and Neptune   "
 },
 {
-  "id": "exercise-160",
+  "id": "exercise-162",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-160",
+  "url": "ex_twelvth.html#exercise-162",
   "type": "Exercise",
   "number": "12.5.10",
   "title": "",
@@ -5626,9 +5671,9 @@ var ptx_lunr_docs = [
   "body": "    Refracting Telescope     Reflecting Telescope     Radio Telescope     "
 },
 {
-  "id": "p-1026",
+  "id": "p-1033",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1026",
+  "url": "sec_thirteenth-observ.html#p-1033",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5644,9 +5689,9 @@ var ptx_lunr_docs = [
   "body": " The Sun    Sunspot     Nuclear Fusion     Solar Spectrum     "
 },
 {
-  "id": "p-1029",
+  "id": "p-1036",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1029",
+  "url": "sec_thirteenth-observ.html#p-1036",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5662,9 +5707,9 @@ var ptx_lunr_docs = [
   "body": " Sun's parts   "
 },
 {
-  "id": "p-1030",
+  "id": "p-1037",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1030",
+  "url": "sec_thirteenth-observ.html#p-1037",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5680,27 +5725,27 @@ var ptx_lunr_docs = [
   "body": " Aurora   "
 },
 {
-  "id": "p-1033",
+  "id": "p-1040",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1033",
+  "url": "sec_thirteenth-observ.html#p-1040",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Note: "
 },
 {
-  "id": "p-1034",
+  "id": "p-1041",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1034",
+  "url": "sec_thirteenth-observ.html#p-1041",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Parallax Method: Spectroscopic Method: Main Sequence Fitting: Cepheid Variables: Supernova Brightness: "
 },
 {
-  "id": "p-1035",
+  "id": "p-1042",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1035",
+  "url": "sec_thirteenth-observ.html#p-1042",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5725,45 +5770,45 @@ var ptx_lunr_docs = [
   "body": " H-R Diagram    HR Diagram     Supernova     "
 },
 {
-  "id": "p-1036",
+  "id": "p-1043",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1036",
+  "url": "sec_thirteenth-intro.html#p-1043",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Hertzsprung-Russell Diagram Temperature: Luminosity: Main sequence: Red giants and supergiants: White dwarfs: Stellar evolution: "
 },
 {
-  "id": "p-1037",
+  "id": "p-1044",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1037",
+  "url": "sec_thirteenth-intro.html#p-1044",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "brown dwarf "
 },
 {
-  "id": "p-1038",
+  "id": "p-1045",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1038",
+  "url": "sec_thirteenth-intro.html#p-1045",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "black dwarf "
 },
 {
-  "id": "p-1040",
+  "id": "p-1047",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1040",
+  "url": "sec_thirteenth-intro.html#p-1047",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "O, B, A, F, G, K, M Sun "
 },
 {
-  "id": "p-1041",
+  "id": "p-1048",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1041",
+  "url": "sec_thirteenth-intro.html#p-1048",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5779,18 +5824,18 @@ var ptx_lunr_docs = [
   "body": "    Neutron Star     Pulsars     Black Hole     "
 },
 {
-  "id": "p-1042",
+  "id": "p-1049",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1042",
+  "url": "sec_thirteenth-intro.html#p-1049",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "pulsar "
 },
 {
-  "id": "p-1045",
+  "id": "p-1052",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1045",
+  "url": "sec_thirteenth-intro.html#p-1052",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5815,108 +5860,108 @@ var ptx_lunr_docs = [
   "body": " Examples    What is the HR diagram used for?  To identify the different types of stars  To determine the age of a star  To study the evolution of stars  All of the above      d.      Which of the following is NOT a parameter used to construct the HR diagram?  Luminosity  Temperature  Velocity  Spectral type      c.      The majority of stars on the HR diagram are located on the:  Main sequence  Red giant branch  Horizontal branch  White dwarf region      a.      Which of the following types of stars has the longest lifespan?  O-type stars  B-type stars  G-type stars  M-type stars      d.      Which of the following types of stars are located in the upper right portion of the HR diagram?  Red giants  White dwarfs  Main sequence stars  Protostars      a.      Which of the following is NOT a feature of the Sun's magnetic field?  Sunspots  Solar flares  Solar wind  Asteroids      d.      Which layer of the Sun's atmosphere is visible during a total solar eclipse?  Photosphere  Chromosphere  Corona  Convection zone      c.      How old is the Sun?  4.6 million years  4.6 billion years  46 million years  46 billion years      b.      Which of the following is the most accurate description of the Sun?  A planet  A comet  A star  A moon      c.      Which of the following is NOT a possible fate for a star?  Black hole  Red giant  White dwarf  Superstar      d.      What is a planetary nebula?  A cloud of gas and dust that forms around a star as it dies  A type of star that pulsates regularly  A star that has exhausted all of its fuel  A dense remnant of a supernova explosion      a.      What is a neutron star?  A type of white dwarf  A star made entirely of neutrons  A star that has not yet undergone a supernova explosion  A star that is in the process of becoming a black hole      b.    "
 },
 {
-  "id": "example-205",
+  "id": "example-208",
   "level": "2",
-  "url": "sec_thirteenth-examples.html#example-205",
+  "url": "sec_thirteenth-examples.html#example-208",
   "type": "Example",
   "number": "13.3.1",
   "title": "",
   "body": "  What is the HR diagram used for?  To identify the different types of stars  To determine the age of a star  To study the evolution of stars  All of the above      d.   "
 },
 {
-  "id": "example-206",
+  "id": "example-209",
   "level": "2",
-  "url": "sec_thirteenth-examples.html#example-206",
+  "url": "sec_thirteenth-examples.html#example-209",
   "type": "Example",
   "number": "13.3.2",
   "title": "",
   "body": "  Which of the following is NOT a parameter used to construct the HR diagram?  Luminosity  Temperature  Velocity  Spectral type      c.   "
 },
 {
-  "id": "example-207",
+  "id": "example-210",
   "level": "2",
-  "url": "sec_thirteenth-examples.html#example-207",
+  "url": "sec_thirteenth-examples.html#example-210",
   "type": "Example",
   "number": "13.3.3",
   "title": "",
   "body": "  The majority of stars on the HR diagram are located on the:  Main sequence  Red giant branch  Horizontal branch  White dwarf region      a.   "
 },
 {
-  "id": "example-208",
+  "id": "example-211",
   "level": "2",
-  "url": "sec_thirteenth-examples.html#example-208",
+  "url": "sec_thirteenth-examples.html#example-211",
   "type": "Example",
   "number": "13.3.4",
   "title": "",
   "body": "  Which of the following types of stars has the longest lifespan?  O-type stars  B-type stars  G-type stars  M-type stars      d.   "
 },
 {
-  "id": "example-209",
+  "id": "example-212",
   "level": "2",
-  "url": "sec_thirteenth-examples.html#example-209",
+  "url": "sec_thirteenth-examples.html#example-212",
   "type": "Example",
   "number": "13.3.5",
   "title": "",
   "body": "  Which of the following types of stars are located in the upper right portion of the HR diagram?  Red giants  White dwarfs  Main sequence stars  Protostars      a.   "
 },
 {
-  "id": "example-210",
+  "id": "example-213",
   "level": "2",
-  "url": "sec_thirteenth-examples.html#example-210",
+  "url": "sec_thirteenth-examples.html#example-213",
   "type": "Example",
   "number": "13.3.6",
   "title": "",
   "body": "  Which of the following is NOT a feature of the Sun's magnetic field?  Sunspots  Solar flares  Solar wind  Asteroids      d.   "
 },
 {
-  "id": "example-211",
+  "id": "example-214",
   "level": "2",
-  "url": "sec_thirteenth-examples.html#example-211",
+  "url": "sec_thirteenth-examples.html#example-214",
   "type": "Example",
   "number": "13.3.7",
   "title": "",
   "body": "  Which layer of the Sun's atmosphere is visible during a total solar eclipse?  Photosphere  Chromosphere  Corona  Convection zone      c.   "
 },
 {
-  "id": "example-212",
+  "id": "example-215",
   "level": "2",
-  "url": "sec_thirteenth-examples.html#example-212",
+  "url": "sec_thirteenth-examples.html#example-215",
   "type": "Example",
   "number": "13.3.8",
   "title": "",
   "body": "  How old is the Sun?  4.6 million years  4.6 billion years  46 million years  46 billion years      b.   "
 },
 {
-  "id": "example-213",
+  "id": "example-216",
   "level": "2",
-  "url": "sec_thirteenth-examples.html#example-213",
+  "url": "sec_thirteenth-examples.html#example-216",
   "type": "Example",
   "number": "13.3.9",
   "title": "",
   "body": "  Which of the following is the most accurate description of the Sun?  A planet  A comet  A star  A moon      c.   "
 },
 {
-  "id": "example-214",
+  "id": "example-217",
   "level": "2",
-  "url": "sec_thirteenth-examples.html#example-214",
+  "url": "sec_thirteenth-examples.html#example-217",
   "type": "Example",
   "number": "13.3.10",
   "title": "",
   "body": "  Which of the following is NOT a possible fate for a star?  Black hole  Red giant  White dwarf  Superstar      d.   "
 },
 {
-  "id": "example-215",
+  "id": "example-218",
   "level": "2",
-  "url": "sec_thirteenth-examples.html#example-215",
+  "url": "sec_thirteenth-examples.html#example-218",
   "type": "Example",
   "number": "13.3.11",
   "title": "",
   "body": "  What is a planetary nebula?  A cloud of gas and dust that forms around a star as it dies  A type of star that pulsates regularly  A star that has exhausted all of its fuel  A dense remnant of a supernova explosion      a.   "
 },
 {
-  "id": "example-216",
+  "id": "example-219",
   "level": "2",
-  "url": "sec_thirteenth-examples.html#example-216",
+  "url": "sec_thirteenth-examples.html#example-219",
   "type": "Example",
   "number": "13.3.12",
   "title": "",
@@ -5932,99 +5977,99 @@ var ptx_lunr_docs = [
   "body": "  Exercise  A star with high luminosity and low temperature would be located in which part of the HR diagram?  Upper left  Upper right  Lower left  Lower right    Which of the following statements about the HR diagram is true?  Stars on the main sequence fuse hydrogen into helium in their cores  The HR diagram can be used to determine the distance to a star  Red giants are more massive than main sequence stars  The HR diagram only applies to stars in our galaxy    What is the significance of the position of a star on the HR diagram?  It indicates the star's distance from Earth  It provides information about the star's chemical composition  It reveals the star's age and evolutionary stage  It determines the star's brightness in the night sky    c.   What is the Sun's approximate distance from Earth?  93,000 miles  93,000 kilometers  93 million miles  93 million kilometers    c.   What is the Sun's approximate distance from Earth?  93,000 miles  93,000 kilometers  93 million miles  93 million kilometers    c.   What is the Sun mostly made of?  Hydrogen and helium  Carbon and oxygen  Iron and nickel  Silicon and magnesium    What is the Sun's primary source of energy?  Nuclear fusion  Solar winds  Electromagnetic radiation  Gravitational energym    Which type of star is most likely to end its life as a black hole?  Red giant  Main sequence star  White dwarf  Blue supergiant    d.   What happens to a star when it runs out of fuel for nuclear fusion?  It explodes in a supernova  It collapses into a black hole  It becomes a white dwarf  It continues to shine by burning its outer layers    What happens to the core of a massive star after a supernova explosion?  It collapses into a black hole  It becomes a neutron star  It becomes a white dwarf  It continues to shine as a red giant    What is the ultimate fate of a low-mass star, like the Sun?  It becomes a black hole  It explodes in a supernova  It becomes a white dwarf  It becomes a neutron star    "
 },
 {
-  "id": "exercise-161",
+  "id": "exercise-163",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-161",
+  "url": "ex_thirteenth.html#exercise-163",
   "type": "Exercise",
   "number": "13.4.1",
   "title": "",
   "body": "A star with high luminosity and low temperature would be located in which part of the HR diagram?  Upper left  Upper right  Lower left  Lower right   "
 },
 {
-  "id": "exercise-162",
+  "id": "exercise-164",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-162",
+  "url": "ex_thirteenth.html#exercise-164",
   "type": "Exercise",
   "number": "13.4.2",
   "title": "",
   "body": "Which of the following statements about the HR diagram is true?  Stars on the main sequence fuse hydrogen into helium in their cores  The HR diagram can be used to determine the distance to a star  Red giants are more massive than main sequence stars  The HR diagram only applies to stars in our galaxy   "
 },
 {
-  "id": "exercise-163",
+  "id": "exercise-165",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-163",
+  "url": "ex_thirteenth.html#exercise-165",
   "type": "Exercise",
   "number": "13.4.3",
   "title": "",
   "body": "What is the significance of the position of a star on the HR diagram?  It indicates the star's distance from Earth  It provides information about the star's chemical composition  It reveals the star's age and evolutionary stage  It determines the star's brightness in the night sky    c.  "
 },
 {
-  "id": "exercise-164",
+  "id": "exercise-166",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-164",
+  "url": "ex_thirteenth.html#exercise-166",
   "type": "Exercise",
   "number": "13.4.4",
   "title": "",
   "body": "What is the Sun's approximate distance from Earth?  93,000 miles  93,000 kilometers  93 million miles  93 million kilometers    c.  "
 },
 {
-  "id": "exercise-165",
+  "id": "exercise-167",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-165",
+  "url": "ex_thirteenth.html#exercise-167",
   "type": "Exercise",
   "number": "13.4.5",
   "title": "",
   "body": "What is the Sun's approximate distance from Earth?  93,000 miles  93,000 kilometers  93 million miles  93 million kilometers    c.  "
 },
 {
-  "id": "exercise-166",
+  "id": "exercise-168",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-166",
+  "url": "ex_thirteenth.html#exercise-168",
   "type": "Exercise",
   "number": "13.4.6",
   "title": "",
   "body": "What is the Sun mostly made of?  Hydrogen and helium  Carbon and oxygen  Iron and nickel  Silicon and magnesium   "
 },
 {
-  "id": "exercise-167",
+  "id": "exercise-169",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-167",
+  "url": "ex_thirteenth.html#exercise-169",
   "type": "Exercise",
   "number": "13.4.7",
   "title": "",
   "body": "What is the Sun's primary source of energy?  Nuclear fusion  Solar winds  Electromagnetic radiation  Gravitational energym   "
 },
 {
-  "id": "exercise-168",
+  "id": "exercise-170",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-168",
+  "url": "ex_thirteenth.html#exercise-170",
   "type": "Exercise",
   "number": "13.4.8",
   "title": "",
   "body": "Which type of star is most likely to end its life as a black hole?  Red giant  Main sequence star  White dwarf  Blue supergiant    d.  "
 },
 {
-  "id": "exercise-169",
+  "id": "exercise-171",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-169",
+  "url": "ex_thirteenth.html#exercise-171",
   "type": "Exercise",
   "number": "13.4.9",
   "title": "",
   "body": "What happens to a star when it runs out of fuel for nuclear fusion?  It explodes in a supernova  It collapses into a black hole  It becomes a white dwarf  It continues to shine by burning its outer layers   "
 },
 {
-  "id": "exercise-170",
+  "id": "exercise-172",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-170",
+  "url": "ex_thirteenth.html#exercise-172",
   "type": "Exercise",
   "number": "13.4.10",
   "title": "",
   "body": "What happens to the core of a massive star after a supernova explosion?  It collapses into a black hole  It becomes a neutron star  It becomes a white dwarf  It continues to shine as a red giant   "
 },
 {
-  "id": "exercise-171",
+  "id": "exercise-173",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-171",
+  "url": "ex_thirteenth.html#exercise-173",
   "type": "Exercise",
   "number": "13.4.11",
   "title": "",
@@ -6049,27 +6094,27 @@ var ptx_lunr_docs = [
   "body": " Galaxies    Model of Galaxies     Milky Way     Andromeda     "
 },
 {
-  "id": "p-1090",
+  "id": "p-1097",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1090",
+  "url": "sec_fourteenth-intro.html#p-1097",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "black hole "
 },
 {
-  "id": "p-1091",
+  "id": "p-1098",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1091",
+  "url": "sec_fourteenth-intro.html#p-1098",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Local Group Andromeda galaxy open and globular clusters "
 },
 {
-  "id": "p-1096",
+  "id": "p-1103",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1096",
+  "url": "sec_fourteenth-intro.html#p-1103",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6085,36 +6130,36 @@ var ptx_lunr_docs = [
   "body": "    Crab Nebula     Eye Nebula     Horsehead Nebula     "
 },
 {
-  "id": "p-1097",
+  "id": "p-1104",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1097",
+  "url": "sec_fourteenth-intro.html#p-1104",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "birthplaces of stars "
 },
 {
-  "id": "p-1098",
+  "id": "p-1105",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1098",
+  "url": "sec_fourteenth-intro.html#p-1105",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Dark matter Dark energy "
 },
 {
-  "id": "p-1099",
+  "id": "p-1106",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1099",
+  "url": "sec_fourteenth-intro.html#p-1106",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Quasars "
 },
 {
-  "id": "p-1100",
+  "id": "p-1107",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1100",
+  "url": "sec_fourteenth-intro.html#p-1107",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6130,63 +6175,63 @@ var ptx_lunr_docs = [
   "body": " Examples    What is the current estimate for the age of the universe?  4.5 billion years  13.8 billion years  100 billion years  1 trillion years      b.      What is dark matter?  Matter made up of exotic particles that do not interact with light or other forms of electromagnetic radiation  Matter that emits no light or radiation  Matter that is invisible to telescopes  All of the above      d.      Which of the following is the most widely accepted theory of the universe's origin?  The steady state theory  The big bang theory  The inflation theory  The cyclic model      b.      What is a quasar?  A type of galaxy that emits intense radiation from its center  A massive star that has exploded in a supernova  A region of space with an extremely strong gravitational field  A type of dark matter      a.      What is the name of the structure in the universe that contains large groups of galaxies?  Universe  Supercluster  Solar System  Galaxy Cluster      b.      What is the name of the galaxy that contains our solar system?  Andromeda  Milky Way  Triangulum  Sombrero      b.      Which of the following is the most accurate description of Hubble's law?  The velocity of a galaxy is proportional to its distance from us.  The velocity of a galaxy is inversely proportional to its distance from us.  The acceleration of a galaxy is proportional to its distance from us.  The acceleration of a galaxy is inversely proportional to its distance from us.      a.    "
 },
 {
-  "id": "example-217",
+  "id": "example-220",
   "level": "2",
-  "url": "sec_fourteenth-examples.html#example-217",
+  "url": "sec_fourteenth-examples.html#example-220",
   "type": "Example",
   "number": "14.2.1",
   "title": "",
   "body": "  What is the current estimate for the age of the universe?  4.5 billion years  13.8 billion years  100 billion years  1 trillion years      b.   "
 },
 {
-  "id": "example-218",
+  "id": "example-221",
   "level": "2",
-  "url": "sec_fourteenth-examples.html#example-218",
+  "url": "sec_fourteenth-examples.html#example-221",
   "type": "Example",
   "number": "14.2.2",
   "title": "",
   "body": "  What is dark matter?  Matter made up of exotic particles that do not interact with light or other forms of electromagnetic radiation  Matter that emits no light or radiation  Matter that is invisible to telescopes  All of the above      d.   "
 },
 {
-  "id": "example-219",
+  "id": "example-222",
   "level": "2",
-  "url": "sec_fourteenth-examples.html#example-219",
+  "url": "sec_fourteenth-examples.html#example-222",
   "type": "Example",
   "number": "14.2.3",
   "title": "",
   "body": "  Which of the following is the most widely accepted theory of the universe's origin?  The steady state theory  The big bang theory  The inflation theory  The cyclic model      b.   "
 },
 {
-  "id": "example-220",
+  "id": "example-223",
   "level": "2",
-  "url": "sec_fourteenth-examples.html#example-220",
+  "url": "sec_fourteenth-examples.html#example-223",
   "type": "Example",
   "number": "14.2.4",
   "title": "",
   "body": "  What is a quasar?  A type of galaxy that emits intense radiation from its center  A massive star that has exploded in a supernova  A region of space with an extremely strong gravitational field  A type of dark matter      a.   "
 },
 {
-  "id": "example-221",
+  "id": "example-224",
   "level": "2",
-  "url": "sec_fourteenth-examples.html#example-221",
+  "url": "sec_fourteenth-examples.html#example-224",
   "type": "Example",
   "number": "14.2.5",
   "title": "",
   "body": "  What is the name of the structure in the universe that contains large groups of galaxies?  Universe  Supercluster  Solar System  Galaxy Cluster      b.   "
 },
 {
-  "id": "example-222",
+  "id": "example-225",
   "level": "2",
-  "url": "sec_fourteenth-examples.html#example-222",
+  "url": "sec_fourteenth-examples.html#example-225",
   "type": "Example",
   "number": "14.2.6",
   "title": "",
   "body": "  What is the name of the galaxy that contains our solar system?  Andromeda  Milky Way  Triangulum  Sombrero      b.   "
 },
 {
-  "id": "example-223",
+  "id": "example-226",
   "level": "2",
-  "url": "sec_fourteenth-examples.html#example-223",
+  "url": "sec_fourteenth-examples.html#example-226",
   "type": "Example",
   "number": "14.2.7",
   "title": "",
@@ -6202,45 +6247,45 @@ var ptx_lunr_docs = [
   "body": "  Exercise  What is the universe?  The solar system  The Milky Way galaxy  Everything that exists, including all matter and energy  The region of space beyond the Earth's atmosphere    c.   What is dark energy?  A mysterious force that is causing the expansion of the universe to accelerate  A type of energy that is invisible to telescopes  A force that opposes gravity  A force that causes galaxies to collide with each other    a.   What is a galaxy?  A group of stars that orbit around a common center of mass  A single star  A black hole  A planet    a.   Which force keeps stars in a galaxy from flying off into space?  Electromagnetic force  Weak nuclear force  Strong nuclear force  Gravitational force    d.   What is Hubble's law?  The law that describes the expansion of the universe  The law that describes the gravitational attraction between two bodies  The law that describes the conservation of energy in a closed system  The law that describes the behavior of waves in a medium    a.   "
 },
 {
-  "id": "exercise-172",
+  "id": "exercise-174",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-172",
+  "url": "ex_fourteenth.html#exercise-174",
   "type": "Exercise",
   "number": "14.3.1",
   "title": "",
   "body": "What is the universe?  The solar system  The Milky Way galaxy  Everything that exists, including all matter and energy  The region of space beyond the Earth's atmosphere    c.  "
 },
 {
-  "id": "exercise-173",
+  "id": "exercise-175",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-173",
+  "url": "ex_fourteenth.html#exercise-175",
   "type": "Exercise",
   "number": "14.3.2",
   "title": "",
   "body": "What is dark energy?  A mysterious force that is causing the expansion of the universe to accelerate  A type of energy that is invisible to telescopes  A force that opposes gravity  A force that causes galaxies to collide with each other    a.  "
 },
 {
-  "id": "exercise-174",
+  "id": "exercise-176",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-174",
+  "url": "ex_fourteenth.html#exercise-176",
   "type": "Exercise",
   "number": "14.3.3",
   "title": "",
   "body": "What is a galaxy?  A group of stars that orbit around a common center of mass  A single star  A black hole  A planet    a.  "
 },
 {
-  "id": "exercise-175",
+  "id": "exercise-177",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-175",
+  "url": "ex_fourteenth.html#exercise-177",
   "type": "Exercise",
   "number": "14.3.4",
   "title": "",
   "body": "Which force keeps stars in a galaxy from flying off into space?  Electromagnetic force  Weak nuclear force  Strong nuclear force  Gravitational force    d.  "
 },
 {
-  "id": "exercise-176",
+  "id": "exercise-178",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-176",
+  "url": "ex_fourteenth.html#exercise-178",
   "type": "Exercise",
   "number": "14.3.5",
   "title": "",
