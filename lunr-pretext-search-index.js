@@ -2032,7 +2032,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "5.5",
   "title": "Exercise",
-  "body": "  Exercise  An atom or a molecule that loses an electron becomes a  positive ion  negative ion  neutral  conductor    Ohms law defines current flow through what type of substance?  Conductor  Insulator  Non-conductor  Both a. and b.    Which of the following is the symbol of ohms?        What substance is attracted to a magnet?  iron and its alloys.  silver.  water.  all substances.    What happens to the magnetic field when a magnet is strongly heated or hammered?  becomes weaker.  is unchanged.  becomes stronger.  reverses its direction.    What is the direction of the magnetic field under the power line if a current is flowing through it towards the south?  east.  west.  north.  south.    A transformer has more turns on its primary coil than on the secondary coil. It is a  step up transformer  step down transformer  None of the above  both step-up and step-down transformer.    Calculate the force of repulsion between two charges of placed at apart.  If two charges placed at 2 cm experience 5 N force. what would be the magnitude of this force if the charges are shifted to 10 cm apart.  Calculate the force of repulsion between two charges of placed at apart.  A transformer has 500 turns in its primary coil and is connected to 400 V. Find the voltage in the secondary coil if it has 25 turns.  Recognize the series and parallel circuits from the circuit diagrams given below.  DC circuits                  A circuit contains a resistor with a resistance of 20 ohms, connected to a battery with a voltage of 12 volts. What is the current flowing through the circuit?   A circuit has a voltage of 12 volts and a current of 2 amperes. What is the resistance of the circuit?     "
+  "body": "  Exercise  An atom or a molecule that loses an electron becomes a  positive ion  negative ion  neutral  conductor    Ohms law defines current flow through what type of substance?  Conductor  Insulator  Non-conductor  Both a. and b.    Which of the following is the symbol of ohms?        What substance is attracted to a magnet?  iron and its alloys.  silver.  water.  all substances.    What happens to the magnetic field when a magnet is strongly heated or hammered?  becomes weaker.  is unchanged.  becomes stronger.  reverses its direction.    What is the direction of the magnetic field under the power line if a current is flowing through it towards the south?  east.  west.  north.  south.    A transformer has more turns on its primary coil than on the secondary coil. It is a  step up transformer  step down transformer  None of the above  both step-up and step-down transformer.    Calculate the force of repulsion between two charges of placed at apart.  If two charges placed at 2 cm experience 5 N force. what would be the magnitude of this force if the charges are shifted to 10 cm apart.  Calculate the force of repulsion between two charges of placed at apart.  A transformer has 500 turns in its primary coil and is connected to 400 V. Find the voltage in the secondary coil if it has 25 turns.  Recognize the series and parallel circuits from the circuit diagrams given below.  DC circuits                  A circuit contains a resistor with a resistance of 20 ohms, connected to a battery with a voltage of 12 volts. What is the current flowing through the circuit?   A circuit has a voltage of 12 volts and a current of 2 amperes. What is the resistance of the circuit?  Electrical Circuit     "
 },
 {
   "id": "exercise-78",
@@ -2159,6 +2159,15 @@ var ptx_lunr_docs = [
   "number": "5.5.14",
   "title": "",
   "body": "A circuit has a voltage of 12 volts and a current of 2 amperes. What is the resistance of the circuit? "
+},
+{
+  "id": "exercise-92",
+  "level": "2",
+  "url": "ex_fifth.html#exercise-92",
+  "type": "Exercise",
+  "number": "5.5.15",
+  "title": "",
+  "body": "Electrical Circuit "
 },
 {
   "id": "sec_sixth-intro",
@@ -2395,117 +2404,117 @@ var ptx_lunr_docs = [
   "body": "  Exercises   Why does the letter appears like when placed infront of a plane mirror?    Why do the stars twinkle in a night sky? How about the same stars if seen from international space station?    What makes setting sun appear red?   scattering of light from the atmospheric air molecules.    Why do we see objects as white?    The American flag appears when viewed in blue light.  red and blue.  blue and black  all blue.  red, white, and blue.     White is a combination of all the colors, and black is the absense of all colors. When viewed in the blue light only blue light reflects. The blue parts are not affected, the red parts are black now, and the white parts are blue now.    Find the wavelengths of sound which have a speed of and frequencies of          Which of the following is not a reason behind rainbow formation?  Reflection.  Refraction.  Dispersion.  Scattering.      Scattering is responsible for the color of the daytime sky.  red  blue  orange  white      Scattering occurs when light waves are forced to depart from a path due to imperfections in the medium.  curved  straight  angled      Refraction occurs  when waves changed speed  only with light waves  at any unpredictable time      What causes wet spot mirage on the high way road?  Reflection  Refraction  Dispersion  Scattering      Different colors of light waves travell with different speeds in transparent medium. How they travell in vacuum?  At different speeds.  At same speed.  Both a and b.  None of the above.      My radio station is tuned at 90MHz frequency. What is the wavelength of that radio wave. The velocity of electromagnetic wave is    Given: , ,     "
 },
 {
-  "id": "exercise-92",
+  "id": "exercise-93",
   "level": "2",
-  "url": "ex_sixth.html#exercise-92",
+  "url": "ex_sixth.html#exercise-93",
   "type": "Exercise",
   "number": "6.4.1",
   "title": "",
   "body": " Why does the letter appears like when placed infront of a plane mirror?  "
 },
 {
-  "id": "exercise-93",
+  "id": "exercise-94",
   "level": "2",
-  "url": "ex_sixth.html#exercise-93",
+  "url": "ex_sixth.html#exercise-94",
   "type": "Exercise",
   "number": "6.4.2",
   "title": "",
   "body": " Why do the stars twinkle in a night sky? How about the same stars if seen from international space station?  "
 },
 {
-  "id": "exercise-94",
+  "id": "exercise-95",
   "level": "2",
-  "url": "ex_sixth.html#exercise-94",
+  "url": "ex_sixth.html#exercise-95",
   "type": "Exercise",
   "number": "6.4.3",
   "title": "",
   "body": " What makes setting sun appear red?   scattering of light from the atmospheric air molecules.  "
 },
 {
-  "id": "exercise-95",
+  "id": "exercise-96",
   "level": "2",
-  "url": "ex_sixth.html#exercise-95",
+  "url": "ex_sixth.html#exercise-96",
   "type": "Exercise",
   "number": "6.4.4",
   "title": "",
   "body": " Why do we see objects as white?  "
 },
 {
-  "id": "exercise-96",
+  "id": "exercise-97",
   "level": "2",
-  "url": "ex_sixth.html#exercise-96",
+  "url": "ex_sixth.html#exercise-97",
   "type": "Exercise",
   "number": "6.4.5",
   "title": "",
   "body": " The American flag appears when viewed in blue light.  red and blue.  blue and black  all blue.  red, white, and blue.     White is a combination of all the colors, and black is the absense of all colors. When viewed in the blue light only blue light reflects. The blue parts are not affected, the red parts are black now, and the white parts are blue now.  "
 },
 {
-  "id": "exercise-97",
+  "id": "exercise-98",
   "level": "2",
-  "url": "ex_sixth.html#exercise-97",
+  "url": "ex_sixth.html#exercise-98",
   "type": "Exercise",
   "number": "6.4.6",
   "title": "",
   "body": " Find the wavelengths of sound which have a speed of and frequencies of        "
 },
 {
-  "id": "exercise-98",
+  "id": "exercise-99",
   "level": "2",
-  "url": "ex_sixth.html#exercise-98",
+  "url": "ex_sixth.html#exercise-99",
   "type": "Exercise",
   "number": "6.4.7",
   "title": "",
   "body": " Which of the following is not a reason behind rainbow formation?  Reflection.  Refraction.  Dispersion.  Scattering.    "
 },
 {
-  "id": "exercise-99",
+  "id": "exercise-100",
   "level": "2",
-  "url": "ex_sixth.html#exercise-99",
+  "url": "ex_sixth.html#exercise-100",
   "type": "Exercise",
   "number": "6.4.8",
   "title": "",
   "body": " Scattering is responsible for the color of the daytime sky.  red  blue  orange  white    "
 },
 {
-  "id": "exercise-100",
+  "id": "exercise-101",
   "level": "2",
-  "url": "ex_sixth.html#exercise-100",
+  "url": "ex_sixth.html#exercise-101",
   "type": "Exercise",
   "number": "6.4.9",
   "title": "",
   "body": " Scattering occurs when light waves are forced to depart from a path due to imperfections in the medium.  curved  straight  angled    "
 },
 {
-  "id": "exercise-101",
+  "id": "exercise-102",
   "level": "2",
-  "url": "ex_sixth.html#exercise-101",
+  "url": "ex_sixth.html#exercise-102",
   "type": "Exercise",
   "number": "6.4.10",
   "title": "",
   "body": " Refraction occurs  when waves changed speed  only with light waves  at any unpredictable time    "
 },
 {
-  "id": "exercise-102",
+  "id": "exercise-103",
   "level": "2",
-  "url": "ex_sixth.html#exercise-102",
+  "url": "ex_sixth.html#exercise-103",
   "type": "Exercise",
   "number": "6.4.11",
   "title": "",
   "body": " What causes wet spot mirage on the high way road?  Reflection  Refraction  Dispersion  Scattering    "
 },
 {
-  "id": "exercise-103",
+  "id": "exercise-104",
   "level": "2",
-  "url": "ex_sixth.html#exercise-103",
+  "url": "ex_sixth.html#exercise-104",
   "type": "Exercise",
   "number": "6.4.12",
   "title": "",
   "body": " Different colors of light waves travell with different speeds in transparent medium. How they travell in vacuum?  At different speeds.  At same speed.  Both a and b.  None of the above.    "
 },
 {
-  "id": "exercise-104",
+  "id": "exercise-105",
   "level": "2",
-  "url": "ex_sixth.html#exercise-104",
+  "url": "ex_sixth.html#exercise-105",
   "type": "Exercise",
   "number": "6.4.13",
   "title": "",
@@ -2854,90 +2863,90 @@ var ptx_lunr_docs = [
   "body": "  Exercises   A nucleon is which of the following?  an electron  a proton  a neutron  both a proton and a neutron      Which nuclear radiation does not change in different nuclide?  alpha  beta  gamma  all of the above      Who discovered the radioactivity?  Rutherford  Becquerel  Pierre Curie  Einstein      Fiil in the blank below.           Fiil in the blank below.     Write the following nuclides in isotopic notation (e.g., \" \")  oxygen-14  Copper-65  Molebdenum-98  Rubidium-100      Find the number of neutrons in the following nuclei.          How much of the radiactive substance decays in 3 months if its half-life is 1 month.    How much mass of 40 mg of a substance will remain after 24 days, if its half -life is 24 days?    Which of the following statements about half-life is correct?  Half-life is the time required for a substance to decay completely.  Half-life is the time required for a substance to lose half of its initial mass.  Half-life is the time required for a substance to reach its maximum concentration.  Half-life is the time required for a substance to react with half of its initial concentration.     "
 },
 {
-  "id": "exercise-105",
+  "id": "exercise-106",
   "level": "2",
-  "url": "ex_seventh.html#exercise-105",
+  "url": "ex_seventh.html#exercise-106",
   "type": "Exercise",
   "number": "7.4.1",
   "title": "",
   "body": " A nucleon is which of the following?  an electron  a proton  a neutron  both a proton and a neutron    "
 },
 {
-  "id": "exercise-106",
+  "id": "exercise-107",
   "level": "2",
-  "url": "ex_seventh.html#exercise-106",
+  "url": "ex_seventh.html#exercise-107",
   "type": "Exercise",
   "number": "7.4.2",
   "title": "",
   "body": " Which nuclear radiation does not change in different nuclide?  alpha  beta  gamma  all of the above    "
 },
 {
-  "id": "exercise-107",
+  "id": "exercise-108",
   "level": "2",
-  "url": "ex_seventh.html#exercise-107",
+  "url": "ex_seventh.html#exercise-108",
   "type": "Exercise",
   "number": "7.4.3",
   "title": "",
   "body": " Who discovered the radioactivity?  Rutherford  Becquerel  Pierre Curie  Einstein    "
 },
 {
-  "id": "exercise-108",
+  "id": "exercise-109",
   "level": "2",
-  "url": "ex_seventh.html#exercise-108",
+  "url": "ex_seventh.html#exercise-109",
   "type": "Exercise",
   "number": "7.4.4",
   "title": "",
   "body": " Fiil in the blank below.         "
 },
 {
-  "id": "exercise-109",
+  "id": "exercise-110",
   "level": "2",
-  "url": "ex_seventh.html#exercise-109",
+  "url": "ex_seventh.html#exercise-110",
   "type": "Exercise",
   "number": "7.4.5",
   "title": "",
   "body": " Fiil in the blank below.   "
 },
 {
-  "id": "exercise-110",
+  "id": "exercise-111",
   "level": "2",
-  "url": "ex_seventh.html#exercise-110",
+  "url": "ex_seventh.html#exercise-111",
   "type": "Exercise",
   "number": "7.4.6",
   "title": "",
   "body": " Write the following nuclides in isotopic notation (e.g., \" \")  oxygen-14  Copper-65  Molebdenum-98  Rubidium-100    "
 },
 {
-  "id": "exercise-111",
+  "id": "exercise-112",
   "level": "2",
-  "url": "ex_seventh.html#exercise-111",
+  "url": "ex_seventh.html#exercise-112",
   "type": "Exercise",
   "number": "7.4.7",
   "title": "",
   "body": " Find the number of neutrons in the following nuclei.        "
 },
 {
-  "id": "exercise-112",
+  "id": "exercise-113",
   "level": "2",
-  "url": "ex_seventh.html#exercise-112",
+  "url": "ex_seventh.html#exercise-113",
   "type": "Exercise",
   "number": "7.4.8",
   "title": "",
   "body": " How much of the radiactive substance decays in 3 months if its half-life is 1 month.  "
 },
 {
-  "id": "exercise-113",
+  "id": "exercise-114",
   "level": "2",
-  "url": "ex_seventh.html#exercise-113",
+  "url": "ex_seventh.html#exercise-114",
   "type": "Exercise",
   "number": "7.4.9",
   "title": "",
   "body": " How much mass of 40 mg of a substance will remain after 24 days, if its half -life is 24 days?  "
 },
 {
-  "id": "exercise-114",
+  "id": "exercise-115",
   "level": "2",
-  "url": "ex_seventh.html#exercise-114",
+  "url": "ex_seventh.html#exercise-115",
   "type": "Exercise",
   "number": "7.4.10",
   "title": "",
@@ -3502,54 +3511,54 @@ var ptx_lunr_docs = [
   "body": "  Exercises   Write the missing number in the following equations:              Which of the following equations are balanced?              Name these compounds:                  Write the chemical formula for these compounds:  Hydrogen iodide  Dinitrogen tetroxide  Manganese chloride  Ferric oxide  Ferrous oxide  Calcium carbonate      Select the correct choice: A halogen atom   has one electron in its outermost orbit  has two electron in its outermost orbit  has filled outer shell  lacks one electron of having a filled outer shell      Select the correct choice: An atom that loses its outer electron or electrons is generally   an active metal  an active nonmetal  an inactive metal  an inactive nonmetal     "
 },
 {
-  "id": "exercise-115",
+  "id": "exercise-116",
   "level": "2",
-  "url": "ex_eighth.html#exercise-115",
+  "url": "ex_eighth.html#exercise-116",
   "type": "Exercise",
   "number": "8.6.1",
   "title": "",
   "body": " Write the missing number in the following equations:            "
 },
 {
-  "id": "exercise-116",
+  "id": "exercise-117",
   "level": "2",
-  "url": "ex_eighth.html#exercise-116",
+  "url": "ex_eighth.html#exercise-117",
   "type": "Exercise",
   "number": "8.6.2",
   "title": "",
   "body": " Which of the following equations are balanced?            "
 },
 {
-  "id": "exercise-117",
+  "id": "exercise-118",
   "level": "2",
-  "url": "ex_eighth.html#exercise-117",
+  "url": "ex_eighth.html#exercise-118",
   "type": "Exercise",
   "number": "8.6.3",
   "title": "",
   "body": " Name these compounds:                "
 },
 {
-  "id": "exercise-118",
+  "id": "exercise-119",
   "level": "2",
-  "url": "ex_eighth.html#exercise-118",
+  "url": "ex_eighth.html#exercise-119",
   "type": "Exercise",
   "number": "8.6.4",
   "title": "",
   "body": " Write the chemical formula for these compounds:  Hydrogen iodide  Dinitrogen tetroxide  Manganese chloride  Ferric oxide  Ferrous oxide  Calcium carbonate    "
 },
 {
-  "id": "exercise-119",
+  "id": "exercise-120",
   "level": "2",
-  "url": "ex_eighth.html#exercise-119",
+  "url": "ex_eighth.html#exercise-120",
   "type": "Exercise",
   "number": "8.6.5",
   "title": "",
   "body": " Select the correct choice: A halogen atom   has one electron in its outermost orbit  has two electron in its outermost orbit  has filled outer shell  lacks one electron of having a filled outer shell    "
 },
 {
-  "id": "exercise-120",
+  "id": "exercise-121",
   "level": "2",
-  "url": "ex_eighth.html#exercise-120",
+  "url": "ex_eighth.html#exercise-121",
   "type": "Exercise",
   "number": "8.6.6",
   "title": "",
@@ -3853,90 +3862,90 @@ var ptx_lunr_docs = [
   "body": "  Exercises   The solubility of solid dissolved in a liquid increases with  increase of temperature.  decrease of temperature.  temperature does not effect solubility.  None of the above.     Dissolving a solute in a liquid  increases the freezing point of liquid.  decreases the freezing point of liquid.  does not the freezing point.  does any of the above, depending on the substance involved.    Which of the following statements is true concerning acids and bases?  acids and bases don't react with each other.  acids mixed with bases neutralize each other.  acids mixed with bases make stronger bases.  acids mixed with bases make stronger acids.    True or false: bases are sometimes called alkalis.  True.  False.    Which is true?  pH of less than 7 is basic; pH of more than 7 is acidic.  pH of less than 7 is acidic; pH of more than 7 is basic.    Which substance completely dissociates in water?  Weak acids.  Strong acids.    What is the pH of a neutral solution?  7  0  14  1    Which of the following is a strong acid?  HClO  HF      c.   Which of the following is a weak base?  KOH  NaOH      c.   What is the product of the neutralization reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH)?  Water and sodium chloride.  Carbon dioxide and sodium chloride.  Water and sodium carbonate.  None of the above.>    a.   "
 },
 {
-  "id": "exercise-121",
+  "id": "exercise-122",
   "level": "2",
-  "url": "ex_ninth.html#exercise-121",
+  "url": "ex_ninth.html#exercise-122",
   "type": "Exercise",
   "number": "9.5.1",
   "title": "",
   "body": " The solubility of solid dissolved in a liquid increases with  increase of temperature.  decrease of temperature.  temperature does not effect solubility.  None of the above.    "
 },
 {
-  "id": "exercise-122",
+  "id": "exercise-123",
   "level": "2",
-  "url": "ex_ninth.html#exercise-122",
+  "url": "ex_ninth.html#exercise-123",
   "type": "Exercise",
   "number": "9.5.2",
   "title": "",
   "body": "Dissolving a solute in a liquid  increases the freezing point of liquid.  decreases the freezing point of liquid.  does not the freezing point.  does any of the above, depending on the substance involved.   "
 },
 {
-  "id": "exercise-123",
+  "id": "exercise-124",
   "level": "2",
-  "url": "ex_ninth.html#exercise-123",
+  "url": "ex_ninth.html#exercise-124",
   "type": "Exercise",
   "number": "9.5.3",
   "title": "",
   "body": "Which of the following statements is true concerning acids and bases?  acids and bases don't react with each other.  acids mixed with bases neutralize each other.  acids mixed with bases make stronger bases.  acids mixed with bases make stronger acids.   "
 },
 {
-  "id": "exercise-124",
+  "id": "exercise-125",
   "level": "2",
-  "url": "ex_ninth.html#exercise-124",
+  "url": "ex_ninth.html#exercise-125",
   "type": "Exercise",
   "number": "9.5.4",
   "title": "",
   "body": "True or false: bases are sometimes called alkalis.  True.  False.   "
 },
 {
-  "id": "exercise-125",
+  "id": "exercise-126",
   "level": "2",
-  "url": "ex_ninth.html#exercise-125",
+  "url": "ex_ninth.html#exercise-126",
   "type": "Exercise",
   "number": "9.5.5",
   "title": "",
   "body": "Which is true?  pH of less than 7 is basic; pH of more than 7 is acidic.  pH of less than 7 is acidic; pH of more than 7 is basic.   "
 },
 {
-  "id": "exercise-126",
+  "id": "exercise-127",
   "level": "2",
-  "url": "ex_ninth.html#exercise-126",
+  "url": "ex_ninth.html#exercise-127",
   "type": "Exercise",
   "number": "9.5.6",
   "title": "",
   "body": "Which substance completely dissociates in water?  Weak acids.  Strong acids.   "
 },
 {
-  "id": "exercise-127",
+  "id": "exercise-128",
   "level": "2",
-  "url": "ex_ninth.html#exercise-127",
+  "url": "ex_ninth.html#exercise-128",
   "type": "Exercise",
   "number": "9.5.7",
   "title": "",
   "body": "What is the pH of a neutral solution?  7  0  14  1   "
 },
 {
-  "id": "exercise-128",
+  "id": "exercise-129",
   "level": "2",
-  "url": "ex_ninth.html#exercise-128",
+  "url": "ex_ninth.html#exercise-129",
   "type": "Exercise",
   "number": "9.5.8",
   "title": "",
   "body": "Which of the following is a strong acid?  HClO  HF      c.  "
 },
 {
-  "id": "exercise-129",
+  "id": "exercise-130",
   "level": "2",
-  "url": "ex_ninth.html#exercise-129",
+  "url": "ex_ninth.html#exercise-130",
   "type": "Exercise",
   "number": "9.5.9",
   "title": "",
   "body": "Which of the following is a weak base?  KOH  NaOH      c.  "
 },
 {
-  "id": "exercise-130",
+  "id": "exercise-131",
   "level": "2",
-  "url": "ex_ninth.html#exercise-130",
+  "url": "ex_ninth.html#exercise-131",
   "type": "Exercise",
   "number": "9.5.10",
   "title": "",
@@ -4456,108 +4465,108 @@ var ptx_lunr_docs = [
   "body": "  Exercises   Dry air has relative humidity of  zero.  100%.  50%.  1%.      Because of the Coriolis effect, winds and other moving fluids are deflected to which direction in the Northern Hemisphere?  north  west.  east  south.      Hurricanes never occur   near the equator.  near Canada.  islands.  near mid-latitude cyclones.      Air flows from in the upper atmosphere.  west to east.  east to west.  north to south.  south to north.      A cyclone is centered towards  region of high pressure.  region of low pressure.  cannot tell.      Tsunamis are caused by  typhoons.  undersea earthquake.  tornados.  hurricanes.      Which type of rock is most commonly associated with solution caves?  Granite.  Marble.  Sandstone.  Basalt.     b.    What is the term for the type of cave formation that occurs when lava cools and hardens around a flowing stream of lava, creating a hollow tube?  Solution cave.  Sea cave.  Lava tube.  Erosion cave.     c.    What is the definition of erosion?  The process of breaking down rocks and minerals.  The process of forming new rocks and minerals.  The process of moving rocks and minerals from one place to another.  The process of melting rocks and minerals.     c.    Which of the following can contribute to soil erosion?  Overgrazing by livestock.  Deforestation.  Poor land management practices.  All of the above.     d.    Which of the following is a natural process that can lead to erosion?  Landslides.  Human construction and development.  Agriculture.  None of the above.     a.    What is a spring?  A device used to measure the flow rate of groundwater.  A type of well that is used for pumping groundwater to the surface.  A natural discharge of groundwater at the surface.  A type of water treatment facility.     c.   "
 },
 {
-  "id": "exercise-131",
+  "id": "exercise-132",
   "level": "2",
-  "url": "ex_tenth.html#exercise-131",
+  "url": "ex_tenth.html#exercise-132",
   "type": "Exercise",
   "number": "10.5.1",
   "title": "",
   "body": " Dry air has relative humidity of  zero.  100%.  50%.  1%.    "
 },
 {
-  "id": "exercise-132",
+  "id": "exercise-133",
   "level": "2",
-  "url": "ex_tenth.html#exercise-132",
+  "url": "ex_tenth.html#exercise-133",
   "type": "Exercise",
   "number": "10.5.2",
   "title": "",
   "body": " Because of the Coriolis effect, winds and other moving fluids are deflected to which direction in the Northern Hemisphere?  north  west.  east  south.    "
 },
 {
-  "id": "exercise-133",
+  "id": "exercise-134",
   "level": "2",
-  "url": "ex_tenth.html#exercise-133",
+  "url": "ex_tenth.html#exercise-134",
   "type": "Exercise",
   "number": "10.5.3",
   "title": "",
   "body": " Hurricanes never occur   near the equator.  near Canada.  islands.  near mid-latitude cyclones.    "
 },
 {
-  "id": "exercise-134",
+  "id": "exercise-135",
   "level": "2",
-  "url": "ex_tenth.html#exercise-134",
+  "url": "ex_tenth.html#exercise-135",
   "type": "Exercise",
   "number": "10.5.4",
   "title": "",
   "body": " Air flows from in the upper atmosphere.  west to east.  east to west.  north to south.  south to north.    "
 },
 {
-  "id": "exercise-135",
+  "id": "exercise-136",
   "level": "2",
-  "url": "ex_tenth.html#exercise-135",
+  "url": "ex_tenth.html#exercise-136",
   "type": "Exercise",
   "number": "10.5.5",
   "title": "",
   "body": " A cyclone is centered towards  region of high pressure.  region of low pressure.  cannot tell.    "
 },
 {
-  "id": "exercise-136",
+  "id": "exercise-137",
   "level": "2",
-  "url": "ex_tenth.html#exercise-136",
+  "url": "ex_tenth.html#exercise-137",
   "type": "Exercise",
   "number": "10.5.6",
   "title": "",
   "body": " Tsunamis are caused by  typhoons.  undersea earthquake.  tornados.  hurricanes.    "
 },
 {
-  "id": "exercise-137",
+  "id": "exercise-138",
   "level": "2",
-  "url": "ex_tenth.html#exercise-137",
+  "url": "ex_tenth.html#exercise-138",
   "type": "Exercise",
   "number": "10.5.7",
   "title": "",
   "body": " Which type of rock is most commonly associated with solution caves?  Granite.  Marble.  Sandstone.  Basalt.     b.  "
 },
 {
-  "id": "exercise-138",
+  "id": "exercise-139",
   "level": "2",
-  "url": "ex_tenth.html#exercise-138",
+  "url": "ex_tenth.html#exercise-139",
   "type": "Exercise",
   "number": "10.5.8",
   "title": "",
   "body": " What is the term for the type of cave formation that occurs when lava cools and hardens around a flowing stream of lava, creating a hollow tube?  Solution cave.  Sea cave.  Lava tube.  Erosion cave.     c.  "
 },
 {
-  "id": "exercise-139",
+  "id": "exercise-140",
   "level": "2",
-  "url": "ex_tenth.html#exercise-139",
+  "url": "ex_tenth.html#exercise-140",
   "type": "Exercise",
   "number": "10.5.9",
   "title": "",
   "body": " What is the definition of erosion?  The process of breaking down rocks and minerals.  The process of forming new rocks and minerals.  The process of moving rocks and minerals from one place to another.  The process of melting rocks and minerals.     c.  "
 },
 {
-  "id": "exercise-140",
+  "id": "exercise-141",
   "level": "2",
-  "url": "ex_tenth.html#exercise-140",
+  "url": "ex_tenth.html#exercise-141",
   "type": "Exercise",
   "number": "10.5.10",
   "title": "",
   "body": " Which of the following can contribute to soil erosion?  Overgrazing by livestock.  Deforestation.  Poor land management practices.  All of the above.     d.  "
 },
 {
-  "id": "exercise-141",
+  "id": "exercise-142",
   "level": "2",
-  "url": "ex_tenth.html#exercise-141",
+  "url": "ex_tenth.html#exercise-142",
   "type": "Exercise",
   "number": "10.5.11",
   "title": "",
   "body": " Which of the following is a natural process that can lead to erosion?  Landslides.  Human construction and development.  Agriculture.  None of the above.     a.  "
 },
 {
-  "id": "exercise-142",
+  "id": "exercise-143",
   "level": "2",
-  "url": "ex_tenth.html#exercise-142",
+  "url": "ex_tenth.html#exercise-143",
   "type": "Exercise",
   "number": "10.5.12",
   "title": "",
@@ -5140,153 +5149,153 @@ var ptx_lunr_docs = [
   "body": "  Exercises   Body waves consist of the:  P waves only  S waves only.  P and S waves.  Surface waves.      Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.  A is 10 times more intense than B.  A is 1000 more intense than B.  B is 0.01X as intense than A.  Richter magnitude does not measure intensity.      Where is the focus with respect to the epicenter:  directly below the epicenter.  in the P wave shadow zone.  in the S wave shadow zone.  directly above the epicenter.      Which of the following could be the consequences of the underground earthquake?  cyclone.  tsunami.  a landslide.  none of the above.      Which of the following statements is false?  Most earthquakes occur at plate boundaries.  Most earthquakes can be predicted several days in advance.  Earthquakes can be caused by normal, reverse, and strike-slip faulting.  P waves travel faster than both S waves and Surface waves.      which one of the following is a volcanic rock?  granite.  basalt.  shale.  marble.      A region where the edge of one lithospheric plate slides under the edge of another plate is  Transform fault.  Divergent boundary.  Convergent boundary.  Subduction zone.     d.    Most volcanoes are found along  Divergent boundaries.  Transform faults.  Convergent boundaries.  Hotspots.     c.    Which of the follwing is a primary cause of volcanoes, earthquake, and mountain building?  solar radiation.  plate tectonics.  remanent magnetism.  hotspots.     b.    Which type of plate boundaries exists at subduction zones?  divergent.  convergent.  transform.  reverse.     Subduction zone is never located at  midocean ridge  isaland chain  continental margin  mountain range     What do paleontologists study?  Eart interior.  Time.  Fossils.  Rocks.     c.    In what time spans are eras next divided?  eons.  epochs.  ages.  periods.     d.    In which era did the dinosaurs extinct?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.      When did the giant landmass Pangea split into Laurasia and Gondwana?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.     Birds are descendend from  fish  insects  dinosaurs  mammals     Mammals became dominant in which era?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.     "
 },
 {
-  "id": "exercise-143",
+  "id": "exercise-144",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-143",
+  "url": "ex_eleventh.html#exercise-144",
   "type": "Exercise",
   "number": "11.7.1",
   "title": "",
   "body": " Body waves consist of the:  P waves only  S waves only.  P and S waves.  Surface waves.    "
 },
 {
-  "id": "exercise-144",
+  "id": "exercise-145",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-144",
+  "url": "ex_eleventh.html#exercise-145",
   "type": "Exercise",
   "number": "11.7.2",
   "title": "",
   "body": " Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.  A is 10 times more intense than B.  A is 1000 more intense than B.  B is 0.01X as intense than A.  Richter magnitude does not measure intensity.    "
 },
 {
-  "id": "exercise-145",
+  "id": "exercise-146",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-145",
+  "url": "ex_eleventh.html#exercise-146",
   "type": "Exercise",
   "number": "11.7.3",
   "title": "",
   "body": " Where is the focus with respect to the epicenter:  directly below the epicenter.  in the P wave shadow zone.  in the S wave shadow zone.  directly above the epicenter.    "
 },
 {
-  "id": "exercise-146",
+  "id": "exercise-147",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-146",
+  "url": "ex_eleventh.html#exercise-147",
   "type": "Exercise",
   "number": "11.7.4",
   "title": "",
   "body": " Which of the following could be the consequences of the underground earthquake?  cyclone.  tsunami.  a landslide.  none of the above.    "
 },
 {
-  "id": "exercise-147",
+  "id": "exercise-148",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-147",
+  "url": "ex_eleventh.html#exercise-148",
   "type": "Exercise",
   "number": "11.7.5",
   "title": "",
   "body": " Which of the following statements is false?  Most earthquakes occur at plate boundaries.  Most earthquakes can be predicted several days in advance.  Earthquakes can be caused by normal, reverse, and strike-slip faulting.  P waves travel faster than both S waves and Surface waves.    "
 },
 {
-  "id": "exercise-148",
+  "id": "exercise-149",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-148",
+  "url": "ex_eleventh.html#exercise-149",
   "type": "Exercise",
   "number": "11.7.6",
   "title": "",
   "body": " which one of the following is a volcanic rock?  granite.  basalt.  shale.  marble.    "
 },
 {
-  "id": "exercise-149",
+  "id": "exercise-150",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-149",
+  "url": "ex_eleventh.html#exercise-150",
   "type": "Exercise",
   "number": "11.7.7",
   "title": "",
   "body": " A region where the edge of one lithospheric plate slides under the edge of another plate is  Transform fault.  Divergent boundary.  Convergent boundary.  Subduction zone.     d.  "
 },
 {
-  "id": "exercise-150",
+  "id": "exercise-151",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-150",
+  "url": "ex_eleventh.html#exercise-151",
   "type": "Exercise",
   "number": "11.7.8",
   "title": "",
   "body": " Most volcanoes are found along  Divergent boundaries.  Transform faults.  Convergent boundaries.  Hotspots.     c.  "
 },
 {
-  "id": "exercise-151",
+  "id": "exercise-152",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-151",
+  "url": "ex_eleventh.html#exercise-152",
   "type": "Exercise",
   "number": "11.7.9",
   "title": "",
   "body": " Which of the follwing is a primary cause of volcanoes, earthquake, and mountain building?  solar radiation.  plate tectonics.  remanent magnetism.  hotspots.     b.  "
 },
 {
-  "id": "exercise-152",
+  "id": "exercise-153",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-152",
+  "url": "ex_eleventh.html#exercise-153",
   "type": "Exercise",
   "number": "11.7.10",
   "title": "",
   "body": " Which type of plate boundaries exists at subduction zones?  divergent.  convergent.  transform.  reverse.    "
 },
 {
-  "id": "exercise-153",
+  "id": "exercise-154",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-153",
+  "url": "ex_eleventh.html#exercise-154",
   "type": "Exercise",
   "number": "11.7.11",
   "title": "",
   "body": "Subduction zone is never located at  midocean ridge  isaland chain  continental margin  mountain range   "
 },
 {
-  "id": "exercise-154",
+  "id": "exercise-155",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-154",
+  "url": "ex_eleventh.html#exercise-155",
   "type": "Exercise",
   "number": "11.7.12",
   "title": "",
   "body": " What do paleontologists study?  Eart interior.  Time.  Fossils.  Rocks.     c.  "
 },
 {
-  "id": "exercise-155",
+  "id": "exercise-156",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-155",
+  "url": "ex_eleventh.html#exercise-156",
   "type": "Exercise",
   "number": "11.7.13",
   "title": "",
   "body": " In what time spans are eras next divided?  eons.  epochs.  ages.  periods.     d.  "
 },
 {
-  "id": "exercise-156",
+  "id": "exercise-157",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-156",
+  "url": "ex_eleventh.html#exercise-157",
   "type": "Exercise",
   "number": "11.7.14",
   "title": "",
   "body": " In which era did the dinosaurs extinct?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.    "
 },
 {
-  "id": "exercise-157",
+  "id": "exercise-158",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-157",
+  "url": "ex_eleventh.html#exercise-158",
   "type": "Exercise",
   "number": "11.7.15",
   "title": "",
   "body": " When did the giant landmass Pangea split into Laurasia and Gondwana?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.    "
 },
 {
-  "id": "exercise-158",
+  "id": "exercise-159",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-158",
+  "url": "ex_eleventh.html#exercise-159",
   "type": "Exercise",
   "number": "11.7.16",
   "title": "",
   "body": "Birds are descendend from  fish  insects  dinosaurs  mammals   "
 },
 {
-  "id": "exercise-159",
+  "id": "exercise-160",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-159",
+  "url": "ex_eleventh.html#exercise-160",
   "type": "Exercise",
   "number": "11.7.17",
   "title": "",
@@ -5370,7 +5379,7 @@ var ptx_lunr_docs = [
   "url": "sec_twelvth-intro.html#table-3",
   "type": "Table",
   "number": "12.1.1",
-  "title": "The Planets of Our Solar System<a href=\"\" data-knowl=\"\" class=\"id-ref fn-knowl original\" data-refid=\"hk-fn-63\" id=\"fn-63\"><sup> 1 <\/sup><\/a>",
+  "title": "The Planets of Our Solar System<a href=\"\" data-knowl=\"\" class=\"id-ref fn-knowl original\" data-refid=\"hk-fn-64\" id=\"fn-64\"><sup> 1 <\/sup><\/a>",
   "body": " The Planets of Our Solar System                                                        "
 },
 {
@@ -5644,90 +5653,90 @@ var ptx_lunr_docs = [
   "body": "  Exercise  What are the three main parts of a comet?  Nucleus, coma, and tail  Mantle, crust, and core  Lithosphere, hydrosphere, and atmosphere  Ionosphere, thermosphere, and exosphere    From where the Meteoroids come  it come from asteroids, comets, and the debri belt  it come from the sun  it come from the moon  meteorids are member of the solar system    What is the name of the region in our solar system where comets originate?  Asteroid belt  Kuiper belt  Oort cloud  Heliopause    c.   Why are the planets visble to us?  They are hot enough to radiate light  They reflect sun light  They reflect star light  Their atmospheres emit light due to solar wind    Which planet is sometimes referred to as the \"Red Planet\" due to its reddish appearance?  Earth  Jupiter  Mars  Saturn    c.   Which planet is known for having a thick atmosphere of carbon dioxide?  Mars  Venus  Uranus  Neptune    b.   What is the smallest planet in our solar system?  Mars  Mercury  Uranus  Neptune    Which planet looks nearly to the moon?  Jupiter  Mercury  Venus  Saturn    c.   Name two planets that do not have satellites  Jupiter and Saturn  Mercury and Venus  Earth and Mars  Uranus and Neptune    What is a lunar eclipse?  When the Moon passes between the Earth and the Sun  When the Earth passes between the Sun and the Moon  When the Moon passes through the Earth's shadow  When the Earth passes through the Moon's shadow    "
 },
 {
-  "id": "exercise-160",
+  "id": "exercise-161",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-160",
+  "url": "ex_twelvth.html#exercise-161",
   "type": "Exercise",
   "number": "12.5.1",
   "title": "",
   "body": "What are the three main parts of a comet?  Nucleus, coma, and tail  Mantle, crust, and core  Lithosphere, hydrosphere, and atmosphere  Ionosphere, thermosphere, and exosphere   "
 },
 {
-  "id": "exercise-161",
+  "id": "exercise-162",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-161",
+  "url": "ex_twelvth.html#exercise-162",
   "type": "Exercise",
   "number": "12.5.2",
   "title": "",
   "body": "From where the Meteoroids come  it come from asteroids, comets, and the debri belt  it come from the sun  it come from the moon  meteorids are member of the solar system   "
 },
 {
-  "id": "exercise-162",
+  "id": "exercise-163",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-162",
+  "url": "ex_twelvth.html#exercise-163",
   "type": "Exercise",
   "number": "12.5.3",
   "title": "",
   "body": "What is the name of the region in our solar system where comets originate?  Asteroid belt  Kuiper belt  Oort cloud  Heliopause    c.  "
 },
 {
-  "id": "exercise-163",
+  "id": "exercise-164",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-163",
+  "url": "ex_twelvth.html#exercise-164",
   "type": "Exercise",
   "number": "12.5.4",
   "title": "",
   "body": "Why are the planets visble to us?  They are hot enough to radiate light  They reflect sun light  They reflect star light  Their atmospheres emit light due to solar wind   "
 },
 {
-  "id": "exercise-164",
+  "id": "exercise-165",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-164",
+  "url": "ex_twelvth.html#exercise-165",
   "type": "Exercise",
   "number": "12.5.5",
   "title": "",
   "body": "Which planet is sometimes referred to as the \"Red Planet\" due to its reddish appearance?  Earth  Jupiter  Mars  Saturn    c.  "
 },
 {
-  "id": "exercise-165",
+  "id": "exercise-166",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-165",
+  "url": "ex_twelvth.html#exercise-166",
   "type": "Exercise",
   "number": "12.5.6",
   "title": "",
   "body": "Which planet is known for having a thick atmosphere of carbon dioxide?  Mars  Venus  Uranus  Neptune    b.  "
 },
 {
-  "id": "exercise-166",
+  "id": "exercise-167",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-166",
+  "url": "ex_twelvth.html#exercise-167",
   "type": "Exercise",
   "number": "12.5.7",
   "title": "",
   "body": "What is the smallest planet in our solar system?  Mars  Mercury  Uranus  Neptune   "
 },
 {
-  "id": "exercise-167",
+  "id": "exercise-168",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-167",
+  "url": "ex_twelvth.html#exercise-168",
   "type": "Exercise",
   "number": "12.5.8",
   "title": "",
   "body": "Which planet looks nearly to the moon?  Jupiter  Mercury  Venus  Saturn    c.  "
 },
 {
-  "id": "exercise-168",
+  "id": "exercise-169",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-168",
+  "url": "ex_twelvth.html#exercise-169",
   "type": "Exercise",
   "number": "12.5.9",
   "title": "",
   "body": "Name two planets that do not have satellites  Jupiter and Saturn  Mercury and Venus  Earth and Mars  Uranus and Neptune   "
 },
 {
-  "id": "exercise-169",
+  "id": "exercise-170",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-169",
+  "url": "ex_twelvth.html#exercise-170",
   "type": "Exercise",
   "number": "12.5.10",
   "title": "",
@@ -6058,47 +6067,38 @@ var ptx_lunr_docs = [
   "body": "  Exercise  A star with high luminosity and low temperature would be located in which part of the HR diagram?  Upper left  Upper right  Lower left  Lower right    Which of the following statements about the HR diagram is true?  Stars on the main sequence fuse hydrogen into helium in their cores  The HR diagram can be used to determine the distance to a star  Red giants are more massive than main sequence stars  The HR diagram only applies to stars in our galaxy    What is the significance of the position of a star on the HR diagram?  It indicates the star's distance from Earth  It provides information about the star's chemical composition  It reveals the star's age and evolutionary stage  It determines the star's brightness in the night sky    c.   What is the Sun's approximate distance from Earth?  93,000 miles  93,000 kilometers  93 million miles  93 million kilometers    c.   What is the Sun's approximate distance from Earth?  93,000 miles  93,000 kilometers  93 million miles  93 million kilometers    c.   What is the Sun mostly made of?  Hydrogen and helium  Carbon and oxygen  Iron and nickel  Silicon and magnesium    What is the Sun's primary source of energy?  Nuclear fusion  Solar winds  Electromagnetic radiation  Gravitational energym    Which type of star is most likely to end its life as a black hole?  Red giant  Main sequence star  White dwarf  Blue supergiant    d.   What happens to a star when it runs out of fuel for nuclear fusion?  It explodes in a supernova  It collapses into a black hole  It becomes a white dwarf  It continues to shine by burning its outer layers    What happens to the core of a massive star after a supernova explosion?  It collapses into a black hole  It becomes a neutron star  It becomes a white dwarf  It continues to shine as a red giant    What is the ultimate fate of a low-mass star, like the Sun?  It becomes a black hole  It explodes in a supernova  It becomes a white dwarf  It becomes a neutron star    "
 },
 {
-  "id": "exercise-170",
+  "id": "exercise-171",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-170",
+  "url": "ex_thirteenth.html#exercise-171",
   "type": "Exercise",
   "number": "13.4.1",
   "title": "",
   "body": "A star with high luminosity and low temperature would be located in which part of the HR diagram?  Upper left  Upper right  Lower left  Lower right   "
 },
 {
-  "id": "exercise-171",
+  "id": "exercise-172",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-171",
+  "url": "ex_thirteenth.html#exercise-172",
   "type": "Exercise",
   "number": "13.4.2",
   "title": "",
   "body": "Which of the following statements about the HR diagram is true?  Stars on the main sequence fuse hydrogen into helium in their cores  The HR diagram can be used to determine the distance to a star  Red giants are more massive than main sequence stars  The HR diagram only applies to stars in our galaxy   "
 },
 {
-  "id": "exercise-172",
+  "id": "exercise-173",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-172",
+  "url": "ex_thirteenth.html#exercise-173",
   "type": "Exercise",
   "number": "13.4.3",
   "title": "",
   "body": "What is the significance of the position of a star on the HR diagram?  It indicates the star's distance from Earth  It provides information about the star's chemical composition  It reveals the star's age and evolutionary stage  It determines the star's brightness in the night sky    c.  "
 },
 {
-  "id": "exercise-173",
-  "level": "2",
-  "url": "ex_thirteenth.html#exercise-173",
-  "type": "Exercise",
-  "number": "13.4.4",
-  "title": "",
-  "body": "What is the Sun's approximate distance from Earth?  93,000 miles  93,000 kilometers  93 million miles  93 million kilometers    c.  "
-},
-{
   "id": "exercise-174",
   "level": "2",
   "url": "ex_thirteenth.html#exercise-174",
   "type": "Exercise",
-  "number": "13.4.5",
+  "number": "13.4.4",
   "title": "",
   "body": "What is the Sun's approximate distance from Earth?  93,000 miles  93,000 kilometers  93 million miles  93 million kilometers    c.  "
 },
@@ -6107,50 +6107,59 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "ex_thirteenth.html#exercise-175",
   "type": "Exercise",
-  "number": "13.4.6",
+  "number": "13.4.5",
   "title": "",
-  "body": "What is the Sun mostly made of?  Hydrogen and helium  Carbon and oxygen  Iron and nickel  Silicon and magnesium   "
+  "body": "What is the Sun's approximate distance from Earth?  93,000 miles  93,000 kilometers  93 million miles  93 million kilometers    c.  "
 },
 {
   "id": "exercise-176",
   "level": "2",
   "url": "ex_thirteenth.html#exercise-176",
   "type": "Exercise",
-  "number": "13.4.7",
+  "number": "13.4.6",
   "title": "",
-  "body": "What is the Sun's primary source of energy?  Nuclear fusion  Solar winds  Electromagnetic radiation  Gravitational energym   "
+  "body": "What is the Sun mostly made of?  Hydrogen and helium  Carbon and oxygen  Iron and nickel  Silicon and magnesium   "
 },
 {
   "id": "exercise-177",
   "level": "2",
   "url": "ex_thirteenth.html#exercise-177",
   "type": "Exercise",
-  "number": "13.4.8",
+  "number": "13.4.7",
   "title": "",
-  "body": "Which type of star is most likely to end its life as a black hole?  Red giant  Main sequence star  White dwarf  Blue supergiant    d.  "
+  "body": "What is the Sun's primary source of energy?  Nuclear fusion  Solar winds  Electromagnetic radiation  Gravitational energym   "
 },
 {
   "id": "exercise-178",
   "level": "2",
   "url": "ex_thirteenth.html#exercise-178",
   "type": "Exercise",
-  "number": "13.4.9",
+  "number": "13.4.8",
   "title": "",
-  "body": "What happens to a star when it runs out of fuel for nuclear fusion?  It explodes in a supernova  It collapses into a black hole  It becomes a white dwarf  It continues to shine by burning its outer layers   "
+  "body": "Which type of star is most likely to end its life as a black hole?  Red giant  Main sequence star  White dwarf  Blue supergiant    d.  "
 },
 {
   "id": "exercise-179",
   "level": "2",
   "url": "ex_thirteenth.html#exercise-179",
   "type": "Exercise",
-  "number": "13.4.10",
+  "number": "13.4.9",
   "title": "",
-  "body": "What happens to the core of a massive star after a supernova explosion?  It collapses into a black hole  It becomes a neutron star  It becomes a white dwarf  It continues to shine as a red giant   "
+  "body": "What happens to a star when it runs out of fuel for nuclear fusion?  It explodes in a supernova  It collapses into a black hole  It becomes a white dwarf  It continues to shine by burning its outer layers   "
 },
 {
   "id": "exercise-180",
   "level": "2",
   "url": "ex_thirteenth.html#exercise-180",
+  "type": "Exercise",
+  "number": "13.4.10",
+  "title": "",
+  "body": "What happens to the core of a massive star after a supernova explosion?  It collapses into a black hole  It becomes a neutron star  It becomes a white dwarf  It continues to shine as a red giant   "
+},
+{
+  "id": "exercise-181",
+  "level": "2",
+  "url": "ex_thirteenth.html#exercise-181",
   "type": "Exercise",
   "number": "13.4.11",
   "title": "",
@@ -6337,45 +6346,45 @@ var ptx_lunr_docs = [
   "body": "  Exercise  What is the universe?  The solar system  The Milky Way galaxy  Everything that exists, including all matter and energy  The region of space beyond the Earth's atmosphere    c.   What is dark energy?  A mysterious force that is causing the expansion of the universe to accelerate  A type of energy that is invisible to telescopes  A force that opposes gravity  A force that causes galaxies to collide with each other    a.   What is a galaxy?  A group of stars that orbit around a common center of mass  A single star  A black hole  A planet    a.   Which force keeps stars in a galaxy from flying off into space?  Electromagnetic force  Weak nuclear force  Strong nuclear force  Gravitational force    d.   What is Hubble's law?  The law that describes the expansion of the universe  The law that describes the gravitational attraction between two bodies  The law that describes the conservation of energy in a closed system  The law that describes the behavior of waves in a medium    a.   "
 },
 {
-  "id": "exercise-181",
+  "id": "exercise-182",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-181",
+  "url": "ex_fourteenth.html#exercise-182",
   "type": "Exercise",
   "number": "14.3.1",
   "title": "",
   "body": "What is the universe?  The solar system  The Milky Way galaxy  Everything that exists, including all matter and energy  The region of space beyond the Earth's atmosphere    c.  "
 },
 {
-  "id": "exercise-182",
+  "id": "exercise-183",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-182",
+  "url": "ex_fourteenth.html#exercise-183",
   "type": "Exercise",
   "number": "14.3.2",
   "title": "",
   "body": "What is dark energy?  A mysterious force that is causing the expansion of the universe to accelerate  A type of energy that is invisible to telescopes  A force that opposes gravity  A force that causes galaxies to collide with each other    a.  "
 },
 {
-  "id": "exercise-183",
+  "id": "exercise-184",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-183",
+  "url": "ex_fourteenth.html#exercise-184",
   "type": "Exercise",
   "number": "14.3.3",
   "title": "",
   "body": "What is a galaxy?  A group of stars that orbit around a common center of mass  A single star  A black hole  A planet    a.  "
 },
 {
-  "id": "exercise-184",
+  "id": "exercise-185",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-184",
+  "url": "ex_fourteenth.html#exercise-185",
   "type": "Exercise",
   "number": "14.3.4",
   "title": "",
   "body": "Which force keeps stars in a galaxy from flying off into space?  Electromagnetic force  Weak nuclear force  Strong nuclear force  Gravitational force    d.  "
 },
 {
-  "id": "exercise-185",
+  "id": "exercise-186",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-185",
+  "url": "ex_fourteenth.html#exercise-186",
   "type": "Exercise",
   "number": "14.3.5",
   "title": "",
