@@ -115,7 +115,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.4",
   "title": "Examples",
-  "body": " Examples    Write the sum of the numbers and in a proper significant figures.    The mathematical sum of the numbers is but, the lowest decimal place in the data is one, hence the correct answer would be       Write the numbers in correct to its significant figures if is subtracted from .    The mathematical subtraction is but, the lowest decimal place in the data is two, hence the correct answer would be       Round off the numbers and to the three significant figures.   2.57, 2.57, 2.73 (or, 2.72).     Round off the numbers and to the two significant figures.   2100 (or, 2000), 8600, 5700.      Write the answer for each expression using scientific notation with the appropriate number of significant figures.                          What is the SI unit for measuring temperature?  Kelvin  Degree Celsius  Fahrenheit  Rankine      a.      What is the SI unit for measuring length?  Kelvin  Second  Meter  Kilogram      c.     What is the SI unit for measuring time?  Meter  Kilogram  Second  Watt      What is the conversion factor for converting centimeters to inch?  2.54  100  10  25.4     a.     Math Practice              "
+  "body": " Examples    Write the sum of the numbers and in a proper significant figures.    The mathematical sum of the numbers is but, the lowest decimal place in the data is one, hence the correct answer would be       Write the numbers in correct to its significant figures if is subtracted from .    The mathematical subtraction is but, the lowest decimal place in the data is two, hence the correct answer would be       Round off the numbers and to the three significant figures.   2.57, 2.57, 2.73 (or, 2.72).     Round off the numbers and to the two significant figures.   2100 (or, 2000), 8600, 5700.      Write the answer for each expression using scientific notation with the appropriate number of significant figures.                          What is the SI unit for measuring temperature?  Kelvin  Degree Celsius  Fahrenheit  Rankine      a.      What is the SI unit for measuring length?  Kelvin  Second  Meter  Kilogram      c.     What is the SI unit for measuring time?  Meter  Kilogram  Second  Watt      What is the conversion factor for converting centimeters to inch?  2.54  100  10  25.4     a.     Math Practice             "
 },
 {
   "id": "example-3",
@@ -205,7 +205,7 @@ var ptx_lunr_docs = [
   "type": "Exercises",
   "number": "1.5",
   "title": "Exercise",
-  "body": "  Exercise   Arrange the planets in the order of their distance from the sun.   Mercury, Venus, Earth, Mars, Jupyter, Satern, Uranus, and Naptune.    What is the height of a person in centimeter, if he is 5'9\" tall ?   convert 5' feet into inch and add them to the 9 inch to get total hight and then use conversion factor 1 inch = 2.54 cm.    .    A meter stick is how much in milimeter (mm)?   convert 1 m into cm and then use conversion factor 1 cm = 10 mm.    Find the area of a piece of land in correct significant figures which has 25 m width and 221 m length.   empty    Perform the following calculations in correct significant digits.     How many significant digits are in 90.009 mm  How many significant digits are in 0.01520 kg  Round the following numbers into given significant digits as shown in paranthesis:   314.721 m (4)  8792 km (2)  0.001775 L (2)       empty   Answer these observations in your own understanding.  Write a short note on constelation.  Why do stars always look twinkling?  Why does a star appear to rise 4 minute early in the sky every day?    What is the unit of measurement for luminous intensity?  Candela  Newton  Joule  Pascal    a.   What is the SI unit for measuring mass?  Kilogram  Newton  Joule  Meter    What is the conversion factor for converting meters to kilometer?  100  1000  10  0.1    b.   "
+  "body": "  Exercise   Arrange the planets in the order of their distance from the sun.   Mercury, Venus, Earth, Mars, Jupyter, Satern, Uranus, and Naptune.    What is the height of a person in centimeter, if he is 5'9\" tall ?   convert 5' feet into inch and add them to the 9 inch to get total hight and then use conversion factor 1 inch = 2.54 cm.    .    A meter stick is how much in milimeter (mm)?   convert 1 m into cm and then use conversion factor 1 cm = 10 mm.    Find the area of a piece of land in correct significant figures which has 25 m width and 221 m length.   empty    Perform the following calculations in correct significant digits.     How many significant digits are in 90.009 mm  How many significant digits are in 0.01520 kg  Round the following numbers into given significant digits as shown in paranthesis:   314.721 m (4)  8792 km (2)  0.001775 L (2)       empty   Answer these observations in your own understanding.  Write a short note on constelation.  Why do stars always look twinkling?  Why does a star appear to rise 4 minute early in the sky every day?    What is the unit of measurement for luminous intensity?  Candela  Newton  Joule  Pascal    a.   What is the SI unit for measuring mass?  Kilogram  Newton  Joule  Meter    What is the conversion factor for converting meters to kilometer?  100  1000  10  0.1    b.   Why do stars appear to rise about 4 minutes earlier each night?  Stars are actually moving closer to Earth.  Earth's orbit causes stars to shift their positions.  Earth's rotation causes the celestial object to appear earlier.  Atmospheric refraction affects star visibility.    c.   The Sun takes about 24 hours to make a complete circle in the sky, while the stars complete a circle in the sky in 4 minutes less time. This causes the positions of the stars at a given time of day or night to change slightly each day.   If a star rises at 9:00 PM tonight, approximately at what time will it rise tomorrow night?  8:56 PM  9:00 PM  9:04 PM  9:08 PM    a.   What are constellations?  Patterns formed by stars in the sky as seen from Earth.  Planets that orbit distant stars.  Groups of comets that share similar orbits.  Temporary phenomena caused by atmospheric conditions.    a.   What is the purpose of constellations in astronomy?  They are used to predict weather patterns.  They help astronomers study the Earth's magnetic field.  They serve as navigation aids for ancient explorers.  They assist in locating and identifying stars and other celestial objects.    d.   The zodiac constellations are a group of constellations that lie along the apparent path of what celestial object?  The Moon  The Sun  A comet  Jupiter    b.   What primarily causes tides on Earth?  Gravitational interaction between the Earth and the Moon.  Earth's rotation on its axis.  Solar wind from the Sun.  Atmospheric pressure changes.    a.   How many high tides and low tides occur in a typical 24-hour period?  1 high tide, 1 low tide  2 high tides, 2 low tides  1 high tide, 2 low tides  2 high tides, 1 low tide    b.   "
 },
 {
   "id": "exercise-1",
@@ -289,6 +289,69 @@ var ptx_lunr_docs = [
   "body": "What is the conversion factor for converting meters to kilometer?  100  1000  10  0.1    b.  "
 },
 {
+  "id": "exercise-10",
+  "level": "2",
+  "url": "ex_first.html#exercise-10",
+  "type": "Exercise",
+  "number": "1.5.10",
+  "title": "",
+  "body": "Why do stars appear to rise about 4 minutes earlier each night?  Stars are actually moving closer to Earth.  Earth's orbit causes stars to shift their positions.  Earth's rotation causes the celestial object to appear earlier.  Atmospheric refraction affects star visibility.    c.   The Sun takes about 24 hours to make a complete circle in the sky, while the stars complete a circle in the sky in 4 minutes less time. This causes the positions of the stars at a given time of day or night to change slightly each day.  "
+},
+{
+  "id": "exercise-11",
+  "level": "2",
+  "url": "ex_first.html#exercise-11",
+  "type": "Exercise",
+  "number": "1.5.11",
+  "title": "",
+  "body": "If a star rises at 9:00 PM tonight, approximately at what time will it rise tomorrow night?  8:56 PM  9:00 PM  9:04 PM  9:08 PM    a.  "
+},
+{
+  "id": "exercise-12",
+  "level": "2",
+  "url": "ex_first.html#exercise-12",
+  "type": "Exercise",
+  "number": "1.5.12",
+  "title": "",
+  "body": "What are constellations?  Patterns formed by stars in the sky as seen from Earth.  Planets that orbit distant stars.  Groups of comets that share similar orbits.  Temporary phenomena caused by atmospheric conditions.    a.  "
+},
+{
+  "id": "exercise-13",
+  "level": "2",
+  "url": "ex_first.html#exercise-13",
+  "type": "Exercise",
+  "number": "1.5.13",
+  "title": "",
+  "body": "What is the purpose of constellations in astronomy?  They are used to predict weather patterns.  They help astronomers study the Earth's magnetic field.  They serve as navigation aids for ancient explorers.  They assist in locating and identifying stars and other celestial objects.    d.  "
+},
+{
+  "id": "exercise-14",
+  "level": "2",
+  "url": "ex_first.html#exercise-14",
+  "type": "Exercise",
+  "number": "1.5.14",
+  "title": "",
+  "body": "The zodiac constellations are a group of constellations that lie along the apparent path of what celestial object?  The Moon  The Sun  A comet  Jupiter    b.  "
+},
+{
+  "id": "exercise-15",
+  "level": "2",
+  "url": "ex_first.html#exercise-15",
+  "type": "Exercise",
+  "number": "1.5.15",
+  "title": "",
+  "body": "What primarily causes tides on Earth?  Gravitational interaction between the Earth and the Moon.  Earth's rotation on its axis.  Solar wind from the Sun.  Atmospheric pressure changes.    a.  "
+},
+{
+  "id": "exercise-16",
+  "level": "2",
+  "url": "ex_first.html#exercise-16",
+  "type": "Exercise",
+  "number": "1.5.16",
+  "title": "",
+  "body": "How many high tides and low tides occur in a typical 24-hour period?  1 high tide, 1 low tide  2 high tides, 2 low tides  1 high tide, 2 low tides  2 high tides, 1 low tide    b.  "
+},
+{
   "id": "sec_second-intro",
   "level": "1",
   "url": "sec_second-intro.html",
@@ -298,9 +361,9 @@ var ptx_lunr_docs = [
   "body": " Describing Motion     Distance: It is the length between the change in positions of an object. If is an initial position of the object and is a final position of that object then is the distance travelled by the object. It is a scalar quantity because it does not deal with the direction in which the object is travelling.It's unit is in SI system and in CGS system, and in FPS system.  Displacement: displacement It is a direct distance between initial and final position of the object. It is the shortest path between initial and final positions of the object. It has the same unit as distance. It is a vector quantity because it has only one particular direction between the initial and final position of the object. Let's understand by the example here, suppose you started travelling from initial point A and reached to point B by travelling 4 m distance along east. Now from point B you covered a distance of 3 m along north to reach to your final point C. So the direct distance between your initial position and final position is 5m given by Pythagoras theorem along north-east. [ ].  Speed: speed The rate of change of position of an object is called a speed. It states that how fast the object is changing its position with respect to time. In physics, the rate means with respect to time. It is also a scalar quantity. speed is represented by the letter, . If is an initial position and is the final position of the object then . It's unit is m\/s in SI system and cm\/s in CGS system, and ft\/s in FPS system.  Velocity: It is the speed of an object in particular direction. It is a vector quantity. It has the same units as speed. It is also represented by the letter, .  Acceleration: acceleration The rate of change of velocity is called an acceleration. It states that how fast the velocity of an object is being changed. It is also a vector quantity. If is an initial velocity and is the final velocity of the object then the acceleration of the object is given by . It's unit is in SI system. If acceleration is positive then the object is speeding up, if it is negative then the object is slowing down, if it is zero then the object is either moving with uniform velocity or remains at rest. Note: Velocity is always in the same direction as the object is moving, but the acceleration is not.    Vector vector quantity carries two pieces of information, i.e. magnitude and direction. Vector is often represented by an arrow. A straight line with an arrowhead where the length of the line yields information about magnitude and the arrow indicates the direction . Mathematical operation is different for vectors than in scalars. It is not just the addition or subtraction of the numbers. We are not going to perform many vector mathematical operations here rather we try to understand addition and subtraction with some simple examples. Addition or subtraction of scalar quantities are just like adding or subtracting the numbers. In vector addition, the vectors are arranged in Head to Tail to find the sum of the vectors. In vector subtraction, the vector to be subtracted is flipped in direction and added to the other vector by arranging them in “Head to Tail” to find the sum of the vectors.   Displacement vector        For example: in , the total distance travelled by the object is However, total displacement of the object is only along north-east directin as shown by the arrow AC. . Suppose water is flowing downstream with velocity 2 in a river where you are rowing your boat with 5 downstream. You can find that you are moving with 7 velocity (or speed) downstream. If you want to go upsteam then your velocity (or speed) would be 3 only. If you want to row accross the river then your velocity would be somewhere between 3 to 7 . . Suppose Aron is sweeming in a pool of 100 m wide. He took 5 laps, so he covers total of but his displacement is just zero. Remember one lap is one complete round of trip. However, if he just take a half lap then the distance covered is the same as displacement and are 100 m .      Equations of Motion  There are three equations of motion defined by the above terminologies which can help solve problems of motion. These eqations are obtained by manipulating average velocity and acceleration of the object.     Equations of motion in horizontal direction:   .  .  .    Equations of motion in vertical direction:   .  .  .     Here,  = acceleration due to gracvity, = height attains by the object, and = time taken by the object during its motion.  In vertical direction earth plays a vitol role in the acceleration of object motion. Earth pulls every thing downwards which causes acceleration due to gravity, negative. Accleration due to gravity is the acceleration of the object caused by the earth gravitational field. The value of . In vertical motion, we consider height as positive if going up (y-axis) and height as negative if coming down. But here, we are taking if the object is going vertically up, and for the object falling down. Such conventions allow us to assume h as always positive.  Note: The above equations only work for constant acceleration or acceleration due to gravity.    Free Fall  Objects moving under the influence of only gravity is called a free fall, free fall . This means gravity causes a change in the velocity of any object by 9.80 every second. So, drop any object and let it fall toward the ground: After 1s, the speed of the object is 9.80 . After 2s, the speed of the object is 19.6 , etc. According to Galileo the velocity of a falling object is proportional to the length of time that the object has been falling. From the first equation of motion as is a constant. Hence, the object is falling with higher velocity if it is falling for a long time or from a higher position. Since is constant near the planet all objects fall at the same rate. (Assuming there is no air resistance).    Projectile Motion  In normal day life, we encounter many examples where object moves along both horizontal and verticle direction together. Such type of motion is called projectile motion and the object moving in projectile motion is called a projectile. Hence, projectile is an object which has both horizontal as well as vertical motion. The path taken by the projectile is parabolic in nature [ ]. We are not dealing with mathematical operation related to projectile motion here but we try to understand the projectile motion by the following figure. Since gravity only acts on the verticle direction the horizontal velocity remains constant always in projectile motion.   Projectile motion      "
 },
 {
-  "id": "p-68",
+  "id": "p-83",
   "level": "2",
-  "url": "sec_second-intro.html#p-68",
+  "url": "sec_second-intro.html#p-83",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -343,18 +406,18 @@ var ptx_lunr_docs = [
   "body": " Force   Force is a push or pull. It is a vector quantity. Force force is anything that produces a change in the state of motion or shape of an object. Action of force on an object can change the direction of motion or change the velocity of the object. Newton ( ) is an SI unit of force. There are four fundamental forces in nature. They are   Gravitational force or Force of Gravity: The gravitational force exists due to the mass of an object. Gravitational force is the weakest known forces in nature. It is a long range force. It holds all the planets together. We discuss this force later in this section. This force is acting on any object due to attraction of earth. Near the surface of the earth force of gravity is given by its weight, i.e., Foece, = weight = . Where g is the acceleration due to gravity and the direction force is acting along the center of the earth. Weight: It is the force acting on an object due to gravitational acceleration. Weight is the effect of force of gravity on an object located at a particular point. One kg of mass has a weight of about 10 N ( ).    Electromagnetic force: The electromagnetic force exists due to the charge in the object. It is also a long range force but stronger than the gravitational force. It holds all the atoms and molecules together. We discuss this force later in another chapter.    Strong nucleur force: The strong nucleur force is a short range force and it exists only inside the nucleus. It binds all the nucleons together to have atomic existance. It is the strongest force in nature.    Weak nuclear force: The weak nucleur force is also short range force and only exists inside the nucleus. It is weaker than strong nuclear force and electromagnetic force. It is responsible for radioactivity of nucleous. The improper ratio of nucleons may cause the weak nuclear force to exist.     Physical contact of the object is not necessary to experience the fundamental forces. Hoverever, there are many other forces which only act on the object if they are in contact. They are called contact forces (or mechanical forces). Frictional force, normal force, tension, drag force, applied force, etc. are some contact forces.    Contact Forces   Friction: Friction friction is a resistive force that opposes or tends to oppose relative motion between two objects. It is a force that exists between the surfaces of contact of the two objects. If two systems are in contact and stationary relative to each other, then the friction between them is called static friction . This force arises from mechanical interlocking at the microscopic level plus the electrostatic molecular forces that hold the surfaces themselves together. If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction . This force arises from forming and breaking of microscopic adhesive bonds between atoms on the surfaces plus some mechanical linkage between the small irregularities on the surfaces. Experimentally it is found that frictional force is proportional to normal force, i.e., . or, Where proportionality constant   ( )  coefficient of friction  is called the coefficient of friction. It defines the nature of roughness of the surfaces of contact. Friction decreases with increase in smoothness of the surfaces of contact, but if the surfaces are ultra smooth then friction increases because of inter molecular forces starts to act between the two surfaces as they come very close to each other, due to which it becomes harder to make them slide on each other. Friction is a complex force, and its behavior is still not completely understood. On molecular level friction has no existence.  In microscopic level most surfaces look very rough as shown in figure . Thus, when an object is pushed to move, it must glideover these humppy, bumppy, and ditch types interlock to skip the tips of the surface. A considerable force can be resisted by friction with no apparent motion. Part of the friction is due to adhesive forces between the surface molecules of the two objects, which explains the dependence of friction on the nature of the substances. For example, rubber-soled shoes slip less than those with leather soles. Adhesion varies with substances in contact. Once an object is moving, there are fewer points of contact so less force is required to keep the object moving. At small but nonzero speeds, friction is nearly independent of speed.  Surfaces of contact as seen from microscope      In real life frictional forces are almost always present. Remember the direction of frictional force is always opposite to the direction of motion or the applied force. Friction is bad as it dissipates energy but friction is also good as it allows us to roll, turn, walk, and stop. Friction between two solids does not depend on the surface area in contact. Friction can happen, even between surfaces that are not solid such as air drag. Air resistance (drag) during free fall reduces the weight of the object. Air drag (resistance) increases with the velocity of the object in free fall and when it becomes equal to the wight of the object, net force acting on the object is zero and hence the object starts falling with the constant velocity called Terminal Velocity. Skydiving is a good example of terminal velocity.   Normal: This is a force of reaction from the surface where the object is placed. It is always perpendicular to the surface of contact. Tension: is a pulling force. It is a force acting between two objects on opposite ends of the string and acting along the directions to taut string at the point of contact. This force stretches the string along fixed support. Spring force: A spring is a special medium that has ability to restore its shape, if deformed. The elastic property in a material has the ability to restore its shape, if an applied deforming force has been released. From Hook's law a material (spring) exerts a restoring force that is proportional to a deforming force in opposite direction in which it is stretched or compressed. In mathematical form, spring force, where   ( )  spring constant  is a spring's stiffness, also called an elastic constant and is stretch made on spring.    Newton's Laws of Motion  Newton Newton's laws recognized that there are two kinds of motion, uniform motion and accelerated motion. Uniform motion: the movement of an object traveling in a straight line at a constant speed (no acceleration). Accelerated motion: the movement of an object traveling under the influence of some source of acceleration. On that basis he defined three laws of motion called Newton's laws of motion.   Newton's first law is the definition of a force which states that every object in a state of rest remains at rest or in a state of uniform motion tends to remain in uniform motion along the same direction, unless an external force is applied to it. Force is not required to continue the motion of anything which is already in motion. The first law is also called a law of inertia . Inertia is an ability of an object to resist any changes in its motion. Mass is related to inertia, the bigger the mass the more difficult it is to change the state of rest or motion of an object. Mass: It is the amount of matter contained in an object. It is also reposible for the force of gravity of the object.   Some examples of I law: 1. When the bus driver abruptly applies the breaks, passengers tend to feel a momentary pull in the forward direction. The reason behind this jerk felt by the passengers sitting inside the bus is the law of inertia. Due to inertia, our upper body part continues to maintain a state of motion even after the bus stops, thereby pushing us in the forward direction. 2. A book kept on a bookshelf does not change its shape, size, or position until acted upon by an external force. 3. A runner is not able to stop himself right after crossing the finish line. He\/She tends to take time and cover a few meters of distance running beyond the finish line. This is because the inertia of motion resists a sudden termination of motion and compels the body to maintain its state of motion.     Newton's second law is the measurement of a force which states that the acceleration of the object is directly proportional to the applied force and takes the direction of that force. Newton's II law can be expressed as . Where is the mass of the object.     Newton's third law is the property of force which states that for every action there is an equal and opposite reaction. Force always comes in pair. If an object A applies the action force on the object B then object B also applies the same amount of reaction force on the object A. These forces pair always act on two different objects. If one object exerts a force on a second object, then the second object exerts an equal but oppositely directed force on the first object. Mathematically,    Some examples: 1. Earth exerts force on you because you exert an equal and opposite force on earth. Here your force is your body weight and earth reaction force is a normal force. 2. When the rifle is fired it exerts a force on the bullet and the bullet exerts an equal and opposite force on the rifle. 3. You are able to sweem in water because you pushes water backwardly so apply the force on water and in reaction water also applies the same force on you just in opposite direction so you can sweem nicely.       Momentum  It is the quantity of motion contained in a body. If a body of mass is moving with a velocity then its momentum momentum  . Momentum (also called linear Momentum) is a product of mass and velocity of the object. Momentum is represented by , its SI unit is . Momentum is a vector quantity and its direction is along the velocity of the object. From Newton's II law:    Here is called impulse and is called change in momentum. They are two different physical quantities but their magnitude remains the same. A force acting on an object for a certain time changes the momentum of that object, such change in momentum is called the Impulse. Impulse is a vector quantity and has the same direction as the average force. SI unit of impulse is .   A 300 kg horse running with 40 m\/s has a momentum of     When a 430 g soccer ball is kicked, the impact lasts for 0.04 s. Find the magnitude of force that is needed to fly off the ball at 8 m\/s.          Uniform Circular Motion  In uniform circular motion circular motion object is moving at a constant speed (not velocity) on a circular path. For an object to be in uniform circular motion, there must be a net force acting on it. This force is called a centripetal force without this force nothing can move in a circular path. This net force is not a physical force of some kind rather some other forces must be there to act like a centripetel force. If the centripetal force centripetal force , becomes zero suddenly, then the object flies off along a tangent to the circle. The centripetal force, where is mass of the object, is speed of the object, and is radius of the circluar path. Because of necessary centripetal force, sometime we feel difficulty to steer our car around a sharp curve. The sharper the curve (i.e., the smaller the radius) the greater the centripetal force required to keep the car on the curved path. Cetripetal means to look towards the center, hence centripetal force is always acting towards the center of the path.   Some examples: 1. We may have noticed that when the string breaks for a whirling stone. The stone flies off along the straight line tangential to the circular path. 2. When swinging a yo-yo around in a circle. The force generated by your arm puts the yo-yo itself in motion, and the tension on the string keeps it moving in a circular path as you twirl it. If the string were to break at any given point, the yo-yo would fly off in a direction that is tangent to the point on the circle that the yo-yo was at when the string broke centripetal force .    Newton's Law of Gravitation  Newton observed that when an object falls it was accelerated toward the earth. Since the cause of such acceleration is an unbalanced force, there must be a force pulling that object toward the earth. On this basis, he came up with an idea called Newton's Law of Universal Gravitation. It states that any two masses in the universe attract each other with a force that is directly proportional to the product of the masses and inversely proportional to the square of the distance between them [ ]. Mathematically, here, is an universal gravitational constant, and are the masses of two objects, and is the distance between the them.    Gravitational force between two Objects        Escape Velocity  Escape Velocity escape velocity is the minimum velocity required by an object at which if it can be thrown out of the planet then it never fall back on the planet again. If a stone of mass m is thrown out from the earth with an escape velocity then it never fall back on the earth again. The escape velocity depends on the mass and radius of the massive body and is given by the formula: Here,   ( )  universal gravitational constant  is universal gravitational constant, is the mass of the planet, and is the radius of that planet. The escape velocity of earth is 11.2 km\/s.   "
 },
 {
-  "id": "p-79",
+  "id": "p-94",
   "level": "2",
-  "url": "sec_second-force.html#p-79",
+  "url": "sec_second-force.html#p-94",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Force of Gravity: Weight: "
 },
 {
-  "id": "p-85",
+  "id": "p-100",
   "level": "2",
-  "url": "sec_second-force.html#p-85",
+  "url": "sec_second-force.html#p-100",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -370,27 +433,27 @@ var ptx_lunr_docs = [
   "body": " Surfaces of contact as seen from microscope    "
 },
 {
-  "id": "p-87",
+  "id": "p-102",
   "level": "2",
-  "url": "sec_second-force.html#p-87",
+  "url": "sec_second-force.html#p-102",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Terminal Velocity. "
 },
 {
-  "id": "p-88",
+  "id": "p-103",
   "level": "2",
-  "url": "sec_second-force.html#p-88",
+  "url": "sec_second-force.html#p-103",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Normal: Tension: Spring force: Hook's law "
 },
 {
-  "id": "p-89",
+  "id": "p-104",
   "level": "2",
-  "url": "sec_second-force.html#p-89",
+  "url": "sec_second-force.html#p-104",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -433,9 +496,9 @@ var ptx_lunr_docs = [
   "body": " Examples    Special Instruction: To tackle the physical problems the book uses GUESS strategy for a systematic gatheing of information and finding a realistic and logistic solution. Here is what GUESS stands for.  G: Given, identify the given informations.  U: Unknown, identify the unknown that we are looking for.  E: Equation\/s, set up the equation from given information.  S: Substitute, substitute the number\/s in the equation\/s.  S: Solve, solve the equation to obtain the answer.      Before we start solving any problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into      A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .       A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m       A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:              How far you can go in 5 minutes if you are running at 10 ?     First convert the velocity into to and also convert time from minute to second before using equation of motion.   Given:        Which of the following sets of displacements might be able to return a car to its starting point?  4, 6, 8, and 15 km  2, 8, 10, and 25 km.  10, 30, 50, and 120 km  5, 20, 35, and 65 km.      A car can return to its starting point, only when the sum of three displacements is greater than the value of the maximum displacement.    In case (a) sum of 4, 6, 8 =18 km which is greater than 15 km.  In case (b) sum of 2, 8, 10 =20 km which is smaller than 25 km and so on.    a.      A ship travels 25 km to the east and then 50 km to the south. Find the ship's displacement from its starting point.    Draw a diagram to see all the displacements of the ship and then use pythagorous theorem to solve the final displacement.    empty      A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .       A stone dropped from a cliff reaches the ground in 4 s. Find the velocity at which it hits the ground.    Think about stone's initial velocity, use acceleration due to gravity to find final velocity.     A stone has been thrown upward with velocity 50 m\/s.  How long does it take to come back on thrower's hand (find the time of flight)?  What is its velocity then?  How high was it gone?       What is vertical motion?  Motion that occurs horizontally  Motion that occurs in a straight line  Motion that occurs in a vertical direction  Motion that occurs in a circular path      c.      What is free fall?  The motion of an object when it is moving at a constant speed  The motion of an object when it is not affected by gravity  The motion of an object when it is accelerating due to the force of gravity  The motion of an object when it is in a vacuum      c.      What is the formula for calculating the time of flight of a projectile?                  c.      What is the difference between speed and velocity?  Speed is a scalar quantity and velocity is a vector quantity  Speed is a vector quantity and velocity is a scalar quantity  Speed and velocity are the same thing  Speed is measured in meters per second and velocity is measured in miles per hour      a.      A toy car is moving at a constant speed of 5 meters per second in a straight line. How far will it travel in 10 seconds?    Using the formula , where d is the distance, v is the velocity, and t is the time, we can calculate the distance traveled by the toy car. Therefore, the toy car will travel 50 meters in 10 seconds at a constant speed of 5 meters per second in a straight line.      A car is traveling at a constant speed of 20 meters per second. It takes the car 5 seconds to travel a distance of 100 meters. What is the distance the car will travel in 10 seconds at the same speed?    We know that distance (d) is equal to speed (v) multiplied by time (t). Therefore, we can use the formula to solve this problem. First, we can calculate the distance traveled in 1 seconds, and then in 10 seconds. Therefore, the car will travel a distance of 200 meters in 10 seconds at the same speed.      A car travels on a straight road at a constant speed of 60 km\/h. How far will the car travel in 2 hours?    Since the car is traveling at a constant speed, we can use the formula: where d is the total distance traveled, v is the constant speed of the car, and t is the total time the car travels. Plugging in the given values, we get: Therefore, the car will travel a total distance of 120 kilometers in 2 hours at a constant speed of 60 km\/h.      A ball is thrown vertically upward with an initial velocity of 20 m\/s. What is the maximum height reached by the ball and how long does it take to reach this height? (Assume no air resistance and a gravitational acceleration of )    When an object is thrown vertically upward, it is subjected to a negative acceleration due to gravity, which causes it to slow down until it reaches its maximum height, after which it starts to fall back to the ground with a positive acceleration due to gravity.  To solve this problem, we can use the following kinematic equations for motion with constant acceleration: where and are the initial and final velocities, is the acceleration, is the displacement, and is the time. At the maximum height, the velocity of the ball is zero, so we can use the first equation to find the time it takes to reach this height: Now we can use the second equation to find the maximum height: Therefore, the maximum height reached by the ball is 20.4 meters, and it takes approximately 2.04 seconds to reach this height.      A car is traveling at and accelerates at a rate of for 8 seconds. What is the final velocity of the car?    We can use the formula for accelerated motion, which relates the initial velocity, final velocity, acceleration, and time: Therefore, the final velocity of the car after accelerating at a rate of for 8 seconds is .    "
 },
 {
-  "id": "p-105",
+  "id": "p-120",
   "level": "2",
-  "url": "sec_second-examples.html#p-105",
+  "url": "sec_second-examples.html#p-120",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -622,216 +685,216 @@ var ptx_lunr_docs = [
   "body": "  Exercise  A car starts from rest accelerated for 5 minutes to achieve 25 velocity. Find its accleration.  A ball thrown upward at 30 m\/s will continue to rise for about how long?  Find the maximum height attained by the ball if it is thrown vertically up with 30 m\/s velocity.  A car starts from rest with a constant acceleration of 4 . How much time does the car take to cover the first 160 m?  A break is applied in car moving at 10 undergoes an acceleration of .  How far does the car travel in the next 5 s?  How far does the car travel before it comes to stop?    When a 20 N force is applied on an object it starts accelerating by . What net force would give the same object an acceleration of ?  A 3000 kg truck accelerates from 5 m\/s to 25 m\/s in 8 s. How much is the net force acting on the truck?  A force of 2 N acts on a 2 kg object, initially at rest, for 2 s. How far does the object move during that time?  How much braking force is needed to bring a 4000 kg truck to a stop from a speed of 20 m\/s in 5 s?  A 300 g ball is struck with a bat with a force of 150 N. If the bat was in contact with the ball for 0.02 s, find the velocity at which the ball flew off?   From the roof of house one stone is thrown upward and another identical stone is dropped down. What will happen to both the stones when they reach the ground?    They will have the same velocity.  They will have the same acceleration.  They reach the ground at the same time.  None of the choices are correct.     Answer: b. They will have the same acceleration when reach the ground.    What will happen to the two balls, when first ball A is thrown horizontally and second ball B is thrown upward?    Ball A will have the greater downward acceleration.  Ball B will have the greater downward acceleration.  Neither will have any downward acceleration.  They will have the same downward acceleration.     What is the mass of an elephant who weighs 10000 N?   An object moving in a circle at constant speed is accelerated    toward the center of the circle.  in the direction of its motion.  away from the center of the circle.  Any of these choices, depending on the circumstances.     Find the centripetal force on the ball of mass 200 g moving in a circle 20 cm in radius at a speed of 4 m\/s.  Find the weight of a person whose mass is 80 kg on the earth is now on a spacecraft at a height of 2 earth radii above the earth's surface.   What is acceleration?  The rate of change of an object's velocity over time.  The distance an object travels in a given time.  The force that causes an object to move.  The direction an object is moving in.      What is terminal velocity?  The maximum speed an object can reach in free fall.  The speed at which an object is moving at a given moment.  The speed of an object when it hits the ground.  The speed at which an object moves through a fluid when the resistance force of the fluid equals the weight of the object.      What is the formula for calculating the distance an object falls due to gravity?             What is projectile motion?  Motion that occurs in a straight line  Motion that occurs in a circular path  Motion that occurs in a parabolic path  Motion that occurs horizontally      What are the two components of projectile motion?  Acceleration and velocity  Distance and time  Vertical motion and horizontal motion  Weight and mass     An object is moving with an initial velocity of 10 m\/s and accelerates uniformly at a rate of for 6 seconds. What is the final velocity of the object?  A car starts from rest and accelerates at a rate of for 5 seconds. What is the final velocity of the car?  A car is traveling at a constant speed of 20 m\/s when the driver applies the brakes, causing the car to decelerate at a rate of . How long will it take for the car to come to a complete stop?  "
 },
 {
-  "id": "exercise-10",
+  "id": "exercise-17",
   "level": "2",
-  "url": "ex_second.html#exercise-10",
+  "url": "ex_second.html#exercise-17",
   "type": "Exercise",
   "number": "2.4.1",
   "title": "",
   "body": "A car starts from rest accelerated for 5 minutes to achieve 25 velocity. Find its accleration. "
 },
 {
-  "id": "exercise-11",
+  "id": "exercise-18",
   "level": "2",
-  "url": "ex_second.html#exercise-11",
+  "url": "ex_second.html#exercise-18",
   "type": "Exercise",
   "number": "2.4.2",
   "title": "",
   "body": "A ball thrown upward at 30 m\/s will continue to rise for about how long? "
 },
 {
-  "id": "exercise-12",
+  "id": "exercise-19",
   "level": "2",
-  "url": "ex_second.html#exercise-12",
+  "url": "ex_second.html#exercise-19",
   "type": "Exercise",
   "number": "2.4.3",
   "title": "",
   "body": "Find the maximum height attained by the ball if it is thrown vertically up with 30 m\/s velocity. "
 },
 {
-  "id": "exercise-13",
+  "id": "exercise-20",
   "level": "2",
-  "url": "ex_second.html#exercise-13",
+  "url": "ex_second.html#exercise-20",
   "type": "Exercise",
   "number": "2.4.4",
   "title": "",
   "body": "A car starts from rest with a constant acceleration of 4 . How much time does the car take to cover the first 160 m? "
 },
 {
-  "id": "exercise-14",
+  "id": "exercise-21",
   "level": "2",
-  "url": "ex_second.html#exercise-14",
+  "url": "ex_second.html#exercise-21",
   "type": "Exercise",
   "number": "2.4.5",
   "title": "",
   "body": "A break is applied in car moving at 10 undergoes an acceleration of .  How far does the car travel in the next 5 s?  How far does the car travel before it comes to stop?   "
 },
 {
-  "id": "exercise-15",
+  "id": "exercise-22",
   "level": "2",
-  "url": "ex_second.html#exercise-15",
+  "url": "ex_second.html#exercise-22",
   "type": "Exercise",
   "number": "2.4.6",
   "title": "",
   "body": "When a 20 N force is applied on an object it starts accelerating by . What net force would give the same object an acceleration of ? "
 },
 {
-  "id": "exercise-16",
+  "id": "exercise-23",
   "level": "2",
-  "url": "ex_second.html#exercise-16",
+  "url": "ex_second.html#exercise-23",
   "type": "Exercise",
   "number": "2.4.7",
   "title": "",
   "body": "A 3000 kg truck accelerates from 5 m\/s to 25 m\/s in 8 s. How much is the net force acting on the truck? "
 },
 {
-  "id": "exercise-17",
+  "id": "exercise-24",
   "level": "2",
-  "url": "ex_second.html#exercise-17",
+  "url": "ex_second.html#exercise-24",
   "type": "Exercise",
   "number": "2.4.8",
   "title": "",
   "body": "A force of 2 N acts on a 2 kg object, initially at rest, for 2 s. How far does the object move during that time? "
 },
 {
-  "id": "exercise-18",
+  "id": "exercise-25",
   "level": "2",
-  "url": "ex_second.html#exercise-18",
+  "url": "ex_second.html#exercise-25",
   "type": "Exercise",
   "number": "2.4.9",
   "title": "",
   "body": "How much braking force is needed to bring a 4000 kg truck to a stop from a speed of 20 m\/s in 5 s? "
 },
 {
-  "id": "exercise-19",
+  "id": "exercise-26",
   "level": "2",
-  "url": "ex_second.html#exercise-19",
+  "url": "ex_second.html#exercise-26",
   "type": "Exercise",
   "number": "2.4.10",
   "title": "",
   "body": "A 300 g ball is struck with a bat with a force of 150 N. If the bat was in contact with the ball for 0.02 s, find the velocity at which the ball flew off? "
 },
 {
-  "id": "exercise-20",
+  "id": "exercise-27",
   "level": "2",
-  "url": "ex_second.html#exercise-20",
+  "url": "ex_second.html#exercise-27",
   "type": "Exercise",
   "number": "2.4.11",
   "title": "",
   "body": " From the roof of house one stone is thrown upward and another identical stone is dropped down. What will happen to both the stones when they reach the ground?    They will have the same velocity.  They will have the same acceleration.  They reach the ground at the same time.  None of the choices are correct.     Answer: b. They will have the same acceleration when reach the ground.  "
 },
 {
-  "id": "exercise-21",
+  "id": "exercise-28",
   "level": "2",
-  "url": "ex_second.html#exercise-21",
+  "url": "ex_second.html#exercise-28",
   "type": "Exercise",
   "number": "2.4.12",
   "title": "",
   "body": " What will happen to the two balls, when first ball A is thrown horizontally and second ball B is thrown upward?    Ball A will have the greater downward acceleration.  Ball B will have the greater downward acceleration.  Neither will have any downward acceleration.  They will have the same downward acceleration.    "
 },
 {
-  "id": "exercise-22",
+  "id": "exercise-29",
   "level": "2",
-  "url": "ex_second.html#exercise-22",
+  "url": "ex_second.html#exercise-29",
   "type": "Exercise",
   "number": "2.4.13",
   "title": "",
   "body": "What is the mass of an elephant who weighs 10000 N? "
 },
 {
-  "id": "exercise-23",
+  "id": "exercise-30",
   "level": "2",
-  "url": "ex_second.html#exercise-23",
+  "url": "ex_second.html#exercise-30",
   "type": "Exercise",
   "number": "2.4.14",
   "title": "",
   "body": " An object moving in a circle at constant speed is accelerated    toward the center of the circle.  in the direction of its motion.  away from the center of the circle.  Any of these choices, depending on the circumstances.    "
 },
 {
-  "id": "exercise-24",
+  "id": "exercise-31",
   "level": "2",
-  "url": "ex_second.html#exercise-24",
+  "url": "ex_second.html#exercise-31",
   "type": "Exercise",
   "number": "2.4.15",
   "title": "",
   "body": "Find the centripetal force on the ball of mass 200 g moving in a circle 20 cm in radius at a speed of 4 m\/s. "
 },
 {
-  "id": "exercise-25",
+  "id": "exercise-32",
   "level": "2",
-  "url": "ex_second.html#exercise-25",
+  "url": "ex_second.html#exercise-32",
   "type": "Exercise",
   "number": "2.4.16",
   "title": "",
   "body": "Find the weight of a person whose mass is 80 kg on the earth is now on a spacecraft at a height of 2 earth radii above the earth's surface. "
 },
 {
-  "id": "exercise-26",
+  "id": "exercise-33",
   "level": "2",
-  "url": "ex_second.html#exercise-26",
+  "url": "ex_second.html#exercise-33",
   "type": "Exercise",
   "number": "2.4.17",
   "title": "",
   "body": " What is acceleration?  The rate of change of an object's velocity over time.  The distance an object travels in a given time.  The force that causes an object to move.  The direction an object is moving in.    "
 },
 {
-  "id": "exercise-27",
+  "id": "exercise-34",
   "level": "2",
-  "url": "ex_second.html#exercise-27",
+  "url": "ex_second.html#exercise-34",
   "type": "Exercise",
   "number": "2.4.18",
   "title": "",
   "body": " What is terminal velocity?  The maximum speed an object can reach in free fall.  The speed at which an object is moving at a given moment.  The speed of an object when it hits the ground.  The speed at which an object moves through a fluid when the resistance force of the fluid equals the weight of the object.    "
 },
 {
-  "id": "exercise-28",
+  "id": "exercise-35",
   "level": "2",
-  "url": "ex_second.html#exercise-28",
+  "url": "ex_second.html#exercise-35",
   "type": "Exercise",
   "number": "2.4.19",
   "title": "",
   "body": " What is the formula for calculating the distance an object falls due to gravity?           "
 },
 {
-  "id": "exercise-29",
+  "id": "exercise-36",
   "level": "2",
-  "url": "ex_second.html#exercise-29",
+  "url": "ex_second.html#exercise-36",
   "type": "Exercise",
   "number": "2.4.20",
   "title": "",
   "body": " What is projectile motion?  Motion that occurs in a straight line  Motion that occurs in a circular path  Motion that occurs in a parabolic path  Motion that occurs horizontally    "
 },
 {
-  "id": "exercise-30",
+  "id": "exercise-37",
   "level": "2",
-  "url": "ex_second.html#exercise-30",
+  "url": "ex_second.html#exercise-37",
   "type": "Exercise",
   "number": "2.4.21",
   "title": "",
   "body": " What are the two components of projectile motion?  Acceleration and velocity  Distance and time  Vertical motion and horizontal motion  Weight and mass    "
 },
 {
-  "id": "exercise-31",
+  "id": "exercise-38",
   "level": "2",
-  "url": "ex_second.html#exercise-31",
+  "url": "ex_second.html#exercise-38",
   "type": "Exercise",
   "number": "2.4.22",
   "title": "",
   "body": "An object is moving with an initial velocity of 10 m\/s and accelerates uniformly at a rate of for 6 seconds. What is the final velocity of the object? "
 },
 {
-  "id": "exercise-32",
+  "id": "exercise-39",
   "level": "2",
-  "url": "ex_second.html#exercise-32",
+  "url": "ex_second.html#exercise-39",
   "type": "Exercise",
   "number": "2.4.23",
   "title": "",
   "body": "A car starts from rest and accelerates at a rate of for 5 seconds. What is the final velocity of the car? "
 },
 {
-  "id": "exercise-33",
+  "id": "exercise-40",
   "level": "2",
-  "url": "ex_second.html#exercise-33",
+  "url": "ex_second.html#exercise-40",
   "type": "Exercise",
   "number": "2.4.24",
   "title": "",
@@ -847,9 +910,9 @@ var ptx_lunr_docs = [
   "body": " Work, Energy, and Power    Work:  work an object is displaced along the same direction as of the applied force then work is said to be done by the force. In the force is pushing a block of mass along its direction for a distance of , then work done, by this force can be calculated by Work is a scalar quantity as it is a measure of transfer of energy from one object to another. The SI unit of work is Joule . In FPS system, , and in CGS system, are the work units.   Work done by the force      A horizontal force of moves a block of mass along a horizontal direction for a distance of . How much work is done by the force?         In force is along the direction of horizontal and the block is also displaced along the same direction from point A to point B. In this case work done by the force is given by multiplication of force and the displacement . In this figure work done by the weight and normal force is zero as these forces are perpendicular to the displacement . However, if slanted force is involved in doing work, then the work is not zero but can be determined by the projected force which is not in the scope of this book. Remember for work to be done, foce and displacemenet must be non-zero. Work may be positive, negative, and zero. For example: work done by applied force along the direction of displacement is positive, work done by the frictional force is negative, and work done by the force perpendicular to the displacement is zero.  Energy:  energy The capacity of doing work by a force is called an energy. It is also a scalar quantity and has the same unit as work. There are many forms of energy, but they all fall into two categories: potential energy and kinetic energy. These energies are also called a mechanical energy. Potential energy is the energy of position of the object. It is also a stored energy on the object which is equal to the work done on the object to bring it to this position. There are several forms of potential energy, including: gravitational potential energy, chemical energy, elastic energy, nuclear energy, sound energy, heat energy, light energy, geothermal energy, etc. Chemical energy: It is energy stored in the bonds of atoms and molecules. It is the energy that holds these particles together. Foods, biomass, petroleum, and natural gas are some examples of stored chemical energy. During photosynthesis, sunlight gives plants the energy they need to build complex chemical compounds. When these compounds are later broken down, the stored chemical energy is released as heat, light, motion, and sound. Elastic energy: It is an energy stored in objects by the application of a restoring force. Compressed springs and stretched rubber bands are examples of elastic energy. Nuclear energy: It is an energy stored in the nucleus of an atom that binds the nucleus together. The energy can be released when the nuclei are combined or split apart. Nuclear power plants split the nuclei of uranium atoms in a process called fission reaction fission reaction . The sun combines the nuclei of hydrogen atoms into helium atoms in a process called fusion reaction fusion reaction . In both the fission and fusion reactions, mass is converted into energy, according to Einstein's mass-energy principle. Gravitational potential energy: or Potential energy: It is the energy of position or place. It is the work done in lifting an object against gravity near the earth's surface. Gravitational Potential energy depends only on the distance from the ground, not on the object's motion. It is given by Here is the weight of the object and distance is the height at which the object is lifted. A rock resting at the top of a hill contains gravitational potential energy because of its position. In hydropower dam, water in the reservoir stored a gravitational potential energy. Kinetic energy: It is the energy of a body due to its motion. If a body of mass is moving with a velocity then kinetic energy is given by, .    Work-Energy Theorem  Let us apply Newton's II law into II equation of motion and rearange them.  Here, is final kinetic energy and is initial kinetic energy. Hence, is change in kinetic energy. Therefore, work done = change in kinetic energy. or This is known as work-energy theorem. Meaning the amount of work is done on a body is equal to its change in kinetic energy or vice a versa along the straight line.    A block of mass at rest is being pushed by an unknow force along the horizontal to bring it at 5 velocity.  How much work is done by the force?  If the body moves to a 2 m distance in this process. Find the value of unkown force.      Given: , , , .                 power  The rate of doing work is called power power . It is also the rate at which the energy can be transfered. Power tell us that how fast the work has been done. Power can be expressed as  Its SI unit is Watt (w=j\/s).    Find the power a horse who does 7460 J of work in 10 second.      746 watt of power is also called 1 horsepower.       A car engine of 200kW power pushes the car to 25 m\/s. Find the thrust (force) produces by its engine.          "
 },
 {
-  "id": "p-204",
+  "id": "p-219",
   "level": "2",
-  "url": "sec_third-intro.html#p-204",
+  "url": "sec_third-intro.html#p-219",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -874,9 +937,9 @@ var ptx_lunr_docs = [
   "body": "  A horizontal force of moves a block of mass along a horizontal direction for a distance of . How much work is done by the force?        "
 },
 {
-  "id": "p-208",
+  "id": "p-223",
   "level": "2",
-  "url": "sec_third-intro.html#p-208",
+  "url": "sec_third-intro.html#p-223",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -919,18 +982,18 @@ var ptx_lunr_docs = [
   "body": " Conservation Principles   Conservation principles conservation principles that some physical quantities remains constant through the change. Conservation principles began to play a central role in scientific theories from century. Galileo, Descartes, Huygens, Leibniz, and Newton established their approaches to physics on the the principle of inertia: the principle that tells a body will undergo uniform rectilinear motion unless it is disturbed. There are many conservation principles but here we are only discussing three of them.    Principle of Conservation of Energy  It states that in an isolated system, the total energy of the system is conserved. Meaning, energy can neither be created nor be destroyed, it can only be converted from one form of energy to another. For example, when a stone falls from a roof its potential energy is converted into kinetic energy just before it hits the ground. When friction slows down the block to a stop, the kinetic energy is converted into thermal energy. In case of mechanical energy, the sum of kinetic energy and potential energy is conserved. That is, total energy at any moment of time is always same. Mechanical energy is due to the position and motion of the object. Therefore, In simple pendulum, when the bob is left from a displaced position it starts swinging to and fro motion due to conservation of energy. As its potential energy (PE) is converted into kinetic energy (KE) at the mean position acquire maximum velocity and keep moving otherside of mean position due to inertia. Once it reaches to another extrema it falls back again and retraces it path again and again. Click this link simple pendulum and try to understand conservation of energy principle. During the motion of a swinging pendulum, the energy is constantly changing from KE (kinetic energy) to PE (potential energy).  KE is MAX at lowest point,  KE is MIN at the top of the path ( ),  PE is MAX at top of path.      Conservation of Momentum  We have defined momentum in . Momentum, is also called a linear momentum as motion of the object is in straight line path. From Newton's II law we know that . If the force remains zero then, . This tells us that . Meaning, if total external force acting on a system is zero, then total linear momentum of the system, constant. This is known as principle of conservation of momentum. Hence, in the case of conservaiton of mementum, final momentum of the system is equal to the initial momentum of the system i.e.,  Newton's Cradle Click on the link to understand the conservation of linear momentum.    Collision  Momentum conservation is very useful in collision collision problems because the collision force is internal and hence does not change the total momentum. The impulse of a collision is the total momentum transferred during the collision, where a collision is an event where a very large force is exerted over a body for a very short interval of time, . During that interval magnitude of force is continuously changing. Therefore, the impulse of a force is the product of the average force and the time interval during the contact.   Collision provides a way to better understand the motion. A collision is an interaction between two objects that may or may not have made physical contact. In a collision the colliding objects experience a pair of forces acting on them. The direction of the force on the first object is opposite to the direction of the force on the second object and these forces are equal in magnitude. These forces are Newton's III law pair. In an isolated system, total momentum is always conserved, hence such forces often increase the momentum of one object and decrease the momentum of the other. There are two kinds of collisions, elastic collision and inelastic collision. Elastic collision: objects are not deformed, e.g. bouncing balls, car's bumper, etc. Inelastic collision: objects become permanently deformed, e.g. auto accidents, throwing a mud on wall. Kinetic energy is only conserved in an elastic collission but not in an inelastic collision. However, momentum is conseved in both types of collisions. Total energy remains conserved in both types of collision.    Angular Momentum  Angular momentum angular momentum is the momentum associated with a body in rotation about some axis. It is also a vector quantity. The direction of angular momentum is parallel to the axis of rotation. Spinning ball or rotating wheel has an angular momentum. Angular momentum is represented by, . Angular momentum is defined by Where is called moment of inertia and is called the rotational velocity of the object. Moment of inertia, tells us that how the mass of a body is distributed relative to the axis of rotation. Moment of Inertia, I: is an inability of a material to change its state of rotational motion. It is defined as here, is the object distance from the axis of rotation.    Torque  Just as force plays a role in moving object in linear motion, torque torque plays the same role in rotational motion of an object about an axis. Torque in rotational motion is a linear analogue of force. Actually, torque is a turning effect of force which acts on a body in specific direction and at specific position. For example, if a force is applied at the center of mass of a body it will not produce any torque. But, if the same amount of force is acting off center then the body starts rotating about an axis. Just as force is a push or a pull, torque is a twist to an object around a specific axis. The magnitude of torque depends on the magnitude of applied force and the lever arm and is given by     Conservation of Angular Momentum  Conservation of angular momentum tells that in rotaiton, initial angular momentum is always equal to final angular momentum of the body if no external torque is acting on it. That is If the moment of inertia of a rotaing body decreases then rotational velocity is going to increase. For example: 1. when ice skaters spin by pulling their arms inwards their rotational speed increase but their rotational speed decrease when they stretched their arms outwards. 2. A system of planets orbiting around a star has no net external torque acting, so its angular momentum is constant. Hence, when a planet travels along an elliptical orbit, its speed reduces when it is further away from the star and its speed increases as it approaches the star star-planet system . Look at the planetary motion of Nereid (Naptune's moon) in the law of orbits animation.   "
 },
 {
-  "id": "p-221",
+  "id": "p-236",
   "level": "2",
-  "url": "sec_third-conserv.html#p-221",
+  "url": "sec_third-conserv.html#p-236",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "collision "
 },
 {
-  "id": "p-223",
+  "id": "p-238",
   "level": "2",
-  "url": "sec_third-conserv.html#p-223",
+  "url": "sec_third-conserv.html#p-238",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1072,153 +1135,153 @@ var ptx_lunr_docs = [
   "body": "  Exercise   What is the unit of Power?   Choose one of the following.    Joule (J)  Watt (W)  Newton (N)      What is the power output of a person of mass 80 kg who can climb on the pine tree with 0.4 m\/s.   Find the relatin between power and velocity.    What is the power output of a person who can lift 100 kg wheel to 2m height in 4 second.   Use the definition of power.    Find the speed of an object which weighs 10N and has the kinetic energy of 20 J.   Find mass of the object from its weight using Newton's II law and then apply kinetic energy formula to find the speed.    A 2 kg ball is pushed by a horizontal force all the way to 4 m on the ground when the ball starts moving with 8 m\/s. Find the magnitude of the force.    A 50 kg box is lifted vertically to a height of 10m. Fing the energy spent in this work.    When a cannon shell explodes in mid-air: choose all that applies.     total momentum of the system remains the same.  total kinetic energy of the system remains the same  total kinetic energy of the system decreases  total kinetic energy of the system increases     a. and d.    What is the formula for calculating power?  P = W\/t  P = Fd  P = KE + PE  P = IV     a.    What is the Law of Conservation of Energy?  Energy cannot be created or destroyed, only transformed from one form to another.  Energy can be created or destroyed, but it cannot be transformed from one form to another.  Energy can only be created, not destroyed or transformed.  Energy can only be destroyed, not created or transformed.     a.   A 500 N box is lifted vertically by a worker to a height of 4 meters. How much work is done by the worker on the box?   Which of the following is a unit of work?  joule  watt  newton  meter per second      A force of 10 Newtons is applied to an object and it moves 5 meters in the direction of the force. How much work was done?  2 Newton-meters  5 Newton-meters  10 Newton-meters  50 Newton-meters      Which of the following is a unit of power?  joule  watt  newton  meter per second squared      Which of the following types of energy is associated with the motion of objects?  Kinetic energy  Potential energy  Thermal energy  Electrical energy      An object with a mass of 2 kg is lifted to a height of 5 meters. How much potential energy does it have?  5 J  10 J  20 J  50 J      If a ball is dropped from a height of 5 meters, what is its velocity just before it hits the ground? (Assume no air resistance and acceleration due to gravity is .)  9.8 m\/s  14 m\/sJ  19.6 m\/s  24.5 m\/s      Which of the following is the formula for momentum?           "
 },
 {
-  "id": "exercise-34",
+  "id": "exercise-41",
   "level": "2",
-  "url": "ex_third.html#exercise-34",
+  "url": "ex_third.html#exercise-41",
   "type": "Exercise",
   "number": "3.4.1",
   "title": "",
   "body": " What is the unit of Power?   Choose one of the following.    Joule (J)  Watt (W)  Newton (N)    "
 },
 {
-  "id": "exercise-35",
+  "id": "exercise-42",
   "level": "2",
-  "url": "ex_third.html#exercise-35",
+  "url": "ex_third.html#exercise-42",
   "type": "Exercise",
   "number": "3.4.2",
   "title": "",
   "body": " What is the power output of a person of mass 80 kg who can climb on the pine tree with 0.4 m\/s.   Find the relatin between power and velocity.  "
 },
 {
-  "id": "exercise-36",
+  "id": "exercise-43",
   "level": "2",
-  "url": "ex_third.html#exercise-36",
+  "url": "ex_third.html#exercise-43",
   "type": "Exercise",
   "number": "3.4.3",
   "title": "",
   "body": " What is the power output of a person who can lift 100 kg wheel to 2m height in 4 second.   Use the definition of power.  "
 },
 {
-  "id": "exercise-37",
+  "id": "exercise-44",
   "level": "2",
-  "url": "ex_third.html#exercise-37",
+  "url": "ex_third.html#exercise-44",
   "type": "Exercise",
   "number": "3.4.4",
   "title": "",
   "body": " Find the speed of an object which weighs 10N and has the kinetic energy of 20 J.   Find mass of the object from its weight using Newton's II law and then apply kinetic energy formula to find the speed.  "
 },
 {
-  "id": "exercise-38",
+  "id": "exercise-45",
   "level": "2",
-  "url": "ex_third.html#exercise-38",
+  "url": "ex_third.html#exercise-45",
   "type": "Exercise",
   "number": "3.4.5",
   "title": "",
   "body": " A 2 kg ball is pushed by a horizontal force all the way to 4 m on the ground when the ball starts moving with 8 m\/s. Find the magnitude of the force.  "
 },
 {
-  "id": "exercise-39",
+  "id": "exercise-46",
   "level": "2",
-  "url": "ex_third.html#exercise-39",
+  "url": "ex_third.html#exercise-46",
   "type": "Exercise",
   "number": "3.4.6",
   "title": "",
   "body": " A 50 kg box is lifted vertically to a height of 10m. Fing the energy spent in this work.  "
 },
 {
-  "id": "exercise-40",
+  "id": "exercise-47",
   "level": "2",
-  "url": "ex_third.html#exercise-40",
+  "url": "ex_third.html#exercise-47",
   "type": "Exercise",
   "number": "3.4.7",
   "title": "",
   "body": " When a cannon shell explodes in mid-air: choose all that applies.     total momentum of the system remains the same.  total kinetic energy of the system remains the same  total kinetic energy of the system decreases  total kinetic energy of the system increases     a. and d.  "
 },
 {
-  "id": "exercise-41",
+  "id": "exercise-48",
   "level": "2",
-  "url": "ex_third.html#exercise-41",
+  "url": "ex_third.html#exercise-48",
   "type": "Exercise",
   "number": "3.4.8",
   "title": "",
   "body": " What is the formula for calculating power?  P = W\/t  P = Fd  P = KE + PE  P = IV     a.  "
 },
 {
-  "id": "exercise-42",
+  "id": "exercise-49",
   "level": "2",
-  "url": "ex_third.html#exercise-42",
+  "url": "ex_third.html#exercise-49",
   "type": "Exercise",
   "number": "3.4.9",
   "title": "",
   "body": " What is the Law of Conservation of Energy?  Energy cannot be created or destroyed, only transformed from one form to another.  Energy can be created or destroyed, but it cannot be transformed from one form to another.  Energy can only be created, not destroyed or transformed.  Energy can only be destroyed, not created or transformed.     a.  "
 },
 {
-  "id": "exercise-43",
+  "id": "exercise-50",
   "level": "2",
-  "url": "ex_third.html#exercise-43",
+  "url": "ex_third.html#exercise-50",
   "type": "Exercise",
   "number": "3.4.10",
   "title": "",
   "body": "A 500 N box is lifted vertically by a worker to a height of 4 meters. How much work is done by the worker on the box? "
 },
 {
-  "id": "exercise-44",
+  "id": "exercise-51",
   "level": "2",
-  "url": "ex_third.html#exercise-44",
+  "url": "ex_third.html#exercise-51",
   "type": "Exercise",
   "number": "3.4.11",
   "title": "",
   "body": " Which of the following is a unit of work?  joule  watt  newton  meter per second    "
 },
 {
-  "id": "exercise-45",
+  "id": "exercise-52",
   "level": "2",
-  "url": "ex_third.html#exercise-45",
+  "url": "ex_third.html#exercise-52",
   "type": "Exercise",
   "number": "3.4.12",
   "title": "",
   "body": " A force of 10 Newtons is applied to an object and it moves 5 meters in the direction of the force. How much work was done?  2 Newton-meters  5 Newton-meters  10 Newton-meters  50 Newton-meters    "
 },
 {
-  "id": "exercise-46",
+  "id": "exercise-53",
   "level": "2",
-  "url": "ex_third.html#exercise-46",
+  "url": "ex_third.html#exercise-53",
   "type": "Exercise",
   "number": "3.4.13",
   "title": "",
   "body": " Which of the following is a unit of power?  joule  watt  newton  meter per second squared    "
 },
 {
-  "id": "exercise-47",
+  "id": "exercise-54",
   "level": "2",
-  "url": "ex_third.html#exercise-47",
+  "url": "ex_third.html#exercise-54",
   "type": "Exercise",
   "number": "3.4.14",
   "title": "",
   "body": " Which of the following types of energy is associated with the motion of objects?  Kinetic energy  Potential energy  Thermal energy  Electrical energy    "
 },
 {
-  "id": "exercise-48",
+  "id": "exercise-55",
   "level": "2",
-  "url": "ex_third.html#exercise-48",
+  "url": "ex_third.html#exercise-55",
   "type": "Exercise",
   "number": "3.4.15",
   "title": "",
   "body": " An object with a mass of 2 kg is lifted to a height of 5 meters. How much potential energy does it have?  5 J  10 J  20 J  50 J    "
 },
 {
-  "id": "exercise-49",
+  "id": "exercise-56",
   "level": "2",
-  "url": "ex_third.html#exercise-49",
+  "url": "ex_third.html#exercise-56",
   "type": "Exercise",
   "number": "3.4.16",
   "title": "",
   "body": " If a ball is dropped from a height of 5 meters, what is its velocity just before it hits the ground? (Assume no air resistance and acceleration due to gravity is .)  9.8 m\/s  14 m\/sJ  19.6 m\/s  24.5 m\/s    "
 },
 {
-  "id": "exercise-50",
+  "id": "exercise-57",
   "level": "2",
-  "url": "ex_third.html#exercise-50",
+  "url": "ex_third.html#exercise-57",
   "type": "Exercise",
   "number": "3.4.17",
   "title": "",
@@ -1252,9 +1315,9 @@ var ptx_lunr_docs = [
   "body": "  Convert into celsius temperature scale.    Here we use the following relationship    "
 },
 {
-  "id": "p-297",
+  "id": "p-312",
   "level": "2",
-  "url": "sec_fourth-intro.html#p-297",
+  "url": "sec_fourth-intro.html#p-312",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1279,27 +1342,27 @@ var ptx_lunr_docs = [
   "body": "  How much heat in calorie is needed to heat 50 kg of water from to .    Given: m = 50 kg =50000 g, , , , and Q=?       "
 },
 {
-  "id": "p-304",
+  "id": "p-319",
   "level": "2",
-  "url": "sec_fourth-intro.html#p-304",
+  "url": "sec_fourth-intro.html#p-319",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Conduction: "
 },
 {
-  "id": "p-305",
+  "id": "p-320",
   "level": "2",
-  "url": "sec_fourth-intro.html#p-305",
+  "url": "sec_fourth-intro.html#p-320",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Convection: "
 },
 {
-  "id": "p-306",
+  "id": "p-321",
   "level": "2",
-  "url": "sec_fourth-intro.html#p-306",
+  "url": "sec_fourth-intro.html#p-321",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1324,9 +1387,9 @@ var ptx_lunr_docs = [
   "body": "  Calculate the mass of water in a container of size 25 cm long, 15 cm wide and is filled with water up to 10 cm high. If the density of water is .    The volume of water, Hence, the mass of water in the container is given by .    "
 },
 {
-  "id": "p-312",
+  "id": "p-327",
   "level": "2",
-  "url": "sec_fourth-fluid.html#p-312",
+  "url": "sec_fourth-fluid.html#p-327",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1351,9 +1414,9 @@ var ptx_lunr_docs = [
   "body": "  If you poke two holes in water bottle at different hights, which water-jets shoots out to larger distance from the bottle?    The pressure exerted by water at depths is given by , Since depth of water is more for the hole at the bottom, water exerts higher pressure at the bottom and hence water-jet shoots out to further distance from the bottom hole.   "
 },
 {
-  "id": "p-318",
+  "id": "p-333",
   "level": "2",
-  "url": "sec_fourth-fluid.html#p-318",
+  "url": "sec_fourth-fluid.html#p-333",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1369,9 +1432,9 @@ var ptx_lunr_docs = [
   "body": " Buoyant force    "
 },
 {
-  "id": "p-321",
+  "id": "p-336",
   "level": "2",
-  "url": "sec_fourth-fluid.html#p-321",
+  "url": "sec_fourth-fluid.html#p-336",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1585,180 +1648,180 @@ var ptx_lunr_docs = [
   "body": "  Exercise   A person is suffering from fever of 103 . What is his body temperature on the Celsius scale?    The temperature of outer space is about 3K. What is this temperature on the  Celsius scale  Fahrenheit scale      How much heat is needed to raise the temperature of 1.0kg of water from room temperature 20 to its boiling point 100 .   What makes 1 g of water steam at 100 more dengerous than 1 g of water liquid at 100 .  How does heat transfer occur in a gas?  How does heat transfer occur in avacuum?  Chose the correct option: The fluid at the bottom of the container is  under less pressure than the pressure at the top.  under the same pressure than the pressure at the top.  under more pressure than the pressure at the top.  any one of the above, depending upon circumstances.    Chose the correct option: On molecular level, heat is  kinetic energy.  potential energy.  sum of kinetic and potential energy.  any one of the above, depending upon circumstances.    How much cooking oil you can put in a container of 0.2m long, 0.1m wide, and 0.3 m high, if the density of the oil is .  A water can is heated to boiling and then sealed when it is still hot. What reason can you give for the can collapsing as it cools?  Two balls of identical volumes but different masses are being dropped from the top of a skyscraper. If air resistance acts the same on both balls which will reach on the ground first or will they reach it together?  What is the SI unit of temperature?  Kelvin  Celsius  Fahrenheit  Rankine    What is absolute zero?  The temperature at which water freezes  The temperature at which water boils  The lowest possible temperature that can be reached  The highest possible temperature that can be reached     Which of the following is not a way to measure temperature?  Thermometer  Pyrometer  Barometer  Thermocouple     c.    What is the boiling point of water in Celsius?           What is viscosity?  The ability of a fluid to flow.  The ability of a fluid to resist flow.  The ability of a fluid to change shape.  The ability of a fluid to change volume.     b.    Which of the following factors affects the buoyant force on an object?  The volume of the object.  The density of the fluid.  The depth of the fluid.  All of the above.     d.    Which of the following is an example of an object that will float in water?  A lead weight  A wooden log  A rock  A steel ball      What is the relationship between the temperature of a gas and the average kinetic energy of its molecules?  They are directly proportional.  They are inversely proportional.  They are not related.  It depends on the pressure of the gas.     a.    What is the relationship between the pressure of a gas and the volume of its container, according to Boyle's law?  They are directly proportional.  They are inversely proportional.  They are not related.  It depends on the temperature of the gas.     b.   "
 },
 {
-  "id": "exercise-51",
+  "id": "exercise-58",
   "level": "2",
-  "url": "ex_fourth.html#exercise-51",
+  "url": "ex_fourth.html#exercise-58",
   "type": "Exercise",
   "number": "4.4.1",
   "title": "",
   "body": " A person is suffering from fever of 103 . What is his body temperature on the Celsius scale?  "
 },
 {
-  "id": "exercise-52",
+  "id": "exercise-59",
   "level": "2",
-  "url": "ex_fourth.html#exercise-52",
+  "url": "ex_fourth.html#exercise-59",
   "type": "Exercise",
   "number": "4.4.2",
   "title": "",
   "body": " The temperature of outer space is about 3K. What is this temperature on the  Celsius scale  Fahrenheit scale    "
 },
 {
-  "id": "exercise-53",
+  "id": "exercise-60",
   "level": "2",
-  "url": "ex_fourth.html#exercise-53",
+  "url": "ex_fourth.html#exercise-60",
   "type": "Exercise",
   "number": "4.4.3",
   "title": "",
   "body": " How much heat is needed to raise the temperature of 1.0kg of water from room temperature 20 to its boiling point 100 .  "
 },
 {
-  "id": "exercise-54",
+  "id": "exercise-61",
   "level": "2",
-  "url": "ex_fourth.html#exercise-54",
+  "url": "ex_fourth.html#exercise-61",
   "type": "Exercise",
   "number": "4.4.4",
   "title": "",
   "body": "What makes 1 g of water steam at 100 more dengerous than 1 g of water liquid at 100 . "
 },
 {
-  "id": "exercise-55",
+  "id": "exercise-62",
   "level": "2",
-  "url": "ex_fourth.html#exercise-55",
+  "url": "ex_fourth.html#exercise-62",
   "type": "Exercise",
   "number": "4.4.5",
   "title": "",
   "body": "How does heat transfer occur in a gas? "
 },
 {
-  "id": "exercise-56",
+  "id": "exercise-63",
   "level": "2",
-  "url": "ex_fourth.html#exercise-56",
+  "url": "ex_fourth.html#exercise-63",
   "type": "Exercise",
   "number": "4.4.6",
   "title": "",
   "body": "How does heat transfer occur in avacuum? "
 },
 {
-  "id": "exercise-57",
+  "id": "exercise-64",
   "level": "2",
-  "url": "ex_fourth.html#exercise-57",
+  "url": "ex_fourth.html#exercise-64",
   "type": "Exercise",
   "number": "4.4.7",
   "title": "",
   "body": "Chose the correct option: The fluid at the bottom of the container is  under less pressure than the pressure at the top.  under the same pressure than the pressure at the top.  under more pressure than the pressure at the top.  any one of the above, depending upon circumstances.   "
 },
 {
-  "id": "exercise-58",
+  "id": "exercise-65",
   "level": "2",
-  "url": "ex_fourth.html#exercise-58",
+  "url": "ex_fourth.html#exercise-65",
   "type": "Exercise",
   "number": "4.4.8",
   "title": "",
   "body": "Chose the correct option: On molecular level, heat is  kinetic energy.  potential energy.  sum of kinetic and potential energy.  any one of the above, depending upon circumstances.   "
 },
 {
-  "id": "exercise-59",
+  "id": "exercise-66",
   "level": "2",
-  "url": "ex_fourth.html#exercise-59",
+  "url": "ex_fourth.html#exercise-66",
   "type": "Exercise",
   "number": "4.4.9",
   "title": "",
   "body": "How much cooking oil you can put in a container of 0.2m long, 0.1m wide, and 0.3 m high, if the density of the oil is . "
 },
 {
-  "id": "exercise-60",
+  "id": "exercise-67",
   "level": "2",
-  "url": "ex_fourth.html#exercise-60",
+  "url": "ex_fourth.html#exercise-67",
   "type": "Exercise",
   "number": "4.4.10",
   "title": "",
   "body": "A water can is heated to boiling and then sealed when it is still hot. What reason can you give for the can collapsing as it cools? "
 },
 {
-  "id": "exercise-61",
+  "id": "exercise-68",
   "level": "2",
-  "url": "ex_fourth.html#exercise-61",
+  "url": "ex_fourth.html#exercise-68",
   "type": "Exercise",
   "number": "4.4.11",
   "title": "",
   "body": "Two balls of identical volumes but different masses are being dropped from the top of a skyscraper. If air resistance acts the same on both balls which will reach on the ground first or will they reach it together? "
 },
 {
-  "id": "exercise-62",
+  "id": "exercise-69",
   "level": "2",
-  "url": "ex_fourth.html#exercise-62",
+  "url": "ex_fourth.html#exercise-69",
   "type": "Exercise",
   "number": "4.4.12",
   "title": "",
   "body": "What is the SI unit of temperature?  Kelvin  Celsius  Fahrenheit  Rankine   "
 },
 {
-  "id": "exercise-63",
+  "id": "exercise-70",
   "level": "2",
-  "url": "ex_fourth.html#exercise-63",
+  "url": "ex_fourth.html#exercise-70",
   "type": "Exercise",
   "number": "4.4.13",
   "title": "",
   "body": "What is absolute zero?  The temperature at which water freezes  The temperature at which water boils  The lowest possible temperature that can be reached  The highest possible temperature that can be reached   "
 },
 {
-  "id": "exercise-64",
+  "id": "exercise-71",
   "level": "2",
-  "url": "ex_fourth.html#exercise-64",
+  "url": "ex_fourth.html#exercise-71",
   "type": "Exercise",
   "number": "4.4.14",
   "title": "",
   "body": " Which of the following is not a way to measure temperature?  Thermometer  Pyrometer  Barometer  Thermocouple     c.  "
 },
 {
-  "id": "exercise-65",
+  "id": "exercise-72",
   "level": "2",
-  "url": "ex_fourth.html#exercise-65",
+  "url": "ex_fourth.html#exercise-72",
   "type": "Exercise",
   "number": "4.4.15",
   "title": "",
   "body": " What is the boiling point of water in Celsius?         "
 },
 {
-  "id": "exercise-66",
+  "id": "exercise-73",
   "level": "2",
-  "url": "ex_fourth.html#exercise-66",
+  "url": "ex_fourth.html#exercise-73",
   "type": "Exercise",
   "number": "4.4.16",
   "title": "",
   "body": " What is viscosity?  The ability of a fluid to flow.  The ability of a fluid to resist flow.  The ability of a fluid to change shape.  The ability of a fluid to change volume.     b.  "
 },
 {
-  "id": "exercise-67",
+  "id": "exercise-74",
   "level": "2",
-  "url": "ex_fourth.html#exercise-67",
+  "url": "ex_fourth.html#exercise-74",
   "type": "Exercise",
   "number": "4.4.17",
   "title": "",
   "body": " Which of the following factors affects the buoyant force on an object?  The volume of the object.  The density of the fluid.  The depth of the fluid.  All of the above.     d.  "
 },
 {
-  "id": "exercise-68",
+  "id": "exercise-75",
   "level": "2",
-  "url": "ex_fourth.html#exercise-68",
+  "url": "ex_fourth.html#exercise-75",
   "type": "Exercise",
   "number": "4.4.18",
   "title": "",
   "body": " Which of the following is an example of an object that will float in water?  A lead weight  A wooden log  A rock  A steel ball    "
 },
 {
-  "id": "exercise-69",
+  "id": "exercise-76",
   "level": "2",
-  "url": "ex_fourth.html#exercise-69",
+  "url": "ex_fourth.html#exercise-76",
   "type": "Exercise",
   "number": "4.4.19",
   "title": "",
   "body": " What is the relationship between the temperature of a gas and the average kinetic energy of its molecules?  They are directly proportional.  They are inversely proportional.  They are not related.  It depends on the pressure of the gas.     a.  "
 },
 {
-  "id": "exercise-70",
+  "id": "exercise-77",
   "level": "2",
-  "url": "ex_fourth.html#exercise-70",
+  "url": "ex_fourth.html#exercise-77",
   "type": "Exercise",
   "number": "4.4.20",
   "title": "",
@@ -1810,9 +1873,9 @@ var ptx_lunr_docs = [
   "body": " Electric Lines of Force    due to a +ve charge     due to a -ve charge     due to two unlike charges     due to two like +ve charges     "
 },
 {
-  "id": "p-403",
+  "id": "p-418",
   "level": "2",
-  "url": "sec_fifth-intro.html#p-403",
+  "url": "sec_fifth-intro.html#p-418",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1828,18 +1891,18 @@ var ptx_lunr_docs = [
   "body": " Electricity   It is a branch of physics which deals with the motion of charges in a conductor. When charge flows from one place to another, an electrical current is formed. An electric current  current is defined as the rate of flow of charge. If a net charge passes through any conductor in time , then the electric current is given by Its unit is Ampere (A). One ampere of current represents one coulomb of charge passes through a conductor in one second. It is a scalar quantity and its conventional direction is taken as the direction of flow of positive charges. In conductor, current flows solely due to motion of electrons, hence the direction of current is opposite to electrons flow. From the law of conservation of charges current remains constant in a conductor irrespective of the local area of cross-section. When the direction of motion of charge does not change with time, the current is said to be direct current, or DC current. It is commonly used in electronic devices like cell phones and computers. If the direction of motion of charges reverses periodically, the current is known as an alternating current, or AC current. It is commonly used in the electrical power systems that supply to homes and commercial applications. AC current goes from positive to negative in a cycle, while DC current is always in the same direction. Current can only exist between two points of different potential (voltage) connected by a conductor and can only exist whenever a conductive path with no breaks is provided.  Flow of charges in DC current is similar to flowing water, but in AC current, charges do not go anywhere rather they are oscillating about the mean position at their respective position. Check the simulation link to visualize DC and AC current. DC & AC AC is more efficient to transmit over long distances than DC. This is the reason why AC is used in power transmission and distribution as well as in motors and other equipment. It is also used in many household appliances, such as refrigerators, air conditioners, and washing machines. AC can also be easily transformed to different voltages using a transformer, while this is not easy to achieve with DC. DC voltage can be stored in a device called a battery, while AC voltage cannot be stored.    Electric Potential (Voltage)  Electric potential, electric potential also known as voltage, is a measure of the electric potential energy per unit charge in an electric field. That is, or, . It is the amount of work required to move a unit positive charge from one point to another in an electric field. The unit of electric potential is the volt (V). A higher electric potential difference between two points indicates a greater amount of energy required to move a unit charge between those points. Voltage can be thought of as a \"push\" for a charge. The higher the voltage, the more \"push\" the charge experiences to flow through wires. Charge can only flow from high potential(voltage) to low potential (voltage). It's important to note that just like water can be dangerous if not handled properly, electricity can also be dangerous if not handled with care.    Ohm's Law  Ohm's law Ohm's law states that the current flowing through a conductor is directly proportional to the voltage across the two ends of the conductor, and inversely proportional to the resistance between them. It can be mathematically expressed as or, here I is the current, V is the voltage, and R is the resistance of the conductor. Resistance:  resistance is a restriction imposed by a conductor on the motion of a current. Motion of charge carriers (electrons) are not very smooth in a conductor as they bump onto the other electrons and positive charge residual atoms during their motion. Such restrictions in flow of electrons are measured as a resistance of a conductor in current flow. It is denoted by and its unit is Ohm ( )  ( )  Ohm  . Electrical Power: It is the measure of energy transferred or consumed per unit time i.e.,   Hence power is also defined as the product of current and voltage. Its unit is Watts (W). One watt means consuming one joule of energy every second.  Now from Ohm's law,  Hence, the power of electrical circuit is given as     Electrical Shock: According to Ohm's law if resistance of the conductor is low then the higher current can flow through it. High current can be deadly. Actually, a “voltage” does not go “into” your body rather current can pass through it when charges flow toward a lower potential. In order to get an electric shock at least of current must pass through our body. In dry conditions, the human body has a resistance of about , so to have current flowing through our body we need to touch the voltage source of about , as shown in the calculation below. In wet condition, human body resistance becomes only , so to get current through our body we need to touch the voltage source of about .    Electrical Circuits  An electrical circuit is a network of electrical elements (such as resistance (bulb), battery, conductor, switch, etc.) through which current can flow in a closed path. Electrical circuits can be of two types,   Series Circuit: in this type of circuits all the electrical components are connected one after another in such a way that the same current flows through each component as shown in the figure below. An example of a series circuit is a string of Christmas lights, where each bulb is connected to the next in a line. If one bulb burns out, the entire circuit is broken and none of the lights will turn on.  Series circuit       Parallel Circuit: in this type of circuits all the electrical components are connected side by side in such a way that the voltage across each component is the same as shown in the figure below. An example of a parallel circuit is a house's electrical system, where different appliances are connected to the same circuit but have their own separate paths for current to flow through. If one path is broken or one appliance stops working, it doesn't affect the other appliances or the overall circuit.  Parallel circuit       series & parallel circuit To change from series to parallel circuit, Please hold the bulb and rotate the circuit in the simulation.   "
 },
 {
-  "id": "p-404",
+  "id": "p-419",
   "level": "2",
-  "url": "sec_fifth-electr.html#p-404",
+  "url": "sec_fifth-electr.html#p-419",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "current "
 },
 {
-  "id": "p-410",
+  "id": "p-425",
   "level": "2",
-  "url": "sec_fifth-electr.html#p-410",
+  "url": "sec_fifth-electr.html#p-425",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1972,126 +2035,126 @@ var ptx_lunr_docs = [
   "body": "  Exercise  An atom or a molecule that loses an electron becomes a  positive ion  negative ion  neutral  conductor    Ohms law defines current flow through what type of substance?  Conductor  Insulator  Non-conductor  Both a. and b.    Which of the following is the symbol of ohms?        What substance is attracted to a magnet?  iron and its alloys.  silver.  water.  all substances.    What happens to the magnetic field when a magnet is strongly heated or hammered?  becomes weaker.  is unchanged.  becomes stronger.  reverses its direction.    What is the direction of the magnetic field under the power line if a current is flowing through it towards the south?  east.  west.  north.  south.    A transformer has more turns on its primary coil than on the secondary coil. It is a  step up transformer  step down transformer  None of the above  both step-up and step-down transformer.    Calculate the force of repulsion between two charges of placed at apart.  If two charges placed at 2 cm experience 5 N force. what would be the magnitude of this force if the charges are shifted to 10 cm apart.  Calculate the force of repulsion between two charges of placed at apart.  A transformer has 500 turns in its primary coil and is connected to 400 V. Find the voltage in the secondary coil if it has 25 turns.  Recognize the series and parallel circuits from the circuit diagrams given below.  DC circuits                  A circuit contains a resistor with a resistance of 20 ohms, connected to a battery with a voltage of 12 volts. What is the current flowing through the circuit?   A circuit has a voltage of 12 volts and a current of 2 amperes. What is the resistance of the circuit?     "
 },
 {
-  "id": "exercise-71",
+  "id": "exercise-78",
   "level": "2",
-  "url": "ex_fifth.html#exercise-71",
+  "url": "ex_fifth.html#exercise-78",
   "type": "Exercise",
   "number": "5.5.1",
   "title": "",
   "body": "An atom or a molecule that loses an electron becomes a  positive ion  negative ion  neutral  conductor   "
 },
 {
-  "id": "exercise-72",
+  "id": "exercise-79",
   "level": "2",
-  "url": "ex_fifth.html#exercise-72",
+  "url": "ex_fifth.html#exercise-79",
   "type": "Exercise",
   "number": "5.5.2",
   "title": "",
   "body": "Ohms law defines current flow through what type of substance?  Conductor  Insulator  Non-conductor  Both a. and b.   "
 },
 {
-  "id": "exercise-73",
+  "id": "exercise-80",
   "level": "2",
-  "url": "ex_fifth.html#exercise-73",
+  "url": "ex_fifth.html#exercise-80",
   "type": "Exercise",
   "number": "5.5.3",
   "title": "",
   "body": "Which of the following is the symbol of ohms?       "
 },
 {
-  "id": "exercise-74",
+  "id": "exercise-81",
   "level": "2",
-  "url": "ex_fifth.html#exercise-74",
+  "url": "ex_fifth.html#exercise-81",
   "type": "Exercise",
   "number": "5.5.4",
   "title": "",
   "body": "What substance is attracted to a magnet?  iron and its alloys.  silver.  water.  all substances.   "
 },
 {
-  "id": "exercise-75",
+  "id": "exercise-82",
   "level": "2",
-  "url": "ex_fifth.html#exercise-75",
+  "url": "ex_fifth.html#exercise-82",
   "type": "Exercise",
   "number": "5.5.5",
   "title": "",
   "body": "What happens to the magnetic field when a magnet is strongly heated or hammered?  becomes weaker.  is unchanged.  becomes stronger.  reverses its direction.   "
 },
 {
-  "id": "exercise-76",
+  "id": "exercise-83",
   "level": "2",
-  "url": "ex_fifth.html#exercise-76",
+  "url": "ex_fifth.html#exercise-83",
   "type": "Exercise",
   "number": "5.5.6",
   "title": "",
   "body": "What is the direction of the magnetic field under the power line if a current is flowing through it towards the south?  east.  west.  north.  south.   "
 },
 {
-  "id": "exercise-77",
+  "id": "exercise-84",
   "level": "2",
-  "url": "ex_fifth.html#exercise-77",
+  "url": "ex_fifth.html#exercise-84",
   "type": "Exercise",
   "number": "5.5.7",
   "title": "",
   "body": "A transformer has more turns on its primary coil than on the secondary coil. It is a  step up transformer  step down transformer  None of the above  both step-up and step-down transformer.   "
 },
 {
-  "id": "exercise-78",
+  "id": "exercise-85",
   "level": "2",
-  "url": "ex_fifth.html#exercise-78",
+  "url": "ex_fifth.html#exercise-85",
   "type": "Exercise",
   "number": "5.5.8",
   "title": "",
   "body": "Calculate the force of repulsion between two charges of placed at apart. "
 },
 {
-  "id": "exercise-79",
+  "id": "exercise-86",
   "level": "2",
-  "url": "ex_fifth.html#exercise-79",
+  "url": "ex_fifth.html#exercise-86",
   "type": "Exercise",
   "number": "5.5.9",
   "title": "",
   "body": "If two charges placed at 2 cm experience 5 N force. what would be the magnitude of this force if the charges are shifted to 10 cm apart. "
 },
 {
-  "id": "exercise-80",
+  "id": "exercise-87",
   "level": "2",
-  "url": "ex_fifth.html#exercise-80",
+  "url": "ex_fifth.html#exercise-87",
   "type": "Exercise",
   "number": "5.5.10",
   "title": "",
   "body": "Calculate the force of repulsion between two charges of placed at apart. "
 },
 {
-  "id": "exercise-81",
+  "id": "exercise-88",
   "level": "2",
-  "url": "ex_fifth.html#exercise-81",
+  "url": "ex_fifth.html#exercise-88",
   "type": "Exercise",
   "number": "5.5.11",
   "title": "",
   "body": "A transformer has 500 turns in its primary coil and is connected to 400 V. Find the voltage in the secondary coil if it has 25 turns. "
 },
 {
-  "id": "exercise-82",
+  "id": "exercise-89",
   "level": "2",
-  "url": "ex_fifth.html#exercise-82",
+  "url": "ex_fifth.html#exercise-89",
   "type": "Exercise",
   "number": "5.5.12",
   "title": "",
   "body": "Recognize the series and parallel circuits from the circuit diagrams given below.  DC circuits                "
 },
 {
-  "id": "exercise-83",
+  "id": "exercise-90",
   "level": "2",
-  "url": "ex_fifth.html#exercise-83",
+  "url": "ex_fifth.html#exercise-90",
   "type": "Exercise",
   "number": "5.5.13",
   "title": "",
   "body": " A circuit contains a resistor with a resistance of 20 ohms, connected to a battery with a voltage of 12 volts. What is the current flowing through the circuit?  "
 },
 {
-  "id": "exercise-84",
+  "id": "exercise-91",
   "level": "2",
-  "url": "ex_fifth.html#exercise-84",
+  "url": "ex_fifth.html#exercise-91",
   "type": "Exercise",
   "number": "5.5.14",
   "title": "",
@@ -2116,9 +2179,9 @@ var ptx_lunr_docs = [
   "body": " Waves     Ripples on Water Surface     Schematics of ripples     "
 },
 {
-  "id": "p-454",
+  "id": "p-469",
   "level": "2",
-  "url": "sec_sixth-intro.html#p-454",
+  "url": "sec_sixth-intro.html#p-469",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2134,9 +2197,9 @@ var ptx_lunr_docs = [
   "body": " Representation of waves    Longitudinal wave     Transverse wave     "
 },
 {
-  "id": "p-458",
+  "id": "p-473",
   "level": "2",
-  "url": "sec_sixth-intro.html#p-458",
+  "url": "sec_sixth-intro.html#p-473",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2161,9 +2224,9 @@ var ptx_lunr_docs = [
   "body": " Electromagnetic Spectrum NASA   "
 },
 {
-  "id": "p-466",
+  "id": "p-481",
   "level": "2",
-  "url": "sec_sixth-light.html#p-466",
+  "url": "sec_sixth-light.html#p-481",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2332,117 +2395,117 @@ var ptx_lunr_docs = [
   "body": "  Exercises   Why does the letter appears like when placed infront of a plane mirror?    Why do the stars twinkle in a night sky? How about the same stars if seen from international space station?    What makes setting sun appear red?   scattering of light from the atmospheric air molecules.    Why do we see objects as white?    The American flag appears when viewed in blue light.  red and blue.  blue and black  all blue.  red, white, and blue.     White is a combination of all the colors, and black is the absense of all colors. When viewed in the blue light only blue light reflects. The blue parts are not affected, the red parts are black now, and the white parts are blue now.    Find the wavelengths of sound which have a speed of and frequencies of          Which of the following is not a reason behind rainbow formation?  Reflection.  Refraction.  Dispersion.  Scattering.      Scattering is responsible for the color of the daytime sky.  red  blue  orange  white      Scattering occurs when light waves are forced to depart from a path due to imperfections in the medium.  curved  straight  angled      Refraction occurs  when waves changed speed  only with light waves  at any unpredictable time      What causes wet spot mirage on the high way road?  Reflection  Refraction  Dispersion  Scattering      Different colors of light waves travell with different speeds in transparent medium. How they travell in vacuum?  At different speeds.  At same speed.  Both a and b.  None of the above.      My radio station is tuned at 90MHz frequency. What is the wavelength of that radio wave. The velocity of electromagnetic wave is    Given: , ,     "
 },
 {
-  "id": "exercise-85",
+  "id": "exercise-92",
   "level": "2",
-  "url": "ex_sixth.html#exercise-85",
+  "url": "ex_sixth.html#exercise-92",
   "type": "Exercise",
   "number": "6.4.1",
   "title": "",
   "body": " Why does the letter appears like when placed infront of a plane mirror?  "
 },
 {
-  "id": "exercise-86",
+  "id": "exercise-93",
   "level": "2",
-  "url": "ex_sixth.html#exercise-86",
+  "url": "ex_sixth.html#exercise-93",
   "type": "Exercise",
   "number": "6.4.2",
   "title": "",
   "body": " Why do the stars twinkle in a night sky? How about the same stars if seen from international space station?  "
 },
 {
-  "id": "exercise-87",
+  "id": "exercise-94",
   "level": "2",
-  "url": "ex_sixth.html#exercise-87",
+  "url": "ex_sixth.html#exercise-94",
   "type": "Exercise",
   "number": "6.4.3",
   "title": "",
   "body": " What makes setting sun appear red?   scattering of light from the atmospheric air molecules.  "
 },
 {
-  "id": "exercise-88",
+  "id": "exercise-95",
   "level": "2",
-  "url": "ex_sixth.html#exercise-88",
+  "url": "ex_sixth.html#exercise-95",
   "type": "Exercise",
   "number": "6.4.4",
   "title": "",
   "body": " Why do we see objects as white?  "
 },
 {
-  "id": "exercise-89",
+  "id": "exercise-96",
   "level": "2",
-  "url": "ex_sixth.html#exercise-89",
+  "url": "ex_sixth.html#exercise-96",
   "type": "Exercise",
   "number": "6.4.5",
   "title": "",
   "body": " The American flag appears when viewed in blue light.  red and blue.  blue and black  all blue.  red, white, and blue.     White is a combination of all the colors, and black is the absense of all colors. When viewed in the blue light only blue light reflects. The blue parts are not affected, the red parts are black now, and the white parts are blue now.  "
 },
 {
-  "id": "exercise-90",
+  "id": "exercise-97",
   "level": "2",
-  "url": "ex_sixth.html#exercise-90",
+  "url": "ex_sixth.html#exercise-97",
   "type": "Exercise",
   "number": "6.4.6",
   "title": "",
   "body": " Find the wavelengths of sound which have a speed of and frequencies of        "
 },
 {
-  "id": "exercise-91",
+  "id": "exercise-98",
   "level": "2",
-  "url": "ex_sixth.html#exercise-91",
+  "url": "ex_sixth.html#exercise-98",
   "type": "Exercise",
   "number": "6.4.7",
   "title": "",
   "body": " Which of the following is not a reason behind rainbow formation?  Reflection.  Refraction.  Dispersion.  Scattering.    "
 },
 {
-  "id": "exercise-92",
+  "id": "exercise-99",
   "level": "2",
-  "url": "ex_sixth.html#exercise-92",
+  "url": "ex_sixth.html#exercise-99",
   "type": "Exercise",
   "number": "6.4.8",
   "title": "",
   "body": " Scattering is responsible for the color of the daytime sky.  red  blue  orange  white    "
 },
 {
-  "id": "exercise-93",
+  "id": "exercise-100",
   "level": "2",
-  "url": "ex_sixth.html#exercise-93",
+  "url": "ex_sixth.html#exercise-100",
   "type": "Exercise",
   "number": "6.4.9",
   "title": "",
   "body": " Scattering occurs when light waves are forced to depart from a path due to imperfections in the medium.  curved  straight  angled    "
 },
 {
-  "id": "exercise-94",
+  "id": "exercise-101",
   "level": "2",
-  "url": "ex_sixth.html#exercise-94",
+  "url": "ex_sixth.html#exercise-101",
   "type": "Exercise",
   "number": "6.4.10",
   "title": "",
   "body": " Refraction occurs  when waves changed speed  only with light waves  at any unpredictable time    "
 },
 {
-  "id": "exercise-95",
+  "id": "exercise-102",
   "level": "2",
-  "url": "ex_sixth.html#exercise-95",
+  "url": "ex_sixth.html#exercise-102",
   "type": "Exercise",
   "number": "6.4.11",
   "title": "",
   "body": " What causes wet spot mirage on the high way road?  Reflection  Refraction  Dispersion  Scattering    "
 },
 {
-  "id": "exercise-96",
+  "id": "exercise-103",
   "level": "2",
-  "url": "ex_sixth.html#exercise-96",
+  "url": "ex_sixth.html#exercise-103",
   "type": "Exercise",
   "number": "6.4.12",
   "title": "",
   "body": " Different colors of light waves travell with different speeds in transparent medium. How they travell in vacuum?  At different speeds.  At same speed.  Both a and b.  None of the above.    "
 },
 {
-  "id": "exercise-97",
+  "id": "exercise-104",
   "level": "2",
-  "url": "ex_sixth.html#exercise-97",
+  "url": "ex_sixth.html#exercise-104",
   "type": "Exercise",
   "number": "6.4.13",
   "title": "",
@@ -2458,27 +2521,27 @@ var ptx_lunr_docs = [
   "body": " Atomic Structure    Dalton's atomic model was proposed in 1803. It tells that  All matter is composed of atoms, which are indivisible and indestructible.  Atoms of a given element are identical in size, mass, and other properties.  Atoms of different elements have different properties and masses.  Atoms combine in simple whole-number ratios to form compounds.  In chemical reactions, atoms are rearranged to form new compounds, but no atoms are created or destroyed. Dalton's atomic theory laid the foundation for modern atomic theory.   Thomson's atomic model was proposed in 1904. It was based on his discovery of the electron, a negatively charged particle within the atom. According to Thomson's model, the atom was a sphere of positive charge with electrons embedded within it like raisins in a pudding. Hence this model is also known as \"plum pudding\" model. This model was later modified by Rutherford's atomic model.   Rutherford's atomic model , also known as the \"planetary\" model, was proposed in 1911 based on his gold foil experiment. The experiment involved firing alpha particles at a thin sheet of gold foil and observing their deflection patterns using a screen. The results showed that most of the alpha particles passed straight through the foil, but a small percentage were deflected at large angles, suggesting the presence of a heavy and dense nucleus at the center of the atom. Rutherford's atomic model proposed that an atom consists of a small, dense, positively charged nucleus at its center surrounded by electrons in orbits around the nucleus. The electrons were held in their orbits by the attractive force between the positive nucleus and the negative electrons. This model explained why most alpha particles passed straight through the foil and why a small percentage were deflected at large angles. It also helped to establish the concept of the atomic nucleus and the basic structure of the atom. Gold's Foil Experiment    Atomic Model    Dalton's Model     Thomson's Model     Rutherford's Model        Blackbody Radiation   blackbody In the successive evolution of atomic model, we needed to understant light very well. From the late 19th century, scientists realized that visible light of all frequencies was emitted by the atoms of glowing hot solid, such as the filament of light bulb. The study of blackbody radiation helps understand the nature of heat and light. Blackbody radiation is a cornerstone in the study of quantum mechanics.This experiment led to the discovery of Quantum mechanics which gives a complete understanding of the fundamental mechanisms at the sub-atomic level. Blackbody radiation is the theoretical description of the electromagnetic radiation emitted by a perfect blackbody, which is an object that absorbs all radiation falling on it and reflects none. In 1900, Max Planck proposed a theoretical model to explain the spectral distribution of blackbody radiation, which was in agreement with experimental observations. Planck's model proposed that energy is emitted and absorbed in discrete packets, called quanta, rather than continuously. This was a major departure from classical physics and marked the beginning of quantum mechanics. Planck's work laid the foundation for the understanding of the nature of light and electromagnetic radiation and has had a profound impact on modern physics. The study of blackbody radiation continues to be an important area of research in physics.   Blackbody Radiation    The blackbody radiation plot shows the spectral distribution of the electromagnetic radiation emitted by a blackbody as a function of wavelength or frequency. The plot is typically represented as a curve that shows the intensity of the radiation emitted at each wavelength or frequency. The shape of the blackbody radiation curve depends on the temperature of the blackbody. At low temperatures, the curve peaks at longer wavelengths in the infrared region. As the temperature increases, the peak of the curve moves towards shorter wavelengths, and at high temperatures, the peak is in the ultraviolet region. The blackbody radiation plot is an important tool for understanding the nature of heat and light. shows how the brightness of the light varies with wavelength emitted by the objects at four different temperatures. It has been observed that all objects radiate electromagnetic radiation and the strongest wavelength depends on its temperature. The higher the temperature of the body, the shorter the brightest wavelength (or, the higher the frequency). For example, a hot iron bar that glows yellow is hotter than one that glows red. For an object at room temperature, most of the radiation emits in infrared region and hence is invisible.  Planck explained the spectrum of radiation by assuming that hot objects emitt or absorbed energy in discrete packets, called quanta . Quanta is the plural form of quantum (in Latin, quantum means how much). The higher the frequency of the light, the more the energy per quantum. That is, the energy emited in radiation is given by   ( )  Planck's constant    ( )  velocity of light  Here is quantum of energy, is Planck's constant, , m\/s is a velocity of light, is a wavelength of light, and is frequency of light.    Find the energy of a photon emitted from a red light of frequency .    From equation , we have       Photoelectric Effect  The photoelectric effect photoelectric effect is a phenomenon in which electrons are emitted from a metal surface when light of a certain frequency shines on it. The effect is a result of the transfer of energy from photons in the light to electrons in the metal, causing the electrons to be ejected. The photoelectric effect demonstrated that light has a dual nature, both as a wave and as a particle, and helped lead to the development of quantum mechanics.  The photoelectric effect was first observed by Hertz in the late 19th century and later explained by Einstein in 1905. The basic idea behind the photoelectric effect is that light is composed of individual particles, called photons, that carry a specific amount of energy. When these photons hit a metal surface, they transfer their energy to the electrons in the metal. If the energy of the photon is high enough, it can cause an electron to be ejected from the metal and become a free electron. This process only occurs with light of a certain frequency, known as the threshold frequency. If the frequency of the light is below this threshold, no electrons will be emitted, no matter how intense the light is. If the frequency is above the threshold, the number of electrons emitted will increase with the intensity of the light. The photoelectric effect challenged the classical understanding of light as a wave, and led to the development of quantum mechanics, which views light and matter as having both wave-like and particle-like properties. The photoelectric effect is widely used in modern technology, such as photodiodes, photovoltaics, and photoelectric sensors, etc. Photoelectric Effect Simulation.   Einstein's formula for photoelectric effect is given by where is energy of a photon of light whose frequency is  is the kinetic energy of the emitted electron, and is work function of the metal (i.e., energy needed to pull the electron from the metal). Eventhough, photon is massless and always moves with the speed of light, it behaves like a particle and possesses energy and momentum. It also interacts with other particles in the same way as one particle interacts with others.    The ultraviolet light of frequency is incident on the surface of a metal, whose work function is . Show that the kinetic energy of the emitted electrons is .    Given: , , .  From equation        The Dual Nature of Light  The dual nature of light refers that light exhibits both wave-like and particle-like behavior, which was first described by the wave-particle duality theory in quantum mechanics. This theory states that light can behave as both a wave and a particle depending on the experimental setup used to observe it. For example, in the double-slit experiment, light behaves as a wave, but in the photoelectric effect, it behaves as particles, called photons. The dual nature of light is still not fully understood and remains one of the most intriguing concepts in physics. In the double-slit experiment, light passing through two slits interferes with itself, creating a characteristic pattern on a screen behind the slits, which is typical of wave behavior. However, when light is emitted from a source and detected one photon at a time, the photons are found to behave as particles and follow a random path through the slits, not forming any interference pattern. Dual nature of light     Bohr's Model of Hydrogen Atom  The Bohr model of the atom is a simplified representation of the structure of an atom proposed by Niels Bohr in 1913. According to the Bohr model, an atom consists of a central nucleus composed of positively charged protons and neutral neutrons surrounded by electrons in shells or orbits. The electrons occupy discrete energy levels and move in circular orbits around the nucleus, and the energy of an electron depends on its distance from the nucleus. The quantized orbits correspond to specific energy levels, and the transition of an electron from one energy level to another results in the emission or absorption of electromagnetic radiation, which is observed as a spectral line. The Bohr model helps explain the emission and absorption spectra of atoms and laid the foundation for the development of quantum mechanics. The Bohr model is used to describe the structure of hydrogen energy levels. The represents shell structure, where each shell is associated with principal quantum number . The amount of energy in each level is reported in eV, and the maxiumum energy is the ionization energy of 13.6 eV. The movement of electrons between these energy levels produces a spectrum.   Energy level diagram of hydrogen atom    Hydrogen Atom     Spectral Lines      The allowed value of the atomic radius is given by Where, is a positive integer, is the smallest allowed radius for the hydrogen atom also known as the Bohr's radius, . Bohr calculated the energy of an electron in the level of hydrogen atom by using the formula given below   In the numbers on the left side represent energy levels with the lowest energy level at the bottom and on right side representing their corresponding values. The arrows represent all possible transitions of electron from one energy level to another. Each group of transitions is given the name of the scientist who identified their origin. Longer arrow means more energy is released during transition and hence the light of shorter wavelength is being emitted. The Balmer series releases light in the visible region of the electromagnetic spectrum. The Lyman series, with longer arrows, requires the higher energy of the UV region. The Paschen, Brackett series, and Pfund series with shorter arrows require the lower energy of the IR region. According to Bohr model, Lyman series appears when electrons jump from higher energy levels to energy state. Balmer series appears when electrons jump from higher energy levels to energy state, and so on.    Origin of Spectra  The term \"spectrum\" spectrum originated from the Latin word \"spectrum\" which means \"appearance\". The idea of a spectrum in physics and optics refers to the distribution of light into its component colors (red, orange, yellow, green, blue, indigo, and violet) when passed through a prism or diffraction grating. Spectral lines are caused by the interaction of electromagnetic radiation with atoms or molecules. When an atom or molecule is excited by absorbing a photon of light, its electrons can transition to higher energy levels. When the electrons eventually fall back down to their ground state, they emit photons of light at specific, characteristic wavelengths, which correspond to the difference in energy between the two states. This results in the emission of light at specific wavelengths, known as spectral lines. The position and intensity of these lines are unique to the elements or compounds present, and can be used to identify and analyze the composition of stars, planets, and other celestial objects. The is the visible emission spectrum of H, He, and N line spectra, and their absorption spectra.   Types of light spectra      X-Rays  X-rays X-rays are electromagnetic radiations with high energy and short wavelength. Its wavelength range from 0.01 to 10 nm. This short wavelength allows X-rays to penetrate materials, making them useful for medical imaging and other applications.They are used to produce images of bones and other internal organs, as well as for industrial and scientific applications. X-rays are also used in radiation therapy to treat cancer and other medical conditions. However, exposure to X-rays can be harmful, so it is important to use protective measures and limit unnecessary exposure. The discovery of X-rays is credited to German physicist Wilhelm Röntgen in 1895. Röntgen was studying cathode rays in a vacuum tube when he noticed that a screen coated with a fluorescent material emitted a bright glow when exposed to the rays. X-rays are just the reverse of photoelectric effect. Roentgen discovered that holding a high voltage across two electrodes could result in the production of high energy photons, which he called \"X-rays\" because their nature was unknown at the time.   X-ray production    X-rays are produced by the sudden change in large kinetic energy when electrons smash into the target electrode in a cathode ray tube . The energy of the x-rays produced depends on the voltage applied.    The Laser  The acronym LASER  laser stands for Light Amplification by Stimulated Emission of Radiation. The light emitted from a laser is distinctly monochromatic compared to the light emiited from lightbulb or the sun. It is spatially and temporally coherent to a much higher degree than other light sources. Hence, the laser is a concentrated beam of light through the process of stimulated emission of electromagnetic radiation. Lasers have a wide range of applications in fields such as medicine, communications, manufacturing, and entertainment. They work by emitting a narrow, intense beam of light that can be precisely controlled and directed, making them useful for tasks that require high precision or intense light. Here are some important processes that make laser a very important tool. Light emission: Lasers emit light at a specific wavelength, which is determined by the laser material used. This narrow spectral width makes the light highly collimated and monochromatic, meaning it has a single wavelength and travels in a straight path. Stimulated emission: Lasers rely on the process of stimulated emission to produce light. This involves the absorption of energy by a material, followed by the release of that energy in the form of a photon. The photon then triggers the emission of additional photons, creating a chain reaction that results in the intense beam of light. Active medium: The active medium is the material that produces the laser light. It can be a solid, liquid, or gas, and it is chosen based on the desired wavelength and type of laser. Pumping: The active medium must be excited, or “pumped,” to generate the laser light. This can be done through electrical means, or by shining a light on the medium. Reflective cavity: The laser light is contained within a reflective cavity, which is formed by two mirrors facing each other. The light bounces back and forth between the mirrors, amplifying and intensifying the beam as it passes through the active medium. Output coupler: One of the mirrors is partially transparent, allowing some of the laser light to escape and form the laser beam. Population inversion: is a key concept in laser physics and refers to the state of a group of atoms in the active medium of a laser. Normally, the majority of atoms in a material are in the lowest energy state (ground state), and a small fraction are in excited states. In a population inversion, the situation is reversed, with the majority of atoms being in excited states and a small fraction in the ground state. This condition is necessary for a laser to produce light, as it provides the necessary amount of excited atoms that can undergo stimulated emission, releasing photons that amplify and produce the laser beam. The pumping process is responsible for creating the population inversion in the active medium. In summary, population inversion is the requirement for laser light generation, as it provides the necessary population of excited atoms to produce the beam of light through stimulated emission. LASER    "
 },
 {
-  "id": "p-521",
+  "id": "p-536",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-521",
+  "url": "sec_seventh-atom.html#p-536",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Dalton's atomic model "
 },
 {
-  "id": "p-522",
+  "id": "p-537",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-522",
+  "url": "sec_seventh-atom.html#p-537",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Thomson's atomic model "
 },
 {
-  "id": "p-523",
+  "id": "p-538",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-523",
+  "url": "sec_seventh-atom.html#p-538",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2494,9 +2557,9 @@ var ptx_lunr_docs = [
   "body": " Atomic Model    Dalton's Model     Thomson's Model     Rutherford's Model     "
 },
 {
-  "id": "p-524",
+  "id": "p-539",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-524",
+  "url": "sec_seventh-atom.html#p-539",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2512,9 +2575,9 @@ var ptx_lunr_docs = [
   "body": " Blackbody Radiation   "
 },
 {
-  "id": "p-526",
+  "id": "p-541",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-526",
+  "url": "sec_seventh-atom.html#p-541",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2530,9 +2593,9 @@ var ptx_lunr_docs = [
   "body": "  Find the energy of a photon emitted from a red light of frequency .    From equation , we have    "
 },
 {
-  "id": "p-531",
+  "id": "p-546",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-531",
+  "url": "sec_seventh-atom.html#p-546",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2575,9 +2638,9 @@ var ptx_lunr_docs = [
   "body": " X-ray production   "
 },
 {
-  "id": "p-542",
+  "id": "p-557",
   "level": "2",
-  "url": "sec_seventh-atom.html#p-542",
+  "url": "sec_seventh-atom.html#p-557",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2593,18 +2656,18 @@ var ptx_lunr_docs = [
   "body": " Nuclear Structure   The nucleus nucleus contains protons and neutrons. The protons are positively charged particles and the neutrons have no charge. Nucleus is composed of protons and neutrons collectively known as known as nucleons . The nucleons are held together by the strong nuclear force. Strong nuclear force is a very short-range attractive force that acts between nucleons and helps keep the nucleus from flying apart due to the repulsive force of the positively charged protons. The different number of neutrons in a nucleus of the same element forms the isotopes isotopes of the atom. Isotopes  isotope are atomic species of an element that have the same number of protons but different numbers of neutrons in the nucleus. That is the isotopes of an element have the same atomic number but a different atomic mass, hence isotopes can have different physical and chemical properties. Some isotopes are stable and do not undergo radioactive decay, while others are radioactive and decay over time. Age of rocks, fossils, and evolution of the universe can be determined by using isotopes. Here is the isotopic natation of the nucleus. where = chemical symbol of element, = atomic number of element, and = mass number of nucleus = number of protons and neutrons in nucleus. Therefore the number of neutron, .  There are over 3,000 known isotopes in the periodic table, but not all of them are naturally occurring. Some isotopes are stable and do not undergo radioactive decay, while others are radioactive and decay over time. The number of isotopes of an element can vary greatly, with some elements having only one or two isotopes, while others have many. The lightest element hydrogen has three isotopes . They are Hydrogen: , Deuterium: , and Tritium: . Heavy water is a type of water molecule that contains a heavier isotope of hydrogen, deuterium (H-2) instead of the common hydrogen isotope (H-1). Heavy water has the same chemical properties as regular water , but its physical properties, such as boiling and melting points, are slightly different. Heavy water is used in various industrial and scientific applications, including nuclear reactors, where it serves as a moderator to slow down the speed of neutrons in the reactor core.   The isotopes of hydrogen     Carbon is an element that has several isotopes. Some of them are carbon-12 (or, ) and carbon-13 (or, ), and carbon-14 (or, ). Carbon-12 and carbon-13, are naturally occurring isotopes and make up the majority of carbon on Earth. Carbon-12, has 6 protons and 6 neutrons and is the most abundant in nature. Carbon-12 is considered the standard for atomic mass. Carbon-13, has 6 protons and 7 neutrons and is a stable isotope. Carbon-13 makes up about 1% of the total carbon on Earth. Carbon-14 is a naturally occurring isotope that is produced in the Earth's atmosphere through cosmic radiation and is taken up by living organisms. It is used in the radiocarbon dating method to determine the age of organic materials and is an important tool in archaeology and other fields.    Radioactivity  Radioactivity radioactivity is the process of spontaneous decay of an atomic nucleus. In this process, an unstable nucleus breaks apart into smaller and more stable nuclei. This process releases energy in the form of ionizing radiation, including alpha particles, beta particles, and gamma rays. Some radioactive isotopes are naturally occurring, while others can be produced artificially, for example, in nuclear reactors. Radioactivity plays many applications in medicine (e.g., medical imaging, cancer treatment), energy production (e.g., nuclear power plants), and research (e.g., dating of rocks and artifacts). Since radiactivity releases harmful radiation along with energy, it may cause harmful effect to health. Hence, it could be handled very carefully and responsibly. Radioactivity occurs due to the weak nuclear force, which is responsible for beta decay, where a neutron in the nucleus decays into a proton, an electron, and an electron antineutrino. Due to the weak nuclear force a neutron is converted into a proton by emitting beta particle which changes the atomic number of the atom and the identity of the element. However, radioactivities like alpha decay and gamma decay are not directly related to the weak nuclear force. Alpha decay is caused by the strong nuclear force, which holds the nucleus together, while gamma decay is a result of a change in the energy level of the nucleus.  In radioactive decay process different kinds of elements form due to emission of different particles or rays such as   Alpha ( ) particle emission: particle is a helium nucleus and is positively charged particle. In decay a nucleus emits an alpha particle, which consists of two protons and two neutrons. For example: thorium (Th) decayes into radium (Ra) by emitting alpha particle: This results in a decrease in the atomic number of the nucleus by two and transforms the nucleus into a different element. Alpha decay occurs when the nucleus has too many protons and is not stable, and it releases energy in the form of the alpha particle to reach a more stable configuration. Alpha particles have a large mass and a low velocity, and they can be stopped by a sheet of paper or a few centimeters of air .    Beta ( ) particle emission: particle is similar to electron and hence holds negative charge. In decay a nucleus emits a high-energy electron or positron, also known as a beta particle. This results in a change in the number of protons in the nucleus and transforms the nucleus into a different element. For example: carbon (C-14) decayes into nitrogen (N-14) by emitting beta particle: Similarly, neutron turns into proton in beta decay: There are two types of beta decay: beta minus decay (emission of an electron) and beta plus decay (emission of a positron). In beta minus decay, a neutron in the nucleus decays into a proton, an electron, and an electron antineutrino. In beta plus decay, a proton decays into a neutron, a positron, and an electron neutrino. Beta decay is one of the three common types of radioactive decay, along with alpha decay and gamma decay. Beta particles have a low mass and a high velocity, and they can penetrate sheets of paper and even thin sheet of aluminum foil .    Gamma ( ) rays emission: ray is an electromagnetic radiation of very high energy and is neutral to the charge. If the nucleus is unstable due to access amount of energy then it releases rays. The composition of nucleus does not change due to gamma radiation emissioin. For example: high energetic Pb turns into low energetic Pb in gamma radiation:  star symbol indicates excited lead nucleus. Gamma rays have no rest mass and travel with the velocity of light and hence penetrate even thick plate of lead .    Electron ( ) Capture: it is another type of radioactive decay in which an inner orbital electron is captured by the nucleus and transforms into a neutron, resulting in a decrease in the atomic number of the nucleus by one and the transformation of the nucleus into a different element. For example: flourine (F) turns into oxygen (O) due to positron emission: Another example is The captured electron combines with a proton to form a neutron, which remains inside the nucleus. This process releases energy in the form of gamma rays or X-rays. Electron capture is different from beta decay, which involves the emission of a beta particle (an electron or a positron).    Positron Emission: it is also known as beta plus decay, is a type of radioactive decay in which a nucleus emits a positron, which is the antiparticle of an electron. Positron emission occurs when a nucleus has too many protons and is not stable, and it releases energy in the form of the positron to reach a more stable configuration. For example: flourine (F) turns into oxygen (O) due to positron emission: The emitted positron quickly combines with an electron in the material, annihilating both particles and producing gamma rays. Positron emission is one of the three common types of radioactive decay, along with alpha decay and beta decay. In positron emission, a proton inside the nucleus decays into a neutron, a positron, and an electron neutrino. This results in a decrease in the atomic number of the nucleus by one and the transformation of the nucleus into a different element.      Strength of alpha particles, beta particles, and gamma rays       Half-Life  The rate at which a radioactive isotope disintegrates is known as its half-life , half-life which is the time it takes for half of the radioactive material to decay. The half-life of a radioactive isotope determines its stability and the length of time it can be used for various purposes, such as medical treatments or energy production. The representing the amount or number of atoms in a radioactive substance remains every after one half-life. For example, in second figure of , half-life of any one radiactive substance is 50 years, so half of the total number of atoms or its half amount disintegrate (decay) into new substances in every one half life.   Half life of nuclides    Remaining amount per Half-Life     % of atoms remaining      The remaining amount of substance can be determined by the following formula Here, is initial concentration of the substance, and is the number of half-lives.    Carbon Dating  Carbon dating carbon dating is a method of determining the age of an object containing organic material by measuring the amount of carbon-14 isotopes contained in the object. Carbon-14 is a radioactive isotope of carbon that is formed in the Earth’s upper atmosphere through the interaction of cosmic rays with nitrogen atoms. The amount of carbon-14 in the atmosphere has remained constant for thousands of years, so the ratio of carbon-14 to carbon-12 in a sample can be used to determine how long it has been since the death of the organism from which the sample was taken. The carbon-14 in a sample decays over time, and the amount remaining can be measured with a specialized machine called a mass spectrometer. The age of the sample can then be calculated based on the known decay rate of carbon-14. This method is typically used to date organic materials that are less than 50,000 years old, such as archaeological artifacts, fossils, and recent organic samples. In the upper atmosphere Cosmic rays which was primarly protons turns into neutrons. These neutrons react with nitrogen to produce carbon-14. The carbon-14 then reacts with oxygen to to become gas. Plants consume this in photosynthesis process. Later animals eat plant and stores these C-14 atoms in their body. In beta decay process C-14 keeps turning into nitrogen such as The ratio of carbon-14 to carbon-12 is roughly constant because the organism continuously replaces carbon-14 as it decays. However, after the organism dies, the carbon-14 in its tissues begins to decay, and the carbon-14 to carbon-12 ratio begins to change. By measuring the carbon-14 to carbon-12 ratio in a sample and comparing it to the known decay rate of carbon-14, scientists can determine how long it has been since the sample died and estimate its age.    Binding Energy  Binding energy binding energy is the amount of energy required to separate a nucleons into the protons and neutrons. In an atomic nucleus, the protons and neutrons are held together by the strong nuclear force, which acts over short distances. The binding energy of a nucleus can be calculated by subtracting the total mass of its individual protons and neutrons from the total mass of the nucleus itself. According to Einstein's famous equation, , the mass difference between the two states is equivalent to the binding energy. The binding energy of a nucleus has important implications for both the stability of the nucleus and for the energy released during nuclear reactions. Nuclei with higher binding energy are generally more stable and less likely to undergo spontaneous decay, while nuclei with lower binding energy are more likely to undergo radioactive decay. Additionally, the energy released during nuclear reactions is directly proportional to the binding energy of the nucleus. When a nucleus is formed, protons and neutrons come together and bind to form the nucleus. This process is driven by the strong nuclear force, which acts over short distances to hold the particles together. The formation of a nucleus also leads to the release of energy. This energy is in the form of electromagnetic radiation and called the binding energy. It is the same amount of energy required to separate the protons and neutrons in the nucleus when broken down to individual components. For example: The deuterium ( ) has one proton and one neutron in its nucleus. So when they break apart we expect the mass of deuterium atom equals the mass of one proton (i.e. ) and the mass of one neutron. Mass of one and mass of one neutron = 1.0087 u. Therefore the total mass of . The measured mass of however, is only which is less than the combined mass of proton and neutron. This loss of mass (also known as mass defect ) appears in the form of binding energy of the deuterium atom. Similarly when one deuterium nucleus combines with one tritium nucleus to form helium nucleus tremendous amount of energy released which was a binding energy. For example: . Hence, the mass defect in this case is given by: total mass of and total mass of . Hence the difference in these masses is a mass defect, . Note: Here is the atomic mass unit . . This is the approximate mass of the hydrogen atom. Atomic mass unit is also caled Dalton. we can also consider as 1 mole of anything is equal to Now, This mass defect appears in the form of binding energy which can be calculated by equation  Hence, energy released from this reaction is or, 17.8 MeV and . .    Binding Energy per Nucleon   Binding Energy Per Nucleon      The binding energy of a nucleus determines its stability against disintegration. The larger the binding energy, the more stable is the nucleus and vice a versa. The binding energy per nucleon, BE\/A is the ratio of Binding energy of the nucleus to the total number of nucleons . It is found that the binding energy per nucleon varies from element to element. A graph is plotted with the mass number A of the nucleus along the X-axis and binding energy per nucleon along the Y-axis. The binding energy per nucleon increases sharply with mass number A upto 20. It increases slowly after . The curve becomes almost flat for mass number between 40 and 120. Beyond 120, it decreases slowly as A increases. The binding energy per nucleon reaches a maximum at A=56, corresponding to the iron nucleus ( ). Hence, iron has the most stable nucleus. At the lower end of the curve, smaller nuclei have relatively lower binding energy per nucleon compared to larger nuclei. This is because the attractive strong nuclear force, which holds the nucleons together, decreases rapidly with increasing distance between the nucleons. As a result, small nuclei tend to be less stable and more likely to undergo nuclear reactions, such as beta decay. At the higher end of the curve, larger nuclei have relatively lower binding energy per nucleon compared to smaller nuclei. This is because the repulsive electromagnetic force between the positively charged protons in the nucleus increases with increasing number of protons. This repulsive force limits the size of the nucleus and causes it to become less stable.    Nuclear Reactions  Nuclear reactions are the process in which nucleus of an atom changes. These changes can be either decay processes, in which the nucleus of an atom emits particles or radiation, or fusion processes, in which two or more atomic nuclei come together to form a heavier nucleus. There are two main types of nuclear reactions:  Nuclear Fission Reactions: These reactions involve the spontaneous decay of an unstable nucleus into a more stable form. Common types of nuclear decay reactions include alpha decay, beta decay, and gamma decay.  Nuclear Fusion Reactions: These reactions involve the fusion of two atomic nuclei to form a heavier nucleus. This process releases a large amount of energy, and is the reaction that powers the sun. Nuclear fusion reactions are difficult to achieve on Earth, but are being researched as a potential source of clean and abundant energy.     Nuclear Reactions    Nuclear Fission Reaction     Nuclear Fusion Reaction      In both types of reactions, the sum of the atomic numbers of the reactants must equal the sum of the atomic numbers of the products, and the total mass of the reactants must equal the total mass of the products, according to the law of conservation of matter and energy. In fission reactions, the mass defect of the original nucleus is converted into energy, which is released as kinetic energy of the fission products and as gamma radiation. This energy can be harnessed for practical purposes, such as generating electricity in nuclear power plants, or for destructive purposes, such as in atomic bombs. Binding energy in a fusion reaction refers to the energy required to overcome the repulsive forces between positively charged nuclei and bring them close enough together to form a heavier nucleus through a fusion process. When the nuclei are close enough, they can form a single nucleus through the strong force, releasing a large amount of energy in the process.    Effects of Radiation  In nuclear reaction emits alpha, beta, and other high enegy waves or particles that can knock out atoms or molecules to form ions. These ions come under ionizing radiation. Such radiation can damage living cells and affects protien or DNA molecules. There are several types of radiation, including: alpha radiation, beta radiation, gamma radiation, X-rays, nuclear radiation, and cosmic radiation, etc. Cosmic radiation is high-energy radiation that originates from outside of the Earth's atmosphere. It consists of high-energy particles, including protons and electrons, that are produced by the Sun and other astronomical sources. Radiation doses doses are measured in the Sievert (Sv) unit. The sievert is used to describe the amount of ionizing radiation that has been absorbed by a material. The another unit of doses is Rads (short for \"radiation absorbed dose\"). It is used to quantify the amount of energy deposited in a material by ionizing radiation per unit mass. One rad is 0.01 joule of energy deposited in one kilogram of tissue. That is of energy deposited on the tissue. One sievert is equal to 100 rads. The sievert is the standard unit of measurement used to describe the amount of ionizing radiation that has been absorbed by the human body, and it is used to evaluate the potential health risks associated with exposure to ionizing radiation. We receive 3.1 mSv per year from natural radiation resources, 3.1 mSv per year from medical and dental x-rays, and 0.4 mSv from mammogram. The total unavoidable radiation doses are about 6.2 mSv per year. The allowed safe radiation dose limit for a healthy human is . The risk of radiation induced cancer is much smaller than other hazardous activities such as smoking. Sources of radiation exposure is given in    Sources of Radiation Exposure      Nuclear Reactor  In nuclear fission reaction neutron is absorbed by unstable nucleus and get splitted into two or more small nuclides with the emission of another neutron\/s. Such neutrons may cause increasing nuclear fission reactions, called the chain reaction. A nuclear reactor is a device that is used to initiate and control a sustained nuclear chain reaction. This reaction is the process by which atomic nuclei release energy through interactions with other particles. The heat produced by the fission reactions is used to generate steam, which in turn drives a turbine and generates electricity. Please click on the animation link: Nuclear Reactor Plant The core of a nuclear reactor contains fuel rods, which contain fuel pellets made of nuclear fuel, such as uranium dioxide. The fuel rods are surrounded by coolant, which is used to transfer heat from the core to a steam generator. The steam generator is used to produce steam, which drives the turbine to generate electricity. In addition to the fuel rods, the core of a nuclear reactor also contains control rods, which are used to regulate the rate of fission reactions by absorbing excess neutrons. The control rods can be moved up and down within the core to control the reaction rate.   "
 },
 {
-  "id": "p-543",
+  "id": "p-558",
   "level": "2",
-  "url": "sec_seventh-nucleus.html#p-543",
+  "url": "sec_seventh-nucleus.html#p-558",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "nucleons Isotopes "
 },
 {
-  "id": "p-544",
+  "id": "p-559",
   "level": "2",
-  "url": "sec_seventh-nucleus.html#p-544",
+  "url": "sec_seventh-nucleus.html#p-559",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2620,9 +2683,9 @@ var ptx_lunr_docs = [
   "body": " The isotopes of hydrogen    "
 },
 {
-  "id": "p-547",
+  "id": "p-562",
   "level": "2",
-  "url": "sec_seventh-nucleus.html#p-547",
+  "url": "sec_seventh-nucleus.html#p-562",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2638,9 +2701,9 @@ var ptx_lunr_docs = [
   "body": " Strength of alpha particles, beta particles, and gamma rays    "
 },
 {
-  "id": "p-553",
+  "id": "p-568",
   "level": "2",
-  "url": "sec_seventh-nucleus.html#p-553",
+  "url": "sec_seventh-nucleus.html#p-568",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2674,9 +2737,9 @@ var ptx_lunr_docs = [
   "body": " Nuclear Reactions    Nuclear Fission Reaction     Nuclear Fusion Reaction     "
 },
 {
-  "id": "p-560",
+  "id": "p-575",
   "level": "2",
-  "url": "sec_seventh-nucleus.html#p-560",
+  "url": "sec_seventh-nucleus.html#p-575",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2791,90 +2854,90 @@ var ptx_lunr_docs = [
   "body": "  Exercises   A nucleon is which of the following?  an electron  a proton  a neutron  both a proton and a neutron      Which nuclear radiation does not change in different nuclide?  alpha  beta  gamma  all of the above      Who discovered the radioactivity?  Rutherford  Becquerel  Pierre Curie  Einstein      Fiil in the blank below.           Fiil in the blank below.     Write the following nuclides in isotopic notation (e.g., \" \")  oxygen-14  Copper-65  Molebdenum-98  Rubidium-100      Find the number of neutrons in the following nuclei.          How much of the radiactive substance decays in 3 months if its half-life is 1 month.    How much mass of 40 mg of a substance will remain after 24 days, if its half -life is 24 days?    Which of the following statements about half-life is correct?  Half-life is the time required for a substance to decay completely.  Half-life is the time required for a substance to lose half of its initial mass.  Half-life is the time required for a substance to reach its maximum concentration.  Half-life is the time required for a substance to react with half of its initial concentration.     "
 },
 {
-  "id": "exercise-98",
+  "id": "exercise-105",
   "level": "2",
-  "url": "ex_seventh.html#exercise-98",
+  "url": "ex_seventh.html#exercise-105",
   "type": "Exercise",
   "number": "7.4.1",
   "title": "",
   "body": " A nucleon is which of the following?  an electron  a proton  a neutron  both a proton and a neutron    "
 },
 {
-  "id": "exercise-99",
+  "id": "exercise-106",
   "level": "2",
-  "url": "ex_seventh.html#exercise-99",
+  "url": "ex_seventh.html#exercise-106",
   "type": "Exercise",
   "number": "7.4.2",
   "title": "",
   "body": " Which nuclear radiation does not change in different nuclide?  alpha  beta  gamma  all of the above    "
 },
 {
-  "id": "exercise-100",
+  "id": "exercise-107",
   "level": "2",
-  "url": "ex_seventh.html#exercise-100",
+  "url": "ex_seventh.html#exercise-107",
   "type": "Exercise",
   "number": "7.4.3",
   "title": "",
   "body": " Who discovered the radioactivity?  Rutherford  Becquerel  Pierre Curie  Einstein    "
 },
 {
-  "id": "exercise-101",
+  "id": "exercise-108",
   "level": "2",
-  "url": "ex_seventh.html#exercise-101",
+  "url": "ex_seventh.html#exercise-108",
   "type": "Exercise",
   "number": "7.4.4",
   "title": "",
   "body": " Fiil in the blank below.         "
 },
 {
-  "id": "exercise-102",
+  "id": "exercise-109",
   "level": "2",
-  "url": "ex_seventh.html#exercise-102",
+  "url": "ex_seventh.html#exercise-109",
   "type": "Exercise",
   "number": "7.4.5",
   "title": "",
   "body": " Fiil in the blank below.   "
 },
 {
-  "id": "exercise-103",
+  "id": "exercise-110",
   "level": "2",
-  "url": "ex_seventh.html#exercise-103",
+  "url": "ex_seventh.html#exercise-110",
   "type": "Exercise",
   "number": "7.4.6",
   "title": "",
   "body": " Write the following nuclides in isotopic notation (e.g., \" \")  oxygen-14  Copper-65  Molebdenum-98  Rubidium-100    "
 },
 {
-  "id": "exercise-104",
+  "id": "exercise-111",
   "level": "2",
-  "url": "ex_seventh.html#exercise-104",
+  "url": "ex_seventh.html#exercise-111",
   "type": "Exercise",
   "number": "7.4.7",
   "title": "",
   "body": " Find the number of neutrons in the following nuclei.        "
 },
 {
-  "id": "exercise-105",
+  "id": "exercise-112",
   "level": "2",
-  "url": "ex_seventh.html#exercise-105",
+  "url": "ex_seventh.html#exercise-112",
   "type": "Exercise",
   "number": "7.4.8",
   "title": "",
   "body": " How much of the radiactive substance decays in 3 months if its half-life is 1 month.  "
 },
 {
-  "id": "exercise-106",
+  "id": "exercise-113",
   "level": "2",
-  "url": "ex_seventh.html#exercise-106",
+  "url": "ex_seventh.html#exercise-113",
   "type": "Exercise",
   "number": "7.4.9",
   "title": "",
   "body": " How much mass of 40 mg of a substance will remain after 24 days, if its half -life is 24 days?  "
 },
 {
-  "id": "exercise-107",
+  "id": "exercise-114",
   "level": "2",
-  "url": "ex_seventh.html#exercise-107",
+  "url": "ex_seventh.html#exercise-114",
   "type": "Exercise",
   "number": "7.4.10",
   "title": "",
@@ -2890,36 +2953,36 @@ var ptx_lunr_docs = [
   "body": " Changes in Matter   Matter can undergo basically two types of changes. They are:   Physical change:  physical change It is such a change in matter that do not alter its chemical composition. For examples:melting, freezing, boiling, condensation, and evaporation. Physical changes are kind of two-way trafic. The material transform its shape and state multiple times. For example, making jewelry from gold bar and molding them back into gold bar again, making sword from iron bar and converting sword in an iron bar again.   Chemical change:  chemical change It is such a change in matter that alter its chemical composition. Fpr examples: burning, rusting, and the formation of a chemical compound. It is a one-way trafic where material transform its physical properties but never regains the original properties by the physical process. For example, Baking a cake, making yogurt from milk. The physical properties of the milk, such as its texture and flavor, are also altered in the process. Formation of a new chemical compound such as water from hydrogen and oxygen is also a chemical change.      The Classification of Matter  Instead of three phases (or states) of matter, there are three different classes of matter based on its composition and properties. They are elements, compounds, and mixture .  Elements: An element element is a pure substance that cannot be broken down into simpler substances by any chemical means. Elements are the building blocks of all matter and are composed of only one type of atom. Examples of elements include hydrogen, oxygen, and gold.  Compounds: A compound compound is a pure substance that is made up of two or more elements chemically combined in a fixed ratio. Compounds have different properties from their constituent elements and cannot be separated into their individual elements by physical means. Examples of compounds include water ( ), salt ( ), and glucose ( ).  Mixtures: A mixture mixture is a combination of two or more substances in which each substance retains its own chemical properties. Mixtures can be separated into their individual components by physical means. There are two main types of mixtures: homogeneous mixtures, where the substances are evenly mixed, and heterogeneous mixtures, where the substances are not evenly mixed. Examples of mixtures include air, fruit juice, and concrete.    In homogeneous mixture substances are evenly mixed and have the same composition throughout. Homogeneous mixture is also called a solution Here are some examples of homogeneous mixtures: Salt water: When salt is dissolved in water, the result is a homogeneous mixture, in which the salt and water are evenly distributed throughout the solution. Air: Air is a mixture of gases, including nitrogen, oxygen, and trace amounts of other gases, that are evenly mixed and have the same composition throughout the entire volume of air. Honey: Honey is a homogeneous mixture of sugar and water, with the sugar and water evenly mixed throughout the entire substance. Vinegar: Vinegar is a homogeneous mixture of water and acetic acid, with the water and acetic acid evenly mixed throughout the entire substance. Milk: Milk is a homogeneous mixture of water, fat, proteins, and sugars, with the substances evenly mixed throughout the entire substance.  In heterogeneous mixture substances are not evenly mixed and have different compositions in different parts of the mixture. Heterogeneous mixtures are easy to identify, as the individual substances are easily visible and can be separated from one another by physical means. Here are some examples of heterogeneous mixtures: Fruit salad: A mixture of fruit, such as apples, bananas, and grapes, cut into pieces and combined in a bowl is a heterogeneous mixture. Each piece of fruit has its own unique composition, and the composition of the mixture changes from one part of the mixture to another. Granola: A mixture of oats, nuts, dried fruit, and sweeteners is a heterogeneous mixture, as the ingredients are not evenly mixed and the composition of the mixture changes from one part of the mixture to another. Sand and water: A mixture of sand and water is a heterogeneous mixture, as the sand particles settle to the bottom of the container and the water is clear. The composition of the mixture changes from the top of the mixture to the bottom. Soil: Soil is a mixture of minerals, organic matter, air, and water, and is a heterogeneous mixture as the composition of the soil changes from one part of the soil to another. Concrete: Concrete is a mixture of cement, sand, gravel, and water, and is a heterogeneous mixture, as the composition of the concrete changes f rom one part of the mixture to another.   Classification of Matter       Atomic Theory  Atomic theory is the foundation of modern chemistry and provides a basic understanding of the nature of matter. The theory states that all matter is made up of tiny particles called atoms, which are the smallest units of matter that retain the properties of an element. Atoms are indivisible: Atoms are the smallest units of matter that can exist and cannot be broken down into smaller units. Atoms are identical: Atoms of the same element are identical and have the same number of protons, electrons, and neutrons. Atoms have structure: Atoms have a small central nucleus, which contains positively charged protons and neutral neutrons, surrounded by negatively charged electrons in shells. Atoms are arranged in the periodic table: Atoms of different elements have different numbers of protons, electrons, and neutrons and are arranged in the periodic table according to their atomic number, which is equal to the number of protons in the nucleus. Atoms can bond to form molecules: Atoms can bond together to form molecules by sharing or exchanging electrons. The properties of molecules are determined by the type of atoms and the way they are bonded together. Atoms can be ionized: Atoms can gain or lose electrons to become positively or negatively charged ions. Ions play an important role in many chemical reactions.   Molecule: A molecule molecule is the smallest unit of a substance that retains the chemical properties of that substance and can exist as a separate entity. It is composed of two or more atoms that are chemically bonded together. In a molecule, the atoms are held together by chemical bonds, which are formed by the sharing or exchange of electrons between the atoms. The type of bonds and the arrangement of atoms in a molecule determine the chemical and physical properties of the substance. Molecules can be formed from a single type of atom, such as a molecule of oxygen ( ), or from different types of atoms, such as a molecule of water ( ). The number of atoms in a molecule and the type of atoms can also vary, giving rise to a vast array of different molecules, each with its own unique properties. Molecules are the building blocks of matter and play a crucial role in many physical and chemical processes, including chemical reactions, phase transitions, and the formation of materials. A deep understanding of the structure and properties of molecules is essential for many scientific and engineering disciplines, including chemistry, biology, materials science, and environmental science.   Difference between molecule and compound: A molecule is a group of two or more atoms that are chemically bonded together. A compound is a substance made up of two or more different elements that are chemically combined in a fixed ratio. The main difference between a molecule and a compound is that a molecule is a collection of atoms that are bonded together, whereas a compound is a substance that consists of molecules made up of different elements in a fixed ratio. For example, water ( ) is a compound made up of hydrogen and oxygen atoms in a fixed ratio of 2:1. The smallest unit of water that retains its chemical properties is a molecule of water, which is made up of two hydrogen atoms and one oxygen atom chemically bonded together. Another example is table salt (NaCl), which is a compound made up of sodium and chlorine atoms in a fixed ratio of 1:1. The smallest unit of salt that retains its chemical properties is a molecule of salt, which is made up of one sodium atom and one chlorine atom chemically bonded together.  Hydrogen gas is made out of molecules. It is not a compound. Oxygen gas is made out of molecules and is also not a compound. They are made out of two atoms of the same element. Similarly, Ozone gas ( ), nitrogen gas ( ), chlorine substance ( ) are molecule. However, carbon dioxide gas ( ) is a compound and molecule both, similarly, amonia ( ) is a compound and molecule both. Because they are made out of two different elements. Meaning all compounds are molecules but all molecules are not compounds.  Some substances are elemental such as iron bar (Fe), liquid mercury (Hg), helium gas (He), gold jewlry (Au), etc., some are molecular such as hydrogen gas ( ), oxygen gas ( ), ozone gas ( ), water ( ), methane ( ), carbon dioxide gas ( ), amonia ( ), diamond ( ), glucose ( ) etc. diamond is a pure form of carbon, but it is not an element. An element is a substance that cannot be broken down into simpler substances by chemical means, while a molecule is a group of two or more atoms that are chemically bonded together.   "
 },
 {
-  "id": "p-591",
+  "id": "p-606",
   "level": "2",
-  "url": "sec_eighth-intro.html#p-591",
+  "url": "sec_eighth-intro.html#p-606",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Physical change: Chemical change: "
 },
 {
-  "id": "p-592",
+  "id": "p-607",
   "level": "2",
-  "url": "sec_eighth-intro.html#p-592",
+  "url": "sec_eighth-intro.html#p-607",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Elements: Compounds: Mixtures: "
 },
 {
-  "id": "p-593",
+  "id": "p-608",
   "level": "2",
-  "url": "sec_eighth-intro.html#p-593",
+  "url": "sec_eighth-intro.html#p-608",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "homogeneous mixture solution "
 },
 {
-  "id": "p-594",
+  "id": "p-609",
   "level": "2",
-  "url": "sec_eighth-intro.html#p-594",
+  "url": "sec_eighth-intro.html#p-609",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2935,9 +2998,9 @@ var ptx_lunr_docs = [
   "body": " Classification of Matter    "
 },
 {
-  "id": "p-596",
+  "id": "p-611",
   "level": "2",
-  "url": "sec_eighth-intro.html#p-596",
+  "url": "sec_eighth-intro.html#p-611",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2962,18 +3025,18 @@ var ptx_lunr_docs = [
   "body": "  The Periodic Table    "
 },
 {
-  "id": "p-602",
+  "id": "p-617",
   "level": "2",
-  "url": "sec_eighth-ptable.html#p-602",
+  "url": "sec_eighth-ptable.html#p-617",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Element symbols: Atomic number: Element name: Groups Periods: Atomic mass: Blocks: "
 },
 {
-  "id": "p-605",
+  "id": "p-620",
   "level": "2",
-  "url": "sec_eighth-ptable.html#p-605",
+  "url": "sec_eighth-ptable.html#p-620",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2989,9 +3052,9 @@ var ptx_lunr_docs = [
   "body": " Orbital Diagram and Electrons in Shells    Orbital diagram     Electrons in shells     "
 },
 {
-  "id": "p-607",
+  "id": "p-622",
   "level": "2",
-  "url": "sec_eighth-ptable.html#p-607",
+  "url": "sec_eighth-ptable.html#p-622",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3007,58 +3070,13 @@ var ptx_lunr_docs = [
   "body": " Chemical Bonds & Equations   Chemical bonding is the process by which atoms combine to form molecules or other chemical compounds. Chemical bonding allows atoms to achieve the most stable configuration by sharing, gaining or losing electrons. There are several types of chemical bonding, including covalent bonding, ionic bonding, and metallic bonding. However, there are other types of bonding also occurs by the substance such as polar bonding, non-polar bonding, coordination bonding, molecular bonding, hydrogen bonding, and Van der waals' bonding.     Covalent bond: In covalent bonding covalent bond atoms share electrons in order to achieve a stable configuration. This is the most common between non-metal atoms. Covalent bonding can take on a variety of forms including single, double, and triple bonds. For examples: in hydrogen molecule ( ), water molecule ( ), methan gas molecule ( ), diamond ( ), etc. Covalent bonding    Ionic bond: In ionic bonding, ionic bond electrons are transferred from one atom to another, forming positively charged cations and negatively charged anions that are attracted to each other by electrostatic forces. This bonding is most common between metals and nonmetals. For examples: in Salt molecule ( ), Iron oxide molecule ( ), Calcium carbonate , magnesium oxide ( ), potassium iodide , etc. ionic bonding    Metallic bond: In metallic bonding, metallic bond positively charged metal ions are surrounded by a sea of delocalized electrons, which are free to move throughout the metal lattice. This results in the formation of a strong metallic bond that is responsible for many of the physical properties of metals, such as their high melting points and conductivity. mettalic bonding .  Molecular bonding, molecular bond typically refers to covalent bonding due to polar molecules. molecular bonding   In Van der waal's bonding, Van der Waal's bond or van der Waals forces, refer to weak intermolecular attractions between molecules or atoms. These forces arise due to temporary fluctuations in the distribution of electrons in molecules or atoms.  The type of chemical bonding that occurs between atoms is determined by the properties of the atoms involved, including their electronegativity, electron configuration, and the conditions under which the reaction occurs. Understanding chemical bonding is important in fields such as chemistry, materials science, and engineering, as it underlies the formation and properties of all types of matter.    Naming of Compounds  There are a few general rules for naming molecules in chemistry, which vary slightly depending on the type of molecule being named. Here are some basic guidelines:    Naming simple covalent compounds: The first element in the formula is named first and the full element name is used. For example: in NaCl, the first name is The second element is named as though it were an anion (negative ion), with the suffix added to the root of the element name. For example: in NaCl, the second name is , in CaO: calcium oxide. Prefixes are used to indicate the number of atoms of each element present in the molecule. The prefix is usually omitted for the first element in the formula. For example: the name of is Carbon dioxide , and the CO is carbon monoxide .     Naming ionic compounds: The cation (positive ion) is named first, followed by the anion (negative ion). The name of the cation is the same as the element name. The name of the anion is derived from the root of the element name, with the suffix added. If the cation can have different charges, a Roman numeral is used to indicate the charge. For example: the name of iron (III) chloride is FeCl_3 , and mercury (II) Oxide is HgO .     Naming acids: If the anion name ends in , the acid is named with the prefix and the suffix , followed by the word \"acid\". If the anion name ends in , the acid is named with the suffix , followed by the word \"acid\". If the anion name ends in , the acid is named with the suffix , followed by the word \"acid\". For example: HCl - hydrochloric acid.     Naming organic compounds: The root of the name comes from the number of carbon atoms in the molecule (meth-, eth-, prop-, but-, etc.). Functional groups (such as alcohols, aldehydes, and carboxylic acids) are indicated by suffixes or prefixes. Numbering of the carbon atoms in the main chain starts at the end closest to a functional group, and the position of the functional group is indicated by a number. For example: - ethanol.     The common name of some compounds: Water ( ), methane ( ), ammonia ( ), and Chalk: ( ).    Molecular Formula  Molecular formula molecular formula can be written by knowing the valency of the elements. The valency of an element is the number of electrons it can donate, accept, or share during a chemical reaction. First identify the elements present in the compound then Determine the valency of each element based on its position in the periodic table or by consulting a table of valencies. Determine the number of atoms of each element required to balance the valencies. This can be done by finding the least common multiple of the valencies for each element. Write the molecular formula by indicating the number of atoms for each element as subscripts next to the element symbol. Make sure to reduce the subscripts to the lowest whole number ratio. For example, let's determine the molecular formula for magnesium chloride. Magnesium has a valency of +2 and chlorine has a valency of -1. Now exchange the valency and place them to the bottom of opposite elements by dropping their signs as shown in below Hence, the molecular formula of magnesium chloride is Another example is the molecular formula for calcium oxide. Calcium has a valency of +2 and oxygen has a valency of -2.  Hence, calcium oxide is written as     Free Radicals  Free radicals free radical are atoms, molecules or ions that have an unpaired electron in their outermost shell. They are highly reactive and unstable because they seek to pair their unpaired electron with another electron, either from another molecule or from another part of the same molecule. This process can cause damage to cells and tissues, and has been implicated in several diseases, including cancer, heart disease, and aging. Free radicals can be generated through normal metabolic processes in the body, as well as through exposure to environmental factors such as radiation, pollution, cigarette smoke, and certain chemicals. Some of the most common free radicals in the body include superoxide, hydroxyl, and nitric oxide radicals. To neutralize free radicals, the body relies on antioxidants, which are molecules that can donate an electron to the free radical without becoming unstable themselves. Antioxidants can be obtained from a variety of sources, including fruits, vegetables, nuts, and seeds. Vitamins C and E, beta-carotene, and selenium are all examples of antioxidants that can help neutralize free radicals in the body.  Free radicals are formed when a covalent bond in a molecule is broken with each fragment taking one of the shared electrons of the bond. For example when water molecules is broken The dots are unpaired electrons. Here is called a hydroxyle radical .    Polyatmic Ions  Polyatomic ions polyatomic ion are ions composed of two or more atoms that are covalently bonded together and carry a net electrical charge. They are commonly found in many chemical compounds, including salts, acids, and bases. Polyatomic ions can have either a positive or negative charge, depending on the number of electrons they have gained or lost. Some common examples of polyatomic ions include:  Hydroxide ion : This ion consists of one oxygen atom and one hydrogen atom and has a negative charge. It is found in bases such as sodium hydroxide and calcium hydroxide . Ammonium ion : This ion consists of one nitrogen atom and four hydrogen atoms and has a positive charge. It is found in compounds such as ammonium chloride and ammonium nitrate . Carbonate ion : This ion consists of one carbon atom and three oxygen atoms and has a negative charge. It is found in compounds such as calcium carbonate and sodium carbonate . Sulfate ion : This ion consists of one sulfur atom and four oxygen atoms and has a negative charge. It is found in compounds such as magnesium sulfate and sodium sulfate . Phosphate ion This ion consists of one phosphorus atom and four oxygen atoms and has a negative charge. It is found in compounds such as calcium phosphate and sodium phosphate .  The properties and behavior of polyatomic ions depend on the specific atoms and bonds that make up the ion. They play important roles in many chemical reactions and are essential to many biological processes.    Chemical Equations  A chemical equation chemical equation is a representation of a chemical reaction using symbols and formulas to show the reactants and products involved in the reaction. Chemical equations are written in a balanced form, meaning that the number of atoms of each element is the same on both sides of the equation. This is because the law of conservation of mass states that matter cannot be created or destroyed in a chemical reaction, only rearranged. The general form of a chemical equation is: Reactants → Products For example, the chemical equation for the reaction between hydrogen gas and oxygen gas to form water is: This equation shows that two molecules of hydrogen gas react with one molecule of oxygen gas to form two molecules of water . The equation is balanced because there are four hydrogen atoms and two oxygen atoms on both sides of the equation.  Chemical equations can also include coefficients, which are used to balance the equation. Coefficients are numbers placed in front of the chemical formulas to indicate the number of molecules or atoms involved in the reaction. For example, the balanced equation for the reaction between nitrogen gas and hydrogen gas to form ammonia is: In this equation, a coefficient of 3 is placed in front of the to balance the number of hydrogen atoms on both sides of the equation.    Balancing a chemical equation  Balancing a chemical equation involves adjusting the coefficients of the reactants and products to ensure that the number of atoms of each element is the same on both sides of the equation. Here is a step-by-step guide on how to balance a chemical equation:  Write the unbalanced equation. Identify the reactants and products and write them down using their chemical formulas.  Count the number of atoms of each element on both sides of the equation. This will help you determine which coefficients need to be adjusted.  Begin balancing the equation by adjusting the coefficients of the compounds that contain the most atoms first. Start with the compounds that have two or more atoms of an element.  Check the number of atoms of each element again after adjusting the coefficients. Continue adjusting the coefficients until the number of atoms of each element is the same on both sides of the equation.  Finally, double-check that the equation is fully balanced by counting the number of atoms of each element on both sides of the equation.    For example, let's balance the equation for the reaction between hydrogen gas and oxygen gas to form water: Unbalanced equation:    Step 1: Write the unbalanced equation.   Step 2: Count the number of atoms of each element.   Reactants: 2 hydrogen atoms, 2 oxygen atoms   Products: 2 hydrogen atoms, 1 oxygen atom   Step 3: Balance the equation by adjusting the coefficients.    Step 4: Check the number of atoms of each element again.   Reactants: 2 hydrogen atoms, 2 oxygen atoms   Products: 4 hydrogen atoms, 2 oxygen atoms   Step 5: Double-check that the equation is fully balanced.   Reactants: 2 hydrogen atoms, 2 oxygen atoms   Products: 2 hydrogen atoms, 2 oxygen atoms  The balanced equation is    "
 },
 {
-  "id": "p-612",
+  "id": "p-627",
   "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-612",
+  "url": "sec_eighth-chemicalbonds.html#p-627",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Covalent bond: Ionic bond: Metallic bond: "
-},
-{
-  "id": "p-621",
-  "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-621",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "hydroxyle radical "
-},
-{
-  "id": "p-625",
-  "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-625",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Reactants → Products "
-},
-{
-  "id": "p-631",
-  "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-631",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Reactants: "
-},
-{
-  "id": "p-632",
-  "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-632",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Products: "
-},
-{
-  "id": "p-635",
-  "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-635",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Reactants: "
 },
 {
   "id": "p-636",
@@ -3067,21 +3085,66 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Products: "
+  "body": "hydroxyle radical "
 },
 {
-  "id": "p-638",
+  "id": "p-640",
   "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-638",
+  "url": "sec_eighth-chemicalbonds.html#p-640",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Reactants → Products "
+},
+{
+  "id": "p-646",
+  "level": "2",
+  "url": "sec_eighth-chemicalbonds.html#p-646",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Reactants: "
 },
 {
-  "id": "p-639",
+  "id": "p-647",
   "level": "2",
-  "url": "sec_eighth-chemicalbonds.html#p-639",
+  "url": "sec_eighth-chemicalbonds.html#p-647",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Products: "
+},
+{
+  "id": "p-650",
+  "level": "2",
+  "url": "sec_eighth-chemicalbonds.html#p-650",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Reactants: "
+},
+{
+  "id": "p-651",
+  "level": "2",
+  "url": "sec_eighth-chemicalbonds.html#p-651",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Products: "
+},
+{
+  "id": "p-653",
+  "level": "2",
+  "url": "sec_eighth-chemicalbonds.html#p-653",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Reactants: "
+},
+{
+  "id": "p-654",
+  "level": "2",
+  "url": "sec_eighth-chemicalbonds.html#p-654",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3097,54 +3160,54 @@ var ptx_lunr_docs = [
   "body": " Chemical Reactions   There are several types of chemical reactions chemical reaction , including:   Combination reactions: In a combination reaction, two or more reactants combine to form a single product. The general form of a combination reaction is:    Decomposition reactions: In a decomposition reaction, a single reactant breaks down into two or more products. The general form of a decomposition reaction is:    Single replacement reactions: In a single replacement reaction, an element replaces another element in a compound to form a new compound and a new element. The general form of a single replacement reaction is:    Double replacement reactions: In a double replacement reaction, the cations and anions of two different compounds switch places to form two new compounds. The general form of a double replacement reaction is:    Combustion reactions: In a combustion reaction, a fuel (often a hydrocarbon) reacts with oxygen gas to produce carbon dioxide, water, and heat. The general form of a combustion reaction is: fuel + oxygen → carbon dioxide + water.   Acid-base reactions: In an acid-base reaction, an acid reacts with a base to produce a salt and water. The general form of an acid-base reaction is: acid + base → salt + water.  Understanding the different types of chemical reactions is important in predicting the products of a reaction and in understanding the behavior of chemicals in different environments.    Endothermic and Exothermic Reactions  Endothermic and exothermic reactions are the chemical reactions based on the heat energy released or absorbed during the reaction. An endothermic reaction is a chemical reaction that absorbs heat energy from its surroundings. In other words, it requires an input of energy to occur. During an endothermic reaction endothermic reaction , the temperature of the system decreases as the reaction proceeds because the heat is being absorbed into the reaction. Examples of endothermic reactions include melting of ice, the reaction of baking soda and vinegar, and photosynthesis. The decomposition of water into hydrogen and oxygen The formation of nitric oxide from nitrogen and oxygen When chocolate melts in your mouth, it absorbs heat energy from your mouth and the surrounding environment, causing the temperature of the chocolate to increase to melt it into a liquid form. This is an example of an endothermic reaction because it requires an input of energy (in the form of heat) to occur. As a result, the process of chocolate melting in your mouth can give a cooling sensation. When sugar is added to water, the water molecules surround the individual sugar molecules and break apart the sugar crystals through a process called hydration. This requires energy to overcome the intermolecular forces holding the sugar molecules together. As a result, the temperature of the mixture may actually decrease slightly due to the energy absorbed during the process.  On the other hand, an exothermic reaction  exothermic reaction is a chemical reaction that releases heat energy into its surroundings. In other words, it gives off energy during the reaction. During an exothermic reaction, the temperature of the system increases as the reaction proceeds because heat is being released from the reaction. Examples of exothermic reactions include burning of wood, combustion reactions, and neutralization reactions. The burning of coal (carbon) The burning of hydrogen The dissolution of sodium hydroxide (NaOH) in water is an exothermic process, which means that it releases heat. When NaOH dissolves in water, it undergoes a chemical reaction that releases energy in the form of heat. This energy is then transferred to the surrounding environment, causing the temperature of the solution to increase.    The Mole   Mole  mole is a unit used to measure the amount of a substance. One mole of a substance is defined as the amount of substance that contains the same number of particles (atoms, molecules, or ions) as there are in 12 grams of carbon-12. This number is known as Avogadro's number, N_o and is approximately particles per mole. For example, one mole of water contains water molecules, while one mole of sodium chloride contains sodium ions and chloride ions. The mole is a convenient unit for chemists because it allows them to compare the amounts of different substances on the basis of the number of particles they contain, rather than their mass or volume. The number of atoms or molecules or anything in 1 mole of any substance is always the same as Avogadro's number.   Atomic mass unit (amu) is a unit of mass used to express the relative masses of atoms and molecules. It is defined as one twelfth (1\/12) of the mass of a carbon-12 atom, which is assigned a mass of exactly 12 amu. This means that the mass of one proton or one neutron is approximately 1 amu, and the mass of an electron is much smaller, about 0.0005 amu. The atomic mass of an element, which is the weighted average of the masses of its isotopes, is expressed in amu. The use of atomic mass units is convenient because it allows us to compare the masses of different atoms and molecules on a relative scale. For example, the mass of a hydrogen atom is about 1 amu, while the mass of an oxygen atom is about 16 amu.   Molar mass is the mass of one mole of a substance, typically expressed in units of grams per mole (g\/mol). It is calculated by summing the atomic masses of all the atoms in a molecule or formula unit of a compound. The molar mass is an important concept in chemistry as it is used to convert between the mass of a substance and the number of moles of that substance. It is also used in stoichiometric calculations to determine the quantities of reactants and products in chemical reactions.     How many atoms are there in 100 g of iron?    To determine the number of atoms present in 100 g of iron, we first need to know the atomic mass of iron. The atomic mass (or Molar mass) of iron (Fe) is approximately 55.85 g\/mol. We can use this information and Avogadro's number, which is approximately atoms\/mol, to calculate the number of atoms in 100 g of iron:  Calculate the number of moles of iron in 100 g:   Calculate the number of atoms in 1.79 moles of iron: = 1.79 mol atoms\/mol = atoms   Therefore, there are approximately atoms present in 100 g of iron.     "
 },
 {
-  "id": "p-641",
+  "id": "p-656",
   "level": "2",
-  "url": "sec_eigth-react.html#p-641",
+  "url": "sec_eigth-react.html#p-656",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Combination reactions: Decomposition reactions: Single replacement reactions: Double replacement reactions: Combustion reactions: Acid-base reactions: "
 },
 {
-  "id": "p-642",
+  "id": "p-657",
   "level": "2",
-  "url": "sec_eigth-react.html#p-642",
+  "url": "sec_eigth-react.html#p-657",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "endothermic reaction "
 },
 {
-  "id": "p-643",
+  "id": "p-658",
   "level": "2",
-  "url": "sec_eigth-react.html#p-643",
+  "url": "sec_eigth-react.html#p-658",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "exothermic reaction "
 },
 {
-  "id": "p-644",
+  "id": "p-659",
   "level": "2",
-  "url": "sec_eigth-react.html#p-644",
+  "url": "sec_eigth-react.html#p-659",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Mole Avogadro's number, N_o "
 },
 {
-  "id": "p-645",
+  "id": "p-660",
   "level": "2",
-  "url": "sec_eigth-react.html#p-645",
+  "url": "sec_eigth-react.html#p-660",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Atomic mass unit "
 },
 {
-  "id": "p-646",
+  "id": "p-661",
   "level": "2",
-  "url": "sec_eigth-react.html#p-646",
+  "url": "sec_eigth-react.html#p-661",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3439,54 +3502,54 @@ var ptx_lunr_docs = [
   "body": "  Exercises   Write the missing number in the following equations:              Which of the following equations are balanced?              Name these compounds:                  Write the chemical formula for these compounds:  Hydrogen iodide  Dinitrogen tetroxide  Manganese chloride  Ferric oxide  Ferrous oxide  Calcium carbonate      Select the correct choice: A halogen atom   has one electron in its outermost orbit  has two electron in its outermost orbit  has filled outer shell  lacks one electron of having a filled outer shell      Select the correct choice: An atom that loses its outer electron or electrons is generally   an active metal  an active nonmetal  an inactive metal  an inactive nonmetal     "
 },
 {
-  "id": "exercise-108",
+  "id": "exercise-115",
   "level": "2",
-  "url": "ex_eighth.html#exercise-108",
+  "url": "ex_eighth.html#exercise-115",
   "type": "Exercise",
   "number": "8.6.1",
   "title": "",
   "body": " Write the missing number in the following equations:            "
 },
 {
-  "id": "exercise-109",
+  "id": "exercise-116",
   "level": "2",
-  "url": "ex_eighth.html#exercise-109",
+  "url": "ex_eighth.html#exercise-116",
   "type": "Exercise",
   "number": "8.6.2",
   "title": "",
   "body": " Which of the following equations are balanced?            "
 },
 {
-  "id": "exercise-110",
+  "id": "exercise-117",
   "level": "2",
-  "url": "ex_eighth.html#exercise-110",
+  "url": "ex_eighth.html#exercise-117",
   "type": "Exercise",
   "number": "8.6.3",
   "title": "",
   "body": " Name these compounds:                "
 },
 {
-  "id": "exercise-111",
+  "id": "exercise-118",
   "level": "2",
-  "url": "ex_eighth.html#exercise-111",
+  "url": "ex_eighth.html#exercise-118",
   "type": "Exercise",
   "number": "8.6.4",
   "title": "",
   "body": " Write the chemical formula for these compounds:  Hydrogen iodide  Dinitrogen tetroxide  Manganese chloride  Ferric oxide  Ferrous oxide  Calcium carbonate    "
 },
 {
-  "id": "exercise-112",
+  "id": "exercise-119",
   "level": "2",
-  "url": "ex_eighth.html#exercise-112",
+  "url": "ex_eighth.html#exercise-119",
   "type": "Exercise",
   "number": "8.6.5",
   "title": "",
   "body": " Select the correct choice: A halogen atom   has one electron in its outermost orbit  has two electron in its outermost orbit  has filled outer shell  lacks one electron of having a filled outer shell    "
 },
 {
-  "id": "exercise-113",
+  "id": "exercise-120",
   "level": "2",
-  "url": "ex_eighth.html#exercise-113",
+  "url": "ex_eighth.html#exercise-120",
   "type": "Exercise",
   "number": "8.6.6",
   "title": "",
@@ -3511,9 +3574,9 @@ var ptx_lunr_docs = [
   "body": " Crystal structure of Solids    Diamond     Graphite     Metallic Solid     Molecular Solid     "
 },
 {
-  "id": "p-722",
+  "id": "p-737",
   "level": "2",
-  "url": "sec_ninth-intro.html#p-722",
+  "url": "sec_ninth-intro.html#p-737",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3529,18 +3592,18 @@ var ptx_lunr_docs = [
   "body": " Polar and nonpolar molecules    Polar-polar interaction     Polar-nonpolar interaction     Nonpolar-nonpolar interaction     "
 },
 {
-  "id": "p-723",
+  "id": "p-738",
   "level": "2",
-  "url": "sec_ninth-intro.html#p-723",
+  "url": "sec_ninth-intro.html#p-738",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "polar "
 },
 {
-  "id": "p-724",
+  "id": "p-739",
   "level": "2",
-  "url": "sec_ninth-intro.html#p-724",
+  "url": "sec_ninth-intro.html#p-739",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3556,18 +3619,18 @@ var ptx_lunr_docs = [
   "body": " Solution   A solution  solution is a homogeneous mixture composed of two or more substances. The substance that dissolves is called the solute , solute and the substance that does the dissolving is called the solvent . solvent When the solute dissolves in the solvent, the resulting solution is a uniform mixture, called solution.  Solubility  solubility is the ability of a substance to dissolve in a solvent to form a solution. The solubility of a substance depends on various factors such as temperature, pressure, and the nature of the solute and solvent. In general, \" like dissolves like ,\" meaning that substances with similar chemical properties tend to dissolve in each other. The amount of solute that can dissolve in a given amount of solvent is limited by the solubility of the solute in the solvent. When a solution contains the maximum amount of solute that can dissolve in the solvent at a given temperature and pressure, is said to be a saturated  saturated solution. If more solute is added to a saturated solution, it will not dissolve and will form a separate phase, such as a solid precipitate or gas bubbles.   Concentration: The concentration of a solution is the amount of solute dissolved in a specific amount of solvent or solution. The term \"saturated\" and \"unsaturated\" are used to describe the concentration of solute in a solution. A saturated solution contains maximum amount of solute that can dissolve in a given solvent at a particular temperature and pressure. No more solute can be dissolved in the solvent of the saturated solution without increasing the temperature or pressure. Any additional solute added to the solution will not dissolve and will remain as a solid. On the other hand, an unsaturated  unsaturated solution contains less than the maximum amount of solute that can dissolve in a given solvent at a particular temperature and pressure. In an unsaturated solution, more solute can be added and dissolved in the solvent. It's important to note that a solution can also be supersaturated , which means it contains more solute than what can theoretically be dissolved at a given temperature and pressure. Supersaturated solutions are not stable and can spontaneously crystallize, forming a precipitate, or solid, out of excess solute.   Solubility of various solutes in water.      Types of Solution  There are several types of solutions, based on their composition and properties. Here are some common types of solutions:   Homogeneous solutions: These are solutions that have uniform composition and properties throughout. The solute particles are evenly distributed in the solvent. Examples include saltwater, sugar water, and ethanol-water mixtures.   Heterogeneous solutions: These are solutions that have non-uniform composition and properties. The solute particles are not evenly distributed in the solvent. Examples include suspensions, emulsions, and colloids.   Dilute solutions: These are solutions that have a low concentration of solute. The amount of solute is relatively small compared to the amount of solvent. Examples include a drop of food coloring in a glass of water or a pinch of salt in a pot of soup.   Concentrated solutions: These are solutions that have a high concentration of solute. The amount of solute is relatively large compared to the amount of solvent. Examples include concentrated sulfuric acid, concentrated sodium hydroxide, and concentrated ammonia solutions.   Saturated solutions: These are solutions that contain the maximum amount of solute that can dissolve in a given amount of solvent at a particular temperature and pressure. Any additional solute added to the solution will not dissolve and will remain as a solid. Examples include sugar-water solutions and saltwater solutions.   Unsaturated solutions: These are solutions that contain less than the maximum amount of solute that can dissolve in a given amount of solvent at a particular temperature and pressure. More solute can be added to the solution and dissolved. Examples include weak tea and weak coffee.   Supersaturated solutions: These are solutions that contain more solute than what can theoretically dissolve at a given temperature and pressure. These solutions are not stable and can spontaneously crystallize, forming a precipitate or solid out of excess solute. Examples include supersaturated sugar-water solutions and supersaturated sodium acetate solutions.    There are also several types of solutions based on the phases of the solute and solvent. Here are some common types of solutions:   Solid-solid solutions: It is also known as solid solutions or alloys, are homogeneous mixtures of two or more solid elements or compounds. In a solid solution, the atoms of one component are dispersed uniformly throughout the crystal lattice of the other component, resulting in a single, continuous phase. Examples of solid-solid solutions include brass, which is an alloy of copper and zinc; steel, which is an alloy of iron and carbon; and bronze, which is an alloy of copper and tin.   Liquid-liquid solutions: These are solutions in which the solute and solvent are both liquids. Examples include milk in water, ethanol in water, and benzene in toluene.   Gas-liquid solutions: also known as gas solutions. These are solutions in which the solute is a gas that dissolves in a liquid solvent. Examples include cold drink, carbon dioxide in water, oxygen in blood, and nitrogen in beer.   Solid-liquid solutions: Here solid is solute and liquid is solvent. For example: salt water solution, sugar water solution.      Colligative property of a solution   Freezing point depression is a colligative property of a solution that describes how the presence of a solute lowers the freezing point of the solvent. Colligative properties are properties of solutions that depend on the concentration of solute particles in the solution, but not on the identity of the solute particles. The freezing point of a pure solvent is a characteristic property that is dependent only on the identity of the solvent. However, when a solute is added to the solvent, the freezing point of the resulting solution is lower than that of the pure solvent. This occurs because the solute particles disrupt the crystal lattice structure of the solvent, making it more difficult for the solvent molecules to form solid crystals.   Melting point elevation Melting point elevation is a colligative property of a solution that describes how the melting point of a solid solvent is increased when a solute is dissolved in it. Like freezing point depression, it is a property of solutions that depends on the concentration of solute particles in the solution, but not on the identity of the solute particles. When a solute is dissolved in a solvent, it disrupts the crystal lattice structure of the solvent, making it more difficult for the solvent molecules to transition from the solid to the liquid state. As a result, the melting point of the solution is higher than that of the pure solvent.   "
 },
 {
-  "id": "p-727",
+  "id": "p-742",
   "level": "2",
-  "url": "sec_ninth-solut.html#p-727",
+  "url": "sec_ninth-solut.html#p-742",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "solution solute solvent Solubility saturated "
 },
 {
-  "id": "p-728",
+  "id": "p-743",
   "level": "2",
-  "url": "sec_ninth-solut.html#p-728",
+  "url": "sec_ninth-solut.html#p-743",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3583,36 +3646,36 @@ var ptx_lunr_docs = [
   "body": " Solubility of various solutes in water.   "
 },
 {
-  "id": "p-729",
+  "id": "p-744",
   "level": "2",
-  "url": "sec_ninth-solut.html#p-729",
+  "url": "sec_ninth-solut.html#p-744",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Homogeneous solutions: Heterogeneous solutions: Dilute solutions: Concentrated solutions: Saturated solutions: Unsaturated solutions: Supersaturated solutions: "
 },
 {
-  "id": "p-730",
+  "id": "p-745",
   "level": "2",
-  "url": "sec_ninth-solut.html#p-730",
+  "url": "sec_ninth-solut.html#p-745",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Solid-solid solutions: Liquid-liquid solutions: Gas-liquid solutions: Solid-liquid solutions: "
 },
 {
-  "id": "p-731",
+  "id": "p-746",
   "level": "2",
-  "url": "sec_ninth-solut.html#p-731",
+  "url": "sec_ninth-solut.html#p-746",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Freezing point depression "
 },
 {
-  "id": "p-732",
+  "id": "p-747",
   "level": "2",
-  "url": "sec_ninth-solut.html#p-732",
+  "url": "sec_ninth-solut.html#p-747",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3628,27 +3691,27 @@ var ptx_lunr_docs = [
   "body": " Acids and Base   Acids and bases are two types of chemical compounds that have unique properties and behavior. Acids  acid are compounds that have a high concentration of hydrogen ions , which they release when they are dissolved in water. Acid tests sour. (It is compeletely prohibited to test any liquid in the laboratory.) Orange, lemon, tomato, tamarind, and grapefruit are sour and contain acid in their juice. Bases , base on the other hand, have a high concentration of hydroxide ions , which they release when they are dissolved in water. Base also known as Alkali tests bitter. Cucumber, asparagus, garlic, yam, broccoli, and fish slime are alkaline.  Acid dissociates into hydrogen ion when dissolve in water.    Base dissociates into hydroxide ion when dissolve in water.  Acids can be classified as either weak or strong, depending on their ability to dissociate in water. A strong acid is an acid that completely dissociates in water, meaning that all of its molecules break apart into ions. Examples of strong acids include hydrochloric acid , sulfuric acid , and nitric acid . These acids have a very low pH and are highly reactive. A weak acid , on the other hand, only partially dissociates in water, meaning that only a small fraction of its molecules break apart into ions. Examples of weak acids include acetic acid , formic acid , and citric acid . These acids have a higher pH than strong acids and are less reactive. The strength of an acid is determined by its dissociation constant (Ka), which is a measure of how easily the acid donates a proton to water. A high Ka value indicates a strong acid, while a low Ka value indicates a weak acid. Explanation of dissociation constant (Ka) is out of the course requirement here.   A base is a substance that can accept a proton from another substance or donate a hydroxide ion to another substance. Bases can be classified as either strong or weak, depending on their ability to dissociate in water. A strong base is a base that completely dissociates in water, meaning that all of its molecules break apart into ions. Examples of strong bases include sodium hydroxide , potassium hydroxide , and calcium hydroxide . These bases have a very high pH and are highly reactive. A weak base , on the other hand, only partially dissociates in water, meaning that only a small fraction of its molecules break apart into ions. Examples of weak bases include ammonia , pyridine , and trimethylamine . These bases have a lower pH than strong bases and are less reactive. The strength of a base is determined by its dissociation constant (Kb), which is a measure of how easily the base accepts a proton from water. A high Kb value indicates a strong base, while a low Kb value indicates a weak base. Explanation of dissociation constant (Kb) is out of the course requirement here.     The pH Scale   pH scale    One of the most important properties of acids and bases is their level. The pH scale  pH scale is a measurement system used to describe the acidity or basicity (alkalinity) of a solution. It is a logarithmic scale that ranges from 0 to 14, with 7 being neutral . A solution with a pH less than 7 is considered acidic , while a solution with a pH greater than 7 is considered basic (alkaline). The strength of an acid or base depends on its ability to release or accept hydrogen ions. Each unit on the pH scale represents a tenfold difference in acidity or basicity. For example, a solution with a pH of 4 is ten times more acidic than a solution with a pH of 5, and 100 times more acidic than a solution with a pH of 6. Similarly, a solution with a pH of 10 is ten times more basic than a solution with a pH of 9, and 100 times more basic than a solution with a pH of 8. The pH scale is important in many scientific fields, including chemistry, biology, and environmental science. It is used to measure the acidity or basicity of substances such as water, soil, and blood.  The hydronium ion , also known as the oxonium ion, is a positively charged ion with the chemical formula . It is formed when a water molecule, , accepts a hydrogen ion, , from an acid. The hydronium ion is an important species in acid-base chemistry because it represents the acidic character of a solution. In aqueous solutions, the concentration of hydronium ions determines the pH of the solution. Solutions with a high concentration of hydronium ions have a low pH and are considered acidic, while solutions with a low concentration of hydronium ions have a high pH and are considered basic (alkaline). Hydronium ion can act as a proton donor (acid) or proton acceptor (base) in chemical reactions, making it an important species in acid-base catalysis. Pure water has some contents of hydronium ion when it dissociates but these ions recombines also very fast, hence, pure water is neutral and has pH scale of 7. Since hydroxide ion, attract ion strongly there is reverse reaction keep happening in water Thus we can write     Salts  An acid-base reaction is a chemical reaction that occurs between an acid and a base. In this type of reaction, the acid donates a proton (H+) to the base, which accepts the proton. This results in the formation of a new compound that is neither acidic nor basic in nature. Neutralization  neutralization is a specific type of acid-base reaction where an acid and a base react to form a salt and water. The salt formed is composed of the cation of the base and the anion of the acid, and it is typically a neutral compound. For example, when hydrochloric acid (HCl) reacts with sodium hydroxide (NaOH), the following reaction takes place: In this reaction, HCl is the acid, NaOH is the base, NaCl is the salt, and is the water that is formed. The resulting solution is neutral because the and ions from the acid and base, respectively, have combined to form water, leaving behind only the and ions from the salt. Table salt , Epsom salt , Gypsom salt , Baking soda are some examples of salt.   "
 },
 {
-  "id": "p-733",
+  "id": "p-748",
   "level": "2",
-  "url": "sec_ninth-acidbase.html#p-733",
+  "url": "sec_ninth-acidbase.html#p-748",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Acids Bases "
 },
 {
-  "id": "p-735",
+  "id": "p-750",
   "level": "2",
-  "url": "sec_ninth-acidbase.html#p-735",
+  "url": "sec_ninth-acidbase.html#p-750",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "strong acid weak acid "
 },
 {
-  "id": "p-736",
+  "id": "p-751",
   "level": "2",
-  "url": "sec_ninth-acidbase.html#p-736",
+  "url": "sec_ninth-acidbase.html#p-751",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3664,27 +3727,27 @@ var ptx_lunr_docs = [
   "body": " pH scale   "
 },
 {
-  "id": "p-737",
+  "id": "p-752",
   "level": "2",
-  "url": "sec_ninth-acidbase.html#p-737",
+  "url": "sec_ninth-acidbase.html#p-752",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "pH scale "
 },
 {
-  "id": "p-738",
+  "id": "p-753",
   "level": "2",
-  "url": "sec_ninth-acidbase.html#p-738",
+  "url": "sec_ninth-acidbase.html#p-753",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "hydronium ion "
 },
 {
-  "id": "p-739",
+  "id": "p-754",
   "level": "2",
-  "url": "sec_ninth-acidbase.html#p-739",
+  "url": "sec_ninth-acidbase.html#p-754",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3790,90 +3853,90 @@ var ptx_lunr_docs = [
   "body": "  Exercises   The solubility of solid dissolved in a liquid increases with  increase of temperature.  decrease of temperature.  temperature does not effect solubility.  None of the above.     Dissolving a solute in a liquid  increases the freezing point of liquid.  decreases the freezing point of liquid.  does not the freezing point.  does any of the above, depending on the substance involved.    Which of the following statements is true concerning acids and bases?  acids and bases don't react with each other.  acids mixed with bases neutralize each other.  acids mixed with bases make stronger bases.  acids mixed with bases make stronger acids.    True or false: bases are sometimes called alkalis.  True.  False.    Which is true?  pH of less than 7 is basic; pH of more than 7 is acidic.  pH of less than 7 is acidic; pH of more than 7 is basic.    Which substance completely dissociates in water?  Weak acids.  Strong acids.    What is the pH of a neutral solution?  7  0  14  1    Which of the following is a strong acid?  HClO  HF      c.   Which of the following is a weak base?  KOH  NaOH      c.   What is the product of the neutralization reaction between hydrochloric acid (HCl) and sodium hydroxide (NaOH)?  Water and sodium chloride.  Carbon dioxide and sodium chloride.  Water and sodium carbonate.  None of the above.>    a.   "
 },
 {
-  "id": "exercise-114",
+  "id": "exercise-121",
   "level": "2",
-  "url": "ex_ninth.html#exercise-114",
+  "url": "ex_ninth.html#exercise-121",
   "type": "Exercise",
   "number": "9.5.1",
   "title": "",
   "body": " The solubility of solid dissolved in a liquid increases with  increase of temperature.  decrease of temperature.  temperature does not effect solubility.  None of the above.    "
 },
 {
-  "id": "exercise-115",
+  "id": "exercise-122",
   "level": "2",
-  "url": "ex_ninth.html#exercise-115",
+  "url": "ex_ninth.html#exercise-122",
   "type": "Exercise",
   "number": "9.5.2",
   "title": "",
   "body": "Dissolving a solute in a liquid  increases the freezing point of liquid.  decreases the freezing point of liquid.  does not the freezing point.  does any of the above, depending on the substance involved.   "
 },
 {
-  "id": "exercise-116",
+  "id": "exercise-123",
   "level": "2",
-  "url": "ex_ninth.html#exercise-116",
+  "url": "ex_ninth.html#exercise-123",
   "type": "Exercise",
   "number": "9.5.3",
   "title": "",
   "body": "Which of the following statements is true concerning acids and bases?  acids and bases don't react with each other.  acids mixed with bases neutralize each other.  acids mixed with bases make stronger bases.  acids mixed with bases make stronger acids.   "
 },
 {
-  "id": "exercise-117",
+  "id": "exercise-124",
   "level": "2",
-  "url": "ex_ninth.html#exercise-117",
+  "url": "ex_ninth.html#exercise-124",
   "type": "Exercise",
   "number": "9.5.4",
   "title": "",
   "body": "True or false: bases are sometimes called alkalis.  True.  False.   "
 },
 {
-  "id": "exercise-118",
+  "id": "exercise-125",
   "level": "2",
-  "url": "ex_ninth.html#exercise-118",
+  "url": "ex_ninth.html#exercise-125",
   "type": "Exercise",
   "number": "9.5.5",
   "title": "",
   "body": "Which is true?  pH of less than 7 is basic; pH of more than 7 is acidic.  pH of less than 7 is acidic; pH of more than 7 is basic.   "
 },
 {
-  "id": "exercise-119",
+  "id": "exercise-126",
   "level": "2",
-  "url": "ex_ninth.html#exercise-119",
+  "url": "ex_ninth.html#exercise-126",
   "type": "Exercise",
   "number": "9.5.6",
   "title": "",
   "body": "Which substance completely dissociates in water?  Weak acids.  Strong acids.   "
 },
 {
-  "id": "exercise-120",
+  "id": "exercise-127",
   "level": "2",
-  "url": "ex_ninth.html#exercise-120",
+  "url": "ex_ninth.html#exercise-127",
   "type": "Exercise",
   "number": "9.5.7",
   "title": "",
   "body": "What is the pH of a neutral solution?  7  0  14  1   "
 },
 {
-  "id": "exercise-121",
+  "id": "exercise-128",
   "level": "2",
-  "url": "ex_ninth.html#exercise-121",
+  "url": "ex_ninth.html#exercise-128",
   "type": "Exercise",
   "number": "9.5.8",
   "title": "",
   "body": "Which of the following is a strong acid?  HClO  HF      c.  "
 },
 {
-  "id": "exercise-122",
+  "id": "exercise-129",
   "level": "2",
-  "url": "ex_ninth.html#exercise-122",
+  "url": "ex_ninth.html#exercise-129",
   "type": "Exercise",
   "number": "9.5.9",
   "title": "",
   "body": "Which of the following is a weak base?  KOH  NaOH      c.  "
 },
 {
-  "id": "exercise-123",
+  "id": "exercise-130",
   "level": "2",
-  "url": "ex_ninth.html#exercise-123",
+  "url": "ex_ninth.html#exercise-130",
   "type": "Exercise",
   "number": "9.5.10",
   "title": "",
@@ -3898,63 +3961,63 @@ var ptx_lunr_docs = [
   "body": " Ozone molecule   "
 },
 {
-  "id": "p-775",
+  "id": "p-790",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-775",
+  "url": "sec_tenth-intro.html#p-790",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Ozone ozonosphere "
 },
 {
-  "id": "p-777",
+  "id": "p-792",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-777",
+  "url": "sec_tenth-intro.html#p-792",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "ozone hole "
 },
 {
-  "id": "p-779",
+  "id": "p-794",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-779",
+  "url": "sec_tenth-intro.html#p-794",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "precipitation or rain humidity relative humidity saturated Humid (or saturated) Dew point: "
 },
 {
-  "id": "p-780",
+  "id": "p-795",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-780",
+  "url": "sec_tenth-intro.html#p-795",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Weather Climate "
 },
 {
-  "id": "p-781",
+  "id": "p-796",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-781",
+  "url": "sec_tenth-intro.html#p-796",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "global warming "
 },
 {
-  "id": "p-782",
+  "id": "p-797",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-782",
+  "url": "sec_tenth-intro.html#p-797",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "greenhouse "
 },
 {
-  "id": "p-783",
+  "id": "p-798",
   "level": "2",
-  "url": "sec_tenth-intro.html#p-783",
+  "url": "sec_tenth-intro.html#p-798",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3979,36 +4042,36 @@ var ptx_lunr_docs = [
   "body": " Season on Earth   "
 },
 {
-  "id": "p-784",
+  "id": "p-799",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-784",
+  "url": "sec_tenth-seasons.html#p-799",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "seasons "
 },
 {
-  "id": "p-785",
+  "id": "p-800",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-785",
+  "url": "sec_tenth-seasons.html#p-800",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Solstices "
 },
 {
-  "id": "p-786",
+  "id": "p-801",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-786",
+  "url": "sec_tenth-seasons.html#p-801",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Equinoxes "
 },
 {
-  "id": "p-789",
+  "id": "p-804",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-789",
+  "url": "sec_tenth-seasons.html#p-804",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4033,36 +4096,36 @@ var ptx_lunr_docs = [
   "body": " Cyclones & Anticyclones   "
 },
 {
-  "id": "p-790",
+  "id": "p-805",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-790",
+  "url": "sec_tenth-seasons.html#p-805",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Cyclones and Anticyclones Cyclones "
 },
 {
-  "id": "p-791",
+  "id": "p-806",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-791",
+  "url": "sec_tenth-seasons.html#p-806",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Anticyclones "
 },
 {
-  "id": "p-792",
+  "id": "p-807",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-792",
+  "url": "sec_tenth-seasons.html#p-807",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Tornado "
 },
 {
-  "id": "p-793",
+  "id": "p-808",
   "level": "2",
-  "url": "sec_tenth-seasons.html#p-793",
+  "url": "sec_tenth-seasons.html#p-808",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4087,54 +4150,54 @@ var ptx_lunr_docs = [
   "body": " Ocean Basins   "
 },
 {
-  "id": "p-795",
+  "id": "p-810",
   "level": "2",
-  "url": "sec_tenth-hydros.html#p-795",
+  "url": "sec_tenth-hydros.html#p-810",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "continental shelves continental slope abyssal plain Continental shelves ocean floor "
 },
 {
-  "id": "p-799",
+  "id": "p-814",
   "level": "2",
-  "url": "sec_tenth-hydros.html#p-799",
+  "url": "sec_tenth-hydros.html#p-814",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Erosion by running water "
 },
 {
-  "id": "p-800",
+  "id": "p-815",
   "level": "2",
-  "url": "sec_tenth-hydros.html#p-800",
+  "url": "sec_tenth-hydros.html#p-815",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Groundwater "
 },
 {
-  "id": "p-801",
+  "id": "p-816",
   "level": "2",
-  "url": "sec_tenth-hydros.html#p-801",
+  "url": "sec_tenth-hydros.html#p-816",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "spring "
 },
 {
-  "id": "p-802",
+  "id": "p-817",
   "level": "2",
-  "url": "sec_tenth-hydros.html#p-802",
+  "url": "sec_tenth-hydros.html#p-817",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "water table "
 },
 {
-  "id": "p-805",
+  "id": "p-820",
   "level": "2",
-  "url": "sec_tenth-hydros.html#p-805",
+  "url": "sec_tenth-hydros.html#p-820",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4393,108 +4456,108 @@ var ptx_lunr_docs = [
   "body": "  Exercises   Dry air has relative humidity of  zero.  100%.  50%.  1%.      Because of the Coriolis effect, winds and other moving fluids are deflected to which direction in the Northern Hemisphere?  north  west.  east  south.      Hurricanes never occur   near the equator.  near Canada.  islands.  near mid-latitude cyclones.      Air flows from in the upper atmosphere.  west to east.  east to west.  north to south.  south to north.      A cyclone is centered towards  region of high pressure.  region of low pressure.  cannot tell.      Tsunamis are caused by  typhoons.  undersea earthquake.  tornados.  hurricanes.      Which type of rock is most commonly associated with solution caves?  Granite.  Marble.  Sandstone.  Basalt.     b.    What is the term for the type of cave formation that occurs when lava cools and hardens around a flowing stream of lava, creating a hollow tube?  Solution cave.  Sea cave.  Lava tube.  Erosion cave.     c.    What is the definition of erosion?  The process of breaking down rocks and minerals.  The process of forming new rocks and minerals.  The process of moving rocks and minerals from one place to another.  The process of melting rocks and minerals.     c.    Which of the following can contribute to soil erosion?  Overgrazing by livestock.  Deforestation.  Poor land management practices.  All of the above.     d.    Which of the following is a natural process that can lead to erosion?  Landslides.  Human construction and development.  Agriculture.  None of the above.     a.    What is a spring?  A device used to measure the flow rate of groundwater.  A type of well that is used for pumping groundwater to the surface.  A natural discharge of groundwater at the surface.  A type of water treatment facility.     c.   "
 },
 {
-  "id": "exercise-124",
+  "id": "exercise-131",
   "level": "2",
-  "url": "ex_tenth.html#exercise-124",
+  "url": "ex_tenth.html#exercise-131",
   "type": "Exercise",
   "number": "10.5.1",
   "title": "",
   "body": " Dry air has relative humidity of  zero.  100%.  50%.  1%.    "
 },
 {
-  "id": "exercise-125",
+  "id": "exercise-132",
   "level": "2",
-  "url": "ex_tenth.html#exercise-125",
+  "url": "ex_tenth.html#exercise-132",
   "type": "Exercise",
   "number": "10.5.2",
   "title": "",
   "body": " Because of the Coriolis effect, winds and other moving fluids are deflected to which direction in the Northern Hemisphere?  north  west.  east  south.    "
 },
 {
-  "id": "exercise-126",
+  "id": "exercise-133",
   "level": "2",
-  "url": "ex_tenth.html#exercise-126",
+  "url": "ex_tenth.html#exercise-133",
   "type": "Exercise",
   "number": "10.5.3",
   "title": "",
   "body": " Hurricanes never occur   near the equator.  near Canada.  islands.  near mid-latitude cyclones.    "
 },
 {
-  "id": "exercise-127",
+  "id": "exercise-134",
   "level": "2",
-  "url": "ex_tenth.html#exercise-127",
+  "url": "ex_tenth.html#exercise-134",
   "type": "Exercise",
   "number": "10.5.4",
   "title": "",
   "body": " Air flows from in the upper atmosphere.  west to east.  east to west.  north to south.  south to north.    "
 },
 {
-  "id": "exercise-128",
+  "id": "exercise-135",
   "level": "2",
-  "url": "ex_tenth.html#exercise-128",
+  "url": "ex_tenth.html#exercise-135",
   "type": "Exercise",
   "number": "10.5.5",
   "title": "",
   "body": " A cyclone is centered towards  region of high pressure.  region of low pressure.  cannot tell.    "
 },
 {
-  "id": "exercise-129",
+  "id": "exercise-136",
   "level": "2",
-  "url": "ex_tenth.html#exercise-129",
+  "url": "ex_tenth.html#exercise-136",
   "type": "Exercise",
   "number": "10.5.6",
   "title": "",
   "body": " Tsunamis are caused by  typhoons.  undersea earthquake.  tornados.  hurricanes.    "
 },
 {
-  "id": "exercise-130",
+  "id": "exercise-137",
   "level": "2",
-  "url": "ex_tenth.html#exercise-130",
+  "url": "ex_tenth.html#exercise-137",
   "type": "Exercise",
   "number": "10.5.7",
   "title": "",
   "body": " Which type of rock is most commonly associated with solution caves?  Granite.  Marble.  Sandstone.  Basalt.     b.  "
 },
 {
-  "id": "exercise-131",
+  "id": "exercise-138",
   "level": "2",
-  "url": "ex_tenth.html#exercise-131",
+  "url": "ex_tenth.html#exercise-138",
   "type": "Exercise",
   "number": "10.5.8",
   "title": "",
   "body": " What is the term for the type of cave formation that occurs when lava cools and hardens around a flowing stream of lava, creating a hollow tube?  Solution cave.  Sea cave.  Lava tube.  Erosion cave.     c.  "
 },
 {
-  "id": "exercise-132",
+  "id": "exercise-139",
   "level": "2",
-  "url": "ex_tenth.html#exercise-132",
+  "url": "ex_tenth.html#exercise-139",
   "type": "Exercise",
   "number": "10.5.9",
   "title": "",
   "body": " What is the definition of erosion?  The process of breaking down rocks and minerals.  The process of forming new rocks and minerals.  The process of moving rocks and minerals from one place to another.  The process of melting rocks and minerals.     c.  "
 },
 {
-  "id": "exercise-133",
+  "id": "exercise-140",
   "level": "2",
-  "url": "ex_tenth.html#exercise-133",
+  "url": "ex_tenth.html#exercise-140",
   "type": "Exercise",
   "number": "10.5.10",
   "title": "",
   "body": " Which of the following can contribute to soil erosion?  Overgrazing by livestock.  Deforestation.  Poor land management practices.  All of the above.     d.  "
 },
 {
-  "id": "exercise-134",
+  "id": "exercise-141",
   "level": "2",
-  "url": "ex_tenth.html#exercise-134",
+  "url": "ex_tenth.html#exercise-141",
   "type": "Exercise",
   "number": "10.5.11",
   "title": "",
   "body": " Which of the following is a natural process that can lead to erosion?  Landslides.  Human construction and development.  Agriculture.  None of the above.     a.  "
 },
 {
-  "id": "exercise-135",
+  "id": "exercise-142",
   "level": "2",
-  "url": "ex_tenth.html#exercise-135",
+  "url": "ex_tenth.html#exercise-142",
   "type": "Exercise",
   "number": "10.5.12",
   "title": "",
@@ -4519,9 +4582,9 @@ var ptx_lunr_docs = [
   "body": " Earth's Layers   "
 },
 {
-  "id": "p-875",
+  "id": "p-890",
   "level": "2",
-  "url": "sec_eleventh-intro.html#p-875",
+  "url": "sec_eleventh-intro.html#p-890",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4564,9 +4627,9 @@ var ptx_lunr_docs = [
   "body": " Some common minerals   "
 },
 {
-  "id": "p-878",
+  "id": "p-893",
   "level": "2",
-  "url": "sec_eleventh-rockminr.html#p-878",
+  "url": "sec_eleventh-rockminr.html#p-893",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4582,9 +4645,9 @@ var ptx_lunr_docs = [
   "body": " Types of Rocks   "
 },
 {
-  "id": "p-879",
+  "id": "p-894",
   "level": "2",
-  "url": "sec_eleventh-rockminr.html#p-879",
+  "url": "sec_eleventh-rockminr.html#p-894",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4600,18 +4663,18 @@ var ptx_lunr_docs = [
   "body": " Some common Rocks   "
 },
 {
-  "id": "p-880",
+  "id": "p-895",
   "level": "2",
-  "url": "sec_eleventh-rockminr.html#p-880",
+  "url": "sec_eleventh-rockminr.html#p-895",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Basaltic Rock: Granitic Rock: Coal Limestone Shale Slate "
 },
 {
-  "id": "p-881",
+  "id": "p-896",
   "level": "2",
-  "url": "sec_eleventh-rockminr.html#p-881",
+  "url": "sec_eleventh-rockminr.html#p-896",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4636,9 +4699,9 @@ var ptx_lunr_docs = [
   "body": "  Earthquake   "
 },
 {
-  "id": "p-882",
+  "id": "p-897",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-882",
+  "url": "sec_eleventh-quake.html#p-897",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4654,9 +4717,9 @@ var ptx_lunr_docs = [
   "body": "  Types of waves in Earthquake    Body Waves     Surface Wave     "
 },
 {
-  "id": "p-883",
+  "id": "p-898",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-883",
+  "url": "sec_eleventh-quake.html#p-898",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4672,9 +4735,9 @@ var ptx_lunr_docs = [
   "body": " Propagation of body and surface waves   "
 },
 {
-  "id": "p-884",
+  "id": "p-899",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-884",
+  "url": "sec_eleventh-quake.html#p-899",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4690,9 +4753,9 @@ var ptx_lunr_docs = [
   "body": "    Types of faults     Focus and epicenter     Richter scale     "
 },
 {
-  "id": "p-885",
+  "id": "p-900",
   "level": "2",
-  "url": "sec_eleventh-quake.html#p-885",
+  "url": "sec_eleventh-quake.html#p-900",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4708,9 +4771,9 @@ var ptx_lunr_docs = [
   "body": " Tectonic Movement   Tectonic movement refers to the movement of large sections of the Earth's lithosphere (the rigid outer layer of the Earth that consists of the crust and uppermost part of the mantle) relative to each other. The lithosphere is broken up into a number of plates that move around on the underlying asthenosphere (the partially molten, ductile region of the mantle). Tectonic movement occurs primarily at plate boundaries, where plates interact with each other. There are three types of plate boundaries: Divergent boundaries: where plates move away from each other, creating new crust. This occurs mainly at mid-ocean ridges. Convergent boundaries: where plates move towards each other and one plate is usually subducted (forced beneath) the other. This can cause earthquakes, volcanoes and mountain-building. Transform boundaries: where plates slide past each other horizontally. This can also cause earthquakes. Tectonic movement is driven by the movement of molten rock in the mantle, which creates convection currents that move the plates.    Plate Tectonic    The speed of plate movement can vary from a few millimet4Xebwzb3dDEers to several centimeters per year. A mid-ocean ridge is an underwater mountain range that runs along the floor of the Earth's ocean basins. It is a divergent plate boundary where two tectonic plates are moving away from each other, causing magma from the Earth's mantle to rise up and solidify, forming new oceanic crust. The mid-ocean ridge system is the longest mountain range on Earth, stretching over 40,000 miles (64,000 kilometers) and covering more than 23% of the Earth's surface. It is located in all of the Earth's major oceans, and its highest points are often found above sea level, forming volcanic islands. A volcanic eruption is a geological event that occurs when magma, ash, and gases escape from a volcano. Volcanic eruptions can be explosive or effusive and can vary in intensity and duration. Explosive eruptions occur when a buildup of pressure causes a sudden release of gas, ash, and magma. These eruptions can be violent and destructive, sending plumes of ash and debris high into the air and causing widespread damage to surrounding areas. Effusive eruptions, on the other hand, are characterized by a steady flow of lava from the volcano. These eruptions can last for weeks, months, or even years, and can create new land by adding layers of solidified lava to the landscape.    Continental Drift   Earth map    Continental drift is the theory that the Earth's continents were once joined together in a single landmass and have since drifted apart over millions of years. This theory was first proposed by Alfred Wegener in 1912, based on the observation that the shapes of the continents on either side of the Atlantic Ocean seemed to fit together like puzzle pieces . According to the theory of continental drift, the continents were once part of a single supercontinent called Pangaea , which began to break apart about 200 million years ago. Over time, the continents moved away from each other, driven by the movement of tectonic plates in the Earth's lithosphere. The idea of continental drift was initially met with skepticism, but it gained support over time as evidence from different fields of science began to accumulate. One of the key pieces of evidence came from the study of paleomagnetism, which showed that the magnetic orientation of rocks on different continents matched up when the continents were brought together. Watch this video lecture    Theory of Continental drift     Laurasia and Gondwana were two supercontinents that existed during the Mesozoic Era, between approximately 252 million to 66 million years ago. Laurasia was a northern supercontinent that consisted of present-day North America, Europe, and Asia (excluding India and Arabia). It formed during the Late Paleozoic Era when the supercontinent Pangaea began to break apart. Laurasia continued to fragment during the Mesozoic Era, eventually forming the continents we see today. Gondwana, on the other hand, was a southern supercontinent that consisted of present-day South America, Africa, Antarctica, Australia, the Indian subcontinent, and the Arabian Peninsula. It formed during the Neoproterozoic Era, when earlier supercontinents began to break apart. Gondwana also continued to fragment during the Mesozoic Era, eventually forming the continents we see today. Laurasia and Gondwana were separated by the Tethys Sea . The breakup of these supercontinents played a significant role in shaping the geography of the Earth and the evolution of life on the planet. For example, the separation of South America and Africa created an oceanic barrier that allowed different species to evolve independently. The separation of India from Antarctica and Australia led to the formation of the Himalayas.    Plate Tectonics   Plate collision    There are around 15 major tectonic plates on Earth, as well as several smaller ones. The major plates include the African Plate, Antarctic Plate, Australian Plate, Eurasian Plate, North American Plate, Pacific Plate, South American Plate, and others. These plates are in constant motion, with some moving towards each other (convergent boundaries), some moving apart from each other (divergent boundaries), and some sliding past each other (transform boundaries). These movements can cause geological phenomena such as earthquakes, volcanic eruptions, and the formation of mountain ranges.  Oceanic-continental plate collision: When an oceanic plate collides with a continental plate, the denser oceanic plate is usually subducted, or forced beneath the less dense continental plate. This process can lead to the formation of subduction zones, where the oceanic plate is forced downward into the mantle, creating a deep oceanic trench  . As the oceanic plate is subducted, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can create a line of volcanoes known as a volcanic arc on the continental plate side of the subduction zone. The collision between the oceanic and continental plates can also cause folding and faulting of the continental crust, leading to the formation of mountain ranges. The collision can also cause earthquakes as the plates grind against each other and release energy. One well-known example of an oceanic-continental plate collision is the Andes Mountains in South America.  Oceanic-oceanic plate collision: When two oceanic plates collide, one plate usually subducts beneath the other, creating a subduction zone. The subducted plate is forced down into the mantle, creating a deep trench , while the overriding plate forms an island arc, a curved chain of volcanic islands. As the subducted plate sinks deeper into the mantle, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can contribute to the growth of the island arc. Over time, the volcanic activity can also lead to the formation of a new oceanic crust, as magma solidifies and builds up on the seafloor. This process is known as seafloor spreading. One example of an oceanic-oceanic plate collision is the collision between the Pacific Plate and the Philippine Sea Plate, which has created the Marianas Trench and the Mariana Islands, a volcanic island arc in the western Pacific Ocean.  Continental-continental plate collision: When two continental plates collide, neither plate is subducted because both plates are too buoyant to sink. Instead, the collision can lead to the formation of massive mountain ranges and intense deformation of the continental crust. As the two continental plates collide, they crumple and fold, leading to the formation of complex mountain belts. The collision can also cause extensive faulting and fracturing of the crust, leading to the formation of deep basins and rift valleys. Over time, erosion can wear down the mountains, leading to the deposition of sedimentary rocks in the basins and valleys. One example of a continental-continental plate collision is the collision between the Indian Plate and the Eurasian Plate, which has led to the formation of the Himalayan mountain range, the tallest mountain range in the world. The collision between these two plates is ongoing, and the Himalayas continue to grow taller each year.     "
 },
 {
-  "id": "p-886",
+  "id": "p-901",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-886",
+  "url": "sec_eleventh-tectmov.html#p-901",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4726,9 +4789,9 @@ var ptx_lunr_docs = [
   "body": "  Plate Tectonic   "
 },
 {
-  "id": "p-887",
+  "id": "p-902",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-887",
+  "url": "sec_eleventh-tectmov.html#p-902",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4753,9 +4816,9 @@ var ptx_lunr_docs = [
   "body": "  Theory of Continental drift   "
 },
 {
-  "id": "p-889",
+  "id": "p-904",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-889",
+  "url": "sec_eleventh-tectmov.html#p-904",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4771,9 +4834,9 @@ var ptx_lunr_docs = [
   "body": " Plate collision   "
 },
 {
-  "id": "p-890",
+  "id": "p-905",
   "level": "2",
-  "url": "sec_eleventh-tectmov.html#p-890",
+  "url": "sec_eleventh-tectmov.html#p-905",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4798,9 +4861,9 @@ var ptx_lunr_docs = [
   "body": " Fossils    Animal fossil     Plant fossil     "
 },
 {
-  "id": "p-893",
+  "id": "p-908",
   "level": "2",
-  "url": "sec_eleventh-histgeol.html#p-893",
+  "url": "sec_eleventh-histgeol.html#p-908",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4816,9 +4879,9 @@ var ptx_lunr_docs = [
   "body": " Geological History   "
 },
 {
-  "id": "p-894",
+  "id": "p-909",
   "level": "2",
-  "url": "sec_eleventh-histgeol.html#p-894",
+  "url": "sec_eleventh-histgeol.html#p-909",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4834,9 +4897,9 @@ var ptx_lunr_docs = [
   "body": " Human Evolutionary Tree   "
 },
 {
-  "id": "p-895",
+  "id": "p-910",
   "level": "2",
-  "url": "sec_eleventh-histgeol.html#p-895",
+  "url": "sec_eleventh-histgeol.html#p-910",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5077,153 +5140,153 @@ var ptx_lunr_docs = [
   "body": "  Exercises   Body waves consist of the:  P waves only  S waves only.  P and S waves.  Surface waves.      Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.  A is 10 times more intense than B.  A is 1000 more intense than B.  B is 0.01X as intense than A.  Richter magnitude does not measure intensity.      Where is the focus with respect to the epicenter:  directly below the epicenter.  in the P wave shadow zone.  in the S wave shadow zone.  directly above the epicenter.      Which of the following could be the consequences of the underground earthquake?  cyclone.  tsunami.  a landslide.  none of the above.      Which of the following statements is false?  Most earthquakes occur at plate boundaries.  Most earthquakes can be predicted several days in advance.  Earthquakes can be caused by normal, reverse, and strike-slip faulting.  P waves travel faster than both S waves and Surface waves.      which one of the following is a volcanic rock?  granite.  basalt.  shale.  marble.      A region where the edge of one lithospheric plate slides under the edge of another plate is  Transform fault.  Divergent boundary.  Convergent boundary.  Subduction zone.     d.    Most volcanoes are found along  Divergent boundaries.  Transform faults.  Convergent boundaries.  Hotspots.     c.    Which of the follwing is a primary cause of volcanoes, earthquake, and mountain building?  solar radiation.  plate tectonics.  remanent magnetism.  hotspots.     b.    Which type of plate boundaries exists at subduction zones?  divergent.  convergent.  transform.  reverse.     Subduction zone is never located at  midocean ridge  isaland chain  continental margin  mountain range     What do paleontologists study?  Eart interior.  Time.  Fossils.  Rocks.     c.    In what time spans are eras next divided?  eons.  epochs.  ages.  periods.     d.    In which era did the dinosaurs extinct?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.      When did the giant landmass Pangea split into Laurasia and Gondwana?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.     Birds are descendend from  fish  insects  dinosaurs  mammals     Mammals became dominant in which era?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.     "
 },
 {
-  "id": "exercise-136",
+  "id": "exercise-143",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-136",
+  "url": "ex_eleventh.html#exercise-143",
   "type": "Exercise",
   "number": "11.7.1",
   "title": "",
   "body": " Body waves consist of the:  P waves only  S waves only.  P and S waves.  Surface waves.    "
 },
 {
-  "id": "exercise-137",
+  "id": "exercise-144",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-137",
+  "url": "ex_eleventh.html#exercise-144",
   "type": "Exercise",
   "number": "11.7.2",
   "title": "",
   "body": " Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.  A is 10 times more intense than B.  A is 1000 more intense than B.  B is 0.01X as intense than A.  Richter magnitude does not measure intensity.    "
 },
 {
-  "id": "exercise-138",
+  "id": "exercise-145",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-138",
+  "url": "ex_eleventh.html#exercise-145",
   "type": "Exercise",
   "number": "11.7.3",
   "title": "",
   "body": " Where is the focus with respect to the epicenter:  directly below the epicenter.  in the P wave shadow zone.  in the S wave shadow zone.  directly above the epicenter.    "
 },
 {
-  "id": "exercise-139",
+  "id": "exercise-146",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-139",
+  "url": "ex_eleventh.html#exercise-146",
   "type": "Exercise",
   "number": "11.7.4",
   "title": "",
   "body": " Which of the following could be the consequences of the underground earthquake?  cyclone.  tsunami.  a landslide.  none of the above.    "
 },
 {
-  "id": "exercise-140",
+  "id": "exercise-147",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-140",
+  "url": "ex_eleventh.html#exercise-147",
   "type": "Exercise",
   "number": "11.7.5",
   "title": "",
   "body": " Which of the following statements is false?  Most earthquakes occur at plate boundaries.  Most earthquakes can be predicted several days in advance.  Earthquakes can be caused by normal, reverse, and strike-slip faulting.  P waves travel faster than both S waves and Surface waves.    "
 },
 {
-  "id": "exercise-141",
+  "id": "exercise-148",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-141",
+  "url": "ex_eleventh.html#exercise-148",
   "type": "Exercise",
   "number": "11.7.6",
   "title": "",
   "body": " which one of the following is a volcanic rock?  granite.  basalt.  shale.  marble.    "
 },
 {
-  "id": "exercise-142",
+  "id": "exercise-149",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-142",
+  "url": "ex_eleventh.html#exercise-149",
   "type": "Exercise",
   "number": "11.7.7",
   "title": "",
   "body": " A region where the edge of one lithospheric plate slides under the edge of another plate is  Transform fault.  Divergent boundary.  Convergent boundary.  Subduction zone.     d.  "
 },
 {
-  "id": "exercise-143",
+  "id": "exercise-150",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-143",
+  "url": "ex_eleventh.html#exercise-150",
   "type": "Exercise",
   "number": "11.7.8",
   "title": "",
   "body": " Most volcanoes are found along  Divergent boundaries.  Transform faults.  Convergent boundaries.  Hotspots.     c.  "
 },
 {
-  "id": "exercise-144",
+  "id": "exercise-151",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-144",
+  "url": "ex_eleventh.html#exercise-151",
   "type": "Exercise",
   "number": "11.7.9",
   "title": "",
   "body": " Which of the follwing is a primary cause of volcanoes, earthquake, and mountain building?  solar radiation.  plate tectonics.  remanent magnetism.  hotspots.     b.  "
 },
 {
-  "id": "exercise-145",
+  "id": "exercise-152",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-145",
+  "url": "ex_eleventh.html#exercise-152",
   "type": "Exercise",
   "number": "11.7.10",
   "title": "",
   "body": " Which type of plate boundaries exists at subduction zones?  divergent.  convergent.  transform.  reverse.    "
 },
 {
-  "id": "exercise-146",
+  "id": "exercise-153",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-146",
+  "url": "ex_eleventh.html#exercise-153",
   "type": "Exercise",
   "number": "11.7.11",
   "title": "",
   "body": "Subduction zone is never located at  midocean ridge  isaland chain  continental margin  mountain range   "
 },
 {
-  "id": "exercise-147",
+  "id": "exercise-154",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-147",
+  "url": "ex_eleventh.html#exercise-154",
   "type": "Exercise",
   "number": "11.7.12",
   "title": "",
   "body": " What do paleontologists study?  Eart interior.  Time.  Fossils.  Rocks.     c.  "
 },
 {
-  "id": "exercise-148",
+  "id": "exercise-155",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-148",
+  "url": "ex_eleventh.html#exercise-155",
   "type": "Exercise",
   "number": "11.7.13",
   "title": "",
   "body": " In what time spans are eras next divided?  eons.  epochs.  ages.  periods.     d.  "
 },
 {
-  "id": "exercise-149",
+  "id": "exercise-156",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-149",
+  "url": "ex_eleventh.html#exercise-156",
   "type": "Exercise",
   "number": "11.7.14",
   "title": "",
   "body": " In which era did the dinosaurs extinct?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.    "
 },
 {
-  "id": "exercise-150",
+  "id": "exercise-157",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-150",
+  "url": "ex_eleventh.html#exercise-157",
   "type": "Exercise",
   "number": "11.7.15",
   "title": "",
   "body": " When did the giant landmass Pangea split into Laurasia and Gondwana?  Cenozoic.  Paleozoic.  Precambrian.  Mesozoic.    "
 },
 {
-  "id": "exercise-151",
+  "id": "exercise-158",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-151",
+  "url": "ex_eleventh.html#exercise-158",
   "type": "Exercise",
   "number": "11.7.16",
   "title": "",
   "body": "Birds are descendend from  fish  insects  dinosaurs  mammals   "
 },
 {
-  "id": "exercise-152",
+  "id": "exercise-159",
   "level": "2",
-  "url": "ex_eleventh.html#exercise-152",
+  "url": "ex_eleventh.html#exercise-159",
   "type": "Exercise",
   "number": "11.7.17",
   "title": "",
@@ -5239,36 +5302,36 @@ var ptx_lunr_docs = [
   "body": " Debri Belts  Asteroids are small, rocky objects that orbit the sun. There are millions of asteroids in our solar system, ranging in size from tiny pebbles to massive rocks several hundred kilometers across. Most asteroids are found in the asteroid belt , [ ] a region of space between Mars and Jupiter. Asteroids are thought to be remnants from the early solar system, left over from the formation of the planets. Studying asteroids can give us insights into the formation and evolution of the solar system, as well as provide clues about the potential hazards that these objects pose to our planet. Meteoroids can come from various sources, including the asteroid belt. Small rocky objects in asteroids belt sometimes collide with each other and create meteoroids. However, meteoroids can also come from other sources, such as comets or other objects in space. Once a meteoroid enters the Earth's atmosphere, it is called a meteor or shooting star.  A meteor shower occurs when the Earth passes through a trail of debris left behind by a comet or asteroid. As the Earth moves through this debris field, the small particles, called meteoroids, enter the Earth's atmosphere at high speeds and burn up, creating streaks of light in the sky that we call meteors or shooting stars . Meteor showers can occur at various times throughout the year, and they are often named after the constellation that appears to be the source of the meteors (the radiant). Some of the most well-known meteor showers include the Perseids (in August), the Leonids (in November), and the Geminids (in December).  The Kuiper Belt [ ] is a region of the solar system located beyond the orbit of Neptune, extending from about 30 to 50 astronomical units (AU) from the Sun. It is a vast region of space containing many small icy objects, including dwarf planets such as Pluto, Haumea, Makemake, and Eris, as well as numerous smaller bodies known as Kuiper Belt Objects (KBOs). The Kuiper Belt is thought to be the source of many short-period comets, which are believed to be icy bodies that originate from this region and are gravitationally perturbed by the gas giants, particularly Jupiter.  The Oort Cloud [ ] is a theoretical region of the outer solar system that is thought to be the source of most long-period comets. It is believed to extend from about 2,000 to 100,000 astronomical units (AU) from the Sun, which is well beyond the Kuiper Belt. The Oort Cloud is composed of icy objects, including comets, that are thought to have formed in the early solar system and were gravitationally scattered to the outer reaches of the solar system by the gas giants. The comets in the Oort Cloud can be perturbed by passing stars, which can send them on trajectories that bring them into the inner solar system, where they become visible as long-period comets. The Oort Cloud is named after Dutch astronomer Jan Oort, who first proposed its existence in 1950 based on observations of comets.      Hale-Bopp comet     Comet's orbit       Comets are celestial bodies that orbit the sun and are primarily composed of ice, dust, and rock [ ]. They are often referred to as \"dirty snowballs\" because of their composition. When a comet approaches the sun, its ice begins to vaporize, releasing gas and dust that form a glowing coma, a temporary atmosphere around the nucleus. The solar wind and radiation pressure from the sun cause the coma to form a tail that points away from the sun. Comets can have highly elliptical orbits [ ] that take them far from the sun and then back towards it, sometimes taking thousands of years to complete a single orbit. Many comets are believed to originate in the Kuiper Belt, a region beyond Neptune that contains icy bodies and small planets. Some comets have been known to collide with planets or moons, and these collisions can have significant impacts on the celestial body's surface. Comets have fascinated people for centuries and have been the subject of many myths and legends. They have also been studied extensively by astronomers, who use them as a tool to study the formation and evolution of the solar system.  "
 },
 {
-  "id": "p-969",
+  "id": "p-984",
   "level": "2",
-  "url": "subsec-debribelts.html#p-969",
+  "url": "subsec-debribelts.html#p-984",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "asteroid belt Meteoroids "
 },
 {
-  "id": "p-970",
+  "id": "p-985",
   "level": "2",
-  "url": "subsec-debribelts.html#p-970",
+  "url": "subsec-debribelts.html#p-985",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "meteor shower meteors or shooting stars "
 },
 {
-  "id": "p-971",
+  "id": "p-986",
   "level": "2",
-  "url": "subsec-debribelts.html#p-971",
+  "url": "subsec-debribelts.html#p-986",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Kuiper Belt dwarf planets Pluto, "
 },
 {
-  "id": "p-972",
+  "id": "p-987",
   "level": "2",
-  "url": "subsec-debribelts.html#p-972",
+  "url": "subsec-debribelts.html#p-987",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5284,9 +5347,9 @@ var ptx_lunr_docs = [
   "body": "    Hale-Bopp comet     Comet's orbit     "
 },
 {
-  "id": "p-973",
+  "id": "p-988",
   "level": "2",
-  "url": "subsec-debribelts.html#p-973",
+  "url": "subsec-debribelts.html#p-988",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5311,72 +5374,72 @@ var ptx_lunr_docs = [
   "body": " The Planets of Our Solar System                                                        "
 },
 {
-  "id": "p-975",
+  "id": "p-990",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-975",
+  "url": "sec_twelvth-intro.html#p-990",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Mercury Mariner 10 Messenger "
 },
 {
-  "id": "p-980",
+  "id": "p-995",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-980",
+  "url": "sec_twelvth-intro.html#p-995",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Red Planet "
 },
 {
-  "id": "p-983",
+  "id": "p-998",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-983",
+  "url": "sec_twelvth-intro.html#p-998",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Phobos and Deimos "
 },
 {
-  "id": "p-984",
+  "id": "p-999",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-984",
+  "url": "sec_twelvth-intro.html#p-999",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "red spot "
 },
 {
-  "id": "p-985",
+  "id": "p-1000",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-985",
+  "url": "sec_twelvth-intro.html#p-1000",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Europa "
 },
 {
-  "id": "p-987",
+  "id": "p-1002",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-987",
+  "url": "sec_twelvth-intro.html#p-1002",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Titan "
 },
 {
-  "id": "p-988",
+  "id": "p-1003",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-988",
+  "url": "sec_twelvth-intro.html#p-1003",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Miranda "
 },
 {
-  "id": "p-989",
+  "id": "p-1004",
   "level": "2",
-  "url": "sec_twelvth-intro.html#p-989",
+  "url": "sec_twelvth-intro.html#p-1004",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5401,27 +5464,27 @@ var ptx_lunr_docs = [
   "body": " Our Moon    The Moon     Phases of the Moon     "
 },
 {
-  "id": "p-991",
+  "id": "p-1006",
   "level": "2",
-  "url": "sec_twelvth-moon.html#p-991",
+  "url": "sec_twelvth-moon.html#p-1006",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Lunar Layers: "
 },
 {
-  "id": "p-992",
+  "id": "p-1007",
   "level": "2",
-  "url": "sec_twelvth-moon.html#p-992",
+  "url": "sec_twelvth-moon.html#p-1007",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "atmosphere "
 },
 {
-  "id": "p-993",
+  "id": "p-1008",
   "level": "2",
-  "url": "sec_twelvth-moon.html#p-993",
+  "url": "sec_twelvth-moon.html#p-1008",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5437,27 +5500,27 @@ var ptx_lunr_docs = [
   "body": " Moon Song   "
 },
 {
-  "id": "p-994",
+  "id": "p-1009",
   "level": "2",
-  "url": "sec_twelvth-moon.html#p-994",
+  "url": "sec_twelvth-moon.html#p-1009",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "New Moon: Waxing Crescent: First Quarter: Waxing Gibbous: Full Moon: Waning Gibbous: Third Quarter: Waning Crescent: sidereal month synodic month "
 },
 {
-  "id": "p-995",
+  "id": "p-1010",
   "level": "2",
-  "url": "sec_twelvth-moon.html#p-995",
+  "url": "sec_twelvth-moon.html#p-1010",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "solar eclipse lunar eclipse "
 },
 {
-  "id": "p-996",
+  "id": "p-1011",
   "level": "2",
-  "url": "sec_twelvth-moon.html#p-996",
+  "url": "sec_twelvth-moon.html#p-1011",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5581,90 +5644,90 @@ var ptx_lunr_docs = [
   "body": "  Exercise  What are the three main parts of a comet?  Nucleus, coma, and tail  Mantle, crust, and core  Lithosphere, hydrosphere, and atmosphere  Ionosphere, thermosphere, and exosphere    From where the Meteoroids come  it come from asteroids, comets, and the debri belt  it come from the sun  it come from the moon  meteorids are member of the solar system    What is the name of the region in our solar system where comets originate?  Asteroid belt  Kuiper belt  Oort cloud  Heliopause    c.   Why are the planets visble to us?  They are hot enough to radiate light  They reflect sun light  They reflect star light  Their atmospheres emit light due to solar wind    Which planet is sometimes referred to as the \"Red Planet\" due to its reddish appearance?  Earth  Jupiter  Mars  Saturn    c.   Which planet is known for having a thick atmosphere of carbon dioxide?  Mars  Venus  Uranus  Neptune    b.   What is the smallest planet in our solar system?  Mars  Mercury  Uranus  Neptune    Which planet looks nearly to the moon?  Jupiter  Mercury  Venus  Saturn    c.   Name two planets that do not have satellites  Jupiter and Saturn  Mercury and Venus  Earth and Mars  Uranus and Neptune    What is a lunar eclipse?  When the Moon passes between the Earth and the Sun  When the Earth passes between the Sun and the Moon  When the Moon passes through the Earth's shadow  When the Earth passes through the Moon's shadow    "
 },
 {
-  "id": "exercise-153",
+  "id": "exercise-160",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-153",
+  "url": "ex_twelvth.html#exercise-160",
   "type": "Exercise",
   "number": "12.5.1",
   "title": "",
   "body": "What are the three main parts of a comet?  Nucleus, coma, and tail  Mantle, crust, and core  Lithosphere, hydrosphere, and atmosphere  Ionosphere, thermosphere, and exosphere   "
 },
 {
-  "id": "exercise-154",
+  "id": "exercise-161",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-154",
+  "url": "ex_twelvth.html#exercise-161",
   "type": "Exercise",
   "number": "12.5.2",
   "title": "",
   "body": "From where the Meteoroids come  it come from asteroids, comets, and the debri belt  it come from the sun  it come from the moon  meteorids are member of the solar system   "
 },
 {
-  "id": "exercise-155",
+  "id": "exercise-162",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-155",
+  "url": "ex_twelvth.html#exercise-162",
   "type": "Exercise",
   "number": "12.5.3",
   "title": "",
   "body": "What is the name of the region in our solar system where comets originate?  Asteroid belt  Kuiper belt  Oort cloud  Heliopause    c.  "
 },
 {
-  "id": "exercise-156",
+  "id": "exercise-163",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-156",
+  "url": "ex_twelvth.html#exercise-163",
   "type": "Exercise",
   "number": "12.5.4",
   "title": "",
   "body": "Why are the planets visble to us?  They are hot enough to radiate light  They reflect sun light  They reflect star light  Their atmospheres emit light due to solar wind   "
 },
 {
-  "id": "exercise-157",
+  "id": "exercise-164",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-157",
+  "url": "ex_twelvth.html#exercise-164",
   "type": "Exercise",
   "number": "12.5.5",
   "title": "",
   "body": "Which planet is sometimes referred to as the \"Red Planet\" due to its reddish appearance?  Earth  Jupiter  Mars  Saturn    c.  "
 },
 {
-  "id": "exercise-158",
+  "id": "exercise-165",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-158",
+  "url": "ex_twelvth.html#exercise-165",
   "type": "Exercise",
   "number": "12.5.6",
   "title": "",
   "body": "Which planet is known for having a thick atmosphere of carbon dioxide?  Mars  Venus  Uranus  Neptune    b.  "
 },
 {
-  "id": "exercise-159",
+  "id": "exercise-166",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-159",
+  "url": "ex_twelvth.html#exercise-166",
   "type": "Exercise",
   "number": "12.5.7",
   "title": "",
   "body": "What is the smallest planet in our solar system?  Mars  Mercury  Uranus  Neptune   "
 },
 {
-  "id": "exercise-160",
+  "id": "exercise-167",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-160",
+  "url": "ex_twelvth.html#exercise-167",
   "type": "Exercise",
   "number": "12.5.8",
   "title": "",
   "body": "Which planet looks nearly to the moon?  Jupiter  Mercury  Venus  Saturn    c.  "
 },
 {
-  "id": "exercise-161",
+  "id": "exercise-168",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-161",
+  "url": "ex_twelvth.html#exercise-168",
   "type": "Exercise",
   "number": "12.5.9",
   "title": "",
   "body": "Name two planets that do not have satellites  Jupiter and Saturn  Mercury and Venus  Earth and Mars  Uranus and Neptune   "
 },
 {
-  "id": "exercise-162",
+  "id": "exercise-169",
   "level": "2",
-  "url": "ex_twelvth.html#exercise-162",
+  "url": "ex_twelvth.html#exercise-169",
   "type": "Exercise",
   "number": "12.5.10",
   "title": "",
@@ -5689,9 +5752,9 @@ var ptx_lunr_docs = [
   "body": "    Refracting Telescope     Reflecting Telescope     Radio Telescope     "
 },
 {
-  "id": "p-1033",
+  "id": "p-1048",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1033",
+  "url": "sec_thirteenth-observ.html#p-1048",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5707,9 +5770,9 @@ var ptx_lunr_docs = [
   "body": " The Sun    Sunspot     Nuclear Fusion     Solar Spectrum     "
 },
 {
-  "id": "p-1036",
+  "id": "p-1051",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1036",
+  "url": "sec_thirteenth-observ.html#p-1051",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5725,9 +5788,9 @@ var ptx_lunr_docs = [
   "body": " Sun's parts   "
 },
 {
-  "id": "p-1037",
+  "id": "p-1052",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1037",
+  "url": "sec_thirteenth-observ.html#p-1052",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5743,27 +5806,27 @@ var ptx_lunr_docs = [
   "body": " Aurora   "
 },
 {
-  "id": "p-1040",
+  "id": "p-1055",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1040",
+  "url": "sec_thirteenth-observ.html#p-1055",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Note: "
 },
 {
-  "id": "p-1041",
+  "id": "p-1056",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1041",
+  "url": "sec_thirteenth-observ.html#p-1056",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Parallax Method: Spectroscopic Method: Main Sequence Fitting: Cepheid Variables: Supernova Brightness: "
 },
 {
-  "id": "p-1042",
+  "id": "p-1057",
   "level": "2",
-  "url": "sec_thirteenth-observ.html#p-1042",
+  "url": "sec_thirteenth-observ.html#p-1057",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5788,45 +5851,45 @@ var ptx_lunr_docs = [
   "body": " H-R Diagram    HR Diagram     Supernova     "
 },
 {
-  "id": "p-1043",
+  "id": "p-1058",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1043",
+  "url": "sec_thirteenth-intro.html#p-1058",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Hertzsprung-Russell Diagram Temperature: Luminosity: Main sequence: Red giants and supergiants: White dwarfs: Stellar evolution: "
 },
 {
-  "id": "p-1044",
+  "id": "p-1059",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1044",
+  "url": "sec_thirteenth-intro.html#p-1059",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "brown dwarf "
 },
 {
-  "id": "p-1045",
+  "id": "p-1060",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1045",
+  "url": "sec_thirteenth-intro.html#p-1060",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "black dwarf "
 },
 {
-  "id": "p-1047",
+  "id": "p-1062",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1047",
+  "url": "sec_thirteenth-intro.html#p-1062",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "O, B, A, F, G, K, M Sun "
 },
 {
-  "id": "p-1048",
+  "id": "p-1063",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1048",
+  "url": "sec_thirteenth-intro.html#p-1063",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5842,18 +5905,18 @@ var ptx_lunr_docs = [
   "body": "    Neutron Star     Pulsars     Black Hole     "
 },
 {
-  "id": "p-1049",
+  "id": "p-1064",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1049",
+  "url": "sec_thirteenth-intro.html#p-1064",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "pulsar "
 },
 {
-  "id": "p-1052",
+  "id": "p-1067",
   "level": "2",
-  "url": "sec_thirteenth-intro.html#p-1052",
+  "url": "sec_thirteenth-intro.html#p-1067",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5995,99 +6058,99 @@ var ptx_lunr_docs = [
   "body": "  Exercise  A star with high luminosity and low temperature would be located in which part of the HR diagram?  Upper left  Upper right  Lower left  Lower right    Which of the following statements about the HR diagram is true?  Stars on the main sequence fuse hydrogen into helium in their cores  The HR diagram can be used to determine the distance to a star  Red giants are more massive than main sequence stars  The HR diagram only applies to stars in our galaxy    What is the significance of the position of a star on the HR diagram?  It indicates the star's distance from Earth  It provides information about the star's chemical composition  It reveals the star's age and evolutionary stage  It determines the star's brightness in the night sky    c.   What is the Sun's approximate distance from Earth?  93,000 miles  93,000 kilometers  93 million miles  93 million kilometers    c.   What is the Sun's approximate distance from Earth?  93,000 miles  93,000 kilometers  93 million miles  93 million kilometers    c.   What is the Sun mostly made of?  Hydrogen and helium  Carbon and oxygen  Iron and nickel  Silicon and magnesium    What is the Sun's primary source of energy?  Nuclear fusion  Solar winds  Electromagnetic radiation  Gravitational energym    Which type of star is most likely to end its life as a black hole?  Red giant  Main sequence star  White dwarf  Blue supergiant    d.   What happens to a star when it runs out of fuel for nuclear fusion?  It explodes in a supernova  It collapses into a black hole  It becomes a white dwarf  It continues to shine by burning its outer layers    What happens to the core of a massive star after a supernova explosion?  It collapses into a black hole  It becomes a neutron star  It becomes a white dwarf  It continues to shine as a red giant    What is the ultimate fate of a low-mass star, like the Sun?  It becomes a black hole  It explodes in a supernova  It becomes a white dwarf  It becomes a neutron star    "
 },
 {
-  "id": "exercise-163",
+  "id": "exercise-170",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-163",
+  "url": "ex_thirteenth.html#exercise-170",
   "type": "Exercise",
   "number": "13.4.1",
   "title": "",
   "body": "A star with high luminosity and low temperature would be located in which part of the HR diagram?  Upper left  Upper right  Lower left  Lower right   "
 },
 {
-  "id": "exercise-164",
+  "id": "exercise-171",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-164",
+  "url": "ex_thirteenth.html#exercise-171",
   "type": "Exercise",
   "number": "13.4.2",
   "title": "",
   "body": "Which of the following statements about the HR diagram is true?  Stars on the main sequence fuse hydrogen into helium in their cores  The HR diagram can be used to determine the distance to a star  Red giants are more massive than main sequence stars  The HR diagram only applies to stars in our galaxy   "
 },
 {
-  "id": "exercise-165",
+  "id": "exercise-172",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-165",
+  "url": "ex_thirteenth.html#exercise-172",
   "type": "Exercise",
   "number": "13.4.3",
   "title": "",
   "body": "What is the significance of the position of a star on the HR diagram?  It indicates the star's distance from Earth  It provides information about the star's chemical composition  It reveals the star's age and evolutionary stage  It determines the star's brightness in the night sky    c.  "
 },
 {
-  "id": "exercise-166",
+  "id": "exercise-173",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-166",
+  "url": "ex_thirteenth.html#exercise-173",
   "type": "Exercise",
   "number": "13.4.4",
   "title": "",
   "body": "What is the Sun's approximate distance from Earth?  93,000 miles  93,000 kilometers  93 million miles  93 million kilometers    c.  "
 },
 {
-  "id": "exercise-167",
+  "id": "exercise-174",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-167",
+  "url": "ex_thirteenth.html#exercise-174",
   "type": "Exercise",
   "number": "13.4.5",
   "title": "",
   "body": "What is the Sun's approximate distance from Earth?  93,000 miles  93,000 kilometers  93 million miles  93 million kilometers    c.  "
 },
 {
-  "id": "exercise-168",
+  "id": "exercise-175",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-168",
+  "url": "ex_thirteenth.html#exercise-175",
   "type": "Exercise",
   "number": "13.4.6",
   "title": "",
   "body": "What is the Sun mostly made of?  Hydrogen and helium  Carbon and oxygen  Iron and nickel  Silicon and magnesium   "
 },
 {
-  "id": "exercise-169",
+  "id": "exercise-176",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-169",
+  "url": "ex_thirteenth.html#exercise-176",
   "type": "Exercise",
   "number": "13.4.7",
   "title": "",
   "body": "What is the Sun's primary source of energy?  Nuclear fusion  Solar winds  Electromagnetic radiation  Gravitational energym   "
 },
 {
-  "id": "exercise-170",
+  "id": "exercise-177",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-170",
+  "url": "ex_thirteenth.html#exercise-177",
   "type": "Exercise",
   "number": "13.4.8",
   "title": "",
   "body": "Which type of star is most likely to end its life as a black hole?  Red giant  Main sequence star  White dwarf  Blue supergiant    d.  "
 },
 {
-  "id": "exercise-171",
+  "id": "exercise-178",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-171",
+  "url": "ex_thirteenth.html#exercise-178",
   "type": "Exercise",
   "number": "13.4.9",
   "title": "",
   "body": "What happens to a star when it runs out of fuel for nuclear fusion?  It explodes in a supernova  It collapses into a black hole  It becomes a white dwarf  It continues to shine by burning its outer layers   "
 },
 {
-  "id": "exercise-172",
+  "id": "exercise-179",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-172",
+  "url": "ex_thirteenth.html#exercise-179",
   "type": "Exercise",
   "number": "13.4.10",
   "title": "",
   "body": "What happens to the core of a massive star after a supernova explosion?  It collapses into a black hole  It becomes a neutron star  It becomes a white dwarf  It continues to shine as a red giant   "
 },
 {
-  "id": "exercise-173",
+  "id": "exercise-180",
   "level": "2",
-  "url": "ex_thirteenth.html#exercise-173",
+  "url": "ex_thirteenth.html#exercise-180",
   "type": "Exercise",
   "number": "13.4.11",
   "title": "",
@@ -6112,27 +6175,27 @@ var ptx_lunr_docs = [
   "body": " Galaxies    Model of Galaxies     Milky Way     Andromeda     "
 },
 {
-  "id": "p-1097",
+  "id": "p-1112",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1097",
+  "url": "sec_fourteenth-intro.html#p-1112",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "black hole "
 },
 {
-  "id": "p-1098",
+  "id": "p-1113",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1098",
+  "url": "sec_fourteenth-intro.html#p-1113",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Local Group Andromeda galaxy open and globular clusters "
 },
 {
-  "id": "p-1103",
+  "id": "p-1118",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1103",
+  "url": "sec_fourteenth-intro.html#p-1118",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6148,36 +6211,36 @@ var ptx_lunr_docs = [
   "body": "    Crab Nebula     Eye Nebula     Horsehead Nebula     "
 },
 {
-  "id": "p-1104",
+  "id": "p-1119",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1104",
+  "url": "sec_fourteenth-intro.html#p-1119",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "birthplaces of stars "
 },
 {
-  "id": "p-1105",
+  "id": "p-1120",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1105",
+  "url": "sec_fourteenth-intro.html#p-1120",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Dark matter Dark energy "
 },
 {
-  "id": "p-1106",
+  "id": "p-1121",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1106",
+  "url": "sec_fourteenth-intro.html#p-1121",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Quasars "
 },
 {
-  "id": "p-1107",
+  "id": "p-1122",
   "level": "2",
-  "url": "sec_fourteenth-intro.html#p-1107",
+  "url": "sec_fourteenth-intro.html#p-1122",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6274,45 +6337,45 @@ var ptx_lunr_docs = [
   "body": "  Exercise  What is the universe?  The solar system  The Milky Way galaxy  Everything that exists, including all matter and energy  The region of space beyond the Earth's atmosphere    c.   What is dark energy?  A mysterious force that is causing the expansion of the universe to accelerate  A type of energy that is invisible to telescopes  A force that opposes gravity  A force that causes galaxies to collide with each other    a.   What is a galaxy?  A group of stars that orbit around a common center of mass  A single star  A black hole  A planet    a.   Which force keeps stars in a galaxy from flying off into space?  Electromagnetic force  Weak nuclear force  Strong nuclear force  Gravitational force    d.   What is Hubble's law?  The law that describes the expansion of the universe  The law that describes the gravitational attraction between two bodies  The law that describes the conservation of energy in a closed system  The law that describes the behavior of waves in a medium    a.   "
 },
 {
-  "id": "exercise-174",
+  "id": "exercise-181",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-174",
+  "url": "ex_fourteenth.html#exercise-181",
   "type": "Exercise",
   "number": "14.3.1",
   "title": "",
   "body": "What is the universe?  The solar system  The Milky Way galaxy  Everything that exists, including all matter and energy  The region of space beyond the Earth's atmosphere    c.  "
 },
 {
-  "id": "exercise-175",
+  "id": "exercise-182",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-175",
+  "url": "ex_fourteenth.html#exercise-182",
   "type": "Exercise",
   "number": "14.3.2",
   "title": "",
   "body": "What is dark energy?  A mysterious force that is causing the expansion of the universe to accelerate  A type of energy that is invisible to telescopes  A force that opposes gravity  A force that causes galaxies to collide with each other    a.  "
 },
 {
-  "id": "exercise-176",
+  "id": "exercise-183",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-176",
+  "url": "ex_fourteenth.html#exercise-183",
   "type": "Exercise",
   "number": "14.3.3",
   "title": "",
   "body": "What is a galaxy?  A group of stars that orbit around a common center of mass  A single star  A black hole  A planet    a.  "
 },
 {
-  "id": "exercise-177",
+  "id": "exercise-184",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-177",
+  "url": "ex_fourteenth.html#exercise-184",
   "type": "Exercise",
   "number": "14.3.4",
   "title": "",
   "body": "Which force keeps stars in a galaxy from flying off into space?  Electromagnetic force  Weak nuclear force  Strong nuclear force  Gravitational force    d.  "
 },
 {
-  "id": "exercise-178",
+  "id": "exercise-185",
   "level": "2",
-  "url": "ex_fourteenth.html#exercise-178",
+  "url": "ex_fourteenth.html#exercise-185",
   "type": "Exercise",
   "number": "14.3.5",
   "title": "",
