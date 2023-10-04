@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<!--********************************************-->
+<!--*       Generated from PreTeXt source      *-->
+<!--*                                          *-->
+<!--*         https://pretextbook.org          *-->
+<!--*                                          *-->
+<!--********************************************-->
+<html lang="en-US">
+<head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Globular Cluster</title>
+<meta name="Keywords" content="Authored in PreTeXt">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:type" content="book">
+<meta property="book:title" content="Physical Science">
+<meta property="book:author" content="Dr. Sunil Karna">
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script><script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+window.MathJax = {
+  tex: {
+    inlineMath: [['\\(','\\)']],
+    tags: "none",
+    tagSide: "right",
+    tagIndent: ".8em",
+    packages: {'[+]': ['base', 'extpfeil', 'ams', 'amscd', 'color', 'newcommand', 'knowl']}
+  },
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore|ignore-math",
+    processHtmlClass: "process-math",
+    renderActions: {
+        findScript: [10, function (doc) {
+            document.querySelectorAll('script[type^="math/tex"]').forEach(function(node) {
+                var display = !!node.type.match(/; *mode=display/);
+                var math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
+                var text = document.createTextNode('');
+                node.parentNode.replaceChild(text, node);
+                math.start = {node: text, delim: '', n: 0};
+                math.end = {node: text, delim: '', n: 0};
+                doc.math.push(math);
+            });
+        }, '']
+    },
+  },
+  chtml: {
+    scale: 0.98,
+    mtextInheritFont: true
+  },
+  loader: {
+    load: ['input/asciimath', '[tex]/extpfeil', '[tex]/amscd', '[tex]/color', '[tex]/newcommand', '[pretext]/mathjaxknowl3.js'],
+    paths: {pretext: "https://pretextbook.org/js/lib"},
+  },
+  startup: {
+    pageReady() {
+      return MathJax.startup.defaultPageReady().then(function () {
+      console.log("in ready function");
+      rsMathReady();
+      }
+    )}
+  },
+};
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="https://pretextbook.org/js/0.2/pretext_search.js"></script><link href="https://pretextbook.org/css/0.6/pretext_search.css" rel="stylesheet" type="text/css">
+<script>js_version = 0.2</script><script src="https://pretextbook.org/js/lib/jquery.min.js"></script><script src="https://pretextbook.org/js/lib/jquery.sticky.js"></script><script src="https://pretextbook.org/js/lib/jquery.espy.min.js"></script><script src="https://pretextbook.org/js/0.2/pretext.js"></script><script>miniversion=0.1</script><script src="https://pretextbook.org/js/0.2/pretext_add_on.js?x=1"></script><script src="https://pretextbook.org/js/0.2/user_preferences.js"></script><script src="https://pretextbook.org/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&amp;family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Tinos:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.cdnfonts.com/css/dejavu-serif" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wdth,wght@8..144,50..150,100..900&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@75..100,300..800&amp;display=swap" rel="stylesheet">
+<link href="https://pretextbook.org/css/0.6/pretext.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/pretext_add_on.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/shell_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/banner_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/navbar_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/toc_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/knowls_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/style_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/colors_blue_green.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.6/setcolors.css" rel="stylesheet" type="text/css">
+</head>
+<body class="pretext book ignore-math">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead"><div class="ptx-banner">
+<a id="logo-link" href=""></a><div class="title-container">
+<h1 class="heading"><a href="my-great-book.html"><span class="title">Physical Science:</span> <span class="subtitle">GNSC105</span></a></h1>
+<p class="byline">Dr. Sunil Karna</p>
+</div>
+<div id="searchresultsplaceholder" style="display: none">
+<button id="closesearchresults" onclick="document.getElementById('searchresultsplaceholder').style.display = 'none'; return false;">x</button><h2>Search Results: <span id="searchterms"></span>
+</h2>
+<div id="searchempty"><span>No results.</span></div>
+<ol id="searchresults"></ol>
+</div>
+</div></header><nav id="ptx-navbar" class="navbar"><button class="toc-toggle button" aria-label="Show or hide table of contents"><span class="icon">☰</span><span class="name">Contents</span></button><a class="index-button button" href="index-1.html" title="Index"><span class="name">Index</span></a><button id="user-preferences-button" class="user-preferences-button button" title="Modify user preferences"><span id="theavatarbutton" class="name">You!</span><div id="preferences_menu_holder" class="hidden"><ol id="preferences_menu" style="font-family: 'Roboto Serif', serif;">
+<li data-env="avatar" tabindex="-1">Choose avatar<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden avatar">
+<li data-val="You!" tabindex="-1">
+<span id="theYou!" class="avatarcheck">✔️</span>You!</li>
+<li data-val="😺" tabindex="-1">
+<span id="the😺" class="avatarcheck"></span>😺</li>
+<li data-val="👤" tabindex="-1">
+<span id="the👤" class="avatarcheck"></span>👤</li>
+<li data-val="👽" tabindex="-1">
+<span id="the👽" class="avatarcheck"></span>👽</li>
+<li data-val="🐶" tabindex="-1">
+<span id="the🐶" class="avatarcheck"></span>🐶</li>
+<li data-val="🐼" tabindex="-1">
+<span id="the🐼" class="avatarcheck"></span>🐼</li>
+<li data-val="🌈" tabindex="-1">
+<span id="the🌈" class="avatarcheck"></span>🌈</li>
+</ol>
+</li>
+<li data-env="fontfamily" tabindex="-1">Font family<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden fontfamily">
+<li data-val="face" data-change="OS" tabindex="-1" style="font-family: 'Open Sans'">
+<span id="theOS" class="ffcheck">✔️</span><span class="name">Open Sans</span><span class="sample">AaBbCc 123 PreTeXt</span>
+</li>
+<li data-val="face" data-change="RS" tabindex="-1" style="font-family: 'Roboto Serif'">
+<span id="theRS" class="ffcheck"></span><span class="name">Roboto Serif</span><span class="sample">AaBbCc 123 PreTeXt</span>
+</li>
+</ol>
+</li>
+<li data-env="font" tabindex="-1">Adjust font<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden fonts">
+<li>Size</li>
+<li><span id="thesize">12</span></li>
+<li data-val="size" data-change="-1" tabindex="-1" style="font-size: 80%">Smaller</li>
+<li data-val="size" data-change="1" tabindex="-1" style="font-size: 110%">Larger</li>
+<li>Width</li>
+<li><span id="thewdth">100</span></li>
+<li data-val="wdth" data-change="-5" tabindex="-1" style="font-variation-settings: 'wdth' 60">narrower</li>
+<li data-val="wdth" data-change="5" tabindex="-1" style="font-variation-settings: 'wdth' 150">wider</li>
+<li>Weight</li>
+<li><span id="thewght">400</span></li>
+<li data-val="wght" data-change="-50" tabindex="-1" style="font-weight: 200">thinner</li>
+<li data-val="wght" data-change="50" tabindex="-1" style="font-weight: 700">heavier</li>
+<li>Letter spacing</li>
+<li>
+<span id="thelspace">0</span><span class="byunits">/200</span>
+</li>
+<li data-val="lspace" data-change="-1" tabindex="-1">closer</li>
+<li data-val="lspace" data-change="1" tabindex="-1">f a r t h e r</li>
+<li>Word spacing</li>
+<li>
+<span id="thewspace">0</span><span class="byunits">/50</span>
+</li>
+<li data-val="wspace" data-change="-1" tabindex="-1">smaller gap </li>
+<li data-val="wspace" data-change="1" tabindex="-1">larger gap</li>
+<li>Line Spacing</li>
+<li>
+<span id="theheight">135</span><span class="byunits">/100</span>
+</li>
+<li data-val="height" data-change="-5" tabindex="-1" style="line-height: 1">closer<br>together</li>
+<li data-val="height" data-change="5" tabindex="-1" style="line-height: 1.75">further<br>apart</li>
+</ol>
+</li>
+<li data-env="atmosphere" tabindex="-1">Light/dark mode<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden atmosphere">
+<li data-val="default" tabindex="-1">
+<span id="thedefault" class="atmospherecheck">✔️</span>default</li>
+<li data-val="pastel" tabindex="-1">
+<span id="thepastel" class="atmospherecheck"></span>pastel</li>
+<li data-val="darktwilight" tabindex="-1">
+<span id="thedarktwilight" class="atmospherecheck"></span>twilight</li>
+<li data-val="dark" tabindex="-1">
+<span id="thedark" class="atmospherecheck"></span>dark</li>
+<li data-val="darkmidnight" tabindex="-1">
+<span id="thedarkmidnight" class="atmospherecheck"></span>midnight</li>
+</ol>
+</li>
+<li data-env="ruler" tabindex="-1">Reading ruler<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden ruler">
+<li data-val="none" tabindex="-1">
+<span id="thenone" class="rulercheck">✔️</span>none</li>
+<li data-val="underline" tabindex="-1">
+<span id="theunderline" class="rulercheck"></span>underline</li>
+<li data-val="lunderline" tabindex="-1">
+<span id="thelunderline" class="rulercheck"></span>L-underline</li>
+<li data-val="greybar" tabindex="-1">
+<span id="thegreybar" class="rulercheck"></span>grey bar</li>
+<li data-val="lightbox" tabindex="-1">
+<span id="thelightbox" class="rulercheck"></span>light box</li>
+<li data-val="sunrise" tabindex="-1">
+<span id="thesunrise" class="rulercheck"></span>sunrise</li>
+<li data-val="sunriseunderline" tabindex="-1">
+<span id="thesunriseunderline" class="rulercheck"></span>sunrise underline</li>
+<li class="moveQ">Motion by:</li>
+<li data-val="mouse" tabindex="-1">
+<span id="themouse" class="motioncheck">✔️</span>follow the mouse</li>
+<li data-val="arrow" tabindex="-1">
+<span id="thearrow" class="motioncheck"></span>up/down arrows - not yet</li>
+<li data-val="eye" tabindex="-1">
+<span id="theeye" class="motioncheck"></span>eye tracking - not yet</li>
+</ol>
+</li>
+</ol></div></button><span class="treebuttons"><a class="previous-button button" href="subsec-andromeda.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="up-button button" href="sec_fourteenth-intro.html" title="Up"><span class="icon">^</span><span class="name">Up</span></a><a class="next-button button" href="subsec-magelenic.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a></span><div class="searchbox"><div class="searchwidget">
+<input id="ptxsearch" type="text" name="terms" placeholder="Search" onchange="doSearch()"><button id="searchbutton" type="button" onclick="doSearch()">🔍</button>
+</div></div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\N}{\mathbb N}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\Q}{\mathbb Q}
+\newcommand{\R}{\mathbb R}
+\newcommand{\T}{\mathcal T}
+\newcommand{\lt}{&lt;}
+\newcommand{\gt}{&gt;}
+\newcommand{\amp}{&amp;}
+\definecolor{fillinmathshade}{gray}{0.9}
+\newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
+\)</span></div>
+<div class="ptx-page">
+<div id="ptx-sidebar"><nav id="ptx-toc" class="depth3"><ul class="structural">
+<li>
+<div class="toc-item"><a href="meta_frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="colophon-1.html" class="internal"><span class="title">Colophon</span></a></div></li>
+<li><div class="toc-item"><a href="dedication-1.html" class="internal"><span class="title">Dedication</span></a></div></li>
+<li><div class="toc-item"><a href="acknowledgement-1.html" class="internal"><span class="title">Acknowledgements</span></a></div></li>
+<li><div class="toc-item"><a href="meta_frontmatter-preface.html" class="internal"><span class="title">Preface</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_first.html" class="internal"><span class="codenumber">1</span> <span class="title">Scientific Method</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="sec_first-intro.html" class="internal"><span class="codenumber">1.1</span> <span class="title">Significant Figures</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_rn-subsection.html" class="internal"><span class="codenumber">1.1.1</span> <span class="title">Rounding off the Numbers</span></a></div></li>
+<li><div class="toc-item"><a href="subsubsec_mosf_subsection.html" class="internal"><span class="codenumber">1.1.2</span> <span class="title">Mathematical Operations with Significant Figures</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_sr_subsection.html" class="internal"><span class="codenumber">1.1.3</span> <span class="title">Science and Religion</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_first-obs.html" class="internal"><span class="codenumber">1.2</span> <span class="title">Ancient Observations</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_rm-subsection.html" class="internal"><span class="codenumber">1.2.1</span> <span class="title">Retrograde Motion</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_et-subsection.html" class="internal"><span class="codenumber">1.2.2</span> <span class="title">Tides</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_unit_convers.html" class="internal"><span class="codenumber">1.3</span> <span class="title">Units and Measurements</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_du-subsection.html" class="internal"><span class="codenumber">1.3.1</span> <span class="title">Derived Units</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_cu-subsection.html" class="internal"><span class="codenumber">1.3.2</span> <span class="title">Conversion of Units</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_cf-subsection.html" class="internal"><span class="codenumber">1.3.3</span> <span class="title">Conversion Factors</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="sec_first-examples.html" class="internal"><span class="codenumber">1.4</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_first.html" class="internal"><span class="codenumber">1.5</span> <span class="title">Exercise</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_second.html" class="internal"><span class="codenumber">2</span> <span class="title">Motion</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="sec_second-intro.html" class="internal"><span class="codenumber">2.1</span> <span class="title">Describing Motion</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_2em-subsection.html" class="internal"><span class="codenumber">2.1.1</span> <span class="title">Equations of Motion</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_2ff-subsection.html" class="internal"><span class="codenumber">2.1.2</span> <span class="title">Free Fall</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_2pm-subsection.html" class="internal"><span class="codenumber">2.1.3</span> <span class="title">Projectile Motion</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_second-force.html" class="internal"><span class="codenumber">2.2</span> <span class="title">Force</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-cf-subsection.html" class="internal"><span class="codenumber">2.2.1</span> <span class="title">Contact Forces</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_nlm-subsection.html" class="internal"><span class="codenumber">2.2.2</span> <span class="title">Newton’s Laws of Motion</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-mometum-subsection.html" class="internal"><span class="codenumber">2.2.3</span> <span class="title">Momentum</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-ucm-subsection.html" class="internal"><span class="codenumber">2.2.4</span> <span class="title">Uniform Circular Motion</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_2nlg-subsection.html" class="internal"><span class="codenumber">2.2.5</span> <span class="title">Newton’s Law of Gravitation</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-escape.html" class="internal"><span class="codenumber">2.2.6</span> <span class="title">Escape Velocity</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="sec_second-examples.html" class="internal"><span class="codenumber">2.3</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_second.html" class="internal"><span class="codenumber">2.4</span> <span class="title">Exercise</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_third.html" class="internal"><span class="codenumber">3</span> <span class="title">Energy</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="sec_third-intro.html" class="internal"><span class="codenumber">3.1</span> <span class="title">Work, Energy, and Power</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_wep-subsection.html" class="internal"><span class="codenumber">3.1.1</span> <span class="title">Work-Energy Theorem</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-power-subsection.html" class="internal"><span class="codenumber">3.1.2</span> <span class="title">power</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_third-conserv.html" class="internal"><span class="codenumber">3.2</span> <span class="title">Conservation Principles</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_ce-subsection.html" class="internal"><span class="codenumber">3.2.1</span> <span class="title">Principle of Conservation of Energy</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_3cm-subsection.html" class="internal"><span class="codenumber">3.2.2</span> <span class="title">Conservation of Momentum</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_3col-subsection.html" class="internal"><span class="codenumber">3.2.3</span> <span class="title">Collision</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_3am-subsection.html" class="internal"><span class="codenumber">3.2.4</span> <span class="title">Angular Momentum</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-torque.html" class="internal"><span class="codenumber">3.2.5</span> <span class="title">Torque</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-cam.html" class="internal"><span class="codenumber">3.2.6</span> <span class="title">Conservation of Angular Momentum</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="sec_third-examples.html" class="internal"><span class="codenumber">3.3</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_third.html" class="internal"><span class="codenumber">3.4</span> <span class="title">Exercise</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_fourth.html" class="internal"><span class="codenumber">4</span> <span class="title">Matter and Heat</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="sec_fourth-intro.html" class="internal"><span class="codenumber">4.1</span> <span class="title">Thermometers</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_qh-subsection.html" class="internal"><span class="codenumber">4.1.1</span> <span class="title">Quantity of Heat</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-sh.html" class="internal"><span class="codenumber">4.1.2</span> <span class="title">Specific Heat</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-lh.html" class="internal"><span class="codenumber">4.1.3</span> <span class="title">Latent Heat</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-ht-subsection.html" class="internal"><span class="codenumber">4.1.4</span> <span class="title">Heat Transfer</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_entropy-subsection.html" class="internal"><span class="codenumber">4.1.5</span> <span class="title">Entropy</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_fourth-fluid.html" class="internal"><span class="codenumber">4.2</span> <span class="title">Fluid</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_ap-subsection.html" class="internal"><span class="codenumber">4.2.1</span> <span class="title">Archimedes’ Principle</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_ktg-subsection.html" class="internal"><span class="codenumber">4.2.2</span> <span class="title">Kinetic Theory of Gases</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_gl-subsection.html" class="internal"><span class="codenumber">4.2.3</span> <span class="title">The Gas Laws</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="sec_fourth-examples.html" class="internal"><span class="codenumber">4.3</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_fourth.html" class="internal"><span class="codenumber">4.4</span> <span class="title">Exercise</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_fifth.html" class="internal"><span class="codenumber">5</span> <span class="title">Electricity and Magnetism</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="sec_fifth-intro.html" class="internal"><span class="codenumber">5.1</span> <span class="title">Charges</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_5cl-subsection.html" class="internal"><span class="codenumber">5.1.1</span> <span class="title">Coulomb’s Law</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_5ef-subsection.html" class="internal"><span class="codenumber">5.1.2</span> <span class="title">Electric Field</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_5me-subsection.html" class="internal"><span class="codenumber">5.1.3</span> <span class="title">Materials on Electrical Point of View</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_fifth-electr.html" class="internal"><span class="codenumber">5.2</span> <span class="title">Electricity</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_5ep-subsection.html" class="internal"><span class="codenumber">5.2.1</span> <span class="title">Electric Potential (Voltage)</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_5ol-subsection.html" class="internal"><span class="codenumber">5.2.2</span> <span class="title">Ohm’s Law</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-5ec.html" class="internal"><span class="codenumber">5.2.3</span> <span class="title">Electrical Circuits</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_fifth-magnt.html" class="internal"><span class="codenumber">5.3</span> <span class="title">Magnetism</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_5em-subsection.html" class="internal"><span class="codenumber">5.3.1</span> <span class="title">Electromagnetism</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-Electmag.html" class="internal"><span class="codenumber">5.3.2</span> <span class="title">Electromagnet</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_5trnfr-subsection.html" class="internal"><span class="codenumber">5.3.3</span> <span class="title">Transformer</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="sec_fifth-examples.html" class="internal"><span class="codenumber">5.4</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_fifth.html" class="internal"><span class="codenumber">5.5</span> <span class="title">Exercise</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_sixth.html" class="internal"><span class="codenumber">6</span> <span class="title">Waves</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="sec_sixth-intro.html" class="internal"><span class="codenumber">6.1</span> <span class="title">Wave and its Properties</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_6sound-subsection.html" class="internal"><span class="codenumber">6.1.1</span> <span class="title">Sound</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_6echo-subsection.html" class="internal"><span class="codenumber">6.1.2</span> <span class="title">Reverberation and Echo</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_6deffect-subsection.html" class="internal"><span class="codenumber">6.1.3</span> <span class="title">Doppler Effect</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_sixth-light.html" class="internal"><span class="codenumber">6.2</span> <span class="title">Light</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_6gopt-subsection.html" class="internal"><span class="codenumber">6.2.1</span> <span class="title">Geometrical Optics</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_6refl-subsection.html" class="internal"><span class="codenumber">6.2.2</span> <span class="title">Reflection of Light</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_6refr-subsection.html" class="internal"><span class="codenumber">6.2.3</span> <span class="title">Refraction of Light</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_6disper-subsection.html" class="internal"><span class="codenumber">6.2.4</span> <span class="title">Dispersion of Light</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_6sctr-subsection.html" class="internal"><span class="codenumber">6.2.5</span> <span class="title">Scattering of Light</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="sec_sixth-examples.html" class="internal"><span class="codenumber">6.3</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_sixth.html" class="internal"><span class="codenumber">6.4</span> <span class="title">Exercises</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_seventh.html" class="internal"><span class="codenumber">7</span> <span class="title">Atoms and Nucleus</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="sec_seventh-atom.html" class="internal"><span class="codenumber">7.1</span> <span class="title">Atomic Structure</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_7bbr-subsection.html" class="internal"><span class="codenumber">7.1.1</span> <span class="title">Blackbody Radiation</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_7pelect-subsection.html" class="internal"><span class="codenumber">7.1.2</span> <span class="title">Photoelectric Effect</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_7dnl-subsection.html" class="internal"><span class="codenumber">7.1.3</span> <span class="title">The Dual Nature of Light</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_7hatom-subsection.html" class="internal"><span class="codenumber">7.1.4</span> <span class="title">Bohr’s Model of Hydrogen Atom</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_7ospect-subsection.html" class="internal"><span class="codenumber">7.1.5</span> <span class="title">Origin of Spectra</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_7xrays-subsection.html" class="internal"><span class="codenumber">7.1.6</span> <span class="title">X-Rays</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_7laser-subsection.html" class="internal"><span class="codenumber">7.1.7</span> <span class="title">The Laser</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_seventh-nucleus.html" class="internal"><span class="codenumber">7.2</span> <span class="title">Nuclear Structure</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_7radio-subsection.html" class="internal"><span class="codenumber">7.2.1</span> <span class="title">Radioactivity</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-7hl.html" class="internal"><span class="codenumber">7.2.2</span> <span class="title">Half-Life</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_7cd-subsection.html" class="internal"><span class="codenumber">7.2.3</span> <span class="title">Carbon Dating</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_7be-subsection.html" class="internal"><span class="codenumber">7.2.4</span> <span class="title">Binding Energy</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_7bepn-subsection.html" class="internal"><span class="codenumber">7.2.5</span> <span class="title">Binding Energy per Nucleon</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_7nr-subsection.html" class="internal"><span class="codenumber">7.2.6</span> <span class="title">Nuclear Reactions</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_7erad-subsection.html" class="internal"><span class="codenumber">7.2.7</span> <span class="title">Effects of Radiation</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_7nreact-subsection.html" class="internal"><span class="codenumber">7.2.8</span> <span class="title">Nuclear Reactor</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="sec_seventh-examples.html" class="internal"><span class="codenumber">7.3</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_seventh.html" class="internal"><span class="codenumber">7.4</span> <span class="title">Exercises</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_eighth.html" class="internal"><span class="codenumber">8</span> <span class="title">The Chemical Elements</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="sec_eighth-intro.html" class="internal"><span class="codenumber">8.1</span> <span class="title">Changes in Matter</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_8clsm-subsection.html" class="internal"><span class="codenumber">8.1.1</span> <span class="title">The Classification of Matter</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-8atheory.html" class="internal"><span class="codenumber">8.1.2</span> <span class="title">Atomic Theory</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_eighth-ptable.html" class="internal"><span class="codenumber">8.2</span> <span class="title">The Periodic Table</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-elctcong.html" class="internal"><span class="codenumber">8.2.1</span> <span class="title">Electronic Configuration</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-octet.html" class="internal"><span class="codenumber">8.2.2</span> <span class="title">Octet Rule</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-valency.html" class="internal"><span class="codenumber">8.2.3</span> <span class="title">Valency</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_eighth-chemicalbonds.html" class="internal"><span class="codenumber">8.3</span> <span class="title">Chemical Bonds &amp; Equations</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec_8namecomp-subsection.html" class="internal"><span class="codenumber">8.3.1</span> <span class="title">Naming of Compounds</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_8molform-subsection.html" class="internal"><span class="codenumber">8.3.2</span> <span class="title">Molecular Formula</span></a></div></li>
+<li><div class="toc-item"><a href="subsec_8rad-subsection.html" class="internal"><span class="codenumber">8.3.3</span> <span class="title">Free Radicals</span></a></div></li>
+<li><div class="toc-item"><a href="subsubsec-polatm.html" class="internal"><span class="codenumber">8.3.4</span> <span class="title">Polyatmic Ions</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-chemeqn.html" class="internal"><span class="codenumber">8.3.5</span> <span class="title">Chemical Equations</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_eigth-react.html" class="internal"><span class="codenumber">8.4</span> <span class="title">Chemical Reactions</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-endexotherm.html" class="internal"><span class="codenumber">8.4.1</span> <span class="title">Endothermic and Exothermic Reactions</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-8mol.html" class="internal"><span class="codenumber">8.4.2</span> <span class="title">The Mole</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="sec_eighth-examples.html" class="internal"><span class="codenumber">8.5</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_eighth.html" class="internal"><span class="codenumber">8.6</span> <span class="title">Exercises</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_ninth.html" class="internal"><span class="codenumber">9</span> <span class="title">Crystals and Solutions</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="sec_ninth-intro.html" class="internal"><span class="codenumber">9.1</span> <span class="title">Crystalline Solids</span></a></div>
+<ul class="structural"><li><div class="toc-item"><a href="subsec-polnon.html" class="internal"><span class="codenumber">9.1.1</span> <span class="title">Polar &amp; Nonploar Molecules</span></a></div></li></ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_ninth-solut.html" class="internal"><span class="codenumber">9.2</span> <span class="title">Solution</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-typSol.html" class="internal"><span class="codenumber">9.2.1</span> <span class="title">Types of Solution</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-collgative.html" class="internal"><span class="codenumber">9.2.2</span> <span class="title">Colligative property of a solution</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_ninth-acidbase.html" class="internal"><span class="codenumber">9.3</span> <span class="title">Acids and Base</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-pH.html" class="internal"><span class="codenumber">9.3.1</span> <span class="title">The pH Scale</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-salts.html" class="internal"><span class="codenumber">9.3.2</span> <span class="title">Salts</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="sec_ninth-examples.html" class="internal"><span class="codenumber">9.4</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_ninth.html" class="internal"><span class="codenumber">9.5</span> <span class="title">Exercises</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_tenth.html" class="internal"><span class="codenumber">10</span> <span class="title">The Atmosphere</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="sec_tenth-intro.html" class="internal"><span class="codenumber">10.1</span> <span class="title">Ozone</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-ozonehole.html" class="internal"><span class="codenumber">10.1.1</span> <span class="title">Ozone Hole</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-atmmoist.html" class="internal"><span class="codenumber">10.1.2</span> <span class="title">Atmospheric Moisture</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-meteor.html" class="internal"><span class="codenumber">10.1.3</span> <span class="title">Meteorology</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-greenhouse.html" class="internal"><span class="codenumber">10.1.4</span> <span class="title">Greenhouse Effect</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_tenth-seasons.html" class="internal"><span class="codenumber">10.2</span> <span class="title">The Seasons</span></a></div>
+<ul class="structural"><li><div class="toc-item"><a href="subsec-wind.html" class="internal"><span class="codenumber">10.2.1</span> <span class="title">Winds</span></a></div></li></ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_tenth-hydros.html" class="internal"><span class="codenumber">10.3</span> <span class="title">The Hydrosphere</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-basin.html" class="internal"><span class="codenumber">10.3.1</span> <span class="title">Ocean Basins</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-weather.html" class="internal"><span class="codenumber">10.3.1</span> <span class="title">Weathering</span></a></div></li>
+<li><div class="toc-item"><a href="subsubsec-erosion.html" class="internal"><span class="codenumber">10.3.2</span> <span class="title">Erosion</span></a></div></li>
+<li><div class="toc-item"><a href="subsubsec-groundwater.html" class="internal"><span class="codenumber">10.3.3</span> <span class="title">Ground Water</span></a></div></li>
+<li><div class="toc-item"><a href="subsubsec-sed_depo.html" class="internal"><span class="codenumber">10.3.4</span> <span class="title">Sediment Deposition</span></a></div></li>
+<li><div class="toc-item"><a href="subsubsec-caves.html" class="internal"><span class="codenumber">10.3.5</span> <span class="title">Caves</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-tsunami.html" class="internal"><span class="codenumber">10.3.2</span> <span class="title">Tsunami</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="sec_tenth-examples.html" class="internal"><span class="codenumber">10.4</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_tenth.html" class="internal"><span class="codenumber">10.5</span> <span class="title">Exercises</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_eleventh.html" class="internal"><span class="codenumber">11</span> <span class="title">The Earth</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="sec_eleventh-intro.html" class="internal"><span class="codenumber">11.1</span> <span class="title">Structure of the Earth</span></a></div>
+<ul class="structural"><li><div class="toc-item"><a href="subsec-crust.html" class="internal"><span class="codenumber">11.1.1</span> <span class="title">Composition of Earth’s Crust</span></a></div></li></ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_eleventh-rockminr.html" class="internal"><span class="codenumber">11.2</span> <span class="title">Rocks &amp; Minerals</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-Rocks.html" class="internal"><span class="codenumber">11.2.1</span> <span class="title">Rocks</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-coralreef.html" class="internal"><span class="codenumber">11.2.2</span> <span class="title">Coral Reef</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_eleventh-quake.html" class="internal"><span class="codenumber">11.3</span> <span class="title">Earthquakes</span></a></div>
+<ul class="structural"><li><div class="toc-item"><a href="subsec-faults.html" class="internal"><span class="codenumber">11.3.1</span> <span class="title">Types of Deformation</span></a></div></li></ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_eleventh-tectmov.html" class="internal"><span class="codenumber">11.4</span> <span class="title">Tectonic Movement</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-drift.html" class="internal"><span class="codenumber">11.4.1</span> <span class="title">Continental Drift</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-platetect.html" class="internal"><span class="codenumber">11.4.2</span> <span class="title">Plate Tectonics</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_eleventh-histgeol.html" class="internal"><span class="codenumber">11.5</span> <span class="title">Historical Geology</span></a></div>
+<ul class="structural"><li><div class="toc-item"><a href="subsec-humhist.html" class="internal"><span class="codenumber">11.5.1</span> <span class="title">Human History</span></a></div></li></ul>
+</li>
+<li><div class="toc-item"><a href="sec_eleventh-examples.html" class="internal"><span class="codenumber">11.6</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_eleventh.html" class="internal"><span class="codenumber">11.7</span> <span class="title">Exercises</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_twelvth.html" class="internal"><span class="codenumber">12</span> <span class="title">The Solar System</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-debribelts.html" class="internal"><span class="codenumber">12.1</span> <span class="title">Debri Belts</span></a></div></li>
+<li>
+<div class="toc-item"><a href="sec_twelvth-intro.html" class="internal"><span class="codenumber">12.1</span> <span class="title">The Planets</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-venus.html" class="internal"><span class="codenumber">12.1.1</span> <span class="title">Venus</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-mars.html" class="internal"><span class="codenumber">12.1.2</span> <span class="title">Mars</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-jupiter.html" class="internal"><span class="codenumber">12.1.3</span> <span class="title">Jupiter</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-saturn.html" class="internal"><span class="codenumber">12.1.4</span> <span class="title">Saturn</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-uranus.html" class="internal"><span class="codenumber">12.1.5</span> <span class="title">Uranus</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-neptune.html" class="internal"><span class="codenumber">12.1.6</span> <span class="title">Neptune</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_twelvth-moon.html" class="internal"><span class="codenumber">12.2</span> <span class="title">The Moon</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-moonphase.html" class="internal"><span class="codenumber">12.2.1</span> <span class="title">The phases of the moon</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-eclipse.html" class="internal"><span class="codenumber">12.2.2</span> <span class="title">Eclipse</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-orgmoon.html" class="internal"><span class="codenumber">12.2.3</span> <span class="title">Origin of the Moon</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="sec_twelvth-examples.html" class="internal"><span class="codenumber">12.3</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_twelvth.html" class="internal"><span class="codenumber">12.5</span> <span class="title">Exercise</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_thirteenth.html" class="internal"><span class="codenumber">13</span> <span class="title">The Stars</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="sec_thirteenth-observ.html" class="internal"><span class="codenumber">13.1</span> <span class="title">Observational Astronomy</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-astrotools.html" class="internal"><span class="codenumber">13.1.1</span> <span class="title">The Tools in Astronomy</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-sun.html" class="internal"><span class="codenumber">13.1.2</span> <span class="title">The Sun</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-solarenergy.html" class="internal"><span class="codenumber">13.1.3</span> <span class="title">Solar Energy</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-aurora.html" class="internal"><span class="codenumber">13.1.4</span> <span class="title">Aurora Borealis</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-stellardist.html" class="internal"><span class="codenumber">13.1.5</span> <span class="title">Stellar Distances</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="sec_thirteenth-intro.html" class="internal"><span class="codenumber">13.2</span> <span class="title">H-R Diagram</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-supernova.html" class="internal"><span class="codenumber">13.2.1</span> <span class="title">Supernovas</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-neutronstar.html" class="internal"><span class="codenumber">13.2.2</span> <span class="title">Neutron Stars</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-pulsars.html" class="internal"><span class="codenumber">13.2.3</span> <span class="title">Pulsars</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-blackhole.html" class="internal"><span class="codenumber">13.2.4</span> <span class="title">Black Holes</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-expnduniv.html" class="internal"><span class="codenumber">13.2.5</span> <span class="title">Evolution of the Solar System</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="sec_thirteenth-examples.html" class="internal"><span class="codenumber">13.3</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_thirteenth.html" class="internal"><span class="codenumber">13.4</span> <span class="title">Exercise</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch_fourteenth.html" class="internal"><span class="codenumber">14</span> <span class="title">The Universe</span></a></div>
+<ul class="structural">
+<li>
+<div class="toc-item"><a href="sec_fourteenth-intro.html" class="internal"><span class="codenumber">14.1</span> <span class="title">Galaxies</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="subsec-milkyway.html" class="internal"><span class="codenumber">14.1.1</span> <span class="title">Milky Way Galaxy</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-andromeda.html" class="internal"><span class="codenumber">14.1.2</span> <span class="title">Andromeda Galaxy</span></a></div></li>
+<li class="active"><div class="toc-item"><a href="subsec-Globular.html" class="internal"><span class="codenumber">14.1.3</span> <span class="title">Globular Cluster</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-magelenic.html" class="internal"><span class="codenumber">14.1.4</span> <span class="title">Magelenic Cloud</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-nebula.html" class="internal"><span class="codenumber">14.1.5</span> <span class="title">Nebulae</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-darkmatt.html" class="internal"><span class="codenumber">14.1.6</span> <span class="title">Dark Matter and Dark Energy</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-Quasars.html" class="internal"><span class="codenumber">14.1.7</span> <span class="title">Quasars</span></a></div></li>
+<li><div class="toc-item"><a href="subsec-expansion.html" class="internal"><span class="codenumber">14.1.8</span> <span class="title">Expansion of the Universe</span></a></div></li>
+</ul>
+</li>
+<li><div class="toc-item"><a href="sec_fourteenth-examples.html" class="internal"><span class="codenumber">14.2</span> <span class="title">Examples</span></a></div></li>
+<li><div class="toc-item"><a href="ex_fourteenth.html" class="internal"><span class="codenumber">14.3</span> <span class="title">Exercise</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="meta_backmatter.html" class="internal"><span class="title">Backmatter</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="solutions-1.html" class="internal"><span class="codenumber">A</span> <span class="title">Selected Hints</span></a></div></li>
+<li><div class="toc-item"><a href="solutions-2.html" class="internal"><span class="codenumber">B</span> <span class="title">Selected Solutions</span></a></div></li>
+<li><div class="toc-item"><a href="appendix-1.html" class="internal"><span class="codenumber">C</span> <span class="title">List of Symbols</span></a></div></li>
+<li><div class="toc-item"><a href="index-1.html" class="internal"><span class="title">Index</span></a></div></li>
+<li><div class="toc-item"><a href="refs-list.html" class="internal"><span class="title">References</span></a></div></li>
+</ul>
+</li>
+</ul></nav></div>
+<main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="subsection" id="subsec-Globular"><h2 class="heading hide-type">
+<span class="type">Subsection</span> <span class="codenumber">14.1.3</span> <span class="title">Globular Cluster</span>
+</h2>
+<div class="para" id="p-1116">A globular cluster  is a spherical collection of stars that orbits a galactic core, as opposed to being part of a galaxy’s disk like most stars. Globular clusters are typically very old, with ages ranging from 10 to 13 billion years, and they are some of the oldest known objects in the universe. They are also some of the most densely packed objects in the universe, with hundreds of thousands to millions of stars packed tightly together in a region just a few dozen light-years across. Globular clusters are generally thought to have formed early in the history of their host galaxies, when the universe was still relatively young and gas-rich. The intense gravitational forces in the center of the cluster caused the gas and dust to collapse and form stars, which eventually settled into a dense, spherical cluster. Globular clusters are important objects for astronomers to study because they provide clues about the early history and formation of galaxies. By studying the properties of the stars in a globular cluster, astronomers can learn about the conditions in which the stars formed and how they have evolved over time. Globular clusters are also used as standard candles for measuring the distance to galaxies, which helps astronomers to understand the large-scale structure of the universe.</div>
+<div class="para" id="p-1117">The stars in globular clusters are dying, just like stars in other parts of the galaxy. However, the stars in a globular cluster are generally very old, with ages typically ranging from 10 to 13 billion years, so they are in a later stage of their life cycle compared to younger stars in the galaxy. As stars age, they undergo changes in their internal structure and composition, which can cause them to evolve into different types of stars and eventually run out of fuel and die. In a globular cluster, the most massive stars have already exhausted their fuel and ended their lives, leaving behind remnants such as white dwarfs, neutron stars, or black holes. The remaining stars in the cluster are generally low-mass, long-lived stars like red giants, which are nearing the end of their life cycle.</div></section></div>
+<div class="ptx-content-footer">
+<a class="previous-button button" href="subsec-andromeda.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon">^</span><span class="name">Top</span></a><a class="next-button button" href="subsec-magelenic.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a>
+</div></main>
+</div>
+<div id="ptx-page-footer">
+<a class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="338 3000 8772 6866"><g style="stroke-width:.025in; stroke:black; fill:none"><polyline points="472,3590 472,9732 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png"></a><a class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png"></a>
+</div>
+</body>
+</html>
