@@ -1078,7 +1078,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "3.3",
   "title": "Examples",
-  "body": " Examples     A moving object may or may not have  momentum.  velocity.  kinetic energy.  potential energy.      Think of what if the object is moving on the ground.    d.      When two or more objects collide their  total momentum remains the same.  total kinetic energy remains the same.  momentum of each object never changes.  kinetic energy of each object never changes.      Read the conservation principles.    a.      Two objects of same volume but different masses are bing dropped from the top of a building onto the ground. Which of the following quantities remains the same when they have fallen halfway down? Neglect air resistance.  kinetic energy.  potential energy.  speed.  acceleration due to gravity.      Read section     c. and d.      If a book of mass 2 kg is hold at 2m above the ground for 40 seconds. How much is the work done?    Read section     Force has not displaced the object, so distance =0. Hence     0.      Find the velocity of 400 g bullet if its kinetic energy is 50kJ.    Given: m=400g = 0.4 kg, KE=50 kJ =        500 m\/s.     Find the linear momentum of a 50 kg dog running at 5 m\/s.   Given: m=50 kg, v=5 p =?              Find the recoil velocity of a rocket of mass 100kg when it ejects 50 g of gas from its propulsion pistol at a speed of 50 m\/s.    Use conservation of momentum principle.    Given:         What is the formula for calculating potential energy?   PE = mgh  PE = Fd  PE = \\frac{P}{t}      b.      What is the SI unit of energy?  Joule  Watt  Newton  Pascal      a.      A box weighing 50 kg is lifted to a height of 3 meters. How much work was done against gravity? Assume that the acceleration due to gravity is .    The work done against gravity when lifting the box is equal to the change in gravitational potential energy. We can use the following formula to find the work done: where force is equal to the weight of the box (mass x gravity), and distance is the height the box is lifted. Plugging in the given values, we get:  Therefore, the work done against gravity when lifting the box weighing 50 kg to a height of 3 meters is 1470 joules.      If a machine does 500 joules of work in 10 seconds, what is its power output?  50 W  100 W  200 W  500 W      a.      If a force of 20 newtons is applied to an object and it moves 4 meters in the direction of the force, how much potential energy does it gain?  4 joules  16 joules  80 joules  320 joules      c.      Which of the following statements is true about the law of conservation of energy?  Energy can be created but not destroyed.  Energy can be destroyed but not created.  Energy cannot be created or destroyed, only transformed from one form to another.  Energy can be created or destroyed, but only in certain circumstances.      c.    "
+  "body": " Examples     A moving object may or may not have  momentum.  velocity.  kinetic energy.  potential energy.      Think of what if the object is moving on the ground.    d.      When two or more objects collide their  total momentum remains the same.  total kinetic energy remains the same.  momentum of each object never changes.  kinetic energy of each object never changes.      Read the conservation principles.    a.      Two objects of same volume but different masses are bing dropped from the top of a building onto the ground. Which of the following quantities remains the same when they have fallen halfway down? Neglect air resistance.  kinetic energy.  potential energy.  speed.  acceleration due to gravity.      Read section     c. and d.      If a book of mass 2 kg is hold at 2m above the ground for 40 seconds. How much is the work done?    Read section     Force has not displaced the object, so distance =0. Hence     0.      Find the velocity of 400 g bullet if its kinetic energy is 50 kJ.    Given: m=400g = 0.4 kg, KE = 50 kJ =        500 m\/s.     Find the linear momentum of a 50 kg dog running at 5 m\/s.   Given: m = 50 kg, v = 5 p =?              Find the recoil velocity of a rocket of mass 100 kg when it ejects 50 g of gas from its propulsion pistol at a speed of 50 m\/s.    Use conservation of momentum principle.    Given:         What is the formula for calculating potential energy?   PE = mgh  PE = Fd  PE = \\frac{P}{t}      b.      What is the SI unit of energy?  Joule  Watt  Newton  Pascal      a.      A box weighing 50 kg is lifted to a height of 3 meters. How much work was done against gravity? Assume that the acceleration due to gravity is .    The work done against gravity when lifting the box is equal to the change in gravitational potential energy. We can use the following formula to find the work done: where force is equal to the weight of the box (mass x gravity), and distance is the height the box is lifted. Plugging in the given values, we get:  Therefore, the work done against gravity when lifting the box weighing 50 kg to a height of 3 meters is 1470 joules.      If a machine does 500 joules of work in 10 seconds, what is its power output?  50 W  100 W  200 W  500 W      a.      If a force of 20 newtons is applied to an object and it moves 4 meters in the direction of the force, how much potential energy does it gain?  4 joules  16 joules  80 joules  320 joules      c.      Which of the following statements is true about the law of conservation of energy?  Energy can be created but not destroyed.  Energy can be destroyed but not created.  Energy cannot be created or destroyed, only transformed from one form to another.  Energy can be created or destroyed, but only in certain circumstances.      c.    "
 },
 {
   "id": "example-37",
@@ -1123,7 +1123,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "3.3.5",
   "title": "",
-  "body": "  Find the velocity of 400 g bullet if its kinetic energy is 50kJ.    Given: m=400g = 0.4 kg, KE=50 kJ =        500 m\/s.   "
+  "body": "  Find the velocity of 400 g bullet if its kinetic energy is 50 kJ.    Given: m=400g = 0.4 kg, KE = 50 kJ =        500 m\/s.   "
 },
 {
   "id": "example-42",
@@ -1132,7 +1132,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "3.3.6",
   "title": "",
-  "body": " Find the linear momentum of a 50 kg dog running at 5 m\/s.   Given: m=50 kg, v=5 p =?           "
+  "body": " Find the linear momentum of a 50 kg dog running at 5 m\/s.   Given: m = 50 kg, v = 5 p =?           "
 },
 {
   "id": "example-43",
@@ -1141,7 +1141,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "3.3.7",
   "title": "",
-  "body": "  Find the recoil velocity of a rocket of mass 100kg when it ejects 50 g of gas from its propulsion pistol at a speed of 50 m\/s.    Use conservation of momentum principle.    Given:     "
+  "body": "  Find the recoil velocity of a rocket of mass 100 kg when it ejects 50 g of gas from its propulsion pistol at a speed of 50 m\/s.    Use conservation of momentum principle.    Given:     "
 },
 {
   "id": "example-44",
@@ -2041,7 +2041,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.4",
   "title": "Examples",
-  "body": " Examples    Find the current in a wire if electrons is passing every second.    See the equations and        Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.    From Ohm's Law        If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month, if the unit price is 15 cents?    Here = 20 mint\/day = = 10 h.  Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = \\(225 cents = $2.25\\).      How much current is passing through the ciruit if electric heater is running at 120 V?    From equation        What is the resistance of 50 W light bulb filament running at 120V?    From equation        Find how much electric energy is stored in a 10V laptop battery rated at 13000 mAh.    using equations and , we have      Here, , remember large unit of charge is also Ah by using eqation . Hence, from equation  by using equation where,    Hence, Energy, E= 130Wh. [since, ]       The primary coil of a transformer has 500 turns and its secondary coil has 50 turns. If the current in the secondary coil is 25 A, find the current in its primary coil.    Given: , , ,  From equation        A circuit has a resistance of 20 ohms and a current of 2 amperes flowing through it. What is the voltage across the circuit?    According to Ohm's law, the voltage (V) across a circuit is equal to the current (I) multiplied by the resistance (R): Using this formula, we can calculate the voltage across the circuit as follows: Therefore, the voltage across the circuit is 40 volts.    "
+  "body": " Examples    Find the current in a wire if electrons is passing every second.    See the equations and        Find the resistance of a light bulb that runs on a 9 V battery and draws a current of 1.5 A.    From Ohm's Law        If an electric iron of is used for 20 minutes everyday. What is the cost of electricity bill per month, if the unit price is 15 cents?    Here = 20 mint\/day = = 10 h.  Now from equation , we have In an electric bill, one unit of electrical energy is Hence, the total cost of bill is = \\(225 cents = $2.25\\).      How much current is passing through the ciruit if electric heater is running at 120 V?    From equation        What is the resistance of 50 W light bulb filament running at 120 V?    From equation        Find how much electric energy is stored in a 10V laptop battery rated at 13000 mAh.    using equations and , we have      Here, , remember large unit of charge is also Ah by using eqation . Hence, from equation  by using equation where,    Hence, Energy, E= 130Wh. [since, ]       The primary coil of a transformer has 500 turns and its secondary coil has 50 turns. If the current in the secondary coil is 25 A, find the current in its primary coil.    Given: , , ,  From equation        A circuit has a resistance of 20 ohms and a current of 2 amperes flowing through it. What is the voltage across the circuit?    According to Ohm's law, the voltage (V) across a circuit is equal to the current (I) multiplied by the resistance (R): Using this formula, we can calculate the voltage across the circuit as follows: Therefore, the voltage across the circuit is 40 volts.    "
 },
 {
   "id": "example-78",
@@ -2086,7 +2086,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "5.4.5",
   "title": "",
-  "body": "  What is the resistance of 50 W light bulb filament running at 120V?    From equation     "
+  "body": "  What is the resistance of 50 W light bulb filament running at 120 V?    From equation     "
 },
 {
   "id": "example-83",
@@ -2842,7 +2842,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "7.2.4",
   "title": "Binding Energy",
-  "body": " Binding Energy  Binding energy binding energy is the amount of energy required to separate a nucleons into the protons and neutrons. In an atomic nucleus, the protons and neutrons are held together by the strong nuclear force, which acts over short distances. The binding energy of a nucleus can be calculated by subtracting the total mass of its individual protons and neutrons from the total mass of the nucleus itself. According to Einstein's famous equation, , the mass difference between the two states is equivalent to the binding energy. The binding energy of a nucleus has important implications for both the stability of the nucleus and for the energy released during nuclear reactions. Nuclei with higher binding energy are generally more stable and less likely to undergo spontaneous decay, while nuclei with lower binding energy are more likely to undergo radioactive decay. Additionally, the energy released during nuclear reactions is directly proportional to the binding energy of the nucleus. When a nucleus is formed, protons and neutrons come together and bind to form the nucleus. This process is driven by the strong nuclear force, which acts over short distances to hold the particles together. The formation of a nucleus also leads to the release of energy. This energy is in the form of electromagnetic radiation and called the binding energy. It is the same amount of energy required to separate the protons and neutrons in the nucleus when broken down to individual components. For example: The deuterium ( ) has one proton and one neutron in its nucleus. So when they break apart we expect the mass of deuterium atom equals the mass of one proton (i.e. ) and the mass of one neutron. Mass of one and mass of one neutron = 1.0087 u. Therefore the total mass of . The measured mass of however, is only which is less than the combined mass of proton and neutron. This loss of mass (also known as mass defect ) appears in the form of binding energy of the deuterium atom. Similarly when one deuterium nucleus combines with one tritium nucleus to form helium nucleus tremendous amount of energy released which was a binding energy. For example: . Hence, the mass defect in this case is given by: total mass of and total mass of . Hence the difference in these masses is a mass defect, . Note: Here is the atomic mass unit . . This is the approximate mass of the hydrogen atom. Atomic mass unit is also caled Dalton. we can also consider as 1 mole of anything is equal to Now, This mass defect appears in the form of binding energy which can be calculated by equation  Hence, energy released from this reaction is or, 17.8 MeV and . .  "
+  "body": " Binding Energy  Binding energy binding energy is the amount of energy required to separate a nucleons into the protons and neutrons. In an atomic nucleus, the protons and neutrons are held together by the strong nuclear force, which acts over short distances. The binding energy of a nucleus can be calculated by subtracting the total mass of its individual protons and neutrons from the total mass of the nucleus itself. According to Einstein's famous equation, , the mass difference between the two states is equivalent to the binding energy. The binding energy of a nucleus has important implications for both the stability of the nucleus and for the energy released during nuclear reactions. Nuclei with higher binding energy are generally more stable and less likely to undergo spontaneous decay, while nuclei with lower binding energy are more likely to undergo radioactive decay. Additionally, the energy released during nuclear reactions is directly proportional to the binding energy of the nucleus. When a nucleus is formed, protons and neutrons come together and bind to form the nucleus. This process is driven by the strong nuclear force, which acts over short distances to hold the particles together. The formation of a nucleus also leads to the release of energy. This energy is in the form of electromagnetic radiation and called the binding energy. It is the same amount of energy required to separate the protons and neutrons in the nucleus when broken down to individual components. For example: The deuterium ( ) has one proton and one neutron in its nucleus. So when they break apart we expect the mass of deuterium atom equals the mass of one proton (i.e. ) and the mass of one neutron. Mass of one and mass of one neutron = 1.0087 u. Therefore the total mass of . The measured mass of however, is only which is less than the combined mass of proton and neutron. This loss of mass (also known as mass defect ) appears in the form of binding energy of the deuterium atom. Similarly when one deuterium nucleus combines with one tritium nucleus to form helium nucleus tremendous amount of energy released which was a binding energy. For example: . Hence, the mass defect in this case is given by: total mass of and total mass of . Hence the difference in these masses is a mass defect, . Note: Here is the atomic mass unit . . This is the approximate mass of the hydrogen atom. Atomic mass unit is also caled Dalton. we can also consider as 1 mole of anything is equal to Now, This mass defect appears in the form of binding energy which can be calculated by equation   , the velocity of light.  Hence, energy released from this reaction is or, 17.8 MeV and . .  "
 },
 {
   "id": "subsec_7bepn-subsection",
@@ -2923,7 +2923,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "7.3",
   "title": "Examples",
-  "body": " Examples    Determine the number of protons, electrons, and neutrons in the atom.    From isotopic notation . we have atomic number, Z = 92. So the nuber of protons (= number of electrons) = 92. The mass number, A =236. Hence the nuber of neutrons,      Write the equation for one alpha decay in .    Here, X stands for the element of atomic number 90, which is .     If 1.0g of caesium (Cs-137) disintegrates over a period of 90 years. How many grams of Cs-137 would remain, if Cs-137 has half-life of 30 years.   For 90 years, we have to wait for 3 half-life of Cs-137. Every half-life it reduces 1\/2 of of its amount. Now from , we have       How long does it take a 100.00g sample of As-81, with a half-life of 33 seconds, to decay to 6.25g?    In HL remaining amount is 50 g, In HL remaining amount is 25 g, In HL remaining amount is 12.5 g, and in HL the remaining amount is 6.25g.    4 half-life = second = 132 seconds.      Complete the equation if proton strikes on the .           Complete the following fission reaction.       Calculate the binding energy in the following fission reaction. The mass of is , is , is , and that of is .    The total mass on the left side of the arrow is and the maas on the right side of arrow is . Hence the mass defect is . Now from , we have Therefore the binding energy is       If of the sample is decayed in 15 days. What is its half-life?    From  Here, . Suppose number of half-life, , where is given time period and is half-life period, then       If of the sample is decayed in 2 hours. What is its half-life?    If of the sample decayes in every 30 minutes then the sample must be decayed by (1\/16)^th in 2 hours. Hence 30 minute is a half-life.     "
+  "body": " Examples    Determine the number of protons, electrons, and neutrons in the atom.    From isotopic notation . we have atomic number, Z = 92. So the nuber of protons (= number of electrons) = 92. The mass number, A =236. Hence the nuber of neutrons,      Write the equation for one alpha decay in .    Here, X stands for the element of atomic number 90, which is .     If 1.0g of caesium (Cs-137) disintegrates over a period of 90 years. How many grams of Cs-137 would remain, if Cs-137 has half-life of 30 years.   For 90 years, we have to wait for 3 half-life of Cs-137. Every half-life it reduces 1\/2 of of its amount. Now from , we have       How long does it take a 100.00g sample of As-81, with a half-life of 33 seconds, to decay to 6.25 g?    In HL remaining amount is 50 g, In HL remaining amount is 25 g, In HL remaining amount is 12.5 g, and in HL the remaining amount is 6.25 g.    4 half-life = second = 132 seconds.      Complete the equation if proton strikes on the .           Complete the following fission reaction.       Calculate the binding energy in the following fission reaction. The mass of is , is , is , and that of is .    The total mass on the left side of the arrow is and the maas on the right side of arrow is . Hence the mass defect is . Now from , we have Therefore the binding energy is       If of the sample is decayed in 15 days. What is its half-life?    From  Here, . Suppose number of half-life, , where is given time period and is half-life period, then       If of the sample is decayed in 2 hours. What is its half-life?    If of the sample decayes in every 30 minutes then the sample must be decayed by (1\/16)^th in 2 hours. Hence 30 minute is a half-life.     "
 },
 {
   "id": "example-101",
@@ -2959,7 +2959,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "7.3.4",
   "title": "",
-  "body": "  How long does it take a 100.00g sample of As-81, with a half-life of 33 seconds, to decay to 6.25g?    In HL remaining amount is 50 g, In HL remaining amount is 25 g, In HL remaining amount is 12.5 g, and in HL the remaining amount is 6.25g.    4 half-life = second = 132 seconds.   "
+  "body": "  How long does it take a 100.00g sample of As-81, with a half-life of 33 seconds, to decay to 6.25 g?    In HL remaining amount is 50 g, In HL remaining amount is 25 g, In HL remaining amount is 12.5 g, and in HL the remaining amount is 6.25 g.    4 half-life = second = 132 seconds.   "
 },
 {
   "id": "example-105",
@@ -3112,7 +3112,16 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "8.1.1",
   "title": "The Classification of Matter",
-  "body": " The Classification of Matter  Instead of three phases (or states) of matter, there are three different classes of matter based on its composition and properties. They are elements, compounds, and mixture .  Elements: An element element is a pure substance that cannot be broken down into simpler substances by any chemical means. Elements are the building blocks of all matter and are composed of only one type of atom. Examples of elements include hydrogen, oxygen, and gold.  Compounds: A compound compound is a pure substance that is made up of two or more elements chemically combined in a fixed ratio. Compounds have different properties from their constituent elements and cannot be separated into their individual elements by physical means. Examples of compounds include water ( ), salt ( ), and glucose ( ).  Mixtures: A mixture mixture is a combination of two or more substances in which each substance retains its own chemical properties. Mixtures can be separated into their individual components by physical means. There are two main types of mixtures: homogeneous mixtures, where the substances are evenly mixed, and heterogeneous mixtures, where the substances are not evenly mixed. Examples of mixtures include air, fruit juice, and concrete.    In homogeneous mixture substances are evenly mixed and have the same composition throughout. Homogeneous mixture is also called a solution Here are some examples of homogeneous mixtures: Salt water: When salt is dissolved in water, the result is a homogeneous mixture, in which the salt and water are evenly distributed throughout the solution. Air: Air is a mixture of gases, including nitrogen, oxygen, and trace amounts of other gases, that are evenly mixed and have the same composition throughout the entire volume of air. Honey: Honey is a homogeneous mixture of sugar and water, with the sugar and water evenly mixed throughout the entire substance. Vinegar: Vinegar is a homogeneous mixture of water and acetic acid, with the water and acetic acid evenly mixed throughout the entire substance. Milk: Milk is a homogeneous mixture of water, fat, proteins, and sugars, with the substances evenly mixed throughout the entire substance.  In heterogeneous mixture substances are not evenly mixed and have different compositions in different parts of the mixture. Heterogeneous mixtures are easy to identify, as the individual substances are easily visible and can be separated from one another by physical means. Here are some examples of heterogeneous mixtures: Fruit salad: A mixture of fruit, such as apples, bananas, and grapes, cut into pieces and combined in a bowl is a heterogeneous mixture. Each piece of fruit has its own unique composition, and the composition of the mixture changes from one part of the mixture to another. Granola: A mixture of oats, nuts, dried fruit, and sweeteners is a heterogeneous mixture, as the ingredients are not evenly mixed and the composition of the mixture changes from one part of the mixture to another. Sand and water: A mixture of sand and water is a heterogeneous mixture, as the sand particles settle to the bottom of the container and the water is clear. The composition of the mixture changes from the top of the mixture to the bottom. Soil: Soil is a mixture of minerals, organic matter, air, and water, and is a heterogeneous mixture as the composition of the soil changes from one part of the soil to another. Concrete: Concrete is a mixture of cement, sand, gravel, and water, and is a heterogeneous mixture, as the composition of the concrete changes f rom one part of the mixture to another.   Classification of Matter     "
+  "body": " The Classification of Matter   Classification of Matter     Instead of three phases (or states) of matter, there are three different classes of matter based on its composition and properties. They are elements, compounds, and mixture .  Elements: An element element is a pure substance that cannot be broken down into simpler substances by any chemical means. Elements are the building blocks of all matter and are composed of only one type of atom. Examples of elements include hydrogen, oxygen, and gold.  Compounds: A compound compound is a pure substance that is made up of two or more elements chemically combined in a fixed ratio. Compounds have different properties from their constituent elements and cannot be separated into their individual elements by physical means. Examples of compounds include water ( ), salt ( ), and glucose ( ).  Mixtures: A mixture mixture is a combination of two or more substances in which each substance retains its own chemical properties. Mixtures can be separated into their individual components by physical means. There are two main types of mixtures: homogeneous mixtures, where the substances are evenly mixed, and heterogeneous mixtures, where the substances are not evenly mixed. Examples of mixtures include air, fruit juice, and concrete.    In homogeneous mixture substances are evenly mixed and have the same composition throughout. Homogeneous mixture is also called a solution Here are some examples of homogeneous mixtures: Salt water: When salt is dissolved in water, the result is a homogeneous mixture, in which the salt and water are evenly distributed throughout the solution. Air: Air is a mixture of gases, including nitrogen, oxygen, and trace amounts of other gases, that are evenly mixed and have the same composition throughout the entire volume of air. Honey: Processed honey is a homogeneous mixture but raw honey is not. Vinegar: Vinegar is a homogeneous mixture of water and acetic acid, with the water and acetic acid evenly mixed throughout the entire substance. Saltwater, Sugar solution, Seawater, Soda Pop, etc are some examples of homogeneous mixture.  In heterogeneous mixture substances are not evenly mixed and have different compositions in different parts of the mixture. Heterogeneous mixtures are easy to identify, as the individual substances are easily visible and can be separated from one another by physical means. Here are some examples of heterogeneous mixtures: Fruit salad: A mixture of fruit, such as apples, bananas, and grapes, cut into pieces and combined in a bowl is a heterogeneous mixture. Each piece of fruit has its own unique composition, and the composition of the mixture changes from one part of the mixture to another. Granola: A mixture of oats, nuts, dried fruit, and sweeteners is a heterogeneous mixture, as the ingredients are not evenly mixed and the composition of the mixture changes from one part of the mixture to another. Sand and water: A mixture of sand and water is a heterogeneous mixture, as the sand particles settle to the bottom of the container and the water is clear. The composition of the mixture changes from the top of the mixture to the bottom. Soil: Soil is a mixture of minerals, organic matter, air, and water, and is a heterogeneous mixture as the composition of the soil changes from one part of the soil to another. Concrete: Concrete is a mixture of cement, sand, gravel, and water, and is a heterogeneous mixture, as the composition of the concrete changes from one part of the mixture to another.   Milk is neither a homogeneous nor a hetrogeneous mixture rather it comes under coloidal solution type. Milk is a mixture of water, fat, proteins, and sugars that are not evenly distributed throughout the mixture. Blood is also a coloidal solution. Fog, gelatin, smoke, etc. are some examples of coloidal type. Colloids have larger particles that are dispersed in a medium non-uniformly at the molecular level.  "
+},
+{
+  "id": "fig-mattclas",
+  "level": "2",
+  "url": "subsec_8clsm-subsection.html#fig-mattclas",
+  "type": "Figure",
+  "number": "8.1.1",
+  "title": "",
+  "body": " Classification of Matter    "
 },
 {
   "id": "p-607",
@@ -3142,27 +3151,18 @@ var ptx_lunr_docs = [
   "body": "heterogeneous mixture "
 },
 {
-  "id": "fig-mattclas",
-  "level": "2",
-  "url": "subsec_8clsm-subsection.html#fig-mattclas",
-  "type": "Figure",
-  "number": "8.1.1",
-  "title": "",
-  "body": " Classification of Matter    "
-},
-{
   "id": "subsec-8atheory",
   "level": "1",
   "url": "subsec-8atheory.html",
   "type": "Subsection",
   "number": "8.1.2",
   "title": "Atomic Theory",
-  "body": " Atomic Theory  Atomic theory is the foundation of modern chemistry and provides a basic understanding of the nature of matter. The theory states that all matter is made up of tiny particles called atoms, which are the smallest units of matter that retain the properties of an element. Atoms are indivisible: Atoms are the smallest units of matter that can exist and cannot be broken down into smaller units. Atoms are identical: Atoms of the same element are identical and have the same number of protons, electrons, and neutrons. Atoms have structure: Atoms have a small central nucleus, which contains positively charged protons and neutral neutrons, surrounded by negatively charged electrons in shells. Atoms are arranged in the periodic table: Atoms of different elements have different numbers of protons, electrons, and neutrons and are arranged in the periodic table according to their atomic number, which is equal to the number of protons in the nucleus. Atoms can bond to form molecules: Atoms can bond together to form molecules by sharing or exchanging electrons. The properties of molecules are determined by the type of atoms and the way they are bonded together. Atoms can be ionized: Atoms can gain or lose electrons to become positively or negatively charged ions. Ions play an important role in many chemical reactions.   Molecule: A molecule molecule is the smallest unit of a substance that retains the chemical properties of that substance and can exist as a separate entity. It is composed of two or more atoms that are chemically bonded together. In a molecule, the atoms are held together by chemical bonds, which are formed by the sharing or exchange of electrons between the atoms. The type of bonds and the arrangement of atoms in a molecule determine the chemical and physical properties of the substance. Molecules can be formed from a single type of atom, such as a molecule of oxygen ( ), or from different types of atoms, such as a molecule of water ( ). The number of atoms in a molecule and the type of atoms can also vary, giving rise to a vast array of different molecules, each with its own unique properties. Molecules are the building blocks of matter and play a crucial role in many physical and chemical processes, including chemical reactions, phase transitions, and the formation of materials. A deep understanding of the structure and properties of molecules is essential for many scientific and engineering disciplines, including chemistry, biology, materials science, and environmental science.   Difference between molecule and compound: A molecule is a group of two or more atoms that are chemically bonded together. A compound is a substance made up of two or more different elements that are chemically combined in a fixed ratio. The main difference between a molecule and a compound is that a molecule is a collection of atoms that are bonded together, whereas a compound is a substance that consists of molecules made up of different elements in a fixed ratio. For example, water ( ) is a compound made up of hydrogen and oxygen atoms in a fixed ratio of 2:1. The smallest unit of water that retains its chemical properties is a molecule of water, which is made up of two hydrogen atoms and one oxygen atom chemically bonded together. Another example is table salt (NaCl), which is a compound made up of sodium and chlorine atoms in a fixed ratio of 1:1. The smallest unit of salt that retains its chemical properties is a molecule of salt, which is made up of one sodium atom and one chlorine atom chemically bonded together.  Hydrogen gas is made out of molecules. It is not a compound. Oxygen gas is made out of molecules and is also not a compound. They are made out of two atoms of the same element. Similarly, Ozone gas ( ), nitrogen gas ( ), chlorine substance ( ) are molecule. However, carbon dioxide gas ( ) is a compound and molecule both, similarly, amonia ( ) is a compound and molecule both. Because they are made out of two different elements. Meaning all compounds are molecules but all molecules are not compounds.  Some substances are elemental such as iron bar (Fe), liquid mercury (Hg), helium gas (He), gold jewlry (Au), etc., some are molecular such as hydrogen gas ( ), oxygen gas ( ), ozone gas ( ), water ( ), methane ( ), carbon dioxide gas ( ), amonia ( ), diamond ( ), glucose ( ) etc. diamond is a pure form of carbon, but it is not an element. An element is a substance that cannot be broken down into simpler substances by chemical means, while a molecule is a group of two or more atoms that are chemically bonded together.  "
+  "body": " Atomic Theory  Atomic theory is the foundation of modern chemistry and provides a basic understanding of the nature of matter. The theory states that all matter is made up of tiny particles called atoms, which are the smallest units of matter that retain the properties of an element. Atoms are indivisible: Atoms are the smallest units of matter that can exist and cannot be broken down into smaller units. Atoms are identical: Atoms of the same element are identical and have the same number of protons, electrons, and neutrons. Atoms have structure: Atoms have a small central nucleus, which contains positively charged protons and neutral neutrons, surrounded by negatively charged electrons in shells. Atoms are arranged in the periodic table: Atoms of different elements have different numbers of protons, electrons, and neutrons and are arranged in the periodic table according to their atomic number, which is equal to the number of protons in the nucleus. Atoms can bond to form molecules: Atoms can bond together to form molecules by sharing or exchanging electrons. The properties of molecules are determined by the type of atoms and the way they are bonded together. Atoms can be ionized: Atoms can gain or lose electrons to become positively or negatively charged ions. Ions play an important role in many chemical reactions.   Molecule: A molecule molecule is the smallest unit of a substance that retains the chemical properties of that substance and can exist as a separate entity. It is composed of two or more atoms that are chemically bonded together. In a molecule, the atoms are held together by chemical bonds, which are formed by the sharing or exchange of electrons between the atoms. The type of bonds and the arrangement of atoms in a molecule determine the chemical and physical properties of the substance. Molecules can be formed from a single type of atom, such as a molecule of oxygen ( ), or from different types of atoms, such as a molecule of water ( ). The number of atoms in a molecule and the type of atoms can also vary, giving rise to a vast array of different molecules, each with its own unique properties. Molecules are the building blocks of matter and play a crucial role in many physical and chemical processes, including chemical reactions, phase transitions, and the formation of materials. A deep understanding of the structure and properties of molecules is essential for many scientific and engineering disciplines, including chemistry, biology, materials science, and environmental science.   Difference between molecule and compound: A molecule is a group of two or more atoms that are chemically bonded together. A compound is a substance made up of two or more different elements that are chemically combined in a fixed ratio. The main difference between a molecule and a compound is that a molecule is a collection of atoms that are bonded together, whereas a compound is a substance that consists of molecules made up of different elements in a fixed ratio. For example, water ( ) is a compound made up of hydrogen and oxygen atoms in a fixed ratio of 2:1. The smallest unit of water that retains its chemical properties is a molecule of water, which is made up of two hydrogen atoms and one oxygen atom chemically bonded together. Another example is table salt (NaCl), which is a compound made up of sodium and chlorine atoms in a fixed ratio of 1:1. The smallest unit of salt that retains its chemical properties is a molecule of salt, which is made up of one sodium atom and one chlorine atom chemically bonded together.  Hydrogen gas is made out of molecules. It is not a compound. Oxygen gas is made out of molecules and is also not a compound. They are made out of two atoms of the same element. Similarly, Ozone gas ( ), nitrogen gas ( ), chlorine substance ( ) are molecule. However, carbon dioxide gas ( ) is a compound and a molecule both, similarly, amonia ( ) is a compound and a molecule both. Because they are made out of two different elements. All compounds are molecules but all molecules are not compounds.  Some substances are elemental such as iron bar (Fe), liquid mercury (Hg), helium gas (He), gold jewlry (Au), etc., some are molecular such as hydrogen gas ( ), oxygen gas ( ), ozone gas ( ), water ( ), methane ( ), carbon dioxide gas ( ), amonia ( ), diamond ( ), glucose ( ) etc. diamond is a pure form of carbon, but it is not an element. An element is a substance that cannot be broken down into simpler substances by chemical means, while a molecule is a group of two or more atoms that are chemically bonded together.  "
 },
 {
-  "id": "p-611",
+  "id": "p-612",
   "level": "2",
-  "url": "subsec-8atheory.html#p-611",
+  "url": "subsec-8atheory.html#p-612",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3178,9 +3178,9 @@ var ptx_lunr_docs = [
   "body": " Electronic Configuration  Electronic configuration is an arrangement of electrons in an atom. The electronic configuration of an atom is typically represented using the notation known as the \"Aufbau principle,\" which states that electrons fill the lowest energy levels first, followed by successively higher energy levels. The electronic configuration of an atom is important because it determines the chemical properties and reactivity of that atom or molecule. The electronic configuration of an atom can also be represented using a diagram known as an \"orbital diagram,\" which shows the distribution of electrons in the various sublevels of the atom. A shell is a group of electrons that occupy the same principal energy level in an atom or molecule. The shells are numbered using integers, where the first shell (or innermost shell) has a principal quantum number of 1, the second shell has a principal quantum number of 2, and so on. The in 1, 2, 3, ... are the shells and s, p, d are the subshells in an atom. Each shell can hold a maximum number of electrons, which is given by , where is the principal quantum number of the shell. A subshell is a division of a shell that describes the shape and energy of an electron's orbit within that shell. The subshells are designated using the letters and so on. Each subshell is associated with a specific angular momentum quantum number, or azimuthal quantum number, which is given by an integer value ranging from to , where is the principal quantum number of the shell. The subshell is spherical in shape and can hold up to two electrons , the subshell has a dumbbell or peanut shape and can hold up to six electrons , the d subshell has a more complex shape and can hold up to 10 electrons, and the f subshell has an even more complex shape and can hold up to 14 electrons. Other subshells exist for higher principal quantum numbers, but they are less commonly encountered in everyday chemistry. In summary, a shell is a group of electrons that occupy the same principal energy level, while a subshell is a division of a shell that describes the shape and energy of an electron's orbit within that shell. The electronic configuration of an atom is typically written using the format:    Orbital Diagram and Electrons in Shells    Orbital diagram     Electrons in shells      "
 },
 {
-  "id": "p-620",
+  "id": "p-621",
   "level": "2",
-  "url": "subsec-elctcong.html#p-620",
+  "url": "subsec-elctcong.html#p-621",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3205,9 +3205,9 @@ var ptx_lunr_docs = [
   "body": " Octet Rule  The octet rule octet rule states that atoms tend to gain, lose, or share electrons in order to achieve a stable configuration of eight valence electrons in their outermost energy level or shell. The rule is based on the observation that elements in the second row of the periodic table (i.e., those with atomic numbers 5 through 10) tend to form stable compounds by gaining, losing, or sharing electrons until they have eight electrons in their outermost shell, which is also called the valence shell . This configuration is known as the octet configuration or the noble gas configuration, and it is particularly stable because it closely resembles the electron configuration of the noble gases in the same row. The octet rule is not a hard and fast rule and there are many exceptions to it. For example, some elements, such as hydrogen and helium, only have a maximum of two electrons in their outermost shell, while some elements in the third row of the periodic table can accommodate more than eight electrons in their outermost shell. Nonetheless, the octet rule provides a useful framework for predicting the likely electron configurations of atoms and the types of chemical bonds that they can form.  "
 },
 {
-  "id": "p-622",
+  "id": "p-623",
   "level": "2",
-  "url": "subsec-octet.html#p-622",
+  "url": "subsec-octet.html#p-623",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3250,9 +3250,9 @@ var ptx_lunr_docs = [
   "body": " Free Radicals  Free radicals free radical are atoms, molecules or ions that have an unpaired electron in their outermost shell. They are highly reactive and unstable because they seek to pair their unpaired electron with another electron, either from another molecule or from another part of the same molecule. This process can cause damage to cells and tissues, and has been implicated in several diseases, including cancer, heart disease, and aging. Free radicals can be generated through normal metabolic processes in the body, as well as through exposure to environmental factors such as radiation, pollution, cigarette smoke, and certain chemicals. Some of the most common free radicals in the body include superoxide, hydroxyl, and nitric oxide radicals. To neutralize free radicals, the body relies on antioxidants, which are molecules that can donate an electron to the free radical without becoming unstable themselves. Antioxidants can be obtained from a variety of sources, including fruits, vegetables, nuts, and seeds. Vitamins C and E, beta-carotene, and selenium are all examples of antioxidants that can help neutralize free radicals in the body.  Free radicals are formed when a covalent bond in a molecule is broken with each fragment taking one of the shared electrons of the bond. For example when water molecules is broken The dots are unpaired electrons. Here is called a hydroxyle radical .  "
 },
 {
-  "id": "p-636",
+  "id": "p-637",
   "level": "2",
-  "url": "subsec_8rad-subsection.html#p-636",
+  "url": "subsec_8rad-subsection.html#p-637",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3277,9 +3277,9 @@ var ptx_lunr_docs = [
   "body": " Chemical Equations  A chemical equation chemical equation is a representation of a chemical reaction using symbols and formulas to show the reactants and products involved in the reaction. Chemical equations are written in a balanced form, meaning that the number of atoms of each element is the same on both sides of the equation. This is because the law of conservation of mass states that matter cannot be created or destroyed in a chemical reaction, only rearranged. The general form of a chemical equation is: Reactants → Products For example, the chemical equation for the reaction between hydrogen gas and oxygen gas to form water is: This equation shows that two molecules of hydrogen gas react with one molecule of oxygen gas to form two molecules of water . The equation is balanced because there are four hydrogen atoms and two oxygen atoms on both sides of the equation.  Chemical equations can also include coefficients, which are used to balance the equation. Coefficients are numbers placed in front of the chemical formulas to indicate the number of molecules or atoms involved in the reaction. For example, the balanced equation for the reaction between nitrogen gas and hydrogen gas to form ammonia is: In this equation, a coefficient of 3 is placed in front of the to balance the number of hydrogen atoms on both sides of the equation.  "
 },
 {
-  "id": "p-640",
+  "id": "p-641",
   "level": "2",
-  "url": "subsec-chemeqn.html#p-640",
+  "url": "subsec-chemeqn.html#p-641",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3295,18 +3295,18 @@ var ptx_lunr_docs = [
   "body": " Endothermic and Exothermic Reactions  Endothermic and exothermic reactions are the chemical reactions based on the heat energy released or absorbed during the reaction. An endothermic reaction is a chemical reaction that absorbs heat energy from its surroundings. In other words, it requires an input of energy to occur. During an endothermic reaction endothermic reaction , the temperature of the system decreases as the reaction proceeds because the heat is being absorbed into the reaction. Examples of endothermic reactions include melting of ice, the reaction of baking soda and vinegar, and photosynthesis. The decomposition of water into hydrogen and oxygen The formation of nitric oxide from nitrogen and oxygen When chocolate melts in your mouth, it absorbs heat energy from your mouth and the surrounding environment, causing the temperature of the chocolate to increase to melt it into a liquid form. This is an example of an endothermic reaction because it requires an input of energy (in the form of heat) to occur. As a result, the process of chocolate melting in your mouth can give a cooling sensation. When sugar is added to water, the water molecules surround the individual sugar molecules and break apart the sugar crystals through a process called hydration. This requires energy to overcome the intermolecular forces holding the sugar molecules together. As a result, the temperature of the mixture may actually decrease slightly due to the energy absorbed during the process.  On the other hand, an exothermic reaction  exothermic reaction is a chemical reaction that releases heat energy into its surroundings. In other words, it gives off energy during the reaction. During an exothermic reaction, the temperature of the system increases as the reaction proceeds because heat is being released from the reaction. Examples of exothermic reactions include burning of wood, combustion reactions, and neutralization reactions. The burning of coal (carbon) The burning of hydrogen The dissolution of sodium hydroxide (NaOH) in water is an exothermic process, which means that it releases heat. When NaOH dissolves in water, it undergoes a chemical reaction that releases energy in the form of heat. This energy is then transferred to the surrounding environment, causing the temperature of the solution to increase.  "
 },
 {
-  "id": "p-657",
+  "id": "p-658",
   "level": "2",
-  "url": "subsec-endexotherm.html#p-657",
+  "url": "subsec-endexotherm.html#p-658",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "endothermic reaction "
 },
 {
-  "id": "p-658",
+  "id": "p-659",
   "level": "2",
-  "url": "subsec-endexotherm.html#p-658",
+  "url": "subsec-endexotherm.html#p-659",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3322,27 +3322,27 @@ var ptx_lunr_docs = [
   "body": " The Mole   Mole  mole is a unit used to measure the amount of a substance. One mole of a substance is defined as the amount of substance that contains the same number of particles (atoms, molecules, or ions) as there are in 12 grams of carbon-12. This number is known as Avogadro's number, N_o and is approximately particles per mole. For example, one mole of water contains water molecules, while one mole of sodium chloride contains sodium ions and chloride ions. The mole is a convenient unit for chemists because it allows them to compare the amounts of different substances on the basis of the number of particles they contain, rather than their mass or volume. The number of atoms or molecules or anything in 1 mole of any substance is always the same as Avogadro's number.   Atomic mass unit (amu) is a unit of mass used to express the relative masses of atoms and molecules. It is defined as one twelfth (1\/12) of the mass of a carbon-12 atom, which is assigned a mass of exactly 12 amu. This means that the mass of one proton or one neutron is approximately 1 amu, and the mass of an electron is much smaller, about 0.0005 amu. The atomic mass of an element, which is the weighted average of the masses of its isotopes, is expressed in amu. The use of atomic mass units is convenient because it allows us to compare the masses of different atoms and molecules on a relative scale. For example, the mass of a hydrogen atom is about 1 amu, while the mass of an oxygen atom is about 16 amu.   Molar mass is the mass of one mole of a substance, typically expressed in units of grams per mole (g\/mol). It is calculated by summing the atomic masses of all the atoms in a molecule or formula unit of a compound. The molar mass is an important concept in chemistry as it is used to convert between the mass of a substance and the number of moles of that substance. It is also used in stoichiometric calculations to determine the quantities of reactants and products in chemical reactions.  "
 },
 {
-  "id": "p-659",
-  "level": "2",
-  "url": "subsec-8mol.html#p-659",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Mole Avogadro's number, N_o "
-},
-{
   "id": "p-660",
   "level": "2",
   "url": "subsec-8mol.html#p-660",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Atomic mass unit "
+  "body": "Mole Avogadro's number, N_o "
 },
 {
   "id": "p-661",
   "level": "2",
   "url": "subsec-8mol.html#p-661",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Atomic mass unit "
+},
+{
+  "id": "p-662",
+  "level": "2",
+  "url": "subsec-8mol.html#p-662",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3700,18 +3700,18 @@ var ptx_lunr_docs = [
   "body": " Polar and nonpolar molecules    Polar-polar interaction     Polar-nonpolar interaction     Nonpolar-nonpolar interaction     "
 },
 {
-  "id": "p-738",
+  "id": "p-739",
   "level": "2",
-  "url": "subsec-polnon.html#p-738",
+  "url": "subsec-polnon.html#p-739",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "polar "
 },
 {
-  "id": "p-739",
+  "id": "p-740",
   "level": "2",
-  "url": "subsec-polnon.html#p-739",
+  "url": "subsec-polnon.html#p-740",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3727,18 +3727,18 @@ var ptx_lunr_docs = [
   "body": " Types of Solution  There are several types of solutions, based on their composition and properties. Here are some common types of solutions:   Homogeneous solutions: These are solutions that have uniform composition and properties throughout. The solute particles are evenly distributed in the solvent. Examples include saltwater, sugar water, and ethanol-water mixtures.   Heterogeneous solutions: These are solutions that have non-uniform composition and properties. The solute particles are not evenly distributed in the solvent. Examples include suspensions, emulsions, and colloids.   Dilute solutions: These are solutions that have a low concentration of solute. The amount of solute is relatively small compared to the amount of solvent. Examples include a drop of food coloring in a glass of water or a pinch of salt in a pot of soup.   Concentrated solutions: These are solutions that have a high concentration of solute. The amount of solute is relatively large compared to the amount of solvent. Examples include concentrated sulfuric acid, concentrated sodium hydroxide, and concentrated ammonia solutions.   Saturated solutions: These are solutions that contain the maximum amount of solute that can dissolve in a given amount of solvent at a particular temperature and pressure. Any additional solute added to the solution will not dissolve and will remain as a solid. Examples include sugar-water solutions and saltwater solutions.   Unsaturated solutions: These are solutions that contain less than the maximum amount of solute that can dissolve in a given amount of solvent at a particular temperature and pressure. More solute can be added to the solution and dissolved. Examples include weak tea and weak coffee.   Supersaturated solutions: These are solutions that contain more solute than what can theoretically dissolve at a given temperature and pressure. These solutions are not stable and can spontaneously crystallize, forming a precipitate or solid out of excess solute. Examples include supersaturated sugar-water solutions and supersaturated sodium acetate solutions.    There are also several types of solutions based on the phases of the solute and solvent. Here are some common types of solutions:   Solid-solid solutions: It is also known as solid solutions or alloys, are homogeneous mixtures of two or more solid elements or compounds. In a solid solution, the atoms of one component are dispersed uniformly throughout the crystal lattice of the other component, resulting in a single, continuous phase. Examples of solid-solid solutions include brass, which is an alloy of copper and zinc; steel, which is an alloy of iron and carbon; and bronze, which is an alloy of copper and tin.   Liquid-liquid solutions: These are solutions in which the solute and solvent are both liquids. Examples include milk in water, ethanol in water, and benzene in toluene.   Gas-liquid solutions: also known as gas solutions. These are solutions in which the solute is a gas that dissolves in a liquid solvent. Examples include cold drink, carbon dioxide in water, oxygen in blood, and nitrogen in beer.   Solid-liquid solutions: Here solid is solute and liquid is solvent. For example: salt water solution, sugar water solution.    "
 },
 {
-  "id": "p-744",
+  "id": "p-745",
   "level": "2",
-  "url": "subsec-typSol.html#p-744",
+  "url": "subsec-typSol.html#p-745",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Homogeneous solutions: Heterogeneous solutions: Dilute solutions: Concentrated solutions: Saturated solutions: Unsaturated solutions: Supersaturated solutions: "
 },
 {
-  "id": "p-745",
+  "id": "p-746",
   "level": "2",
-  "url": "subsec-typSol.html#p-745",
+  "url": "subsec-typSol.html#p-746",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3754,18 +3754,18 @@ var ptx_lunr_docs = [
   "body": " Colligative property of a solution   Freezing point depression is a colligative property of a solution that describes how the presence of a solute lowers the freezing point of the solvent. Colligative properties are properties of solutions that depend on the concentration of solute particles in the solution, but not on the identity of the solute particles. The freezing point of a pure solvent is a characteristic property that is dependent only on the identity of the solvent. However, when a solute is added to the solvent, the freezing point of the resulting solution is lower than that of the pure solvent. This occurs because the solute particles disrupt the crystal lattice structure of the solvent, making it more difficult for the solvent molecules to form solid crystals.   Melting point elevation Melting point elevation is a colligative property of a solution that describes how the melting point of a solid solvent is increased when a solute is dissolved in it. Like freezing point depression, it is a property of solutions that depends on the concentration of solute particles in the solution, but not on the identity of the solute particles. When a solute is dissolved in a solvent, it disrupts the crystal lattice structure of the solvent, making it more difficult for the solvent molecules to transition from the solid to the liquid state. As a result, the melting point of the solution is higher than that of the pure solvent.  "
 },
 {
-  "id": "p-746",
+  "id": "p-747",
   "level": "2",
-  "url": "subsec-collgative.html#p-746",
+  "url": "subsec-collgative.html#p-747",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Freezing point depression "
 },
 {
-  "id": "p-747",
+  "id": "p-748",
   "level": "2",
-  "url": "subsec-collgative.html#p-747",
+  "url": "subsec-collgative.html#p-748",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3790,18 +3790,18 @@ var ptx_lunr_docs = [
   "body": " pH scale   "
 },
 {
-  "id": "p-752",
+  "id": "p-753",
   "level": "2",
-  "url": "subsec-pH.html#p-752",
+  "url": "subsec-pH.html#p-753",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "pH scale "
 },
 {
-  "id": "p-753",
+  "id": "p-754",
   "level": "2",
-  "url": "subsec-pH.html#p-753",
+  "url": "subsec-pH.html#p-754",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -3817,9 +3817,9 @@ var ptx_lunr_docs = [
   "body": " Salts  An acid-base reaction is a chemical reaction that occurs between an acid and a base. In this type of reaction, the acid donates a proton (H+) to the base, which accepts the proton. This results in the formation of a new compound that is neither acidic nor basic in nature. Neutralization  neutralization is a specific type of acid-base reaction where an acid and a base react to form a salt and water. The salt formed is composed of the cation of the base and the anion of the acid, and it is typically a neutral compound. For example, when hydrochloric acid (HCl) reacts with sodium hydroxide (NaOH), the following reaction takes place: In this reaction, HCl is the acid, NaOH is the base, NaCl is the salt, and is the water that is formed. The resulting solution is neutral because the and ions from the acid and base, respectively, have combined to form water, leaving behind only the and ions from the salt. Table salt , Epsom salt , Gypsom salt , Baking soda are some examples of salt.  "
 },
 {
-  "id": "p-754",
+  "id": "p-755",
   "level": "2",
-  "url": "subsec-salts.html#p-754",
+  "url": "subsec-salts.html#p-755",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4024,9 +4024,9 @@ var ptx_lunr_docs = [
   "body": " Ozone Hole  The ozone hole refers to a severe depletion of the ozone layer in the Earth's atmosphere over the Antarctic region, which occurs annually during September to November. The depletion is caused by the release of man-made chemicals, particularly chlorofluorocarbons (CFCs), hydrofluorocarbons (HFCs), and other halogenated gases that have been used in refrigeration, air conditioning, and other industrial applications. These chemicals are transported into the upper atmosphere, where they are broken down by ultraviolet radiation from the sun, releasing chlorine and bromine atoms. These atoms then react with ozone molecules, breaking them down into oxygen molecules and causing a significant depletion of the ozone layer.  The most important reaction that leads to the depletion of ozone is as follows: The chlorine radical (Cl·) produced in the above reaction reacts with ozone as follows: The ClO· radical then reacts with another oxygen molecule to form more chlorine radicals: The chlorine radical produced in the second reaction then repeats the cycle, reacting with more ozone molecules to produce more chlorine radicals. This cycle continues until a large amount of ozone has been depleted. Another reaction that can also lead to ozone depletion involves bromine compounds, such as halons and methyl bromide, which are also released into the atmosphere from human activities.  The bromine radical (Br·) produced in the first reaction then reacts with more ozone molecules, leading to further ozone depletion. These reactions are of particular concern because they can destroy large amounts of ozone in a short period of time.  "
 },
 {
-  "id": "p-792",
+  "id": "p-793",
   "level": "2",
-  "url": "subsec-ozonehole.html#p-792",
+  "url": "subsec-ozonehole.html#p-793",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4042,9 +4042,9 @@ var ptx_lunr_docs = [
   "body": " Atmospheric Moisture  Atmospheric moisture refers to the water vapor present in the Earth's atmosphere. Water vapor is one of the most important greenhouse gases, and it plays a critical role in regulating the Earth's temperature and climate. The amount of water vapor in the atmosphere can vary depending on factors such as temperature, humidity, and atmospheric pressure. Water vapor is constantly moving in and out of the atmosphere through processes such as evaporation, transpiration, and condensation. As warm air rises, water vapor in air expands, cools, and condenses into clouds , leading to precipitation or rain  Water Cycles . When air cools to its dew point, water droplets may form, which can lead to fog or dew. The amount of moisture (water vapor) contained in the air is known as humidity . Humidity is typically measured in relative humidity . relative humidity Relative humidity (R.H.) is the ratio of the amount of water vapor in the air to the maximum amount of water vapor the air can hold at a given temperature. Relative humidity expressed in percentage. Warmer air can hold more water vapor than cooler air, so relative humidity can change depending on temperature changes. When air contains the maximum amount of moisture, it is said to be saturated . A maximum of about 30 grams of water vapor can exist in a cubic meter volume of air at temperature about . Dry air has zero relative humidity but saturated air has 100% relative humidity. Humid (or saturated) air is very uncomfortable, since the rate of evaporation is slowed by the high levels of water already in the air. At that time, human skin cannot sweat (perspirate) properly and we feel uncomfirtable. Dew point:  dew point is another way of expressing the saturation. The dew point is the temperature at which the air becomes saturated with the available water vapor causing condensation to occur. At this point, the air cannot hold any more moisture, and the excess water vapor begins to condense into liquid droplets. The dew point is an important measurement in weather forecasting, as it helps determine the likelihood of dew, fog, or frost formation. It is also used to calculate the relative humidity. When the dew point and temperature are close together, the relative humidity is high, which means that the air is nearly saturated with water vapor.  "
 },
 {
-  "id": "p-794",
+  "id": "p-795",
   "level": "2",
-  "url": "subsec-atmmoist.html#p-794",
+  "url": "subsec-atmmoist.html#p-795",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4060,9 +4060,9 @@ var ptx_lunr_docs = [
   "body": " Meteorology  Meteorology is the study of the weather and climate. Meteorologists use a variety of tools and techniques to collect data on the atmosphere, including weather balloons, satellites, and radar. They analyze this data to create models and forecasts of weather patterns and atmospheric conditions. Weather forecasting is one of the most important applications of meteorology, as it provides critical information to help people prepare for severe weather events such as hurricanes, tornadoes, and blizzards. Meteorologists also study long-term climate patterns and changes, which can help inform public policy decisions related to environmental protection and resource management. Weather refers to the state of temperature, humidity, pressure, cloud formation, or precipitation at any given time. Weather is the short-term atmospheric conditions of a specific place at a specific time. Climate describes the summary of weather conditions for a specific region over a fairly long time period. Climate, is the long-term weather patterns and averages of weather conditions in a particular region over a period of several decades or centuries.  "
 },
 {
-  "id": "p-795",
+  "id": "p-796",
   "level": "2",
-  "url": "subsec-meteor.html#p-795",
+  "url": "subsec-meteor.html#p-796",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4078,27 +4078,27 @@ var ptx_lunr_docs = [
   "body": " Greenhouse Effect  The greenhouse effect greenhouse effect is a natural process by which certain gases in the Earth's atmosphere trap and re-emit heat radiated from the Earth's surface, leading to a warming effect on the planet's surface temperature. These gases, including carbon dioxide , methane , water vapor , and nitrous oxide , are known as greenhouse gases. Without the greenhouse effect, the Earth's average surface temperature would be around , which would be too cold to support life as we know it. However, human activities, such as burning fossil fuels, deforestation, and agriculture, have increased the concentration of greenhouse gases in the atmosphere, leading to an enhanced greenhouse effect and global warming  global warming . The consequences of global warming can include sea level rise, more frequent and severe weather events, changes in precipitation patterns, and impacts on ecosystems and human health. Therefore, it is important to reduce greenhouse gas emissions to mitigate the impacts of climate change.  A greenhouse is a man-made structure that is designed to grow plants in a controlled environment. It is typically made of glass or plastic panels that allow sunlight to enter while trapping heat inside, creating a warm and humid environment that is ideal for plant growth. Both greenhouse and greenhouse effect involve the trapping of heat, but the greenhouse effect occurs on a much larger scale and has much more significant consequences for the planet's climate.  When sunlight enters the Earth's atmosphere, some of it is reflected back into space, and some is absorbed by the Earth's surface, which then radiates it back into the atmosphere as heat. The greenhouse gases in the atmosphere absorb some of this heat energy and re-emit it in all directions, including back to the Earth's surface. As a result, the greenhouse gases act like a blanket that traps some of the heat energy and prevents it from escaping into space. This causes the Earth's temperature to be warmer than it would be otherwise, which is necessary for life as we know it to exist on the planet Greenhouse Effect . The energy of light is given by where is Planck's constant, is velocity of light, and is wavelength of the light. Suppose is the wavelength of light of energy coming from the sun's visible light to the earth. When the light eneters into the earth atmosphere and it gets absorbed by the atmospheric gases, plants, and the earth's surface but when it remits and reflects back from the earth surface towards the space it losses some of its energy and becomes less energetic to penetrate our atmosphere except that some amount of light energy is able to penetrate the atmosphere that makes our earth warmer as a suitable place to survive life. However, due to increasing population, deforestation, and industrialization the amount of greenhouse gases are increasing making more difficult to the less energetic light rays to leave our atmosphere. Such activities are leading the global warming .  "
 },
 {
-  "id": "p-796",
-  "level": "2",
-  "url": "subsec-greenhouse.html#p-796",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "global warming "
-},
-{
   "id": "p-797",
   "level": "2",
   "url": "subsec-greenhouse.html#p-797",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "greenhouse "
+  "body": "global warming "
 },
 {
   "id": "p-798",
   "level": "2",
   "url": "subsec-greenhouse.html#p-798",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "greenhouse "
+},
+{
+  "id": "p-799",
+  "level": "2",
+  "url": "subsec-greenhouse.html#p-799",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4114,9 +4114,9 @@ var ptx_lunr_docs = [
   "body": " Winds  Winds wind are primarily caused by differences in temperature and pressure between different parts of Earth's atmosphere. When air is heated, it becomes less dense and rises, creating an area of low pressure. Conversely, when air cools, it becomes more dense and sinks, creating an area of high pressure. This movement of air from high pressure to low pressure creates winds, which can be influenced by the rotation of the Earth and other factors such as the presence of mountains and oceans.  Temperature differences play a key role in creating these pressure systems and driving the movement of air. For example, the equator receives more direct sunlight and is therefore warmer than the poles, creating a temperature gradient that drives the movement of air from the equator towards the poles. This creates the global circulation patterns of the atmosphere, such as the trade winds and the westerlies. Local temperature differences can also create wind patterns, such as sea breezes and land breezes. During the day, land heats up more quickly than water, creating an area of low pressure over the land. The cooler, higher-pressure air over the ocean moves towards the land, creating a sea breeze. At night, the situation is reversed, with the land cooling down more quickly than the ocean and creating a high-pressure area. This causes the air to move from the land towards the ocean, creating a land breeze. Overall, temperature differences play a crucial role in creating the pressure systems that drive wind patterns and influence weather patterns across the Earth's surface.  The Coriolis effect  Coriolis effect is a phenomenon that occurs due to the rotation of the Earth on its axis. It causes moving objects, including air and water, to appear to veer off course from their straight-line motion. The Coriolis effect is caused by the Earth's rotation, which causes points on the equator to move at a faster speed than points closer to the poles. As a result, when air or water moves from one latitude to another, it appears to be deflected to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This deflection is due to the conservation of angular momentum, which causes the moving air or water to maintain its original speed and direction of motion as it moves across different latitudes. The Coriolis effect has important implications for weather patterns and ocean currents. In the Northern Hemisphere, the Coriolis effect causes air to rotate clockwise around areas of high pressure and counterclockwise around areas of low pressure. In the Southern Hemisphere, the rotation is opposite. Similarly, ocean currents in the Northern Hemisphere tend to flow to the right of their intended path, while those in the Southern Hemisphere tend to flow to the left. The Coriolis effect is also responsible for the formation of tropical cyclones, which are rotating storms that form over warm ocean waters. The rotation of the Earth causes these storms to spin counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere.    Coriolis Effect     Cyclones & Anticyclones     Cyclones and Anticyclones Cyclones and anticyclones are weather systems that are characterized by areas of low and high pressure, respectively. Cyclones  cyclones are powerful rotating storms that can form over warm ocean waters. Cyclones are characterized by their low pressure center, strong winds, and heavy rainfall. Cyclones form when warm, moist air over the ocean rises and cools, causing water vapor to condense and form clouds. As the air continues to rise, it creates an area of low pressure at the surface, which draws in more warm, moist air. This cycle of rising warm air and low pressure continues, causing the storm to intensify. In the Northern Hemisphere, cyclones rotate counterclockwise and move in a west to east direction, while in the Southern Hemisphere, they rotate clockwise and move in an east to west direction. Cyclones are commonly referred to as hurricanes, typhoons, or tropical storms when they occur over warm ocean waters. .   Anticyclones are areas of high pressure that are typically associated with clear skies, calm winds, and dry weather. In an anticyclone, air is sinking rather than rising. As the air sinks, it warms and dries out, which leads to clear skies and dry weather. Because of this, anticyclones are often associated with calm weather conditions, such as clear skies, light winds, and dry air. Anticyclones can be persistent weather patterns that last for several days or even weeks. They can have both positive and negative impacts on the environment. On the positive side, anticyclones can provide periods of stable, dry weather that is ideal for outdoor activities. However, prolonged periods of high pressure can lead to drought conditions and poor air quality due to stagnant air. In the Northern Hemisphere, anticyclones rotate clockwise and in the Southern Hemisphere, they rotate counterclockwise. Anticyclones are often referred to as high-pressure systems and are associated with stable weather conditions. Both cyclones and anticyclones are important for weather forecasting because they can influence the movement of other weather systems. Cyclones, for example, can cause strong winds, heavy rainfall, and storm surge, while anticyclones can cause calm winds, clear skies, and temperature inversions.   Tornado  tornado is a violent cyclonic storm. Tornadoes are capable of producing extreme winds, often in excess of 200 miles per hour, and can cause significant damage and loss of life. The warm, moist air near the ground rises rapidly, and the cooler, drier air aloft descends, creating a rotating updraft within the thunderstorm. This updraft can become concentrated and elongated, creating a visible funnel-shaped cloud. When the funnel cloud makes contact with the ground, it becomes a tornado. Tornadoes are typically short-lived, lasting only a few minutes, but can cause significant damage in that time. They can uproot trees, destroy buildings, and toss vehicles hundreds of yards away. Tornadoes can occur anywhere in the world, but the United States experiences more tornadoes than any other country, particularly in the central and southern regions known as Tornado Alley.  A hurricane  hurricane is a tropical cyclone that occurs in the Atlantic Ocean and northeastern Pacific Ocean. It is a rotating storm system that produces strong winds, heavy rain, storm surges, and flooding. Hurricanes are classified according to their wind speed such as catagory one through five. The higher the category, the more powerful the hurricane and the more damage it can cause. Hurricanes can be extremely dangerous and have the potential to cause significant damage to property, infrastructure, and human life. It is important to be prepared and heed the warnings and advice of local authorities during hurricane season.  "
 },
 {
-  "id": "p-804",
+  "id": "p-805",
   "level": "2",
-  "url": "subsec-wind.html#p-804",
+  "url": "subsec-wind.html#p-805",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4141,22 +4141,13 @@ var ptx_lunr_docs = [
   "body": " Cyclones & Anticyclones   "
 },
 {
-  "id": "p-805",
-  "level": "2",
-  "url": "subsec-wind.html#p-805",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Cyclones and Anticyclones Cyclones "
-},
-{
   "id": "p-806",
   "level": "2",
   "url": "subsec-wind.html#p-806",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Anticyclones "
+  "body": "Cyclones and Anticyclones Cyclones "
 },
 {
   "id": "p-807",
@@ -4165,12 +4156,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Tornado "
+  "body": "Anticyclones "
 },
 {
   "id": "p-808",
   "level": "2",
   "url": "subsec-wind.html#p-808",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Tornado "
+},
+{
+  "id": "p-809",
+  "level": "2",
+  "url": "subsec-wind.html#p-809",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4195,9 +4195,9 @@ var ptx_lunr_docs = [
   "body": " Ocean Basins   "
 },
 {
-  "id": "p-810",
+  "id": "p-811",
   "level": "2",
-  "url": "subsec-basin.html#p-810",
+  "url": "subsec-basin.html#p-811",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4222,9 +4222,9 @@ var ptx_lunr_docs = [
   "body": " Erosion  Erosion refers to the process by which soil, rock, and other geological materials are moved from one place to another by natural agents such as wind, water, ice, and gravity. Water erosion is one of the most common types of erosion, occurring when rainwater or runoff moves soil particles downhill and into streams or rivers. This can lead to the formation of gullies, stream channels, and river deltas. Wind erosion occurs when wind picks up and carries soil particles, causing them to be deposited in other areas and potentially causing soil degradation and loss of vegetation. Glacial erosion occurs when glaciers move over the land, scraping and eroding the surface and transporting rocks and other materials to other locations. Human activities such as deforestation, agriculture, and construction can also contribute to erosion by removing vegetation and disturbing the soil, leading to increased susceptibility to erosion by natural agents. Erosion can have both positive and negative effects on the environment. It can create new landforms and shape landscapes. It can also lead to soil degradation, loss of biodiversity, and the accumulation of sediment in water bodies, which can have negative impacts on aquatic ecosystems.   Erosion by running water is one of the most common types of erosion and occurs when rainwater or surface runoff flows over land and picks up soil particles, which are then transported downstream. The amount of erosion by running water depends on several factors such as the velocity of the water, the amount of rainfall, and the characteristics of the soil or rock being eroded. High-velocity water, such as that found in rivers and streams, can cause significant erosion by carrying large quantities of sediment downstream. This can lead to the formation of gullies, canyons, and river channels. Sheet erosion, on the other hand, occurs when surface runoff moves over a wide area, gradually removing thin layers of soil from the surface. This type of erosion can be caused by heavy rainfall, snowmelt, or other factors that increase the amount of runoff. Over time, erosion by running water can cause significant changes to the landscape, including the formation of valleys and other landforms. It can also lead to soil degradation, loss of vegetation, and the deposition of sediment in water bodies, which can have negative impacts on aquatic ecosystems. To reduce erosion by running water, several measures can be taken, including the use of erosion control structures, such as retaining walls or riprap, planting vegetation to stabilize soil, and reducing the amount of impervious surfaces in urban areas to decrease runoff.  "
 },
 {
-  "id": "p-814",
+  "id": "p-815",
   "level": "2",
-  "url": "subsubsec-erosion.html#p-814",
+  "url": "subsubsec-erosion.html#p-815",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4240,27 +4240,27 @@ var ptx_lunr_docs = [
   "body": " Ground Water  Water is found in various forms on Earth, including oceans, rivers, lakes, glaciers, groundwater, and atmospheric water vapor. The Earth's water cycle, also known as the hydrologic cycle, involves the continuous movement of water between these different forms, driven by processes such as evaporation, precipitation, and transpiration. The vast majority of Earth's water is contained in the oceans, which cover about 70% of the planet's surface. The remaining water is found in freshwater sources such as lakes, rivers, and groundwater. Groundwater refers to water that is stored beneath the Earth's surface in porous rock or soil. It is an important source of freshwater for many people around the world and plays a crucial role in the Earth's hydrologic cycle. Groundwater is replenished through processes such as precipitation and infiltration, which cause water to percolate down through soil and rock layers until it reaches an impermeable layer, such as bedrock. The water is stored in the pores and fractures of the rock or soil, forming an aquifer. The amount of water that can be stored in an aquifer depends on several factors, including the porosity and permeability of the rock or soil, the amount of rainfall or recharge, and the rate of extraction. Groundwater is often accessed through wells, which are drilled into the aquifer to extract water. Groundwater can also discharge into surface water bodies such as lakes and rivers, providing a source of water for these ecosystems. However, overuse of groundwater can lead to depletion of the aquifer, which can have negative impacts on human water supplies and natural ecosystems. Groundwater can also become contaminated through human activities such as agriculture, mining, and waste disposal, which can have negative impacts on human health and the environment.  A spring is a natural water source that flows from the ground to the surface. Springs occur when groundwater, which is water stored beneath the Earth's surface in soil, sediment, or rocks, becomes saturated and flows out to the surface. The location and flow of springs are determined by the geology of the area, including the types of rocks and sediments present, as well as the amount of rainfall and the shape of the land. Springs are important sources of freshwater for human consumption and are also critical habitats for many plant and animal species. Springs can be classified into several types based on the geologic and hydrologic characteristics of the aquifer that they originate from, including artesian springs, seepage springs, and karst springs.  The water table is the level below the ground surface where the soil or rock is saturated with water. It represents the upper boundary of the zone of saturation, which is the area beneath the ground surface where all of the pore spaces in the soil or rock are filled with water. The water table can be at different depths depending on the local geology, climate, and land use practices. The water table can rise or fall depending on the amount of precipitation, evaporation, and human water use in the area. When there is excess rainfall or snowmelt, the water table can rise, which can cause shallow wells and basements to flood. Conversely, during periods of drought or increased human water use, the water table can fall, which can cause wells to go dry and lead to decreased streamflow and other environmental impacts. The depth of the water table is an important factor in determining the availability of groundwater for drinking water, agriculture, and other uses. It is typically measured using a monitoring well that is drilled into the ground and equipped with a device that can measure the water level in the well. Groundwater management practices often focus on maintaining the water table at a sustainable level to ensure continued availability of this important resource.  "
 },
 {
-  "id": "p-815",
-  "level": "2",
-  "url": "subsubsec-groundwater.html#p-815",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Groundwater "
-},
-{
   "id": "p-816",
   "level": "2",
   "url": "subsubsec-groundwater.html#p-816",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "spring "
+  "body": "Groundwater "
 },
 {
   "id": "p-817",
   "level": "2",
   "url": "subsubsec-groundwater.html#p-817",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "spring "
+},
+{
+  "id": "p-818",
+  "level": "2",
+  "url": "subsubsec-groundwater.html#p-818",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4294,9 +4294,9 @@ var ptx_lunr_docs = [
   "body": " Tsunami  A tsunami  tsunami is a series of ocean waves with very long wavelengths (hundred of kilometers long) caused by large-scale disturbances of the ocean due to earthquakes , volcanic eruptions, or underwater landslides. Tsunamis can also be generated by large meteorite impacts or nuclear explosions in the ocean. When a large disturbance occurs, it can create a series of waves that radiate outwards from the source. These waves can travel across entire ocean basins and can cause significant damage when they reach shore. Tsunami waves can reach heights of tens of meters, and their high energy can devastate coastal communities, causing flooding, erosion, and destruction of buildings and infrastructure. Tsunamis travel at high speeds, with typical speeds of around 700 kilometers per hour in deep water. Because of their high speed and long wavelength, they can pass unnoticed in the open ocean, with wave heights typically only a few centimeters. However, as the waves approach shallow waters near the coast, they slow down and the wave height increases, creating a wall of water that can inundate coastal areas.    Tsunami    "
 },
 {
-  "id": "p-820",
+  "id": "p-821",
   "level": "2",
-  "url": "subsec-tsunami.html#p-820",
+  "url": "subsec-tsunami.html#p-821",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4699,9 +4699,9 @@ var ptx_lunr_docs = [
   "body": " Types of Rocks   "
 },
 {
-  "id": "p-894",
+  "id": "p-895",
   "level": "2",
-  "url": "subsec-Rocks.html#p-894",
+  "url": "subsec-Rocks.html#p-895",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4717,9 +4717,9 @@ var ptx_lunr_docs = [
   "body": " Some common Rocks   "
 },
 {
-  "id": "p-895",
+  "id": "p-896",
   "level": "2",
-  "url": "subsec-Rocks.html#p-895",
+  "url": "subsec-Rocks.html#p-896",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4735,9 +4735,9 @@ var ptx_lunr_docs = [
   "body": " Coral Reef  Coral reefs are underwater ecosystems that are built by colonies of small organisms called coral polyps. Coral reefs are found in shallow, clear waters, primarily in tropical and subtropical regions around the world. Coral reefs are composed of a type of limestone known as \"reef\" limestone , which is formed from the accumulation of the calcium carbonate skeletons of coral polyps. Over time, the accumulation of these skeletons forms the hard, rocky structure of the reef.  "
 },
 {
-  "id": "p-896",
+  "id": "p-897",
   "level": "2",
-  "url": "subsec-coralreef.html#p-896",
+  "url": "subsec-coralreef.html#p-897",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4762,9 +4762,9 @@ var ptx_lunr_docs = [
   "body": "    Types of faults     Focus and epicenter     Richter scale     "
 },
 {
-  "id": "p-900",
+  "id": "p-901",
   "level": "2",
-  "url": "subsec-faults.html#p-900",
+  "url": "subsec-faults.html#p-901",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4798,9 +4798,9 @@ var ptx_lunr_docs = [
   "body": "  Theory of Continental drift   "
 },
 {
-  "id": "p-904",
+  "id": "p-905",
   "level": "2",
-  "url": "subsec-drift.html#p-904",
+  "url": "subsec-drift.html#p-905",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4825,9 +4825,9 @@ var ptx_lunr_docs = [
   "body": " Plate collision   "
 },
 {
-  "id": "p-905",
+  "id": "p-906",
   "level": "2",
-  "url": "subsec-platetect.html#p-905",
+  "url": "subsec-platetect.html#p-906",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4852,9 +4852,9 @@ var ptx_lunr_docs = [
   "body": " Human Evolutionary Tree   "
 },
 {
-  "id": "p-910",
+  "id": "p-911",
   "level": "2",
-  "url": "subsec-humhist.html#p-910",
+  "url": "subsec-humhist.html#p-911",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5257,22 +5257,13 @@ var ptx_lunr_docs = [
   "body": " Debri Belts  Asteroids are small, rocky objects that orbit the sun. There are millions of asteroids in our solar system, ranging in size from tiny pebbles to massive rocks several hundred kilometers across. Most asteroids are found in the asteroid belt , [ ] a region of space between Mars and Jupiter. Asteroids are thought to be remnants from the early solar system, left over from the formation of the planets. Studying asteroids can give us insights into the formation and evolution of the solar system, as well as provide clues about the potential hazards that these objects pose to our planet. Meteoroids can come from various sources, including the asteroid belt. Small rocky objects in asteroids belt sometimes collide with each other and create meteoroids. However, meteoroids can also come from other sources, such as comets or other objects in space. Once a meteoroid enters the Earth's atmosphere, it is called a meteor or shooting star.  A meteor shower occurs when the Earth passes through a trail of debris left behind by a comet or asteroid. As the Earth moves through this debris field, the small particles, called meteoroids, enter the Earth's atmosphere at high speeds and burn up, creating streaks of light in the sky that we call meteors or shooting stars . Meteor showers can occur at various times throughout the year, and they are often named after the constellation that appears to be the source of the meteors (the radiant). Some of the most well-known meteor showers include the Perseids (in August), the Leonids (in November), and the Geminids (in December).  The Kuiper Belt [ ] is a region of the solar system located beyond the orbit of Neptune, extending from about 30 to 50 astronomical units (AU) from the Sun. It is a vast region of space containing many small icy objects, including dwarf planets such as Pluto, Haumea, Makemake, and Eris, as well as numerous smaller bodies known as Kuiper Belt Objects (KBOs). The Kuiper Belt is thought to be the source of many short-period comets, which are believed to be icy bodies that originate from this region and are gravitationally perturbed by the gas giants, particularly Jupiter.  The Oort Cloud [ ] is a theoretical region of the outer solar system that is thought to be the source of most long-period comets. It is believed to extend from about 2,000 to 100,000 astronomical units (AU) from the Sun, which is well beyond the Kuiper Belt. The Oort Cloud is composed of icy objects, including comets, that are thought to have formed in the early solar system and were gravitationally scattered to the outer reaches of the solar system by the gas giants. The comets in the Oort Cloud can be perturbed by passing stars, which can send them on trajectories that bring them into the inner solar system, where they become visible as long-period comets. The Oort Cloud is named after Dutch astronomer Jan Oort, who first proposed its existence in 1950 based on observations of comets.      Hale-Bopp comet     Comet's orbit       Comets are celestial bodies that orbit the sun and are primarily composed of ice, dust, and rock [ ]. They are often referred to as \"dirty snowballs\" because of their composition. When a comet approaches the sun, its ice begins to vaporize, releasing gas and dust that form a glowing coma, a temporary atmosphere around the nucleus. The solar wind and radiation pressure from the sun cause the coma to form a tail that points away from the sun. Comets can have highly elliptical orbits [ ] that take them far from the sun and then back towards it, sometimes taking thousands of years to complete a single orbit. Many comets are believed to originate in the Kuiper Belt, a region beyond Neptune that contains icy bodies and small planets. Some comets have been known to collide with planets or moons, and these collisions can have significant impacts on the celestial body's surface. Comets have fascinated people for centuries and have been the subject of many myths and legends. They have also been studied extensively by astronomers, who use them as a tool to study the formation and evolution of the solar system.  "
 },
 {
-  "id": "p-984",
-  "level": "2",
-  "url": "subsec-debribelts.html#p-984",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "asteroid belt Meteoroids "
-},
-{
   "id": "p-985",
   "level": "2",
   "url": "subsec-debribelts.html#p-985",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "meteor shower meteors or shooting stars "
+  "body": "asteroid belt Meteoroids "
 },
 {
   "id": "p-986",
@@ -5281,12 +5272,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Kuiper Belt dwarf planets Pluto, "
+  "body": "meteor shower meteors or shooting stars "
 },
 {
   "id": "p-987",
   "level": "2",
   "url": "subsec-debribelts.html#p-987",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Kuiper Belt dwarf planets Pluto, "
+},
+{
+  "id": "p-988",
+  "level": "2",
+  "url": "subsec-debribelts.html#p-988",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5302,9 +5302,9 @@ var ptx_lunr_docs = [
   "body": "    Hale-Bopp comet     Comet's orbit     "
 },
 {
-  "id": "p-988",
+  "id": "p-989",
   "level": "2",
-  "url": "subsec-debribelts.html#p-988",
+  "url": "subsec-debribelts.html#p-989",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5329,18 +5329,18 @@ var ptx_lunr_docs = [
   "body": " Mars  Mars [ ] is the fourth planet from the Sun and the second-smallest planet in our solar system, after Mercury. It is often referred to as the Red Planet because of its reddish appearance, which is caused by iron oxide or rust on its surface. Mars has a diameter of approximately 6,779 kilometers, which is about half the size of Earth. It has a thin atmosphere composed mainly of carbon dioxide, with small amounts of nitrogen and argon. Mars also has the largest volcano and the deepest canyon in the solar system. There is evidence that liquid water once existed on Mars, and there are signs of dried-up riverbeds, lakes, and even an ancient ocean. The search for signs of life on Mars is a major focus of current and future missions. Several spacecraft, including rovers and orbiters, have been sent to Mars to study its surface, atmosphere, and geology. In 2020, NASA's Perseverance rover successfully landed on Mars and began exploring the Jezero Crater, which is believed to have once been a lakebed and could contain evidence of past microbial life. Mars is also a target for future human exploration, with plans for manned missions and even eventual colonization. However, the harsh conditions on Mars, including its thin atmosphere and extreme temperatures, make any such missions challenging and expensive.  The thin atmosphere of Mars does not provide significant protection from the sun's radiation and solar wind, which means that the planet's surface is bombarded by high-energy particles. However, the atmosphere does help to regulate the planet's temperature and weather patterns. The temperature on Mars can vary greatly, ranging from an average of about -63°C (-81°F) at the equator to as low as -143°C (-225°F) at the poles during the winter. During the summer, temperatures can reach a maximum of around 20°C (68°F) at the equator. The Martian atmosphere also contains clouds, dust storms, and seasonal weather patterns. Dust storms can sometimes cover the entire planet and can last for weeks or even months, affecting the solar-powered rovers and landers that are exploring the surface.  While the Mars missions have not yet found definitive evidence of life on Mars, they have provided valuable data and insights into the planet's geology, climate, and potential habitability. Future missions, including the joint NASA-ESA Mars Sample Return mission, are planned to bring back samples from Mars for further analysis, which may help answer the question of whether life exists or has ever existed on the planet.  Mars has two small moons, named Phobos and Deimos , which are thought to be captured asteroids. Phobos is the larger and closer of the two moons, and is heavily cratered with deep grooves and ridges on its surface. Its surface is thought to be composed of a mixture of rock and dust, and it orbits Mars at a distance of only 9,377 km (5,827 miles), which is closer than any other moon in the Solar System relative to its host planet. Deimos is smaller and more irregularly shaped than Phobos, and has a smoother surface with fewer craters. Its surface is also thought to be composed of a mixture of rock and dust, and it orbits Mars at a distance of about 23,460 km (14,577 miles). Both Phobos and Deimos are relatively small and irregularly shaped, and are thought to be composed of materials similar to those found in asteroids. They have been studied in detail by several spacecraft, including the Mars Reconnaissance Orbiter, which has provided us with high-resolution images and valuable scientific data about these small moons of Mars.  "
 },
 {
-  "id": "p-995",
+  "id": "p-996",
   "level": "2",
-  "url": "subsec-mars.html#p-995",
+  "url": "subsec-mars.html#p-996",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Red Planet "
 },
 {
-  "id": "p-998",
+  "id": "p-999",
   "level": "2",
-  "url": "subsec-mars.html#p-998",
+  "url": "subsec-mars.html#p-999",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5356,18 +5356,18 @@ var ptx_lunr_docs = [
   "body": " Jupiter  Jupiter [ ] is the largest planet in our solar system and the fifth planet from the Sun. It is located between the orbits of Mars and Saturn. It has a diameter of 86,881 miles (139,822 kilometers) and is a gas giant planet, meaning that it is primarily composed of hydrogen and helium gas, with no solid surface. Jupiter is known for its distinctive colorful bands of clouds, which are caused by strong winds in its atmosphere that blow in opposite directions at different latitudes. It also has a giant red spot , a massive storm that has been raging for over 300 years. Jupiter's strong gravitational pull has also led to the discovery of many small, rocky asteroids and comets that are captured in its orbit. Jupiter has been studied extensively by spacecraft, including NASA's Voyager 1 and 2 missions, as well as the Galileo spacecraft, which orbited the planet from 1995 to 2003. The Juno spacecraft, launched by NASA in 2011, is currently in orbit around Jupiter, studying its atmosphere, magnetic field, and interior structure.  Jupiter has more than 79 known moons, the largest of which is Ganymede, which is even larger than the planet Mercury. The most famous moon of Jupiter is probably Europa , which is known for its potential subsurface ocean and the possibility of harboring extraterrestrial life. Other notable moons of Jupiter include Io, Ganymede, and Callisto.  Jupiter has a system of rings, but they are not as prominent or well-known as the rings of Saturn. Jupiter's rings are composed of small particles of rock and dust, and there are four main ring groups: the halo ring, the main ring, the Amalthea gossamer ring, and the Thebe gossamer ring. These rings are thought to be formed by dust kicked up from impacts on nearby moons, and they are constantly being replenished by new dust from these sources. The rings of Jupiter are much fainter and harder to see than the rings of Saturn, and were discovered in 1979 by the Voyager 1 spacecraft.  "
 },
 {
-  "id": "p-999",
+  "id": "p-1000",
   "level": "2",
-  "url": "subsec-jupiter.html#p-999",
+  "url": "subsec-jupiter.html#p-1000",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "red spot "
 },
 {
-  "id": "p-1000",
+  "id": "p-1001",
   "level": "2",
-  "url": "subsec-jupiter.html#p-1000",
+  "url": "subsec-jupiter.html#p-1001",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5383,9 +5383,9 @@ var ptx_lunr_docs = [
   "body": " Saturn  Saturn [ ] is the sixth planet from the Sun and is known for its iconic rings, which are composed of countless icy particles ranging in size from tiny grains to enormous boulders. It is a gas giant planet, meaning it is predominantly made up of hydrogen and helium, with a small rocky core at its center. Saturn has the second-largest planetary atmosphere in the Solar System, after Jupiter, and is known for its numerous moons, with at least 82 moons known to orbit the planet. The largest moon of Saturn is Titan , which is the only known moon in the Solar System with a thick atmosphere and the potential to support life. Saturn is also known for its beautiful and dynamic weather patterns, including massive storms and hexagonal cloud formations at its north pole. The planet has been visited by several spacecraft, including the Voyager and Cassini missions, which have provided us with stunning images and valuable scientific data about this gas giant planet.  "
 },
 {
-  "id": "p-1002",
+  "id": "p-1003",
   "level": "2",
-  "url": "subsec-saturn.html#p-1002",
+  "url": "subsec-saturn.html#p-1003",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5401,9 +5401,9 @@ var ptx_lunr_docs = [
   "body": " Uranus  Uranus [ ] is the seventh planet from the Sun and is an ice giant planet, meaning it has a predominantly icy and gaseous composition. It has a unique feature among the planets in our solar system in that its axis of rotation is tilted at an extreme angle of 98 degrees relative to its orbit, which means that the planet appears to be rotating on its side. Uranus is the third-largest planet in our solar system and has a system of rings, although they are much less prominent than the rings of Saturn. Uranus also has at least 27 known moons, with the largest ones being Miranda , Ariel, Umbriel, Titania, and Oberon. The atmosphere of Uranus is predominantly composed of hydrogen and helium, with small amounts of methane, which gives the planet its blue-green color. Uranus is a relatively cold planet, with an average temperature of about -195 degrees Celsius (-320 degrees Fahrenheit) at its cloud tops. The planet has only been visited by one spacecraft, Voyager 2, which flew by in 1986 and provided us with our best data and images of Uranus to date.  "
 },
 {
-  "id": "p-1003",
+  "id": "p-1004",
   "level": "2",
-  "url": "subsec-uranus.html#p-1003",
+  "url": "subsec-uranus.html#p-1004",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5419,9 +5419,9 @@ var ptx_lunr_docs = [
   "body": " Neptune  Neptune [ ] is the eighth planet and farthest planet from the Sun, and is also an ice giant planet like Uranus. It is named after the Roman god of the sea due to its blue color, which comes from the presence of methane in its atmosphere. Neptune has a diameter almost four times that of Earth, making it the fourth-largest planet by diameter in our solar system. It has a very active atmosphere with high-speed winds and large storms, including the famous Great Dark Spot , which is a massive storm similar to Jupiter's Great Red Spot, but it has since disappeared. Neptune also has a system of rings and at least 14 known moons, with the largest being Triton . Triton is particularly interesting because it is one of the coldest objects in the solar system, with a surface temperature of about -235 degrees Celsius (-391 degrees Fahrenheit). It is also unique among large moons in that it orbits Neptune in a direction opposite to that of Neptune's rotation. Neptune has been visited by only one spacecraft, Voyager 2, which flew by the planet in 1989 and provided us with our best data and images of Neptune to date.  "
 },
 {
-  "id": "p-1004",
+  "id": "p-1005",
   "level": "2",
-  "url": "subsec-neptune.html#p-1004",
+  "url": "subsec-neptune.html#p-1005",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5446,9 +5446,9 @@ var ptx_lunr_docs = [
   "body": " Moon Song   "
 },
 {
-  "id": "p-1009",
+  "id": "p-1010",
   "level": "2",
-  "url": "subsec-moonphase.html#p-1009",
+  "url": "subsec-moonphase.html#p-1010",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5464,18 +5464,18 @@ var ptx_lunr_docs = [
   "body": " Eclipse  An eclipse eclipse occurs when an astronomical object is temporarily obscured, either partially or completely, by another object [ The Lunar and Solar Eclipses ]. The two main types of eclipses are solar eclipses and lunar eclipses. A solar eclipse occurs when the Moon passes between the Sun and the Earth, blocking the Sun's light and creating a shadow on the Earth. There are three types of solar eclipses: total, partial, and annular. During a total solar eclipse , the Moon completely covers the Sun, leaving only its corona visible. During a partial solar eclipse, only a portion of the Sun is covered by the Moon. During an annular solar eclipse, the Moon is too far away from the Earth to completely cover the Sun, creating a \"ring of fire\" effect. A lunar eclipse occurs when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. There are two types of lunar eclipses: total and partial. During a total lunar eclipse, the Moon is completely covered by the Earth's shadow, creating a reddish hue. During a partial lunar eclipse, only a portion of the Moon is covered by the Earth's shadow. Eclipses are relatively rare events that require specific alignment of the Sun, Moon, and Earth. While there are several eclipses each year, they are typically only visible from specific regions of the Earth and require clear skies and proper viewing conditions to be seen.  During a New Moon , the Moon is located between the Earth and the Sun , and the side of the Moon that faces Earth is not illuminated by the Sun, making it invisible from Earth. When the Moon passes directly in front of the Sun during a New Moon, a solar eclipse can occur, temporarily blocking out the Sun's light and casting a shadow on the Earth. On the other hand, a full moon occurs when the Earth is located between the Sun and the Moon , with the illuminated side of the Moon facing Earth. It's worth noting that a lunar eclipse can only occur during a Full Moon phase, when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. During a lunar eclipse, the Moon may appear reddish in color due to the Earth's atmosphere refracting sunlight onto the Moon's surface.  "
 },
 {
-  "id": "p-1010",
+  "id": "p-1011",
   "level": "2",
-  "url": "subsec-eclipse.html#p-1010",
+  "url": "subsec-eclipse.html#p-1011",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "solar eclipse lunar eclipse "
 },
 {
-  "id": "p-1011",
+  "id": "p-1012",
   "level": "2",
-  "url": "subsec-eclipse.html#p-1011",
+  "url": "subsec-eclipse.html#p-1012",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5716,9 +5716,9 @@ var ptx_lunr_docs = [
   "body": "    Refracting Telescope     Reflecting Telescope     Radio Telescope     "
 },
 {
-  "id": "p-1048",
+  "id": "p-1049",
   "level": "2",
-  "url": "subsec-astrotools.html#p-1048",
+  "url": "subsec-astrotools.html#p-1049",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5743,9 +5743,9 @@ var ptx_lunr_docs = [
   "body": " The Sun    Sunspot     Nuclear Fusion     Solar Spectrum     "
 },
 {
-  "id": "p-1051",
+  "id": "p-1052",
   "level": "2",
-  "url": "subsec-sun.html#p-1051",
+  "url": "subsec-sun.html#p-1052",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5761,9 +5761,9 @@ var ptx_lunr_docs = [
   "body": " Sun's parts   "
 },
 {
-  "id": "p-1052",
+  "id": "p-1053",
   "level": "2",
-  "url": "subsec-sun.html#p-1052",
+  "url": "subsec-sun.html#p-1053",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5797,9 +5797,9 @@ var ptx_lunr_docs = [
   "body": " Aurora   "
 },
 {
-  "id": "p-1055",
+  "id": "p-1056",
   "level": "2",
-  "url": "subsec-aurora.html#p-1055",
+  "url": "subsec-aurora.html#p-1056",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5815,18 +5815,18 @@ var ptx_lunr_docs = [
   "body": " Stellar Distances  There are several methods for measuring the distance to stars, some of the most common are: Parallax Method: This is one of the most common methods used to determine the distance to nearby stars. It involves measuring the apparent shift in the position of a star when viewed from different positions in space. The distance to the star can be calculated using trigonometry with the angle between the two positions. Spectroscopic Method: This method is used to measure the distance to stars by analyzing their spectra. The spectra of stars can be used to determine their temperature, luminosity, and composition, which can be used to estimate their distance. Main Sequence Fitting: [ ] This method involves comparing the brightness and temperature of a star with those of other stars whose distances have been accurately measured using other methods. By comparing the star's characteristics to those of other stars with known distances, its distance can be estimated. Cepheid Variables: Cepheid variables are pulsating stars with a well-defined relationship between their pulsation period and their luminosity. By measuring the period of Cepheid variable star, its luminosity can be estimated, and its distance calculated. Supernova Brightness: [ ] Type Ia supernovae are known to have a very consistent brightness, making them useful as standard candles for distance measurement. By comparing the observed brightness of a Type Ia supernova to its known intrinsic brightness, its distance can be calculated.  Brightness and luminosity are important factors in determining the distance of stars. Brightness , also known as apparent magnitude, is a measure of how bright a star appears to an observer on Earth. It is affected by the distance of the star, as well as other factors such as its size and temperature. A star's brightness can be measured using a magnitude scale, with lower numbers indicating brighter stars and higher numbers indicating dimmer stars. Luminosity , on the other hand, is a measure of the total amount of energy that a star emits per unit time. It is related to the star's size, temperature, and distance. Luminosity can be measured in terms of the sun's luminosity, which is a standard unit of measurement.  "
 },
 {
-  "id": "p-1056",
+  "id": "p-1057",
   "level": "2",
-  "url": "subsec-stellardist.html#p-1056",
+  "url": "subsec-stellardist.html#p-1057",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Parallax Method: Spectroscopic Method: Main Sequence Fitting: Cepheid Variables: Supernova Brightness: "
 },
 {
-  "id": "p-1057",
+  "id": "p-1058",
   "level": "2",
-  "url": "subsec-stellardist.html#p-1057",
+  "url": "subsec-stellardist.html#p-1058",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5842,9 +5842,9 @@ var ptx_lunr_docs = [
   "body": " Supernovas  A supernova supernova is a powerful and catastrophic explosion that occurs when a star reaches the end of its life. Supernovae can release an enormous amount of energy, equivalent to the energy emitted by an entire galaxy. There are two main types of supernovae: Type Ia supernovae are thought to occur when a white dwarf star in a binary system accretes matter from its companion star, eventually reaching a critical mass and exploding. Type Ia supernovae are important for measuring cosmic distances because they have a relatively consistent and predictable brightness. Type II supernovae occur when a massive star runs out of fuel for nuclear fusion in its core and collapses under its own gravity. The core of the star becomes incredibly dense and hot, leading to a rapid release of energy that produces a powerful explosion. Type II supernovae can leave behind a neutron star or a black hole . Supernovae are important for a number of reasons. They are responsible for the production of heavy elements such as iron and gold, which are essential for life as we know it. Supernovae can also trigger the formation of new stars and planetary systems. Additionally, the energy and material released by supernovae can have a significant impact on their surrounding environment, including the formation of nebulae and the acceleration of cosmic rays.  "
 },
 {
-  "id": "p-1063",
+  "id": "p-1064",
   "level": "2",
-  "url": "subsec-supernova.html#p-1063",
+  "url": "subsec-supernova.html#p-1064",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5869,9 +5869,9 @@ var ptx_lunr_docs = [
   "body": "    Neutron Star     Pulsars     Black Hole     "
 },
 {
-  "id": "p-1064",
+  "id": "p-1065",
   "level": "2",
-  "url": "subsec-neutronstar.html#p-1064",
+  "url": "subsec-neutronstar.html#p-1065",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5896,9 +5896,9 @@ var ptx_lunr_docs = [
   "body": " Black Holes  A black hole [ ] blackhole is a region of space where the gravitational pull is so strong that nothing, not even light, can escape. Black holes are formed from the remnants of massive stars that have undergone a supernova explosion and collapsed under their own gravity. If the collapsing object is larger than about 3 times the mass of the Sun, the gravitational forces become so strong that not even neutrons can resist the collapse, and a black hole is formed. Black holes are extremely dense objects that have such strong gravity that nothing, not even light, can escape their grasp. They have no surface or structure, but instead are characterized by their mass, spin, and electric charge. The mass of a black hole can range from a few times that of the Sun to billions of times that of the Sun. The region around a black hole where the gravitational pull is so strong that nothing can escape is called the event horizon. Once matter crosses the event horizon, it is trapped by the black hole and cannot escape. The point at the center of a black hole where the gravitational pull becomes infinite is called the singularity , and our current understanding of physics breaks down at this point. Black holes are invisible, as they do not emit any light or other forms of radiation. However, their presence can be inferred from the effects of their gravity on nearby matter. For example, if a black hole is in a binary star system, its gravity can cause the visible star to wobble, and the mass of the black hole can be estimated from the size of the wobble. As a black hole pulls matter into it, the matter gets accelerated and emits radiation that can be detected by telescopes. This radiation can come from the accretion disk around the black hole [ ], where matter gets heated up and emits X-rays and other high-energy radiation.   Accretion Disk    "
 },
 {
-  "id": "p-1067",
+  "id": "p-1068",
   "level": "2",
-  "url": "subsec-blackhole.html#p-1067",
+  "url": "subsec-blackhole.html#p-1068",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6157,18 +6157,18 @@ var ptx_lunr_docs = [
   "body": " Milky Way Galaxy  The Milky Way [ ] is a barred spiral galaxy , which is a type of galaxy characterized by a central bar-shaped structure and spiral arms that wrap around it. It is estimated to be about 13.6 billion years old and is located about 25,000 light-years from the galactic center. The Milky Way contains hundreds of billions of stars, as well as numerous other celestial objects, such as planets, nebulae, and black holes . The Milky Way's spiral arms are thought to be sites of ongoing star formation, and it is believed that many of the elements that make up our solar system and our bodies were created in these stars. The Milky Way also contains a supermassive black hole at its center, which is surrounded by a region of intense radiation known as the galactic bulge. Our solar system is located in one of the Milky Way's spiral arms, and as a result, our view of the galaxy is heavily obscured by dust and gas. Nevertheless, scientists have been able to map out the structure of the Milky Way using a variety of techniques, such as observations of star motions and radio emissions from gas clouds.  The Milky Way is a relatively large galaxy, with a diameter of about 100,000 light-years and a mass of approximately 1 trillion times that of our sun. The galaxy's spiral arms are thought to be caused by density waves, which compress the interstellar gas and dust, triggering the formation of new stars. The Milky Way is home to many interesting and important celestial objects, including the galactic center, which is a region of intense radiation and contains a supermassive black hole with a mass of about 4 million times that of our sun. The Milky Way's disk is also surrounded by a halo of dark matter, which is an invisible form of matter (Dark Matter) that can only be detected through its gravitational effects on visible matter. The Milky Way is part of a larger group of galaxies known as the Local Group , which also includes the Andromeda galaxy and several other smaller galaxies. The Milky Way is also home to numerous open and globular clusters , which are groups of stars that are held together by their mutual gravitational attraction.  "
 },
 {
-  "id": "p-1112",
+  "id": "p-1113",
   "level": "2",
-  "url": "subsec-milkyway.html#p-1112",
+  "url": "subsec-milkyway.html#p-1113",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "black hole "
 },
 {
-  "id": "p-1113",
+  "id": "p-1114",
   "level": "2",
-  "url": "subsec-milkyway.html#p-1113",
+  "url": "subsec-milkyway.html#p-1114",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6202,9 +6202,9 @@ var ptx_lunr_docs = [
   "body": " Magelenic Cloud  The Magellanic Clouds magellanic cloud are two small satellite galaxies that orbit the Milky Way galaxy. The Magellanic Clouds are located in the southern hemisphere, and they are visible to the naked eye from the southern latitudes. The Large Magellanic Cloud (LMC) is the larger of the two clouds, and it is located about 163,000 light-years away from Earth. It has a diameter of about 14,000 light-years and contains tens of billions of stars, as well as star-forming regions , supernova remnants, and other astronomical objects. The Magellanic Clouds are important objects for astronomers to study because they provide insight into the evolution of satellite galaxies and their interactions with larger host galaxies like the Milky Way. They are also used as calibration objects for measuring the distances to more distant galaxies, which helps astronomers to understand the large-scale structure of the universe.  "
 },
 {
-  "id": "p-1118",
+  "id": "p-1119",
   "level": "2",
-  "url": "subsec-magelenic.html#p-1118",
+  "url": "subsec-magelenic.html#p-1119",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6229,9 +6229,9 @@ var ptx_lunr_docs = [
   "body": "    Crab Nebula     Eye Nebula     Horsehead Nebula     "
 },
 {
-  "id": "p-1119",
+  "id": "p-1120",
   "level": "2",
-  "url": "subsec-nebula.html#p-1119",
+  "url": "subsec-nebula.html#p-1120",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6247,9 +6247,9 @@ var ptx_lunr_docs = [
   "body": " Dark Matter and Dark Energy  Dark matter and dark energy are two of the most mysterious and intriguing components of the universe. Dark matter  dark matter is a type of matter that is thought to make up about 27% of the total matter content of the universe. It is called \"dark\" because it does not emit, absorb, or reflect light, making it invisible to telescopes and other instruments that detect electromagnetic radiation. The presence of dark matter is inferred from its gravitational effects on visible matter, such as stars and galaxies. Dark matter is believed to play a key role in the formation and evolution of galaxies, as well as the large-scale structure of the universe. Dark energy  dark energy is a hypothetical form of energy that is thought to make up about 68% of the total energy content of the universe. It is called \"dark\" because, like dark matter, it is invisible to telescopes and other instruments that detect electromagnetic radiation. The existence of dark energy is inferred from observations of the accelerating expansion of the universe. Dark energy is believed to be responsible for this acceleration, although the exact nature of dark energy is not yet well understood. Together, dark matter and dark energy are thought to make up about 95% of the total matter and energy content of the universe, with the remaining 5% consisting of visible matter, such as stars, galaxies, and interstellar gas and dust. The study of dark matter and dark energy is a major area of research in cosmology, and scientists are working to understand their properties and how they influence the evolution and fate of the universe.  "
 },
 {
-  "id": "p-1120",
+  "id": "p-1121",
   "level": "2",
-  "url": "subsec-darkmatt.html#p-1120",
+  "url": "subsec-darkmatt.html#p-1121",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6265,9 +6265,9 @@ var ptx_lunr_docs = [
   "body": " Quasars   Quasars [ ] are some of the brightest and most energetic objects in the universe. They are thought to be powered by supermassive black holes that are actively accreting matter. As the matter falls towards the black hole, it heats up and emits intense radiation that can outshine entire galaxies. Subsequent observations revealed that quasars were located at extreme distances, billions of light-years away. Quasars are associated with massive galaxies in the early universe. As gas falls towards the central black hole, it also triggers the formation of stars and the growth of the galaxy. Quasars are thus thought to be crucial in understanding the formation and evolution of galaxies.  "
 },
 {
-  "id": "p-1121",
+  "id": "p-1122",
   "level": "2",
-  "url": "subsec-Quasars.html#p-1121",
+  "url": "subsec-Quasars.html#p-1122",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6283,9 +6283,9 @@ var ptx_lunr_docs = [
   "body": " Expansion of the Universe   Hubble's law  Hubble's law describes the relationship between the distance to a galaxy and its observed redshift. The law states that the farther away a galaxy is from us, the faster it is moving away from us. This relationship is described by the equation where is the velocity of the galaxy, is its distance from us, and is the Hubble's constant,  ( )  Hubble's constant  which is a measure of the rate at which the Universe is expanding. The Hubble constant has been determined through observations of distant galaxies and is currently estimated to be around 73 kilometers per second per megaparsec . This means that for every megaparsec (about 3.26 million light-years) of distance, a galaxy appears to be moving away from us at a rate of 73 kilometers per second. The discovery of Hubble's law revolutionized our understanding of the Universe and led to the development of the Big Bang theory. Hubble's law provides strong evidence that the Universe is expanding, and that it began with a single, explosive event around 13.8 billion years ago.   Expansion of Universe    The balloon analogy is often used to explain the expansion of the universe. In this analogy, the universe is represented by the surface of a balloon, and as the balloon is inflated, all points on the surface move away from each other. In this analogy, the size of the balloon represents the size of the universe, and the dots on the surface represent galaxies. As the balloon expands, the distance between any two dots (galaxies) increases. This is similar to how the distance between any two galaxies in the universe is increasing due to the expansion of the universe.  "
 },
 {
-  "id": "p-1122",
+  "id": "p-1123",
   "level": "2",
-  "url": "subsec-expansion.html#p-1122",
+  "url": "subsec-expansion.html#p-1123",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
