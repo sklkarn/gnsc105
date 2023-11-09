@@ -4048,7 +4048,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "10.1.2",
   "title": "Atmospheric Moisture",
-  "body": " Atmospheric Moisture  Atmospheric moisture refers to the water vapor present in the Earth's atmosphere. Water vapor is one of the most important greenhouse gases, and it plays a critical role in regulating the Earth's temperature and climate. The amount of water vapor in the atmosphere can vary depending on factors such as temperature, humidity, and atmospheric pressure. Water vapor is constantly moving in and out of the atmosphere through processes such as evaporation, transpiration, and condensation. As warm air rises, water vapor in air expands, cools, and condenses into clouds , leading to precipitation or rain  Water Cycles . When air cools to its dew point, water droplets may form, which can lead to fog or dew. The amount of moisture (water vapor) contained in the air is known as humidity . Humidity is typically measured in relative humidity . relative humidity Relative humidity (R.H.) is the ratio of the amount of water vapor in the air to the maximum amount of water vapor the air can hold at a given temperature. Relative humidity expressed in percentage. Warmer air can hold more water vapor than cooler air, so relative humidity can change depending on temperature changes. When air contains the maximum amount of moisture, it is said to be saturated . A maximum of about 30 grams of water vapor can exist in a cubic meter volume of air at temperature about . Dry air has zero relative humidity but saturated air has 100% relative humidity. Humid (or saturated) air is very uncomfortable, since the rate of evaporation is slowed by the high levels of water already in the air. At that time, human skin cannot sweat (perspirate) properly and we feel uncomfirtable. Dew point:  dew point is another way of expressing the saturation. The dew point is the temperature at which the air becomes saturated with the available water vapor causing condensation to occur. At this point, the air cannot hold any more moisture, and the excess water vapor begins to condense into liquid droplets. The dew point is an important measurement in weather forecasting, as it helps determine the likelihood of dew, fog, or frost formation. It is also used to calculate the relative humidity. When the dew point and temperature are close together, the relative humidity is high, which means that the air is nearly saturated with water vapor.  "
+  "body": " Atmospheric Moisture  Atmospheric moisture refers to the water vapor present in the Earth's atmosphere. Water vapor is one of the most important greenhouse gases, and it plays a critical role in regulating the Earth's temperature and climate. The amount of water vapor in the atmosphere can vary depending on factors such as temperature, humidity, and atmospheric pressure. Water vapor is constantly moving in and out of the atmosphere through processes such as evaporation, transpiration, and condensation. As warm air rises, water vapor in air expands, cools, and condenses into clouds , leading to precipitation or rain  Water Cycles . When air cools to its dew point , water droplets may form, which can lead to fog or dew. The amount of moisture (water vapor) contained in the air is known as humidity . Humidity is typically measured in relative humidity . relative humidity Relative humidity (R.H.) is the ratio of the amount of water vapor present in the air to the maximum amount of water vapor needed to saturate the air at a given temperature. Relative humidity expressed in percentage. Warmer air can hold more water vapor than cooler air, so relative humidity can change depending on temperature changes. When air contains the maximum amount of moisture, it is said to be saturated .  One cubic meter volume of air van hold a maximum of about 30 grams of water vapor at temperature . Dry air has zero relative humidity but saturated air has 100% relative humidity. Humid (or saturated) air is very uncomfortable, since the rate of evaporation is slowed by the high levels of water contents already in the air. At that time, human skin cannot sweat (perspirate) properly and we feel uncomfirtable. Dew point:  dew point is another way of expressing the saturation. The dew point is the temperature at which the air becomes saturated with the available water vapor causing condensation to occur. At this point, the air cannot hold any more moisture, and the excess water vapor begins to condense into liquid droplets. The dew point is an important measurement in weather forecasting, as it helps determine the likelihood of dew, fog, or frost formation.  "
 },
 {
   "id": "p-795",
@@ -4057,7 +4057,16 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "precipitation or rain humidity relative humidity saturated Humid (or saturated) Dew point: "
+  "body": "precipitation or rain humidity relative humidity saturated "
+},
+{
+  "id": "p-796",
+  "level": "2",
+  "url": "subsec-atmmoist.html#p-796",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Humid (or saturated) Dew point: "
 },
 {
   "id": "subsec-meteor",
@@ -4066,12 +4075,12 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "10.1.3",
   "title": "Meteorology",
-  "body": " Meteorology  Meteorology is the study of the weather and climate. Meteorologists use a variety of tools and techniques to collect data on the atmosphere, including weather balloons, satellites, and radar. They analyze this data to create models and forecasts of weather patterns and atmospheric conditions. Weather forecasting is one of the most important applications of meteorology, as it provides critical information to help people prepare for severe weather events such as hurricanes, tornadoes, and blizzards. Meteorologists also study long-term climate patterns and changes, which can help inform public policy decisions related to environmental protection and resource management. Weather refers to the state of temperature, humidity, pressure, cloud formation, or precipitation at any given time. Weather is the short-term atmospheric conditions of a specific place at a specific time. Climate describes the summary of weather conditions for a specific region over a fairly long time period. Climate, is the long-term weather patterns and averages of weather conditions in a particular region over a period of several decades or centuries.  "
+  "body": " Meteorology  Meteorology is the study of the weather and climate. Meteorologists use a variety of tools and techniques to collect data on the atmosphere, including weather balloons, satellites, and radar. They analyze this data to create models and forecasts of weather patterns and atmospheric conditions. Weather forecasting is one of the most important applications of meteorology, as it provides critical information to help people prepare for severe weather events such as hurricanes, tornadoes, and blizzards. Meteorologists also study long-term climate patterns and changes, which can help inform public policy decisions related to environmental protection and resource management. Weather refers to the state of temperature, humidity, pressure, cloud formation, or precipitation at any given time. Weather is the short-term atmospheric conditions of a specific place at a specific time. Climate describes the summary of weather conditions for a specific region over a fairly long time period. Climate, is the long-term weather patterns and averages of weather conditions in a particular region over a period of several decades or centuries .  "
 },
 {
-  "id": "p-796",
+  "id": "p-797",
   "level": "2",
-  "url": "subsec-meteor.html#p-796",
+  "url": "subsec-meteor.html#p-797",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4084,16 +4093,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "10.1.4",
   "title": "Greenhouse Effect",
-  "body": " Greenhouse Effect  The greenhouse effect greenhouse effect is a natural process by which certain gases in the Earth's atmosphere trap and re-emit heat radiated from the Earth's surface, leading to a warming effect on the planet's surface temperature. These gases, including carbon dioxide , methane , water vapor , and nitrous oxide , are known as greenhouse gases. Without the greenhouse effect, the Earth's average surface temperature would be around , which would be too cold to support life as we know it. However, human activities, such as burning fossil fuels, deforestation, and agriculture, have increased the concentration of greenhouse gases in the atmosphere, leading to an enhanced greenhouse effect and global warming  global warming . The consequences of global warming can include sea level rise, more frequent and severe weather events, changes in precipitation patterns, and impacts on ecosystems and human health. Therefore, it is important to reduce greenhouse gas emissions to mitigate the impacts of climate change.  A greenhouse is a man-made structure that is designed to grow plants in a controlled environment. It is typically made of glass or plastic panels that allow sunlight to enter while trapping heat inside, creating a warm and humid environment that is ideal for plant growth. Both greenhouse and greenhouse effect involve the trapping of heat, but the greenhouse effect occurs on a much larger scale and has much more significant consequences for the planet's climate.  When sunlight enters the Earth's atmosphere, some of it is reflected back into space, and some is absorbed by the Earth's surface, which then radiates it back into the atmosphere as heat. The greenhouse gases in the atmosphere absorb some of this heat energy and re-emit it in all directions, including back to the Earth's surface. As a result, the greenhouse gases act like a blanket that traps some of the heat energy and prevents it from escaping into space. This causes the Earth's temperature to be warmer than it would be otherwise, which is necessary for life as we know it to exist on the planet Greenhouse Effect . The energy of light is given by where is Planck's constant, is velocity of light, and is wavelength of the light. Suppose is the wavelength of light of energy coming from the sun's visible light to the earth. When the light eneters into the earth atmosphere and it gets absorbed by the atmospheric gases, plants, and the earth's surface but when it remits and reflects back from the earth surface towards the space it losses some of its energy and becomes less energetic to penetrate our atmosphere except that some amount of light energy is able to penetrate the atmosphere that makes our earth warmer as a suitable place to survive life. However, due to increasing population, deforestation, and industrialization the amount of greenhouse gases are increasing making more difficult to the less energetic light rays to leave our atmosphere. Such activities are leading the global warming .  "
-},
-{
-  "id": "p-797",
-  "level": "2",
-  "url": "subsec-greenhouse.html#p-797",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "global warming "
+  "body": " Greenhouse Effect  The greenhouse effect greenhouse effect is a natural process by which certain gases in the Earth's atmosphere trap and re-emit heat radiated from the Earth's surface. These gases, including carbon dioxide , methane , water vapor , and nitrous oxide , are known as greenhouse gases. Without the greenhouse effect, the Earth's average surface temperature would be around , which would be too cold to support life. However, human activities, such as burning fossil fuels, deforestation, and agriculture, have increased the concentration of greenhouse gases in the atmosphere, leading to an enhanced greenhouse effect and global warming  global warming .  A greenhouse is a man-made structure that is designed to grow plants in a controlled environment. It is typically made of glass or plastic panels that allow sunlight to enter while trapping heat inside, creating a warm and humid environment that is ideal for plant growth.  When sunlight enters the Earth's atmosphere, some of it is reflected back into space, and some is absorbed by the Earth's surface. The earth surface then radiates that heat back into the atmosphere. The greenhouse gases in the atmosphere absorb some of this heat energy and re-emit it in all directions, including back to the Earth's surface. As a result, the greenhouse gases act like a blanket that traps some of the heat energy and prevents it from escaping into space. This causes the Earth's temperature to be warmer than it would be otherwise, which is necessary for life as we know it to exist on our planet Greenhouse Effect . The energy of light is given by where is Planck's constant, is velocity of light, and is wavelength of the light. Suppose is the wavelength of light of energy coming from the sun's visible light to the earth. When the light eneters into the earth atmosphere and it gets absorbed by the atmospheric gases, plants, and the earth's surface but when it re-emits and reflects back from the earth surface towards the space it losses some of its energy and becomes less energetic to penetrate our atmosphere except that some amount of light energy is able to penetrate the atmosphere. However, due to increasing population, deforestation, and industrialization the amount of greenhouse gases are increasing making more difficult to the less energetic light rays to leave our atmosphere. Such activities are leading the global warming .  "
 },
 {
   "id": "p-798",
@@ -4102,12 +4102,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "greenhouse "
+  "body": "global warming "
 },
 {
   "id": "p-799",
   "level": "2",
   "url": "subsec-greenhouse.html#p-799",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "greenhouse "
+},
+{
+  "id": "p-800",
+  "level": "2",
+  "url": "subsec-greenhouse.html#p-800",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4123,9 +4132,9 @@ var ptx_lunr_docs = [
   "body": " Winds  Winds wind are primarily caused by differences in temperature and pressure between different parts of Earth's atmosphere. When air is heated, it becomes less dense and rises, creating an area of low pressure. Conversely, when air cools, it becomes more dense and sinks, creating an area of high pressure. This movement of air from high pressure to low pressure creates winds, which can be influenced by the rotation of the Earth and other factors such as the presence of mountains and oceans.  Temperature differences on the different parts of earth create the pressure difference which make air to flow. For example, the equator receives more direct sunlight and is therefore warmer than the poles, creating a temperature gradient that drives the movement of air from the equator towards the poles. This creates the global circulation patterns of the atmosphere. Local temperature differences can also create wind patterns, such as sea breezes and land breezes. During the day, land heats up more quickly than water, creating an area of low pressure over the land. The cooler, higher-pressure air over the ocean moves towards the land, creating a sea breeze. At night, the situation is reversed, with the land cooling down more quickly than the ocean and creating a high-pressure area. This causes the air to move from the land towards the ocean, creating a land breeze.  The Coriolis effect  Coriolis effect is a phenomenon that occurs due to the rotation of the Earth on its axis. It causes moving objects, including air and water, to appear to veer off course from their straight-line motion. The Coriolis effect is caused by the Earth's rotation, which causes points on the equator to move at a faster speed than points closer to the poles. As a result, when air or water moves from one latitude to another, it appears to be deflected to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This deflection is due to the conservation of angular momentum, which causes the moving air or water to maintain its original speed and direction of motion as it moves across different latitudes. The Coriolis effect has important implications for weather patterns and ocean currents. In the Northern Hemisphere, the Coriolis effect causes air to rotate clockwise around areas of high pressure and counterclockwise around areas of low pressure. In the Southern Hemisphere, the rotation is opposite. Similarly, ocean currents in the Northern Hemisphere tend to flow to the right of their intended path, while those in the Southern Hemisphere tend to flow to the left. The Coriolis effect is also responsible for the formation of tropical cyclones, which are rotating storms that form over warm ocean waters. The rotation of the Earth causes these storms to spin counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere.    Coriolis Effect     Cyclones & Anticyclones     Cyclones and Anticyclones  Cyclones  cyclones are powerful rotating storms that can form over warm ocean waters. Cyclones are characterized by their low pressure center, strong winds, and heavy rainfall. Cyclones form when warm, moist air over the ocean rises and cools, causing water vapor to condense and form clouds. As the air continues to rise, it creates an area of low pressure at the surface, which draws in more warm, moist air. This cycle of rising warm air and low pressure continues, causing the storm to intensify. In the Northern Hemisphere, cyclones rotate counterclockwise and move in a west to east direction, while in the Southern Hemisphere, they rotate clockwise and move in an east to west direction. Cyclones are commonly referred to as hurricanes, typhoons, or tropical storms when they occur over warm ocean waters. .   Anticyclones are areas of high pressure that are typically associated with clear skies, calm winds, and dry weather. In an anticyclone, air is sinking rather than rising. As the air sinks, it warms and dries out, which leads to clear skies and dry weather. Because of this, anticyclones are often associated with calm weather conditions, such as clear skies, light winds, and dry air. Anticyclones can provide periods of stable, dry weather that is ideal for outdoor activities. However, prolonged periods of high pressure can lead to drought conditions and poor air quality due to stagnant air. In the Northern Hemisphere, anticyclones rotate clockwise and in the Southern Hemisphere, they rotate counterclockwise. Anticyclones are often referred to as high-pressure systems and are associated with stable weather conditions. Cyclones can cause strong winds, heavy rainfall, and storm surge, while anticyclones can cause calm winds, clear skies, and temperature inversions.   Tornado  tornado is a violent cyclonic storm. Tornadoes are capable of producing extreme winds, often in excess of 200 miles per hour, and can cause significant damage and loss of life. The warm, moist air near the ground rises rapidly, and the cooler, drier air aloft descends, creating a rotating updraft within the thunderstorm. This updraft can become concentrated and elongated, creating a visible funnel-shaped cloud. When the funnel cloud makes contact with the ground, it becomes a tornado. Tornadoes are typically short-lived, lasting only a few minutes, but can cause significant damage in that time. They can uproot trees, destroy buildings, and toss vehicles hundreds of yards away. Tornadoes can occur anywhere in the world, but the United States experiences more tornadoes than any other country, particularly in the central and southern regions known as Tornado Alley.  A hurricane  hurricane is a tropical cyclone that occurs in the Atlantic Ocean and northeastern Pacific Ocean. It is a rotating storm system that produces strong winds, heavy rain, storm surges, and flooding. Hurricanes are classified according to their wind speed such as catagory one through five. The higher the category, the more powerful the hurricane and the more damage it can cause.  "
 },
 {
-  "id": "p-805",
+  "id": "p-806",
   "level": "2",
-  "url": "subsec-wind.html#p-805",
+  "url": "subsec-wind.html#p-806",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4150,22 +4159,13 @@ var ptx_lunr_docs = [
   "body": " Cyclones & Anticyclones   "
 },
 {
-  "id": "p-806",
-  "level": "2",
-  "url": "subsec-wind.html#p-806",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Cyclones and Anticyclones Cyclones "
-},
-{
   "id": "p-807",
   "level": "2",
   "url": "subsec-wind.html#p-807",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Anticyclones "
+  "body": "Cyclones and Anticyclones Cyclones "
 },
 {
   "id": "p-808",
@@ -4174,12 +4174,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Tornado "
+  "body": "Anticyclones "
 },
 {
   "id": "p-809",
   "level": "2",
   "url": "subsec-wind.html#p-809",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Tornado "
+},
+{
+  "id": "p-810",
+  "level": "2",
+  "url": "subsec-wind.html#p-810",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4192,7 +4201,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "10.3.1",
   "title": "Ocean Basins",
-  "body": " Ocean Basins   Ocean Basins    Ocean basins are large depressions on the surface of the Earth that are filled with water. The ocean basins cover approximately 70% of the Earth's surface and are divided into several major basins, including the Atlantic, Indian, Pacific, and Southern Ocean basins. The ocean basins are formed by the process of plate tectonics, where the Earth's crust is broken up into several large plates that move around on the Earth's surface. As these plates move apart, new oceanic crust is formed at mid-ocean ridges [ ], and the ocean basins are gradually widened. The ocean basins are also home to a wide variety of marine life, including fish, whales, dolphins, sharks, and many other types of sea creatures. The study of the ocean basins is important for understanding many aspects of the Earth's climate, such as ocean currents, temperature, and salinity. Ocean basins are bounded by continental landmasses. Ocean bottom generally slopes downward from the continental shelves to the deeper ocean basins. This slope is known as the continental slope and is usually steeper than the continental shelf. The slope continues down to the deep-sea floor, which is generally characterized by a flat plain known as the abyssal plain . Continental shelves are areas of the ocean floor that extend from the continents and are covered by shallow water . They are part of the continental crust that is submerged below sea level, and they slope gradually downward from the shorelines to the deeper ocean basins. The ocean floor is the bottom of the ocean, which covers about 70% of the Earth's surface. The ocean floor is characterized by a variety of geological features, including mountains, trenches, ridges, and plains.   "
+  "body": " Ocean Basins   Ocean Basins    Ocean basins are large depressions on the surface of the Earth that are filled with water. The ocean basins cover approximately 70% of the Earth's surface and are divided into several major basins, including the Atlantic, Indian, Pacific, and Southern Ocean basins. The ocean basins are formed by the process of plate tectonics, where the Earth's crust is broken up into several large plates that move around on the Earth's surface. As these plates move apart, new oceanic crust is formed at mid-ocean ridges [ ], and the ocean basins are gradually widened. The ocean basins are also home to a wide variety of marine life, including fish, whales, dolphins, sharks, and many other types of sea creatures. Ocean basins are bounded by continental landmasses. Ocean bottom generally slopes downward from the continental shelves to the deeper ocean basins. This slope is known as the continental slope and is usually steeper than the continental shelf. The slope continues down to the deep-sea floor, which is generally characterized by a flat plain known as the abyssal plain . Continental shelves are areas of the ocean floor that extend from the continents and are covered by shallow water . They are part of the continental crust that is submerged below sea level, and they slope gradually downward from the shorelines to the deeper ocean basins. The ocean floor is the bottom of the ocean which characterizes mountains, trenches, ridges, and plains.   "
 },
 {
   "id": "fig-basin",
@@ -4204,9 +4213,9 @@ var ptx_lunr_docs = [
   "body": " Ocean Basins   "
 },
 {
-  "id": "p-811",
+  "id": "p-812",
   "level": "2",
-  "url": "subsec-basin.html#p-811",
+  "url": "subsec-basin.html#p-812",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4228,12 +4237,12 @@ var ptx_lunr_docs = [
   "type": "Subsubsection",
   "number": "10.3.2",
   "title": "Erosion",
-  "body": " Erosion  Erosion refers to the process by which soil, rock, and other geological materials are moved from one place to another by natural agents such as wind, water, ice, and gravity. Water erosion is one of the most common types of erosion, occurring when rainwater or runoff moves soil particles downhill and into streams or rivers. This can lead to the formation of gullies, stream channels, and river deltas. Wind erosion occurs when wind picks up and carries soil particles, causing them to be deposited in other areas and potentially causing soil degradation and loss of vegetation. Glacial erosion occurs when glaciers move over the land, scraping and eroding the surface and transporting rocks and other materials to other locations. Human activities such as deforestation, agriculture, and construction can also contribute to erosion by removing vegetation and disturbing the soil, leading to increased susceptibility to erosion by natural agents. Erosion can have both positive and negative effects on the environment. It can create new landforms and shape landscapes. It can also lead to soil degradation, loss of biodiversity, and the accumulation of sediment in water bodies, which can have negative impacts on aquatic ecosystems.   Erosion by running water is one of the most common types of erosion and occurs when rainwater or surface runoff flows over land and picks up soil particles, which are then transported downstream. The amount of erosion by running water depends on several factors such as the velocity of the water, the amount of rainfall, and the characteristics of the soil or rock being eroded. High-velocity water, such as that found in rivers and streams, can cause significant erosion by carrying large quantities of sediment downstream. This can lead to the formation of gullies, canyons, and river channels. Sheet erosion, on the other hand, occurs when surface runoff moves over a wide area, gradually removing thin layers of soil from the surface. This type of erosion can be caused by heavy rainfall, snowmelt, or other factors that increase the amount of runoff. Over time, erosion by running water can cause significant changes to the landscape, including the formation of valleys and other landforms. It can also lead to soil degradation, loss of vegetation, and the deposition of sediment in water bodies, which can have negative impacts on aquatic ecosystems. To reduce erosion by running water, several measures can be taken, including the use of erosion control structures, such as retaining walls or riprap, planting vegetation to stabilize soil, and reducing the amount of impervious surfaces in urban areas to decrease runoff.  "
+  "body": " Erosion  Erosion refers to the process by which soil, rock, and other geological materials are moved from one place to another by natural agents such as wind, water, ice, and gravity. Water erosion is one of the most common types of erosion, occurring when rainwater or runoff moves soil particles downhill and into streams or rivers. Wind erosion occurs when wind picks up and carries soil particles, causing them to be deposited in other areas and potentially causing soil degradation and loss of vegetation. Glacial erosion occurs when glaciers move over the land, scraping and eroding the surface and transporting rocks and other materials to other locations. Human activities such as deforestation, agriculture, and construction can also contribute to erosion by removing vegetation and disturbing the soil, leading to increased susceptibility to erosion by natural agents.   Erosion by running water is one of the most common types of erosion and occurs when rainwater or surface runoff flows over land and picks up soil particles, which are then transported downstream. The amount of erosion by running water depends on several factors such as the velocity of the water, the amount of rainfall, and the characteristics of the soil or rock being eroded. High-velocity water, such as that found in rivers and streams, can cause significant erosion by carrying large quantities of sediment downstream. Over time, erosion by running water can cause significant changes to the landscape, including the formation of valleys and other landforms. It can also lead to soil degradation, loss of vegetation, and the deposition of sediment in water bodies, which can have negative impacts on aquatic ecosystems.  "
 },
 {
-  "id": "p-815",
+  "id": "p-816",
   "level": "2",
-  "url": "subsubsec-erosion.html#p-815",
+  "url": "subsubsec-erosion.html#p-816",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4246,16 +4255,7 @@ var ptx_lunr_docs = [
   "type": "Subsubsection",
   "number": "10.3.3",
   "title": "Ground Water",
-  "body": " Ground Water  Water is found in various forms on Earth, including oceans, rivers, lakes, glaciers, groundwater, and atmospheric water vapor. The Earth's water cycle, also known as the hydrologic cycle, involves the continuous movement of water between these different forms, driven by processes such as evaporation, precipitation, and transpiration. The vast majority of Earth's water is contained in the oceans, which cover about 70% of the planet's surface. The remaining water is found in freshwater sources such as lakes, rivers, and groundwater. Groundwater refers to water that is stored beneath the Earth's surface in porous rock or soil. It is an important source of freshwater for many people around the world and plays a crucial role in the Earth's hydrologic cycle. Groundwater is replenished through processes such as precipitation and infiltration, which cause water to percolate down through soil and rock layers until it reaches an impermeable layer, such as bedrock. The water is stored in the pores and fractures of the rock or soil, forming an aquifer. The amount of water that can be stored in an aquifer depends on several factors, including the porosity and permeability of the rock or soil, the amount of rainfall or recharge, and the rate of extraction. Groundwater is often accessed through wells, which are drilled into the aquifer to extract water. Groundwater can also discharge into surface water bodies such as lakes and rivers, providing a source of water for these ecosystems. However, overuse of groundwater can lead to depletion of the aquifer, which can have negative impacts on human water supplies and natural ecosystems. Groundwater can also become contaminated through human activities such as agriculture, mining, and waste disposal, which can have negative impacts on human health and the environment.  A spring is a natural water source that flows from the ground to the surface. Springs occur when groundwater, which is water stored beneath the Earth's surface in soil, sediment, or rocks, becomes saturated and flows out to the surface. The location and flow of springs are determined by the geology of the area, including the types of rocks and sediments present, as well as the amount of rainfall and the shape of the land. Springs are important sources of freshwater for human consumption and are also critical habitats for many plant and animal species. Springs can be classified into several types based on the geologic and hydrologic characteristics of the aquifer that they originate from, including artesian springs, seepage springs, and karst springs.  The water table is the level below the ground surface where the soil or rock is saturated with water. It represents the upper boundary of the zone of saturation, which is the area beneath the ground surface where all of the pore spaces in the soil or rock are filled with water. The water table can be at different depths depending on the local geology, climate, and land use practices. The water table can rise or fall depending on the amount of precipitation, evaporation, and human water use in the area. When there is excess rainfall or snowmelt, the water table can rise, which can cause shallow wells and basements to flood. Conversely, during periods of drought or increased human water use, the water table can fall, which can cause wells to go dry and lead to decreased streamflow and other environmental impacts. The depth of the water table is an important factor in determining the availability of groundwater for drinking water, agriculture, and other uses. It is typically measured using a monitoring well that is drilled into the ground and equipped with a device that can measure the water level in the well. Groundwater management practices often focus on maintaining the water table at a sustainable level to ensure continued availability of this important resource.  "
-},
-{
-  "id": "p-816",
-  "level": "2",
-  "url": "subsubsec-groundwater.html#p-816",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Groundwater "
+  "body": " Ground Water  Water is found in various forms on Earth, including oceans, rivers, lakes, glaciers, groundwater, and atmospheric water vapor. The vast majority of Earth's water is contained in the oceans, which cover about 70% of the planet's surface. The remaining water is found in freshwater sources such as lakes, rivers, and groundwater. Groundwater refers to water that is stored beneath the Earth's surface in porous rock or soil. Groundwater is replenished through processes such as precipitation and infiltration, which cause water to percolate down through soil and rock layers until it reaches an impermeable layer, such as bedrock. Groundwater can also discharge into surface water bodies such as lakes and rivers, providing a source of water for these ecosystems.  A spring is a natural water source that flows from the ground to the surface. Springs occur when groundwater, which is water stored beneath the Earth's surface in soil, sediment, or rocks, becomes saturated and flows out to the surface. Springs are important sources of freshwater for human consumption and are also critical habitats for many plant and animal species.  The water table is the level below the ground surface where the soil or rock is saturated with water. It represents the upper boundary of the zone of saturation, which is the area beneath the ground surface where all of the pore spaces in the soil or rock are filled with water. The water table can rise or fall depending on the amount of precipitation, evaporation, and human water use in the area. The depth of the water table is an important factor in determining the availability of groundwater for drinking water, agriculture, and other uses.  "
 },
 {
   "id": "p-817",
@@ -4264,12 +4264,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "spring "
+  "body": "Groundwater "
 },
 {
   "id": "p-818",
   "level": "2",
   "url": "subsubsec-groundwater.html#p-818",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "spring "
+},
+{
+  "id": "p-819",
+  "level": "2",
+  "url": "subsubsec-groundwater.html#p-819",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4282,7 +4291,7 @@ var ptx_lunr_docs = [
   "type": "Subsubsection",
   "number": "10.3.4",
   "title": "Sediment Deposition",
-  "body": " Sediment Deposition  Sediment deposition sites refer to locations where sediment is deposited and accumulates over time. Sediments can come from a variety of sources, including erosion of rock and soil, volcanic activity, and human activities such as mining, construction, and agriculture. One common type of sediment deposition site is a delta, which is an area where a river or stream enters a larger body of water, such as a lake or ocean. The sediment carried by the river or stream is deposited at the mouth of the river, gradually building up the delta over time. Another type of sediment deposition site is a floodplain, which is an area of land that is adjacent to a river or stream and is prone to flooding. Floodwaters carry sediment, which is deposited on the floodplain when the water recedes. Over time, this can lead to the accumulation of a thick layer of sediment on the floodplain. Coastal areas can also be sediment deposition sites, where sediment is deposited by ocean currents and waves. This can lead to the formation of beaches, sand dunes, and other coastal landforms. Finally, human activities such as mining, construction, and agriculture can also create sediment deposition sites. For example, mining activities can create tailings, which are waste materials that contain high concentrations of sediment. These tailings can be deposited in designated areas, where they can accumulate over time. Which forms the new landforms and habitats, provide important resources such as fertile soil and minerals, and contribute to the overall health and functioning of natural ecosystems.  "
+  "body": " Sediment Deposition  Sediment deposition sites refer to locations where sediment is deposited and accumulates over time. Sediments can come from a variety of sources, including erosion of rock and soil, volcanic activity, and human activities such as mining, construction, and agriculture. One common type of sediment deposition site is a delta, which is an area where a river or stream enters a larger body of water, such as a lake or ocean. Coastal areas can also be sediment deposition sites, where sediment is deposited by ocean currents and waves. This can lead to the formation of beaches, sand dunes, and other coastal landforms.  "
 },
 {
   "id": "subsubsec-caves",
@@ -4300,12 +4309,12 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "10.3.2",
   "title": "Tsunami",
-  "body": " Tsunami  A tsunami  tsunami is a series of ocean waves with very long wavelengths (hundred of kilometers long) caused by large-scale disturbances of the ocean due to earthquakes , volcanic eruptions, or underwater landslides. Tsunamis can also be generated by large meteorite impacts or nuclear explosions in the ocean. When a large disturbance occurs, it can create a series of waves that radiate outwards from the source. These waves can travel across entire ocean basins and can cause significant damage when they reach shore. Tsunami waves can reach heights of tens of meters, and their high energy can devastate coastal communities, causing flooding, erosion, and destruction of buildings and infrastructure. Tsunamis travel at high speeds, with typical speeds of around 700 kilometers per hour in deep water. Because of their high speed and long wavelength, they can pass unnoticed in the open ocean, with wave heights typically only a few centimeters. However, as the waves approach shallow waters near the coast, they slow down and the wave height increases, creating a wall of water that can inundate coastal areas.    Tsunami    "
+  "body": " Tsunami  A tsunami  tsunami is a series of ocean waves with very long wavelengths (hundred of kilometers long) caused by large-scale disturbances of the ocean due to earthquakes , volcanic eruptions, or underwater landslides. When a large disturbance occurs, it can create a series of waves that radiate outwards from the source. These waves can travel across entire ocean basins and can cause significant damage when they reach shore. Tsunami waves can reach heights of tens of meters, and their high energy can devastate coastal communities, causing flooding, erosion, and destruction of buildings and infrastructure.    Tsunami    "
 },
 {
-  "id": "p-821",
+  "id": "p-822",
   "level": "2",
-  "url": "subsec-tsunami.html#p-821",
+  "url": "subsec-tsunami.html#p-822",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4708,9 +4717,9 @@ var ptx_lunr_docs = [
   "body": " Types of Rocks   "
 },
 {
-  "id": "p-895",
+  "id": "p-896",
   "level": "2",
-  "url": "subsec-Rocks.html#p-895",
+  "url": "subsec-Rocks.html#p-896",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4726,9 +4735,9 @@ var ptx_lunr_docs = [
   "body": " Some common Rocks   "
 },
 {
-  "id": "p-896",
+  "id": "p-897",
   "level": "2",
-  "url": "subsec-Rocks.html#p-896",
+  "url": "subsec-Rocks.html#p-897",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4744,9 +4753,9 @@ var ptx_lunr_docs = [
   "body": " Coral Reef  Coral reefs are underwater ecosystems that are built by colonies of small organisms called coral polyps. Coral reefs are found in shallow, clear waters, primarily in tropical and subtropical regions around the world. Coral reefs are composed of a type of limestone known as \"reef\" limestone , which is formed from the accumulation of the calcium carbonate skeletons of coral polyps. Over time, the accumulation of these skeletons forms the hard, rocky structure of the reef.  "
 },
 {
-  "id": "p-897",
+  "id": "p-898",
   "level": "2",
-  "url": "subsec-coralreef.html#p-897",
+  "url": "subsec-coralreef.html#p-898",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4771,9 +4780,9 @@ var ptx_lunr_docs = [
   "body": "    Types of faults     Focus and epicenter     Richter scale     "
 },
 {
-  "id": "p-901",
+  "id": "p-902",
   "level": "2",
-  "url": "subsec-faults.html#p-901",
+  "url": "subsec-faults.html#p-902",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4807,9 +4816,9 @@ var ptx_lunr_docs = [
   "body": "  Theory of Continental drift   "
 },
 {
-  "id": "p-905",
+  "id": "p-906",
   "level": "2",
-  "url": "subsec-drift.html#p-905",
+  "url": "subsec-drift.html#p-906",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4822,7 +4831,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "11.4.2",
   "title": "Plate Tectonics",
-  "body": " Plate Tectonics   Plate collision    There are around 15 major tectonic plates on Earth, as well as several smaller ones. The major plates include the African Plate, Antarctic Plate, Australian Plate, Eurasian Plate, North American Plate, Pacific Plate, South American Plate, and others. These plates are in constant motion, with some moving towards each other (convergent boundaries), some moving apart from each other (divergent boundaries), and some sliding past each other (transform boundaries). These movements can cause geological phenomena such as earthquakes, volcanic eruptions, and the formation of mountain ranges.  Oceanic-continental plate collision: When an oceanic plate collides with a continental plate, the denser oceanic plate is usually subducted, or forced beneath the less dense continental plate. This process can lead to the formation of subduction zones, where the oceanic plate is forced downward into the mantle, creating a deep oceanic trench  . As the oceanic plate is subducted, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can create a line of volcanoes known as a volcanic arc on the continental plate side of the subduction zone. The collision between the oceanic and continental plates can also cause folding and faulting of the continental crust, leading to the formation of mountain ranges. The collision can also cause earthquakes as the plates grind against each other and release energy. One well-known example of an oceanic-continental plate collision is the Andes Mountains in South America.  Oceanic-oceanic plate collision: When two oceanic plates collide, one plate usually subducts beneath the other, creating a subduction zone. The subducted plate is forced down into the mantle, creating a deep trench , while the overriding plate forms an island arc, a curved chain of volcanic islands. As the subducted plate sinks deeper into the mantle, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can contribute to the growth of the island arc. Over time, the volcanic activity can also lead to the formation of a new oceanic crust, as magma solidifies and builds up on the seafloor. This process is known as seafloor spreading. One example of an oceanic-oceanic plate collision is the collision between the Pacific Plate and the Philippine Sea Plate, which has created the Marianas Trench and the Mariana Islands, a volcanic island arc in the western Pacific Ocean.  Continental-continental plate collision: When two continental plates collide, neither plate is subducted because both plates are too buoyant to sink. Instead, the collision can lead to the formation of massive mountain ranges and intense deformation of the continental crust. As the two continental plates collide, they crumple and fold, leading to the formation of complex mountain belts. The collision can also cause extensive faulting and fracturing of the crust, leading to the formation of deep basins and rift valleys. Over time, erosion can wear down the mountains, leading to the deposition of sedimentary rocks in the basins and valleys. One example of a continental-continental plate collision is the collision between the Indian Plate and the Eurasian Plate, which has led to the formation of the Himalayan mountain range, the tallest mountain range in the world. The collision between these two plates is ongoing, and the Himalayas continue to grow taller each year.    "
+  "body": " Plate Tectonics   Plate collision    There are around 15 major tectonic plates on Earth, as well as several smaller ones. The major plates include the African Plate, Antarctic Plate, Australian Plate, Eurasian Plate, North American Plate, Pacific Plate, South American Plate, and others. These plates are in constant motion, with some moving towards each other (convergent boundaries), some moving apart from each other (divergent boundaries), and some sliding past each other (transform boundaries). These movements can cause geological phenomena such as earthquakes, volcanic eruptions, and the formation of mountain ranges.   Oceanic-continental plate collision : When an oceanic plate collides with a continental plate, the denser oceanic plate is usually subducted, or forced beneath the less dense continental plate. This process can lead to the formation of subduction zones, where the oceanic plate is forced downward into the mantle, creating a deep oceanic trench  . As the oceanic plate is subducted, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can create a line of volcanoes known as a volcanic arc on the continental plate side of the subduction zone. The collision between the oceanic and continental plates can also cause folding and faulting of the continental crust, leading to the formation of mountain ranges. The collision can also cause earthquakes as the plates grind against each other and release energy. One well-known example of an oceanic-continental plate collision is the Andes Mountains in South America.   Oceanic-oceanic plate collision: When two oceanic plates collide, one plate usually subducts beneath the other, creating a subduction zone. The subducted plate is forced down into the mantle, creating a deep trench , while the overriding plate forms an island arc, a curved chain of volcanic islands. As the subducted plate sinks deeper into the mantle, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can contribute to the growth of the island arc. Over time, the volcanic activity can also lead to the formation of a new oceanic crust, as magma solidifies and builds up on the seafloor. This process is known as seafloor spreading. One example of an oceanic-oceanic plate collision is the collision between the Pacific Plate and the Philippine Sea Plate, which has created the Marianas Trench and the Mariana Islands, a volcanic island arc in the western Pacific Ocean.   Continental-continental plate collision: When two continental plates collide, neither plate is subducted because both plates are too buoyant to sink. Instead, the collision can lead to the formation of massive mountain ranges and intense deformation of the continental crust. As the two continental plates collide, they crumple and fold, leading to the formation of complex mountain belts. The collision can also cause extensive faulting and fracturing of the crust, leading to the formation of deep basins and rift valleys. Over time, erosion can wear down the mountains, leading to the deposition of sedimentary rocks in the basins and valleys. One example of a continental-continental plate collision is the collision between the Indian Plate and the Eurasian Plate, which has led to the formation of the Himalayan mountain range, the tallest mountain range in the world. The collision between these two plates is ongoing, and the Himalayas continue to grow taller each year.    "
 },
 {
   "id": "fig-trenchridge",
@@ -4834,13 +4843,13 @@ var ptx_lunr_docs = [
   "body": " Plate collision   "
 },
 {
-  "id": "p-906",
+  "id": "p-907",
   "level": "2",
-  "url": "subsec-platetect.html#p-906",
+  "url": "subsec-platetect.html#p-907",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "trench trench "
+  "body": "Oceanic-continental plate collision trench Oceanic-oceanic plate collision: trench Continental-continental plate collision: "
 },
 {
   "id": "subsec-humhist",
@@ -4861,9 +4870,9 @@ var ptx_lunr_docs = [
   "body": " Human Evolutionary Tree   "
 },
 {
-  "id": "p-911",
+  "id": "p-912",
   "level": "2",
-  "url": "subsec-humhist.html#p-911",
+  "url": "subsec-humhist.html#p-912",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5266,22 +5275,13 @@ var ptx_lunr_docs = [
   "body": " Debri Belts  Asteroids are small, rocky objects that orbit the sun. There are millions of asteroids in our solar system, ranging in size from tiny pebbles to massive rocks several hundred kilometers across. Most asteroids are found in the asteroid belt , [ ] a region of space between Mars and Jupiter. Asteroids are thought to be remnants from the early solar system, left over from the formation of the planets. Studying asteroids can give us insights into the formation and evolution of the solar system, as well as provide clues about the potential hazards that these objects pose to our planet. Meteoroids can come from various sources, including the asteroid belt. Small rocky objects in asteroids belt sometimes collide with each other and create meteoroids. However, meteoroids can also come from other sources, such as comets or other objects in space. Once a meteoroid enters the Earth's atmosphere, it is called a meteor or shooting star.  A meteor shower occurs when the Earth passes through a trail of debris left behind by a comet or asteroid. As the Earth moves through this debris field, the small particles, called meteoroids, enter the Earth's atmosphere at high speeds and burn up, creating streaks of light in the sky that we call meteors or shooting stars . Meteor showers can occur at various times throughout the year, and they are often named after the constellation that appears to be the source of the meteors (the radiant). Some of the most well-known meteor showers include the Perseids (in August), the Leonids (in November), and the Geminids (in December).  The Kuiper Belt [ ] is a region of the solar system located beyond the orbit of Neptune, extending from about 30 to 50 astronomical units (AU) from the Sun. It is a vast region of space containing many small icy objects, including dwarf planets such as Pluto, Haumea, Makemake, and Eris, as well as numerous smaller bodies known as Kuiper Belt Objects (KBOs). The Kuiper Belt is thought to be the source of many short-period comets, which are believed to be icy bodies that originate from this region and are gravitationally perturbed by the gas giants, particularly Jupiter.  The Oort Cloud [ ] is a theoretical region of the outer solar system that is thought to be the source of most long-period comets. It is believed to extend from about 2,000 to 100,000 astronomical units (AU) from the Sun, which is well beyond the Kuiper Belt. The Oort Cloud is composed of icy objects, including comets, that are thought to have formed in the early solar system and were gravitationally scattered to the outer reaches of the solar system by the gas giants. The comets in the Oort Cloud can be perturbed by passing stars, which can send them on trajectories that bring them into the inner solar system, where they become visible as long-period comets. The Oort Cloud is named after Dutch astronomer Jan Oort, who first proposed its existence in 1950 based on observations of comets.      Hale-Bopp comet     Comet's orbit       Comets are celestial bodies that orbit the sun and are primarily composed of ice, dust, and rock [ ]. They are often referred to as \"dirty snowballs\" because of their composition. When a comet approaches the sun, its ice begins to vaporize, releasing gas and dust that form a glowing coma, a temporary atmosphere around the nucleus. The solar wind and radiation pressure from the sun cause the coma to form a tail that points away from the sun. Comets can have highly elliptical orbits [ ] that take them far from the sun and then back towards it, sometimes taking thousands of years to complete a single orbit. Many comets are believed to originate in the Kuiper Belt, a region beyond Neptune that contains icy bodies and small planets. Some comets have been known to collide with planets or moons, and these collisions can have significant impacts on the celestial body's surface. Comets have fascinated people for centuries and have been the subject of many myths and legends. They have also been studied extensively by astronomers, who use them as a tool to study the formation and evolution of the solar system.  "
 },
 {
-  "id": "p-985",
-  "level": "2",
-  "url": "subsec-debribelts.html#p-985",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "asteroid belt Meteoroids "
-},
-{
   "id": "p-986",
   "level": "2",
   "url": "subsec-debribelts.html#p-986",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "meteor shower meteors or shooting stars "
+  "body": "asteroid belt Meteoroids "
 },
 {
   "id": "p-987",
@@ -5290,12 +5290,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Kuiper Belt dwarf planets Pluto, "
+  "body": "meteor shower meteors or shooting stars "
 },
 {
   "id": "p-988",
   "level": "2",
   "url": "subsec-debribelts.html#p-988",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Kuiper Belt dwarf planets Pluto, "
+},
+{
+  "id": "p-989",
+  "level": "2",
+  "url": "subsec-debribelts.html#p-989",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5311,9 +5320,9 @@ var ptx_lunr_docs = [
   "body": "    Hale-Bopp comet     Comet's orbit     "
 },
 {
-  "id": "p-989",
+  "id": "p-990",
   "level": "2",
-  "url": "subsec-debribelts.html#p-989",
+  "url": "subsec-debribelts.html#p-990",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5338,18 +5347,18 @@ var ptx_lunr_docs = [
   "body": " Mars  Mars [ ] is the fourth planet from the Sun and the second-smallest planet in our solar system, after Mercury. It is often referred to as the Red Planet because of its reddish appearance, which is caused by iron oxide or rust on its surface. Mars has a diameter of approximately 6,779 kilometers, which is about half the size of Earth. It has a thin atmosphere composed mainly of carbon dioxide, with small amounts of nitrogen and argon. Mars also has the largest volcano and the deepest canyon in the solar system. There is evidence that liquid water once existed on Mars, and there are signs of dried-up riverbeds, lakes, and even an ancient ocean. The search for signs of life on Mars is a major focus of current and future missions. Several spacecraft, including rovers and orbiters, have been sent to Mars to study its surface, atmosphere, and geology. In 2020, NASA's Perseverance rover successfully landed on Mars and began exploring the Jezero Crater, which is believed to have once been a lakebed and could contain evidence of past microbial life. Mars is also a target for future human exploration, with plans for manned missions and even eventual colonization. However, the harsh conditions on Mars, including its thin atmosphere and extreme temperatures, make any such missions challenging and expensive.  The thin atmosphere of Mars does not provide significant protection from the sun's radiation and solar wind, which means that the planet's surface is bombarded by high-energy particles. However, the atmosphere does help to regulate the planet's temperature and weather patterns. The temperature on Mars can vary greatly, ranging from an average of about -63°C (-81°F) at the equator to as low as -143°C (-225°F) at the poles during the winter. During the summer, temperatures can reach a maximum of around 20°C (68°F) at the equator. The Martian atmosphere also contains clouds, dust storms, and seasonal weather patterns. Dust storms can sometimes cover the entire planet and can last for weeks or even months, affecting the solar-powered rovers and landers that are exploring the surface.  While the Mars missions have not yet found definitive evidence of life on Mars, they have provided valuable data and insights into the planet's geology, climate, and potential habitability. Future missions, including the joint NASA-ESA Mars Sample Return mission, are planned to bring back samples from Mars for further analysis, which may help answer the question of whether life exists or has ever existed on the planet.  Mars has two small moons, named Phobos and Deimos , which are thought to be captured asteroids. Phobos is the larger and closer of the two moons, and is heavily cratered with deep grooves and ridges on its surface. Its surface is thought to be composed of a mixture of rock and dust, and it orbits Mars at a distance of only 9,377 km (5,827 miles), which is closer than any other moon in the Solar System relative to its host planet. Deimos is smaller and more irregularly shaped than Phobos, and has a smoother surface with fewer craters. Its surface is also thought to be composed of a mixture of rock and dust, and it orbits Mars at a distance of about 23,460 km (14,577 miles). Both Phobos and Deimos are relatively small and irregularly shaped, and are thought to be composed of materials similar to those found in asteroids. They have been studied in detail by several spacecraft, including the Mars Reconnaissance Orbiter, which has provided us with high-resolution images and valuable scientific data about these small moons of Mars.  "
 },
 {
-  "id": "p-996",
+  "id": "p-997",
   "level": "2",
-  "url": "subsec-mars.html#p-996",
+  "url": "subsec-mars.html#p-997",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Red Planet "
 },
 {
-  "id": "p-999",
+  "id": "p-1000",
   "level": "2",
-  "url": "subsec-mars.html#p-999",
+  "url": "subsec-mars.html#p-1000",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5365,18 +5374,18 @@ var ptx_lunr_docs = [
   "body": " Jupiter  Jupiter [ ] is the largest planet in our solar system and the fifth planet from the Sun. It is located between the orbits of Mars and Saturn. It has a diameter of 86,881 miles (139,822 kilometers) and is a gas giant planet, meaning that it is primarily composed of hydrogen and helium gas, with no solid surface. Jupiter is known for its distinctive colorful bands of clouds, which are caused by strong winds in its atmosphere that blow in opposite directions at different latitudes. It also has a giant red spot , a massive storm that has been raging for over 300 years. Jupiter's strong gravitational pull has also led to the discovery of many small, rocky asteroids and comets that are captured in its orbit. Jupiter has been studied extensively by spacecraft, including NASA's Voyager 1 and 2 missions, as well as the Galileo spacecraft, which orbited the planet from 1995 to 2003. The Juno spacecraft, launched by NASA in 2011, is currently in orbit around Jupiter, studying its atmosphere, magnetic field, and interior structure.  Jupiter has more than 79 known moons, the largest of which is Ganymede, which is even larger than the planet Mercury. The most famous moon of Jupiter is probably Europa , which is known for its potential subsurface ocean and the possibility of harboring extraterrestrial life. Other notable moons of Jupiter include Io, Ganymede, and Callisto.  Jupiter has a system of rings, but they are not as prominent or well-known as the rings of Saturn. Jupiter's rings are composed of small particles of rock and dust, and there are four main ring groups: the halo ring, the main ring, the Amalthea gossamer ring, and the Thebe gossamer ring. These rings are thought to be formed by dust kicked up from impacts on nearby moons, and they are constantly being replenished by new dust from these sources. The rings of Jupiter are much fainter and harder to see than the rings of Saturn, and were discovered in 1979 by the Voyager 1 spacecraft.  "
 },
 {
-  "id": "p-1000",
+  "id": "p-1001",
   "level": "2",
-  "url": "subsec-jupiter.html#p-1000",
+  "url": "subsec-jupiter.html#p-1001",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "red spot "
 },
 {
-  "id": "p-1001",
+  "id": "p-1002",
   "level": "2",
-  "url": "subsec-jupiter.html#p-1001",
+  "url": "subsec-jupiter.html#p-1002",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5392,9 +5401,9 @@ var ptx_lunr_docs = [
   "body": " Saturn  Saturn [ ] is the sixth planet from the Sun and is known for its iconic rings, which are composed of countless icy particles ranging in size from tiny grains to enormous boulders. It is a gas giant planet, meaning it is predominantly made up of hydrogen and helium, with a small rocky core at its center. Saturn has the second-largest planetary atmosphere in the Solar System, after Jupiter, and is known for its numerous moons, with at least 82 moons known to orbit the planet. The largest moon of Saturn is Titan , which is the only known moon in the Solar System with a thick atmosphere and the potential to support life. Saturn is also known for its beautiful and dynamic weather patterns, including massive storms and hexagonal cloud formations at its north pole. The planet has been visited by several spacecraft, including the Voyager and Cassini missions, which have provided us with stunning images and valuable scientific data about this gas giant planet.  "
 },
 {
-  "id": "p-1003",
+  "id": "p-1004",
   "level": "2",
-  "url": "subsec-saturn.html#p-1003",
+  "url": "subsec-saturn.html#p-1004",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5410,9 +5419,9 @@ var ptx_lunr_docs = [
   "body": " Uranus  Uranus [ ] is the seventh planet from the Sun and is an ice giant planet, meaning it has a predominantly icy and gaseous composition. It has a unique feature among the planets in our solar system in that its axis of rotation is tilted at an extreme angle of 98 degrees relative to its orbit, which means that the planet appears to be rotating on its side. Uranus is the third-largest planet in our solar system and has a system of rings, although they are much less prominent than the rings of Saturn. Uranus also has at least 27 known moons, with the largest ones being Miranda , Ariel, Umbriel, Titania, and Oberon. The atmosphere of Uranus is predominantly composed of hydrogen and helium, with small amounts of methane, which gives the planet its blue-green color. Uranus is a relatively cold planet, with an average temperature of about -195 degrees Celsius (-320 degrees Fahrenheit) at its cloud tops. The planet has only been visited by one spacecraft, Voyager 2, which flew by in 1986 and provided us with our best data and images of Uranus to date.  "
 },
 {
-  "id": "p-1004",
+  "id": "p-1005",
   "level": "2",
-  "url": "subsec-uranus.html#p-1004",
+  "url": "subsec-uranus.html#p-1005",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5428,9 +5437,9 @@ var ptx_lunr_docs = [
   "body": " Neptune  Neptune [ ] is the eighth planet and farthest planet from the Sun, and is also an ice giant planet like Uranus. It is named after the Roman god of the sea due to its blue color, which comes from the presence of methane in its atmosphere. Neptune has a diameter almost four times that of Earth, making it the fourth-largest planet by diameter in our solar system. It has a very active atmosphere with high-speed winds and large storms, including the famous Great Dark Spot , which is a massive storm similar to Jupiter's Great Red Spot, but it has since disappeared. Neptune also has a system of rings and at least 14 known moons, with the largest being Triton . Triton is particularly interesting because it is one of the coldest objects in the solar system, with a surface temperature of about -235 degrees Celsius (-391 degrees Fahrenheit). It is also unique among large moons in that it orbits Neptune in a direction opposite to that of Neptune's rotation. Neptune has been visited by only one spacecraft, Voyager 2, which flew by the planet in 1989 and provided us with our best data and images of Neptune to date.  "
 },
 {
-  "id": "p-1005",
+  "id": "p-1006",
   "level": "2",
-  "url": "subsec-neptune.html#p-1005",
+  "url": "subsec-neptune.html#p-1006",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5455,9 +5464,9 @@ var ptx_lunr_docs = [
   "body": " Moon Song   "
 },
 {
-  "id": "p-1010",
+  "id": "p-1011",
   "level": "2",
-  "url": "subsec-moonphase.html#p-1010",
+  "url": "subsec-moonphase.html#p-1011",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5473,18 +5482,18 @@ var ptx_lunr_docs = [
   "body": " Eclipse  An eclipse eclipse occurs when an astronomical object is temporarily obscured, either partially or completely, by another object [ The Lunar and Solar Eclipses ]. The two main types of eclipses are solar eclipses and lunar eclipses. A solar eclipse occurs when the Moon passes between the Sun and the Earth, blocking the Sun's light and creating a shadow on the Earth. There are three types of solar eclipses: total, partial, and annular. During a total solar eclipse , the Moon completely covers the Sun, leaving only its corona visible. During a partial solar eclipse, only a portion of the Sun is covered by the Moon. During an annular solar eclipse, the Moon is too far away from the Earth to completely cover the Sun, creating a \"ring of fire\" effect. A lunar eclipse occurs when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. There are two types of lunar eclipses: total and partial. During a total lunar eclipse, the Moon is completely covered by the Earth's shadow, creating a reddish hue. During a partial lunar eclipse, only a portion of the Moon is covered by the Earth's shadow. Eclipses are relatively rare events that require specific alignment of the Sun, Moon, and Earth. While there are several eclipses each year, they are typically only visible from specific regions of the Earth and require clear skies and proper viewing conditions to be seen.  During a New Moon , the Moon is located between the Earth and the Sun , and the side of the Moon that faces Earth is not illuminated by the Sun, making it invisible from Earth. When the Moon passes directly in front of the Sun during a New Moon, a solar eclipse can occur, temporarily blocking out the Sun's light and casting a shadow on the Earth. On the other hand, a full moon occurs when the Earth is located between the Sun and the Moon , with the illuminated side of the Moon facing Earth. It's worth noting that a lunar eclipse can only occur during a Full Moon phase, when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. During a lunar eclipse, the Moon may appear reddish in color due to the Earth's atmosphere refracting sunlight onto the Moon's surface.  "
 },
 {
-  "id": "p-1011",
+  "id": "p-1012",
   "level": "2",
-  "url": "subsec-eclipse.html#p-1011",
+  "url": "subsec-eclipse.html#p-1012",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "solar eclipse lunar eclipse "
 },
 {
-  "id": "p-1012",
+  "id": "p-1013",
   "level": "2",
-  "url": "subsec-eclipse.html#p-1012",
+  "url": "subsec-eclipse.html#p-1013",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5725,9 +5734,9 @@ var ptx_lunr_docs = [
   "body": "    Refracting Telescope     Reflecting Telescope     Radio Telescope     "
 },
 {
-  "id": "p-1049",
+  "id": "p-1050",
   "level": "2",
-  "url": "subsec-astrotools.html#p-1049",
+  "url": "subsec-astrotools.html#p-1050",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5752,9 +5761,9 @@ var ptx_lunr_docs = [
   "body": " The Sun    Sunspot     Nuclear Fusion     Solar Spectrum     "
 },
 {
-  "id": "p-1052",
+  "id": "p-1053",
   "level": "2",
-  "url": "subsec-sun.html#p-1052",
+  "url": "subsec-sun.html#p-1053",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5770,9 +5779,9 @@ var ptx_lunr_docs = [
   "body": " Sun's parts   "
 },
 {
-  "id": "p-1053",
+  "id": "p-1054",
   "level": "2",
-  "url": "subsec-sun.html#p-1053",
+  "url": "subsec-sun.html#p-1054",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5806,9 +5815,9 @@ var ptx_lunr_docs = [
   "body": " Aurora   "
 },
 {
-  "id": "p-1056",
+  "id": "p-1057",
   "level": "2",
-  "url": "subsec-aurora.html#p-1056",
+  "url": "subsec-aurora.html#p-1057",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5824,18 +5833,18 @@ var ptx_lunr_docs = [
   "body": " Stellar Distances  There are several methods for measuring the distance to stars, some of the most common are: Parallax Method: This is one of the most common methods used to determine the distance to nearby stars. It involves measuring the apparent shift in the position of a star when viewed from different positions in space. The distance to the star can be calculated using trigonometry with the angle between the two positions. Spectroscopic Method: This method is used to measure the distance to stars by analyzing their spectra. The spectra of stars can be used to determine their temperature, luminosity, and composition, which can be used to estimate their distance. Main Sequence Fitting: [ ] This method involves comparing the brightness and temperature of a star with those of other stars whose distances have been accurately measured using other methods. By comparing the star's characteristics to those of other stars with known distances, its distance can be estimated. Cepheid Variables: Cepheid variables are pulsating stars with a well-defined relationship between their pulsation period and their luminosity. By measuring the period of Cepheid variable star, its luminosity can be estimated, and its distance calculated. Supernova Brightness: [ ] Type Ia supernovae are known to have a very consistent brightness, making them useful as standard candles for distance measurement. By comparing the observed brightness of a Type Ia supernova to its known intrinsic brightness, its distance can be calculated.  Brightness and luminosity are important factors in determining the distance of stars. Brightness , also known as apparent magnitude, is a measure of how bright a star appears to an observer on Earth. It is affected by the distance of the star, as well as other factors such as its size and temperature. A star's brightness can be measured using a magnitude scale, with lower numbers indicating brighter stars and higher numbers indicating dimmer stars. Luminosity , on the other hand, is a measure of the total amount of energy that a star emits per unit time. It is related to the star's size, temperature, and distance. Luminosity can be measured in terms of the sun's luminosity, which is a standard unit of measurement.  "
 },
 {
-  "id": "p-1057",
+  "id": "p-1058",
   "level": "2",
-  "url": "subsec-stellardist.html#p-1057",
+  "url": "subsec-stellardist.html#p-1058",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Parallax Method: Spectroscopic Method: Main Sequence Fitting: Cepheid Variables: Supernova Brightness: "
 },
 {
-  "id": "p-1058",
+  "id": "p-1059",
   "level": "2",
-  "url": "subsec-stellardist.html#p-1058",
+  "url": "subsec-stellardist.html#p-1059",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5851,9 +5860,9 @@ var ptx_lunr_docs = [
   "body": " Supernovas  A supernova supernova is a powerful and catastrophic explosion that occurs when a star reaches the end of its life. Supernovae can release an enormous amount of energy, equivalent to the energy emitted by an entire galaxy. There are two main types of supernovae: Type Ia supernovae are thought to occur when a white dwarf star in a binary system accretes matter from its companion star, eventually reaching a critical mass and exploding. Type Ia supernovae are important for measuring cosmic distances because they have a relatively consistent and predictable brightness. Type II supernovae occur when a massive star runs out of fuel for nuclear fusion in its core and collapses under its own gravity. The core of the star becomes incredibly dense and hot, leading to a rapid release of energy that produces a powerful explosion. Type II supernovae can leave behind a neutron star or a black hole . Supernovae are important for a number of reasons. They are responsible for the production of heavy elements such as iron and gold, which are essential for life as we know it. Supernovae can also trigger the formation of new stars and planetary systems. Additionally, the energy and material released by supernovae can have a significant impact on their surrounding environment, including the formation of nebulae and the acceleration of cosmic rays.  "
 },
 {
-  "id": "p-1064",
+  "id": "p-1065",
   "level": "2",
-  "url": "subsec-supernova.html#p-1064",
+  "url": "subsec-supernova.html#p-1065",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5878,9 +5887,9 @@ var ptx_lunr_docs = [
   "body": "    Neutron Star     Pulsars     Black Hole     "
 },
 {
-  "id": "p-1065",
+  "id": "p-1066",
   "level": "2",
-  "url": "subsec-neutronstar.html#p-1065",
+  "url": "subsec-neutronstar.html#p-1066",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5905,9 +5914,9 @@ var ptx_lunr_docs = [
   "body": " Black Holes  A black hole [ ] blackhole is a region of space where the gravitational pull is so strong that nothing, not even light, can escape. Black holes are formed from the remnants of massive stars that have undergone a supernova explosion and collapsed under their own gravity. If the collapsing object is larger than about 3 times the mass of the Sun, the gravitational forces become so strong that not even neutrons can resist the collapse, and a black hole is formed. Black holes are extremely dense objects that have such strong gravity that nothing, not even light, can escape their grasp. They have no surface or structure, but instead are characterized by their mass, spin, and electric charge. The mass of a black hole can range from a few times that of the Sun to billions of times that of the Sun. The region around a black hole where the gravitational pull is so strong that nothing can escape is called the event horizon. Once matter crosses the event horizon, it is trapped by the black hole and cannot escape. The point at the center of a black hole where the gravitational pull becomes infinite is called the singularity , and our current understanding of physics breaks down at this point. Black holes are invisible, as they do not emit any light or other forms of radiation. However, their presence can be inferred from the effects of their gravity on nearby matter. For example, if a black hole is in a binary star system, its gravity can cause the visible star to wobble, and the mass of the black hole can be estimated from the size of the wobble. As a black hole pulls matter into it, the matter gets accelerated and emits radiation that can be detected by telescopes. This radiation can come from the accretion disk around the black hole [ ], where matter gets heated up and emits X-rays and other high-energy radiation.   Accretion Disk    "
 },
 {
-  "id": "p-1068",
+  "id": "p-1069",
   "level": "2",
-  "url": "subsec-blackhole.html#p-1068",
+  "url": "subsec-blackhole.html#p-1069",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6166,18 +6175,18 @@ var ptx_lunr_docs = [
   "body": " Milky Way Galaxy  The Milky Way [ ] is a barred spiral galaxy , which is a type of galaxy characterized by a central bar-shaped structure and spiral arms that wrap around it. It is estimated to be about 13.6 billion years old and is located about 25,000 light-years from the galactic center. The Milky Way contains hundreds of billions of stars, as well as numerous other celestial objects, such as planets, nebulae, and black holes . The Milky Way's spiral arms are thought to be sites of ongoing star formation, and it is believed that many of the elements that make up our solar system and our bodies were created in these stars. The Milky Way also contains a supermassive black hole at its center, which is surrounded by a region of intense radiation known as the galactic bulge. Our solar system is located in one of the Milky Way's spiral arms, and as a result, our view of the galaxy is heavily obscured by dust and gas. Nevertheless, scientists have been able to map out the structure of the Milky Way using a variety of techniques, such as observations of star motions and radio emissions from gas clouds.  The Milky Way is a relatively large galaxy, with a diameter of about 100,000 light-years and a mass of approximately 1 trillion times that of our sun. The galaxy's spiral arms are thought to be caused by density waves, which compress the interstellar gas and dust, triggering the formation of new stars. The Milky Way is home to many interesting and important celestial objects, including the galactic center, which is a region of intense radiation and contains a supermassive black hole with a mass of about 4 million times that of our sun. The Milky Way's disk is also surrounded by a halo of dark matter, which is an invisible form of matter (Dark Matter) that can only be detected through its gravitational effects on visible matter. The Milky Way is part of a larger group of galaxies known as the Local Group , which also includes the Andromeda galaxy and several other smaller galaxies. The Milky Way is also home to numerous open and globular clusters , which are groups of stars that are held together by their mutual gravitational attraction.  "
 },
 {
-  "id": "p-1113",
+  "id": "p-1114",
   "level": "2",
-  "url": "subsec-milkyway.html#p-1113",
+  "url": "subsec-milkyway.html#p-1114",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "black hole "
 },
 {
-  "id": "p-1114",
+  "id": "p-1115",
   "level": "2",
-  "url": "subsec-milkyway.html#p-1114",
+  "url": "subsec-milkyway.html#p-1115",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6211,9 +6220,9 @@ var ptx_lunr_docs = [
   "body": " Magelenic Cloud  The Magellanic Clouds magellanic cloud are two small satellite galaxies that orbit the Milky Way galaxy. The Magellanic Clouds are located in the southern hemisphere, and they are visible to the naked eye from the southern latitudes. The Large Magellanic Cloud (LMC) is the larger of the two clouds, and it is located about 163,000 light-years away from Earth. It has a diameter of about 14,000 light-years and contains tens of billions of stars, as well as star-forming regions , supernova remnants, and other astronomical objects. The Magellanic Clouds are important objects for astronomers to study because they provide insight into the evolution of satellite galaxies and their interactions with larger host galaxies like the Milky Way. They are also used as calibration objects for measuring the distances to more distant galaxies, which helps astronomers to understand the large-scale structure of the universe.  "
 },
 {
-  "id": "p-1119",
+  "id": "p-1120",
   "level": "2",
-  "url": "subsec-magelenic.html#p-1119",
+  "url": "subsec-magelenic.html#p-1120",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6238,9 +6247,9 @@ var ptx_lunr_docs = [
   "body": "    Crab Nebula     Eye Nebula     Horsehead Nebula     "
 },
 {
-  "id": "p-1120",
+  "id": "p-1121",
   "level": "2",
-  "url": "subsec-nebula.html#p-1120",
+  "url": "subsec-nebula.html#p-1121",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6256,9 +6265,9 @@ var ptx_lunr_docs = [
   "body": " Dark Matter and Dark Energy  Dark matter and dark energy are two of the most mysterious and intriguing components of the universe. Dark matter  dark matter is a type of matter that is thought to make up about 27% of the total matter content of the universe. It is called \"dark\" because it does not emit, absorb, or reflect light, making it invisible to telescopes and other instruments that detect electromagnetic radiation. The presence of dark matter is inferred from its gravitational effects on visible matter, such as stars and galaxies. Dark matter is believed to play a key role in the formation and evolution of galaxies, as well as the large-scale structure of the universe. Dark energy  dark energy is a hypothetical form of energy that is thought to make up about 68% of the total energy content of the universe. It is called \"dark\" because, like dark matter, it is invisible to telescopes and other instruments that detect electromagnetic radiation. The existence of dark energy is inferred from observations of the accelerating expansion of the universe. Dark energy is believed to be responsible for this acceleration, although the exact nature of dark energy is not yet well understood. Together, dark matter and dark energy are thought to make up about 95% of the total matter and energy content of the universe, with the remaining 5% consisting of visible matter, such as stars, galaxies, and interstellar gas and dust. The study of dark matter and dark energy is a major area of research in cosmology, and scientists are working to understand their properties and how they influence the evolution and fate of the universe.  "
 },
 {
-  "id": "p-1121",
+  "id": "p-1122",
   "level": "2",
-  "url": "subsec-darkmatt.html#p-1121",
+  "url": "subsec-darkmatt.html#p-1122",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6274,9 +6283,9 @@ var ptx_lunr_docs = [
   "body": " Quasars   Quasars [ ] are some of the brightest and most energetic objects in the universe. They are thought to be powered by supermassive black holes that are actively accreting matter. As the matter falls towards the black hole, it heats up and emits intense radiation that can outshine entire galaxies. Subsequent observations revealed that quasars were located at extreme distances, billions of light-years away. Quasars are associated with massive galaxies in the early universe. As gas falls towards the central black hole, it also triggers the formation of stars and the growth of the galaxy. Quasars are thus thought to be crucial in understanding the formation and evolution of galaxies.  "
 },
 {
-  "id": "p-1122",
+  "id": "p-1123",
   "level": "2",
-  "url": "subsec-Quasars.html#p-1122",
+  "url": "subsec-Quasars.html#p-1123",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6292,9 +6301,9 @@ var ptx_lunr_docs = [
   "body": " Expansion of the Universe   Hubble's law  Hubble's law describes the relationship between the distance to a galaxy and its observed redshift. The law states that the farther away a galaxy is from us, the faster it is moving away from us. This relationship is described by the equation where is the velocity of the galaxy, is its distance from us, and is the Hubble's constant,  ( )  Hubble's constant  which is a measure of the rate at which the Universe is expanding. The Hubble constant has been determined through observations of distant galaxies and is currently estimated to be around 73 kilometers per second per megaparsec . This means that for every megaparsec (about 3.26 million light-years) of distance, a galaxy appears to be moving away from us at a rate of 73 kilometers per second. The discovery of Hubble's law revolutionized our understanding of the Universe and led to the development of the Big Bang theory. Hubble's law provides strong evidence that the Universe is expanding, and that it began with a single, explosive event around 13.8 billion years ago.   Expansion of Universe    The balloon analogy is often used to explain the expansion of the universe. In this analogy, the universe is represented by the surface of a balloon, and as the balloon is inflated, all points on the surface move away from each other. In this analogy, the size of the balloon represents the size of the universe, and the dots on the surface represent galaxies. As the balloon expands, the distance between any two dots (galaxies) increases. This is similar to how the distance between any two galaxies in the universe is increasing due to the expansion of the universe.  "
 },
 {
-  "id": "p-1123",
+  "id": "p-1124",
   "level": "2",
-  "url": "subsec-expansion.html#p-1123",
+  "url": "subsec-expansion.html#p-1124",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
