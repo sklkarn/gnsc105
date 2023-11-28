@@ -4705,7 +4705,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "11.2.1",
   "title": "Rocks",
-  "body": " Rocks   Types of Rocks    Rocks are made up of one or more minerals but it does not have a definite chemical compositions. The three types of rocks are given in .   Igneous rocks are formed from the solidification of magma or lava, and they make up a significant portion of the Earth's crust. Common examples of igneous rocks include granite, basalt, and obsidian. Igneous rocks can form either on the Earth's surface (extrusive) or beneath the surface (intrusive). Hence, it is of two types. Extrusive igneous rocks , such as basalt and andesite, are formed when magma or lava cools and solidifies quickly on the Earth's surface. These rocks often have a fine-grained texture because the rapid cooling does not allow time for large crystals to form. Intrusive igneous rocks , such as granite and gabbro, are formed when magma cools and solidifies slowly beneath the Earth's surface. These rocks often have a coarse-grained texture because the slow cooling allows time for large crystals to form. Igneous rocks provide valuable information about the Earth's history and geologic processes. For example, the composition of igneous rocks can give insight into the conditions and processes that led to their formation, such as volcanic activity or the melting and mixing of different rock types. Igneous rocks are also important economically, as they are a source of many valuable minerals and metals, such as copper, gold, and silver.   Sedimentary rocks are formed from the accumulation and cementation of sedimentary particles such as sand, silt, and clay. It is formed in layers. Examples of sedimentary rocks include sandstone, shale, and limestone. Sedimentary rocks cover about 75% of the Earth's surface, and they are the most common type of rock found at the Earth's surface. Sedimentary rocks provide clues about the Earth's history, such as the type of environment in which they were formed and the types of organisms that lived during that time. For example, fossils found in sedimentary rocks provide valuable information about the evolution of life on Earth. Sedimentary rocks are also important economically, as they are a source of many valuable minerals and resources, such as oil, gas, and coal. Fragmental and conglomerate sedimentary rocks are formed from the accumulation and lithification of rock fragments and other debris.   Metamorphic rocks are formed from the transformation of existing rocks (igneous, sedimentary, or other metamorphic rocks) due to heat, pressure, or chemical activity, without melting. Examples of metamorphic rocks include marble, slate, and gneiss. Metamorphic rocks can form deep beneath the Earth's surface, where they are subjected to extreme temperatures and pressures, or closer to the surface, where they are exposed to hot fluids or intense deformation. Metamorphic rocks can be classified into two main types: foliated and non-foliated . Foliated metamorphic rocks, such as slate, phyllite, schist, and gneiss, have a layered or banded appearance due to the alignment of mineral grains under pressure. Non-foliated metamorphic rocks, such as marble and quartzite, do not have a layered or banded appearance and are typically composed of a single mineral or mineral type. The texture and composition of metamorphic rocks can also provide information about the tectonic environment and geologic history of the region in which they formed. Metamorphic rocks provide valuable information about the Earth's history and geologic processes. For example, they can provide evidence of past mountain-building events and the movement of tectonic plates. Metamorphic rocks are also important economically, as they are a source of many valuable minerals, such as gold, silver, and copper. List of some common rocks are given in .     Some common Rocks     Basaltic Rock: , also known as basalt, is a type of volcanic rock that is formed from the rapid cooling and solidification of lava beneath oceanic surface. It is typically dark-colored, dense, and fine-grained. Basaltic rock is composed mainly of minerals such as plagioclase, pyroxene, and olivine. It is one of the most common types of volcanic rocks and is found in many parts of the world. Basaltic rocks are often found in areas of volcanic activity such as mid-ocean ridges, island arcs, and hotspots. Basaltic rocks have many uses, including as a building material, a road aggregate, and as a source of crushed stone. They are also used in the construction of many types of infrastructure, such as dams and bridges. Granitic Rock: , also known as granite, is a type of intrusive igneous rock that is composed mainly of quartz, feldspar, and mica minerals. It is a coarse-grained rock that forms from the slow cooling and solidification of magma beneath the continental crustal surface. Granite is typically light-colored and has a granular texture. It is a very durable rock and is often used as a building material for countertops, flooring, and monuments. It can also be used as a decorative stone in landscaping. Granitic rocks are found all over the world, but they are particularly common in areas with tectonic activity such as mountain ranges and volcanic regions. Coal is a combustible black or brownish-black sedimentary rock composed mostly of carbon and hydrocarbons. It is formed over millions of years from the remains of dead plants and animals that have been buried and subjected to high temperatures and pressures. Coal is primarily used as a fuel for electricity generation and industrial processes, as well as for heating and cooking in some parts of the world. There are several types of coal, including anthracite, bituminous, and lignite, which vary in their carbon content and properties. Coal mining can have significant environmental impacts, such as land degradation, water pollution, and greenhouse gas emissions. Limestone is a sedimentary rock composed mostly of calcium carbonate (CaCO3), usually in the form of calcite or aragonite. It forms from the accumulation of shells, coral, and other marine debris, as well as from the precipitation of calcium carbonate from water. Limestone is typically light-colored and can have a wide range of textures, from fine-grained to coarsely crystalline. It is often used as a building material and in the production of cement, lime, and other industrial materials. Limestone is also used as a decorative stone in landscaping and architecture, and can be carved into sculptures and other works of art. Some types of limestone, such as dolomite and travertine, can be formed by chemical precipitation from groundwater, rather than by the accumulation of marine debris. Limestone is vulnerable to weathering and erosion, and can be dissolved by acidic water or carbon dioxide in the atmosphere, forming features such as caves, sinkholes, and limestone pavements. Shale is a fine-grained sedimentary rock that is composed primarily of clay minerals, such as illite, kaolinite, and smectite, as well as other minerals such as quartz, feldspar, and calcite. Shale is typically gray or black in color and has a laminated, or layered, appearance due to the parallel alignment of clay particles. It is often used as a source of oil and natural gas, as the fine-grained nature of the rock allows it to serve as a reservoir for hydrocarbons. Shale is also used as a building material, especially in regions where it is abundant. One of the unique properties of shale is its ability to split into thin, flat layers, a property known as fissility. This property makes shale useful as a building material and as a decorative stone in architecture. However, the high water content of shale can make it unstable, and it is prone to weathering and erosion over time. Slate Slate is a fine-grained metamorphic rock that is derived from shale or mudstone. It is composed primarily of clay minerals such as illite, chlorite, and muscovite, along with small amounts of quartz, feldspar, pyrite, and other minerals. Slate typically has a flat, smooth surface and is highly fissile, meaning it can be split into thin, durable sheets. It is often gray in color, but can also be green, black, or red, depending on the minerals present. Slate can be used as a roofing material, flooring, and as a decorative stone in architecture. Slate forms from the compaction and recrystallization of clay and other fine-grained sedimentary rocks under high pressure and temperature. The pressure causes the clay minerals to reorient themselves into thin, parallel layers, which gives slate its characteristic fissility (fissility is the property of a rock to split easily along thin closely spaced parallel layers). The minerals present in the original sedimentary rock, as well as the degree and duration of heat and pressure, determine the color and texture of the resulting slate. Slate is known for its durability, resistance to weathering and erosion, and fire resistance, which makes it a popular choice for roofing and other construction applications.  "
+  "body": " Rocks   Types of Rocks    Rocks are made up of one or more minerals but it does not have a definite chemical compositions. The three types of rocks are given in .   Igneous rocks are formed from the solidification of magma or lava, and they make up a significant portion of the Earth's crust. Common examples of igneous rocks include granite, basalt, and obsidian. Igneous rocks can form either on the Earth's surface (extrusive) or beneath the surface (intrusive). Hence, it is of two types. Extrusive igneous rocks , such as basalt and andesite, are formed when magma or lava cools and solidifies quickly on the Earth's surface. These rocks often have a fine-grained texture because the rapid cooling does not allow time for large crystals to form. Intrusive igneous rocks , such as granite and gabbro, are formed when magma cools and solidifies slowly beneath the Earth's surface. These rocks often have a coarse-grained texture because the slow cooling allows time for large crystals to form. Igneous rocks provide valuable information about the Earth's history and geologic processes. For example, the composition of igneous rocks can give insight into the conditions and processes that led to their formation, such as volcanic activity or the melting and mixing of different rock types. Igneous rocks are also important economically, as they are a source of many valuable minerals and metals, such as copper, gold, and silver.   Sedimentary rocks are formed from the accumulation and cementation of sedimentary particles such as sand, silt, and clay. It is formed in layers. Examples of sedimentary rocks include sandstone, shale, and limestone. Sedimentary rocks cover about 75% of the Earth's surface, and they are the most common type of rock found at the Earth's surface. Sedimentary rocks provide clues about the Earth's history, such as the type of environment in which they were formed and the types of organisms that lived during that time. For example, fossils found in sedimentary rocks provide valuable information about the evolution of life on Earth. Sedimentary rocks are also important economically, as they are a source of many valuable minerals and resources, such as oil, gas, and coal. Fragmental and conglomerate sedimentary rocks are formed from the accumulation and lithification of rock fragments and other debris.   Metamorphic rocks are formed from the transformation of existing rocks (igneous, sedimentary, or other metamorphic rocks) due to heat, pressure, or chemical activity, without melting. Examples of metamorphic rocks include marble, slate, and gneiss. Metamorphic rocks can form deep beneath the Earth's surface, where they are subjected to extreme temperatures and pressures, or closer to the surface, where they are exposed to hot fluids or intense deformation. Metamorphic rocks can be classified into two main types: foliated and non-foliated . Foliated metamorphic rocks, such as slate, phyllite, schist, and gneiss, have a layered or banded appearance due to the alignment of mineral grains under pressure. Non-foliated metamorphic rocks, such as marble and quartzite, do not have a layered or banded appearance and are typically composed of a single mineral or mineral type. The texture and composition of metamorphic rocks can also provide information about the tectonic environment and geologic history of the region in which they formed. Metamorphic rocks provide valuable information about the Earth's history and geologic processes. For example, they can provide evidence of past mountain-building events and the movement of tectonic plates. Metamorphic rocks are also important economically, as they are a source of many valuable minerals, such as gold, silver, and copper. List of some common rocks are given in .     Some common Rocks     Basaltic Rock: , (or basalt) is a volcanic rock that is formed from the rapid cooling and solidification of lava beneath oceanic surface. It is typically dark-colored, dense, and fine-grained rock . It is one of the most common types of volcanic rocks found in many parts of the world. Basalts are often found in areas of volcanic activity such as mid-ocean ridges, island arcs, and hotspots. Basalts can be used as a building material, a road aggregate, and as a source of crushed stone.   Granitic Rock: , (or granite) is an intrusive igneous rock that is composed mainly of quartz, feldspar, and mica minerals. It is a coarse-grained rock that forms from the slow cooling and solidification of magma beneath the continental crustal surface. Granite is typically light-colored and has a granular texture. It is a very durable rock and is often used as a building material for countertops, flooring, and monuments. It can also be used as a decorative stone in landscaping. Granitic rocks are found all over the world, but they are particularly common in areas with tectonic activity such as mountain ranges and volcanic regions.   Coal is a combustible black or brownish-black sedimentary rock. It is formed over millions of years from the remains of dead plants and animals that have been buried and subjected to high temperatures and pressures. Coal is primarily used as a fuel. There are several types of coal, including anthracite, bituminous, and lignite, which vary in their carbon content and properties.   Limestone is a sedimentary rock composed mostly of calcium carbonate ( ). It forms from the accumulation of shells, coral, and other marine debris, as well as from the precipitation of calcium carbonate from water. Limestone is typically light-colored and can have a wide range of textures, from fine-grained to coarsely crystalline. It is often used as a building material and in the production of cement, lime, and other industrial materials. Limestone is also used as a decorative stone in landscaping and architecture, and can be carved into sculptures and other works of art. Some types of limestone, such as dolomite and travertine, can be formed by chemical precipitation from groundwater, rather than by the accumulation of marine debris. Limestone is vulnerable to weathering and erosion, and can be dissolved by acidic water or carbon dioxide in the atmosphere, forming features such as caves, sinkholes, and limestone pavements.   Shale is a fine-grained sedimentary rock that is composed primarily of clay minerals, such as illite, kaolinite, and smectite, as well as other minerals such as quartz, feldspar, and calcite. Shale is typically gray or black in color and has a laminated, or layered, appearance due to the parallel alignment of clay particles. It is often used as a source of oil and natural gas, as the fine-grained nature of the rock allows it to serve as a reservoir for hydrocarbons. Shale is also used as a building material, especially in regions where it is abundant. One of the unique properties of shale is its ability to split into thin, flat layers, a property known as fissility. This property makes shale useful as a building material and as a decorative stone in architecture. However, the high water content of shale can make it unstable, and it is prone to weathering and erosion over time.   Slate Slate is a fine-grained metamorphic rock that is derived from shale or mudstone. It is composed primarily of clay minerals such as illite, chlorite, and muscovite, along with small amounts of quartz, feldspar, pyrite, and other minerals. Slate typically has a flat, smooth surface and is highly fissile, meaning it can be split into thin, durable sheets. It is often gray in color, but can also be green, black, or red, depending on the minerals present. Slate can be used as a roofing material, flooring, and as a decorative stone in architecture. Slate forms from the compaction and recrystallization of clay and other fine-grained sedimentary rocks under high pressure and temperature. The pressure causes the clay minerals to reorient themselves into thin, parallel layers, which gives slate its characteristic fissility (fissility is the property of a rock to split easily along thin closely spaced parallel layers). The minerals present in the original sedimentary rock, as well as the degree and duration of heat and pressure, determine the color and texture of the resulting slate. Slate is known for its durability, resistance to weathering and erosion, and fire resistance, which makes it a popular choice for roofing and other construction applications.  "
 },
 {
   "id": "fig-rocks",
@@ -4741,7 +4741,52 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Basaltic Rock: Granitic Rock: Coal Limestone Shale Slate "
+  "body": "Basaltic Rock: "
+},
+{
+  "id": "p-898",
+  "level": "2",
+  "url": "subsec-Rocks.html#p-898",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Granitic Rock: "
+},
+{
+  "id": "p-899",
+  "level": "2",
+  "url": "subsec-Rocks.html#p-899",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Coal "
+},
+{
+  "id": "p-900",
+  "level": "2",
+  "url": "subsec-Rocks.html#p-900",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Limestone "
+},
+{
+  "id": "p-901",
+  "level": "2",
+  "url": "subsec-Rocks.html#p-901",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Shale "
+},
+{
+  "id": "p-902",
+  "level": "2",
+  "url": "subsec-Rocks.html#p-902",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Slate "
 },
 {
   "id": "subsec-coralreef",
@@ -4750,12 +4795,12 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "11.2.2",
   "title": "Coral Reef",
-  "body": " Coral Reef  Coral reefs are underwater ecosystems that are built by colonies of small organisms called coral polyps. Coral reefs are found in shallow, clear waters, primarily in tropical and subtropical regions around the world. Coral reefs are composed of a type of limestone known as \"reef\" limestone , which is formed from the accumulation of the calcium carbonate skeletons of coral polyps. Over time, the accumulation of these skeletons forms the hard, rocky structure of the reef.  "
+  "body": " Coral Reef  Coral reefs are built by colonies of small organisms called coral polyps. Coral reefs are found in shallow and clear waters in tropical and subtropical regions around the world. Coral reefs are composed of \"reef\" limestone which is formed from the accumulation of the calcium carbonate skeletons of coral polyps. Over time, the accumulation of these skeletons forms the hard, rocky structure of the reef.  "
 },
 {
-  "id": "p-898",
+  "id": "p-903",
   "level": "2",
-  "url": "subsec-coralreef.html#p-898",
+  "url": "subsec-coralreef.html#p-903",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4780,9 +4825,9 @@ var ptx_lunr_docs = [
   "body": "    Types of faults     Focus and epicenter     Richter scale     "
 },
 {
-  "id": "p-902",
+  "id": "p-907",
   "level": "2",
-  "url": "subsec-faults.html#p-902",
+  "url": "subsec-faults.html#p-907",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4795,7 +4840,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "11.4.1",
   "title": "Continental Drift",
-  "body": " Continental Drift   Earth map    Continental drift is the theory that the Earth's continents were once joined together in a single landmass and have since drifted apart over millions of years. This theory was first proposed by Alfred Wegener in 1912, based on the observation that the shapes of the continents on either side of the Atlantic Ocean seemed to fit together like puzzle pieces . According to the theory of continental drift, the continents were once part of a single supercontinent called Pangaea , which began to break apart about 200 million years ago. Over time, the continents moved away from each other, driven by the movement of tectonic plates in the Earth's lithosphere. The idea of continental drift was initially met with skepticism, but it gained support over time as evidence from different fields of science began to accumulate. One of the key pieces of evidence came from the study of paleomagnetism, which showed that the magnetic orientation of rocks on different continents matched up when the continents were brought together. Watch this video lecture    Theory of Continental drift     Laurasia and Gondwana were two supercontinents that existed during the Mesozoic Era, between approximately 252 million to 66 million years ago. Laurasia was a northern supercontinent that consisted of present-day North America, Europe, and Asia (excluding India and Arabia). It formed during the Late Paleozoic Era when the supercontinent Pangaea began to break apart. Laurasia continued to fragment during the Mesozoic Era, eventually forming the continents we see today. Gondwana, on the other hand, was a southern supercontinent that consisted of present-day South America, Africa, Antarctica, Australia, the Indian subcontinent, and the Arabian Peninsula. It formed during the Neoproterozoic Era, when earlier supercontinents began to break apart. Gondwana also continued to fragment during the Mesozoic Era, eventually forming the continents we see today. Laurasia and Gondwana were separated by the Tethys Sea . The breakup of these supercontinents played a significant role in shaping the geography of the Earth and the evolution of life on the planet. For example, the separation of South America and Africa created an oceanic barrier that allowed different species to evolve independently. The separation of India from Antarctica and Australia led to the formation of the Himalayas.  "
+  "body": " Continental Drift   Earth map    Continental drift is a theory that tells Earth's continents were once joined together in a single landmass and have drifted apart over millions of years. This theory was first proposed by Alfred Wegener in 1912, based on the observation that the shapes of the continents on either side of the Atlantic Ocean seemed to fit together like puzzle pieces . According to the theory of continental drift, the continents were once part of a single supercontinent called Pangaea . Pangaea began to break apart about 200 million years ago. Over time, the continents moved away from each other, due to tectonic movement. One of the key pieces of evidence came from the study of paleomagnetism, which showed that the magnetic orientation of rocks on different continents matched up when the continents were brought together.    Theory of Continental drift     Laurasia and Gondwana were two supercontinents that existed during the Mesozoic Era, between approximately 252 million to 66 million years ago. Laurasia was a northern supercontinent that consisted of present-day North America, Europe, and Asia (excluding India and Arabia). It formed during the Late Paleozoic Era when the supercontinent Pangaea began to break apart. Gondwana, on the other hand, was a southern supercontinent that consisted of present-day South America, Africa, Antarctica, Australia, the Indian subcontinent, and the Arabian Peninsula. It formed during the Neoproterozoic Era, when earlier supercontinents began to break apart. Gondwana and Laurasia both are continued to fragment during the Mesozoic Era. Laurasia and Gondwana were separated by the Tethys Sea . The breakup of these supercontinents shaps the geography of the Earth and the evolution of life on the planet. For example, the separation of South America and Africa created an oceanic barrier that allowed different species to evolve independently. The separation of India from Antarctica and Australia led to the formation of the Himalayas.  "
 },
 {
   "id": "fig-emap",
@@ -4816,9 +4861,9 @@ var ptx_lunr_docs = [
   "body": "  Theory of Continental drift   "
 },
 {
-  "id": "p-906",
+  "id": "p-911",
   "level": "2",
-  "url": "subsec-drift.html#p-906",
+  "url": "subsec-drift.html#p-911",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4831,7 +4876,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "11.4.2",
   "title": "Plate Tectonics",
-  "body": " Plate Tectonics   Plate collision    There are around 15 major tectonic plates on Earth, as well as several smaller ones. The major plates include the African Plate, Antarctic Plate, Australian Plate, Eurasian Plate, North American Plate, Pacific Plate, South American Plate, and others. These plates are in constant motion, with some moving towards each other (convergent boundaries), some moving apart from each other (divergent boundaries), and some sliding past each other (transform boundaries). These movements can cause geological phenomena such as earthquakes, volcanic eruptions, and the formation of mountain ranges.   Oceanic-continental plate collision : When an oceanic plate collides with a continental plate, the denser oceanic plate is usually subducted, or forced beneath the less dense continental plate. This process can lead to the formation of subduction zones, where the oceanic plate is forced downward into the mantle, creating a deep oceanic trench  . As the oceanic plate is subducted, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can create a line of volcanoes known as a volcanic arc on the continental plate side of the subduction zone. The collision between the oceanic and continental plates can also cause folding and faulting of the continental crust, leading to the formation of mountain ranges. The collision can also cause earthquakes as the plates grind against each other and release energy. One well-known example of an oceanic-continental plate collision is the Andes Mountains in South America.   Oceanic-oceanic plate collision: When two oceanic plates collide, one plate usually subducts beneath the other, creating a subduction zone. The subducted plate is forced down into the mantle, creating a deep trench , while the overriding plate forms an island arc, a curved chain of volcanic islands. As the subducted plate sinks deeper into the mantle, it heats up and begins to melt, forming magma that rises to the surface and can lead to volcanic activity. This volcanic activity can contribute to the growth of the island arc. Over time, the volcanic activity can also lead to the formation of a new oceanic crust, as magma solidifies and builds up on the seafloor. This process is known as seafloor spreading. One example of an oceanic-oceanic plate collision is the collision between the Pacific Plate and the Philippine Sea Plate, which has created the Marianas Trench and the Mariana Islands, a volcanic island arc in the western Pacific Ocean.   Continental-continental plate collision: When two continental plates collide, neither plate is subducted because both plates are too buoyant to sink. Instead, the collision can lead to the formation of massive mountain ranges and intense deformation of the continental crust. As the two continental plates collide, they crumple and fold, leading to the formation of complex mountain belts. The collision can also cause extensive faulting and fracturing of the crust, leading to the formation of deep basins and rift valleys. Over time, erosion can wear down the mountains, leading to the deposition of sedimentary rocks in the basins and valleys. One example of a continental-continental plate collision is the collision between the Indian Plate and the Eurasian Plate, which has led to the formation of the Himalayan mountain range, the tallest mountain range in the world. The collision between these two plates is ongoing, and the Himalayas continue to grow taller each year.    "
+  "body": " Plate Tectonics   Plate collision    There are around 15 major and several smaller tectonic plates on Earth. The major plates include the African Plate, Antarctic Plate, Australian Plate, Eurasian Plate, North American Plate, Pacific Plate, South American Plate, and others. These plates are in constant motion, with some moving towards each other (convergent boundaries), some moving apart from each other (divergent boundaries), and some sliding past each other (transform boundaries). These movements can cause earthquakes, volcanic eruptions, and the formation of mountain ranges.   Oceanic-continental plate collision : When an oceanic plate collides with a continental plate, the denser oceanic plate is usually subducted under the less dense continental plate. This process can lead to the formation of subduction zones, where the oceanic plate is forced downward into the mantle, creating a deep oceanic trench [ ]. As the oceanic plate is subducted, it heats up and begins to melt. This melt rises up to the surface in the form of magma and can cause the volcanic activity. This volcanic activity can create a line of volcanoes known as a volcanic arc on the continental plate side of the subduction zone. The collision between the oceanic and continental plates can also cause folding and faulting of the continental crust, leading to the formation of mountain ranges. This collision can also cause earthquakes as the plates grind against each other and release energy. One well-known example of an oceanic-continental plate collision is the Andes Mountains in South America.   Oceanic-oceanic plate collision: When two oceanic plates collide, one plate usually subducts beneath the other, creating a subduction zone. The subducted plate is forced down into the mantle, creating a deep trench , while the overriding plate forms an island arc, a curved chain of volcanic islands. As the subducted plate sinks deeper into the mantle, it heats up and begins to melt. This process can also lead to volcanic activity. This volcanic activity can contribute to the growth of the island arc. Over time, the volcanic activity can also lead to the formation of a new oceanic crust, as magma solidifies and builds up on the seafloor. One example of an oceanic-oceanic plate collision is the collision between the Pacific Plate and the Philippine Sea Plate, which has created the Marianas Trench and the Mariana Islands, a volcanic island arc in the western Pacific Ocean.   Continental-continental plate collision: When two continental plates collide, neither plate is subducted because both plates are too buoyant to sink. Instead, the collision can lead to the formation of massive mountain ranges and intense deformation of the continental crust. As the two continental plates collide, they crumple and fold, leading to the formation of complex mountain belts. The collision can also cause extensive faulting and fracturing of the crust that leads to the formation of deep basins and rift valleys. One example of a continental-continental plate collision is the collision between the Indian Plate and the Eurasian Plate, which has led to the formation of the Himalayan mountain range, the tallest mountain range in the world. The collision between these two plates is ongoing, and the Himalayas continue to grow taller each year.    "
 },
 {
   "id": "fig-trenchridge",
@@ -4843,9 +4888,9 @@ var ptx_lunr_docs = [
   "body": " Plate collision   "
 },
 {
-  "id": "p-907",
+  "id": "p-912",
   "level": "2",
-  "url": "subsec-platetect.html#p-907",
+  "url": "subsec-platetect.html#p-912",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4870,9 +4915,9 @@ var ptx_lunr_docs = [
   "body": " Human Evolutionary Tree   "
 },
 {
-  "id": "p-912",
+  "id": "p-917",
   "level": "2",
-  "url": "subsec-humhist.html#p-912",
+  "url": "subsec-humhist.html#p-917",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5275,36 +5320,36 @@ var ptx_lunr_docs = [
   "body": " Debri Belts  Asteroids are small, rocky objects that orbit the sun. There are millions of asteroids in our solar system, ranging in size from tiny pebbles to massive rocks several hundred kilometers across. Most asteroids are found in the asteroid belt , [ ] a region of space between Mars and Jupiter. Asteroids are thought to be remnants from the early solar system, left over from the formation of the planets. Studying asteroids can give us insights into the formation and evolution of the solar system, as well as provide clues about the potential hazards that these objects pose to our planet. Meteoroids can come from various sources, including the asteroid belt. Small rocky objects in asteroids belt sometimes collide with each other and create meteoroids. However, meteoroids can also come from other sources, such as comets or other objects in space. Once a meteoroid enters the Earth's atmosphere, it is called a meteor or shooting star.  A meteor shower occurs when the Earth passes through a trail of debris left behind by a comet or asteroid. As the Earth moves through this debris field, the small particles, called meteoroids, enter the Earth's atmosphere at high speeds and burn up, creating streaks of light in the sky that we call meteors or shooting stars . Meteor showers can occur at various times throughout the year, and they are often named after the constellation that appears to be the source of the meteors (the radiant). Some of the most well-known meteor showers include the Perseids (in August), the Leonids (in November), and the Geminids (in December).  The Kuiper Belt [ ] is a region of the solar system located beyond the orbit of Neptune, extending from about 30 to 50 astronomical units (AU) from the Sun. It is a vast region of space containing many small icy objects, including dwarf planets such as Pluto, Haumea, Makemake, and Eris, as well as numerous smaller bodies known as Kuiper Belt Objects (KBOs). The Kuiper Belt is thought to be the source of many short-period comets, which are believed to be icy bodies that originate from this region and are gravitationally perturbed by the gas giants, particularly Jupiter.  The Oort Cloud [ ] is a theoretical region of the outer solar system that is thought to be the source of most long-period comets. It is believed to extend from about 2,000 to 100,000 astronomical units (AU) from the Sun, which is well beyond the Kuiper Belt. The Oort Cloud is composed of icy objects, including comets, that are thought to have formed in the early solar system and were gravitationally scattered to the outer reaches of the solar system by the gas giants. The comets in the Oort Cloud can be perturbed by passing stars, which can send them on trajectories that bring them into the inner solar system, where they become visible as long-period comets. The Oort Cloud is named after Dutch astronomer Jan Oort, who first proposed its existence in 1950 based on observations of comets.      Hale-Bopp comet     Comet's orbit       Comets are celestial bodies that orbit the sun and are primarily composed of ice, dust, and rock [ ]. They are often referred to as \"dirty snowballs\" because of their composition. When a comet approaches the sun, its ice begins to vaporize, releasing gas and dust that form a glowing coma, a temporary atmosphere around the nucleus. The solar wind and radiation pressure from the sun cause the coma to form a tail that points away from the sun. Comets can have highly elliptical orbits [ ] that take them far from the sun and then back towards it, sometimes taking thousands of years to complete a single orbit. Many comets are believed to originate in the Kuiper Belt, a region beyond Neptune that contains icy bodies and small planets. Some comets have been known to collide with planets or moons, and these collisions can have significant impacts on the celestial body's surface. Comets have fascinated people for centuries and have been the subject of many myths and legends. They have also been studied extensively by astronomers, who use them as a tool to study the formation and evolution of the solar system.  "
 },
 {
-  "id": "p-986",
+  "id": "p-991",
   "level": "2",
-  "url": "subsec-debribelts.html#p-986",
+  "url": "subsec-debribelts.html#p-991",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "asteroid belt Meteoroids "
 },
 {
-  "id": "p-987",
+  "id": "p-992",
   "level": "2",
-  "url": "subsec-debribelts.html#p-987",
+  "url": "subsec-debribelts.html#p-992",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "meteor shower meteors or shooting stars "
 },
 {
-  "id": "p-988",
+  "id": "p-993",
   "level": "2",
-  "url": "subsec-debribelts.html#p-988",
+  "url": "subsec-debribelts.html#p-993",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Kuiper Belt dwarf planets Pluto, "
 },
 {
-  "id": "p-989",
+  "id": "p-994",
   "level": "2",
-  "url": "subsec-debribelts.html#p-989",
+  "url": "subsec-debribelts.html#p-994",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5320,9 +5365,9 @@ var ptx_lunr_docs = [
   "body": "    Hale-Bopp comet     Comet's orbit     "
 },
 {
-  "id": "p-990",
+  "id": "p-995",
   "level": "2",
-  "url": "subsec-debribelts.html#p-990",
+  "url": "subsec-debribelts.html#p-995",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5347,18 +5392,18 @@ var ptx_lunr_docs = [
   "body": " Mars  Mars [ ] is the fourth planet from the Sun and the second-smallest planet in our solar system, after Mercury. It is often referred to as the Red Planet because of its reddish appearance, which is caused by iron oxide or rust on its surface. Mars has a diameter of approximately 6,779 kilometers, which is about half the size of Earth. It has a thin atmosphere composed mainly of carbon dioxide, with small amounts of nitrogen and argon. Mars also has the largest volcano and the deepest canyon in the solar system. There is evidence that liquid water once existed on Mars, and there are signs of dried-up riverbeds, lakes, and even an ancient ocean. The search for signs of life on Mars is a major focus of current and future missions. Several spacecraft, including rovers and orbiters, have been sent to Mars to study its surface, atmosphere, and geology. In 2020, NASA's Perseverance rover successfully landed on Mars and began exploring the Jezero Crater, which is believed to have once been a lakebed and could contain evidence of past microbial life. Mars is also a target for future human exploration, with plans for manned missions and even eventual colonization. However, the harsh conditions on Mars, including its thin atmosphere and extreme temperatures, make any such missions challenging and expensive.  The thin atmosphere of Mars does not provide significant protection from the sun's radiation and solar wind, which means that the planet's surface is bombarded by high-energy particles. However, the atmosphere does help to regulate the planet's temperature and weather patterns. The temperature on Mars can vary greatly, ranging from an average of about -63°C (-81°F) at the equator to as low as -143°C (-225°F) at the poles during the winter. During the summer, temperatures can reach a maximum of around 20°C (68°F) at the equator. The Martian atmosphere also contains clouds, dust storms, and seasonal weather patterns. Dust storms can sometimes cover the entire planet and can last for weeks or even months, affecting the solar-powered rovers and landers that are exploring the surface.  While the Mars missions have not yet found definitive evidence of life on Mars, they have provided valuable data and insights into the planet's geology, climate, and potential habitability. Future missions, including the joint NASA-ESA Mars Sample Return mission, are planned to bring back samples from Mars for further analysis, which may help answer the question of whether life exists or has ever existed on the planet.  Mars has two small moons, named Phobos and Deimos , which are thought to be captured asteroids. Phobos is the larger and closer of the two moons, and is heavily cratered with deep grooves and ridges on its surface. Its surface is thought to be composed of a mixture of rock and dust, and it orbits Mars at a distance of only 9,377 km (5,827 miles), which is closer than any other moon in the Solar System relative to its host planet. Deimos is smaller and more irregularly shaped than Phobos, and has a smoother surface with fewer craters. Its surface is also thought to be composed of a mixture of rock and dust, and it orbits Mars at a distance of about 23,460 km (14,577 miles). Both Phobos and Deimos are relatively small and irregularly shaped, and are thought to be composed of materials similar to those found in asteroids. They have been studied in detail by several spacecraft, including the Mars Reconnaissance Orbiter, which has provided us with high-resolution images and valuable scientific data about these small moons of Mars.  "
 },
 {
-  "id": "p-997",
+  "id": "p-1002",
   "level": "2",
-  "url": "subsec-mars.html#p-997",
+  "url": "subsec-mars.html#p-1002",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Red Planet "
 },
 {
-  "id": "p-1000",
+  "id": "p-1005",
   "level": "2",
-  "url": "subsec-mars.html#p-1000",
+  "url": "subsec-mars.html#p-1005",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5374,18 +5419,18 @@ var ptx_lunr_docs = [
   "body": " Jupiter  Jupiter [ ] is the largest planet in our solar system and the fifth planet from the Sun. It is located between the orbits of Mars and Saturn. It has a diameter of 86,881 miles (139,822 kilometers) and is a gas giant planet, meaning that it is primarily composed of hydrogen and helium gas, with no solid surface. Jupiter is known for its distinctive colorful bands of clouds, which are caused by strong winds in its atmosphere that blow in opposite directions at different latitudes. It also has a giant red spot , a massive storm that has been raging for over 300 years. Jupiter's strong gravitational pull has also led to the discovery of many small, rocky asteroids and comets that are captured in its orbit. Jupiter has been studied extensively by spacecraft, including NASA's Voyager 1 and 2 missions, as well as the Galileo spacecraft, which orbited the planet from 1995 to 2003. The Juno spacecraft, launched by NASA in 2011, is currently in orbit around Jupiter, studying its atmosphere, magnetic field, and interior structure.  Jupiter has more than 79 known moons, the largest of which is Ganymede, which is even larger than the planet Mercury. The most famous moon of Jupiter is probably Europa , which is known for its potential subsurface ocean and the possibility of harboring extraterrestrial life. Other notable moons of Jupiter include Io, Ganymede, and Callisto.  Jupiter has a system of rings, but they are not as prominent or well-known as the rings of Saturn. Jupiter's rings are composed of small particles of rock and dust, and there are four main ring groups: the halo ring, the main ring, the Amalthea gossamer ring, and the Thebe gossamer ring. These rings are thought to be formed by dust kicked up from impacts on nearby moons, and they are constantly being replenished by new dust from these sources. The rings of Jupiter are much fainter and harder to see than the rings of Saturn, and were discovered in 1979 by the Voyager 1 spacecraft.  "
 },
 {
-  "id": "p-1001",
+  "id": "p-1006",
   "level": "2",
-  "url": "subsec-jupiter.html#p-1001",
+  "url": "subsec-jupiter.html#p-1006",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "red spot "
 },
 {
-  "id": "p-1002",
+  "id": "p-1007",
   "level": "2",
-  "url": "subsec-jupiter.html#p-1002",
+  "url": "subsec-jupiter.html#p-1007",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5401,9 +5446,9 @@ var ptx_lunr_docs = [
   "body": " Saturn  Saturn [ ] is the sixth planet from the Sun and is known for its iconic rings, which are composed of countless icy particles ranging in size from tiny grains to enormous boulders. It is a gas giant planet, meaning it is predominantly made up of hydrogen and helium, with a small rocky core at its center. Saturn has the second-largest planetary atmosphere in the Solar System, after Jupiter, and is known for its numerous moons, with at least 82 moons known to orbit the planet. The largest moon of Saturn is Titan , which is the only known moon in the Solar System with a thick atmosphere and the potential to support life. Saturn is also known for its beautiful and dynamic weather patterns, including massive storms and hexagonal cloud formations at its north pole. The planet has been visited by several spacecraft, including the Voyager and Cassini missions, which have provided us with stunning images and valuable scientific data about this gas giant planet.  "
 },
 {
-  "id": "p-1004",
+  "id": "p-1009",
   "level": "2",
-  "url": "subsec-saturn.html#p-1004",
+  "url": "subsec-saturn.html#p-1009",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5419,9 +5464,9 @@ var ptx_lunr_docs = [
   "body": " Uranus  Uranus [ ] is the seventh planet from the Sun and is an ice giant planet, meaning it has a predominantly icy and gaseous composition. It has a unique feature among the planets in our solar system in that its axis of rotation is tilted at an extreme angle of 98 degrees relative to its orbit, which means that the planet appears to be rotating on its side. Uranus is the third-largest planet in our solar system and has a system of rings, although they are much less prominent than the rings of Saturn. Uranus also has at least 27 known moons, with the largest ones being Miranda , Ariel, Umbriel, Titania, and Oberon. The atmosphere of Uranus is predominantly composed of hydrogen and helium, with small amounts of methane, which gives the planet its blue-green color. Uranus is a relatively cold planet, with an average temperature of about -195 degrees Celsius (-320 degrees Fahrenheit) at its cloud tops. The planet has only been visited by one spacecraft, Voyager 2, which flew by in 1986 and provided us with our best data and images of Uranus to date.  "
 },
 {
-  "id": "p-1005",
+  "id": "p-1010",
   "level": "2",
-  "url": "subsec-uranus.html#p-1005",
+  "url": "subsec-uranus.html#p-1010",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5437,9 +5482,9 @@ var ptx_lunr_docs = [
   "body": " Neptune  Neptune [ ] is the eighth planet and farthest planet from the Sun, and is also an ice giant planet like Uranus. It is named after the Roman god of the sea due to its blue color, which comes from the presence of methane in its atmosphere. Neptune has a diameter almost four times that of Earth, making it the fourth-largest planet by diameter in our solar system. It has a very active atmosphere with high-speed winds and large storms, including the famous Great Dark Spot , which is a massive storm similar to Jupiter's Great Red Spot, but it has since disappeared. Neptune also has a system of rings and at least 14 known moons, with the largest being Triton . Triton is particularly interesting because it is one of the coldest objects in the solar system, with a surface temperature of about -235 degrees Celsius (-391 degrees Fahrenheit). It is also unique among large moons in that it orbits Neptune in a direction opposite to that of Neptune's rotation. Neptune has been visited by only one spacecraft, Voyager 2, which flew by the planet in 1989 and provided us with our best data and images of Neptune to date.  "
 },
 {
-  "id": "p-1006",
+  "id": "p-1011",
   "level": "2",
-  "url": "subsec-neptune.html#p-1006",
+  "url": "subsec-neptune.html#p-1011",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5452,7 +5497,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "12.2.1",
   "title": "The phases of the moon",
-  "body": " The phases of the moon   Moon Song    The phases of the moon [ ] refer to the appearance of the illuminated portion of the moon as seen from Earth as it orbits around our planet. The moon goes through a cycle of eight distinct phases:   New Moon: The moon is not visible from Earth because it is positioned between the sun and Earth.   Waxing Crescent: A small crescent of the moon is visible, with the illuminated portion increasing each night.   First Quarter: Half of the moon is visible, with the illuminated portion continuing to increase.   Waxing Gibbous: More than half, but not yet fully, of the moon is visible, with the illuminated portion still increasing.   Full Moon: The entire illuminated portion of the moon is visible from Earth.   Waning Gibbous: More than half, but not yet fully, of the moon is visible, with the illuminated portion decreasing each night.   Third Quarter: Half of the moon is visible, with the illuminated portion continuing to decrease.   Waning Crescent: A small crescent of the moon is visible, with the illuminated portion decreasing each night until the cycle begins again with the new moon.  The rotation period of the Moon is approximately 27.3 days to complete one rotation on its axis. This time is also known as sidereal month. A sidereal month is the time it takes for the Moon to complete one orbit around the Earth as measured against the fixed background of stars. This is slightly shorter than the time it takes for the Moon to return to the same phase (such as full moon to full moon) as observed from Earth, which is known as the synodic month . This is the same amount of time that the Moon takes to orbit around the Earth as seen from the moon. As a result, the same side of the Moon always faces the Earth, a phenomenon known as \"tidal locking.\" While the moon orbits a complete circle around the earth, the earth itself rotates around the sun. As a result, it seems to us that moon is taking about 29.53 days to orbit around the earth. This 29.53 days is called lunar month. A lunar month is the time it takes for the Moon to complete one cycle of phases, from New Moon to New Moon. It's worth noting that this period of 29.53 days is different from the Moon's orbital period around the Earth, which is approximately 27.3 days. The difference between these two periods is due to the fact that the Earth is also orbiting around the Sun, so the Moon has to travel slightly farther to complete a full cycle of phases as seen from Earth Moon phase animation .  "
+  "body": " The phases of the moon   Moon Song    The phases of the moon [ ] refer to the appearance of the illuminated portion of the moon as seen from Earth as it orbits around our planet. The moon goes through a cycle of eight distinct phases:   New Moon: The moon is not visible from Earth because it is positioned between the sun and Earth.   Waxing Crescent: A small crescent of the moon is visible, with the illuminated portion increasing each night.   First Quarter: Half of the moon is visible, with the illuminated portion continuing to increase.   Waxing Gibbous: More than half, but not yet fully, of the moon is visible, with the illuminated portion still increasing.   Full Moon: The entire illuminated portion of the moon is visible from Earth.   Waning Gibbous: More than half, but not yet fully, of the moon is visible, with the illuminated portion decreasing each night.   Third Quarter: Half of the moon is visible, with the illuminated portion continuing to decrease.   Waning Crescent: A small crescent of the moon is visible, with the illuminated portion decreasing each night until the cycle begins again with the new moon.  Moon spins on its axis in about 27.3 Earth's days. This time is also known as sidereal month. A sidereal month is the time it takes for the Moon to complete one orbit around the Earth as measured relative to the fixed distant stars. This is slightly shorter than the time (29.53 days) it takes for the Moon to return to the same phase (such as full moon to full moon) as observed from Earth. This time is known as the synodic month or Lunar month. This is the same amount of time that the Moon takes to orbit around the Earth as seen from the moon. As a result, the same side of the Moon always faces the Earth, a phenomenon known as tidal locking. While the moon orbits a complete circle around the earth, the earth itself rotates around the sun. The difference between these two periods is due to the fact that the Earth is also orbiting around the Sun, so the Moon has to travel slightly farther to complete a full cycle of phases as seen from Earth Moon phase animation .  "
 },
 {
   "id": "figure-148",
@@ -5464,9 +5509,9 @@ var ptx_lunr_docs = [
   "body": " Moon Song   "
 },
 {
-  "id": "p-1011",
+  "id": "p-1016",
   "level": "2",
-  "url": "subsec-moonphase.html#p-1011",
+  "url": "subsec-moonphase.html#p-1016",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5479,25 +5524,34 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "12.2.2",
   "title": "Eclipse",
-  "body": " Eclipse  An eclipse eclipse occurs when an astronomical object is temporarily obscured, either partially or completely, by another object [ The Lunar and Solar Eclipses ]. The two main types of eclipses are solar eclipses and lunar eclipses. A solar eclipse occurs when the Moon passes between the Sun and the Earth, blocking the Sun's light and creating a shadow on the Earth. There are three types of solar eclipses: total, partial, and annular. During a total solar eclipse , the Moon completely covers the Sun, leaving only its corona visible. During a partial solar eclipse, only a portion of the Sun is covered by the Moon. During an annular solar eclipse, the Moon is too far away from the Earth to completely cover the Sun, creating a \"ring of fire\" effect. A lunar eclipse occurs when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. There are two types of lunar eclipses: total and partial. During a total lunar eclipse, the Moon is completely covered by the Earth's shadow, creating a reddish hue. During a partial lunar eclipse, only a portion of the Moon is covered by the Earth's shadow. Eclipses are relatively rare events that require specific alignment of the Sun, Moon, and Earth. While there are several eclipses each year, they are typically only visible from specific regions of the Earth and require clear skies and proper viewing conditions to be seen.  During a New Moon , the Moon is located between the Earth and the Sun , and the side of the Moon that faces Earth is not illuminated by the Sun, making it invisible from Earth. When the Moon passes directly in front of the Sun during a New Moon, a solar eclipse can occur, temporarily blocking out the Sun's light and casting a shadow on the Earth. On the other hand, a full moon occurs when the Earth is located between the Sun and the Moon , with the illuminated side of the Moon facing Earth. It's worth noting that a lunar eclipse can only occur during a Full Moon phase, when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. During a lunar eclipse, the Moon may appear reddish in color due to the Earth's atmosphere refracting sunlight onto the Moon's surface.  "
+  "body": " Eclipse  An eclipse eclipse occurs when an astronomical object is temporarily obscured, either partially or completely, by another object [ The Lunar and Solar Eclipses ]. The two main types of eclipses are solar eclipses and lunar eclipses. A solar eclipse occurs when the Moon passes between the Sun and the Earth, blocking the Sun's light and creating a shadow on the Earth. There are three types of solar eclipses: total, partial, and annular. During a total solar eclipse , the Moon completely covers the Sun, leaving only its corona visible. During a partial solar eclipse, only a portion of the Sun is covered by the Moon. During an annular solar eclipse, the Moon is too far away from the Earth to completely cover the Sun, creating a ring of fire effect. A lunar eclipse occurs when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. There are two types of lunar eclipses: total and partial. During a total lunar eclipse, the Moon is completely covered by the Earth's shadow, creating a reddish hue. During a partial lunar eclipse, only a portion of the Moon is covered by the Earth's shadow. Eclipses are relatively rare events that require specific alignment of the Sun, Moon, and Earth. While there are several eclipses each year, they are typically only visible from specific regions of the Earth and require clear skies and proper viewing conditions to be seen.  During a New Moon , the Moon is located between the Earth and the Sun , and the side of the Moon that faces Earth is not illuminated by the Sun, making it invisible from Earth. When the Moon passes directly in front of the Sun during a New Moon, a solar eclipse can occur, temporarily blocking out the Sun's light and casting a shadow on the Earth. On the other hand, a full moon occurs when the Earth is located between the Sun and the Moon , with the illuminated side of the Moon facing Earth. It's worth noting that a lunar eclipse can only occur during a Full Moon phase, when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. During a lunar eclipse, the Moon may appear reddish in color due to the Earth's atmosphere refracting sunlight onto the Moon's surface. As the orbital planes of moon is tilted about to the Earth orbital plane, we do not have eclipses on every new moon or full moon day [ ].   Eclipse    "
 },
 {
-  "id": "p-1012",
+  "id": "p-1017",
   "level": "2",
-  "url": "subsec-eclipse.html#p-1012",
+  "url": "subsec-eclipse.html#p-1017",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "solar eclipse lunar eclipse "
 },
 {
-  "id": "p-1013",
+  "id": "p-1018",
   "level": "2",
-  "url": "subsec-eclipse.html#p-1013",
+  "url": "subsec-eclipse.html#p-1018",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "New Moon Earth and the Sun full moon Sun and the Moon "
+},
+{
+  "id": "lunarorbit",
+  "level": "2",
+  "url": "subsec-eclipse.html#lunarorbit",
+  "type": "Figure",
+  "number": "12.2.3",
+  "title": "",
+  "body": " Eclipse   "
 },
 {
   "id": "subsec-orgmoon",
@@ -5513,7 +5567,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "subsec-orgmoon.html#fig-moonform",
   "type": "Figure",
-  "number": "12.2.3",
+  "number": "12.2.4",
   "title": "",
   "body": " Origin of the Moon   "
 },
@@ -5725,18 +5779,18 @@ var ptx_lunr_docs = [
   "body": " The Tools in Astronomy   The Telescope      Refracting Telescope     Reflecting Telescope     Radio Telescope      A telescope telescope is an instrument used in astronomy to observe and study celestial objects such as stars, planets, galaxies, and nebulae. It works by collecting and focusing light, allowing astronomers to see objects that are too faint or distant to be seen with the naked eye. The basic design of a telescope involves two main components: a lens or a mirror to collect and focus light, and an eyepiece or a camera to view or record the image. The lens or mirror is the most important part of the telescope, and its size and quality determine how much light the telescope can gather and how clear the image will be. There are several types of telescopes used in astronomy, including refracting telescopes [ , reflecting telescopes [ ], and compound telescopes that combine both. Beside these there are also other kinds of telescope based on what type of light (electromagnetic wave) it can use to gather information that is coming from stars. Such as Radio telescopes: Radio telescopes [ ] use radio waves to observe celestial objects. They have large dish-shaped antennas that collect radio waves and a receiver that converts the waves into electrical signals that can be analyzed. Radio telescopes are used to study radio emissions from galaxies, quasars, pulsars, and other objects. X-ray telescopes: X-ray telescopes use mirrors or grazing incidence optics to focus and reflect X-rays to create an image. They are typically mounted on satellites or high-altitude balloons to avoid absorption by the Earth's atmosphere. X-ray telescopes are used to study X-ray emissions from hot gas in galaxy clusters, supernova remnants, and other objects. Each type has its advantages and disadvantages, depending on the intended use and the preferences of the observer. Telescopes play a crucial role in advancing our understanding of the universe. They have allowed astronomers to observe and study objects and phenomena that were previously unknown, and have provided important data for testing and refining theories about the nature and behavior of the cosmos. Today, telescopes continue to be a vital tool for astronomers, from ground-based observatories to space-based telescopes like the Hubble Space Telescope.    The Spectrometer  A spectrometer is an instrument used in astronomy to measure the spectrum of light [ ] emitted by celestial objects. It breaks down the light into its constituent colors, or wavelengths, allowing astronomers to study the chemical composition, temperature, and other physical properties of the object. The spectrometer works by passing light through a prism or a diffraction grating, which separates the light into its different wavelengths. The resulting spectrum can be analyzed to determine the composition of the object emitting the light. Spectrometers can also be used to study the motion of celestial objects, as the Doppler shift of the spectral lines can provide information about the object's velocity. There are several types of spectrometers used in astronomy, including optical, infrared, ultraviolet, and X-ray spectrometers. Each type is optimized to detect light within a specific range of wavelengths, allowing astronomers to study different types of celestial objects and phenomena. Spectrometers have played a critical role in advancing our understanding of the universe. They have helped astronomers discover new elements and compounds in stars, galaxies, and other celestial objects, and have provided evidence for the Big Bang theory and other fundamental concepts in astrophysics.    Spectrum Analysis  Blackbody blackbody radiation is the electromagnetic radiation emitted by an object that absorbs all radiation incident upon it, and then emits radiation in thermal equilibrium. The spectrum of blackbody radiation depends only on the temperature of the object [ ], and not on its composition or other properties. The spectrum of blackbody radiation can be described by Planck's law, which relates the energy density of radiation at a given wavelength to the temperature of the emitting object. The resulting spectrum is a continuous distribution of radiation with a peak wavelength that depends on the temperature of the object. As the temperature increases, the peak wavelength of the spectrum shifts to shorter wavelengths, and the total amount of radiation emitted increases. Spectrum analysis is the process of breaking down the light emitted by an object into its constituent colors or wavelengths, using a spectrometer or other instrument. By analyzing the spectrum of an object, astronomers can determine its composition, temperature, and other physical properties. When a star emits light, it produces a continuous spectrum of blackbody radiation that is modified by absorption lines caused by the presence of specific chemical elements in the star's atmosphere. By analyzing the absorption lines in a star's spectrum, astronomers can determine the chemical composition and other properties of the star. Spectrum analysis is also used to study other celestial objects, such as galaxies, supernovae, and quasars. By analyzing the spectrum of these objects, astronomers can determine their composition, motion, and other physical properties, and gain insights into the nature and behavior of the universe.   "
 },
 {
-  "id": "figure-151",
+  "id": "figure-152",
   "level": "2",
-  "url": "subsec-astrotools.html#figure-151",
+  "url": "subsec-astrotools.html#figure-152",
   "type": "Figure",
   "number": "13.1.1",
   "title": "",
   "body": "    Refracting Telescope     Reflecting Telescope     Radio Telescope     "
 },
 {
-  "id": "p-1050",
+  "id": "p-1055",
   "level": "2",
-  "url": "subsec-astrotools.html#p-1050",
+  "url": "subsec-astrotools.html#p-1055",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5752,18 +5806,18 @@ var ptx_lunr_docs = [
   "body": " The Sun   The Sun    Sunspot     Nuclear Fusion     Solar Spectrum      The Sun is a star that is located at the center of our solar system solar system . It is a massive, glowing ball of gas that is about 4.6 billion years old and has a diameter of about 1.39 million kilometers. The Sun is composed of mostly hydrogen (about 74% of its mass) and helium (about 24% of its mass) with trace amounts of other elements. The Sun is classified as a G-type main-sequence star, which means that it is a relatively stable and long-lived star that is in the process of fusing hydrogen [ ] into helium in its core. This fusion process releases a tremendous amount of energy in the form of light and heat, which is what makes the Sun shine. The Sun's magnetic field is responsible for phenomena such as sunspots , [ ] solar flares, and coronal mass ejections, which can have a significant impact on Earth's climate and technology. The dark patch on the sun's surface is known as sunspot. It is relatively cooler part of sun's surface due to magnetic field lines. The Sun's activity (the number of spots on the sun increases and decreases) follows an 11-year cycle, called the solar maximums and minimums.   Sun's parts    The Sun is a complex and dynamic object that is composed of several distinct parts. Some of them are: Core: The core is the central region of the Sun where nuclear fusion occurs. The temperature in the core is about 15 million degrees Celsius, and the pressure is about 250 billion times greater than the surface of the Earth. In the core, hydrogen atoms are fused together to form helium, releasing a tremendous amount of energy in the process. Radiative Zone: The radiative zone is the region of the Sun where energy is transported by photons (particles of light). The energy produced in the core travels outwards through the radiative zone over a period of about 100,000 years. Convective Zone: The convective zone is the outermost layer of the Sun's interior. In this region, energy is transported by the movement of hot gas cells called convection cells. The convective zone is characterized by a boiling motion that is similar to water boiling in a pot. Photosphere: The photosphere is the visible surface of the Sun. This is where most of the light and heat that we receive on Earth originate. The temperature of the photosphere is about 5,500 degrees Celsius, and it appears as a bright, yellow disk in the sky. Chromosphere: The chromosphere is the thin layer of gas above the photosphere. It is visible during a total solar eclipse as a reddish-pink ring around the Sun. The temperature of the chromosphere is about 4,000 to 20,000 degrees Celsius. Corona: The corona is the outermost layer of the Sun's atmosphere. It extends millions of kilometers into space and is visible during a total solar eclipse as a faint, white halo around the Sun. The temperature of the corona is several million degrees Celsius, much hotter than the surface of the Sun.  The Sun is composed primarily of hydrogen and helium, which together make up over 99% of its mass. Other elements present in smaller amounts include oxygen, carbon, neon, iron, and nitrogen, among others. Calcium is a relatively abundant element in the universe and is the fifth most abundant element in the Sun by mass, after hydrogen, helium, oxygen, and carbon. Calcium in the Sun's atmosphere can be detected through its characteristic absorption lines in the Sun's spectrum [ ], which are produced by the absorption of specific wavelengths of light by the calcium atoms in the Sun's outer layers. These elements are created through nuclear fusion processes that occur in the Sun's core. As the Sun fuses hydrogen into helium, the byproducts of this process can go on to create heavier elements, which eventually settle into the Sun's interior.  "
 },
 {
-  "id": "figure-155",
+  "id": "figure-156",
   "level": "2",
-  "url": "subsec-sun.html#figure-155",
+  "url": "subsec-sun.html#figure-156",
   "type": "Figure",
   "number": "13.1.2",
   "title": "",
   "body": " The Sun    Sunspot     Nuclear Fusion     Solar Spectrum     "
 },
 {
-  "id": "p-1053",
+  "id": "p-1058",
   "level": "2",
-  "url": "subsec-sun.html#p-1053",
+  "url": "subsec-sun.html#p-1058",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5779,9 +5833,9 @@ var ptx_lunr_docs = [
   "body": " Sun's parts   "
 },
 {
-  "id": "p-1054",
+  "id": "p-1059",
   "level": "2",
-  "url": "subsec-sun.html#p-1054",
+  "url": "subsec-sun.html#p-1059",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5815,9 +5869,9 @@ var ptx_lunr_docs = [
   "body": " Aurora   "
 },
 {
-  "id": "p-1057",
+  "id": "p-1062",
   "level": "2",
-  "url": "subsec-aurora.html#p-1057",
+  "url": "subsec-aurora.html#p-1062",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5833,18 +5887,18 @@ var ptx_lunr_docs = [
   "body": " Stellar Distances  There are several methods for measuring the distance to stars, some of the most common are: Parallax Method: This is one of the most common methods used to determine the distance to nearby stars. It involves measuring the apparent shift in the position of a star when viewed from different positions in space. The distance to the star can be calculated using trigonometry with the angle between the two positions. Spectroscopic Method: This method is used to measure the distance to stars by analyzing their spectra. The spectra of stars can be used to determine their temperature, luminosity, and composition, which can be used to estimate their distance. Main Sequence Fitting: [ ] This method involves comparing the brightness and temperature of a star with those of other stars whose distances have been accurately measured using other methods. By comparing the star's characteristics to those of other stars with known distances, its distance can be estimated. Cepheid Variables: Cepheid variables are pulsating stars with a well-defined relationship between their pulsation period and their luminosity. By measuring the period of Cepheid variable star, its luminosity can be estimated, and its distance calculated. Supernova Brightness: [ ] Type Ia supernovae are known to have a very consistent brightness, making them useful as standard candles for distance measurement. By comparing the observed brightness of a Type Ia supernova to its known intrinsic brightness, its distance can be calculated.  Brightness and luminosity are important factors in determining the distance of stars. Brightness , also known as apparent magnitude, is a measure of how bright a star appears to an observer on Earth. It is affected by the distance of the star, as well as other factors such as its size and temperature. A star's brightness can be measured using a magnitude scale, with lower numbers indicating brighter stars and higher numbers indicating dimmer stars. Luminosity , on the other hand, is a measure of the total amount of energy that a star emits per unit time. It is related to the star's size, temperature, and distance. Luminosity can be measured in terms of the sun's luminosity, which is a standard unit of measurement.  "
 },
 {
-  "id": "p-1058",
+  "id": "p-1063",
   "level": "2",
-  "url": "subsec-stellardist.html#p-1058",
+  "url": "subsec-stellardist.html#p-1063",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Parallax Method: Spectroscopic Method: Main Sequence Fitting: Cepheid Variables: Supernova Brightness: "
 },
 {
-  "id": "p-1059",
+  "id": "p-1064",
   "level": "2",
-  "url": "subsec-stellardist.html#p-1059",
+  "url": "subsec-stellardist.html#p-1064",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5860,9 +5914,9 @@ var ptx_lunr_docs = [
   "body": " Supernovas  A supernova supernova is a powerful and catastrophic explosion that occurs when a star reaches the end of its life. Supernovae can release an enormous amount of energy, equivalent to the energy emitted by an entire galaxy. There are two main types of supernovae: Type Ia supernovae are thought to occur when a white dwarf star in a binary system accretes matter from its companion star, eventually reaching a critical mass and exploding. Type Ia supernovae are important for measuring cosmic distances because they have a relatively consistent and predictable brightness. Type II supernovae occur when a massive star runs out of fuel for nuclear fusion in its core and collapses under its own gravity. The core of the star becomes incredibly dense and hot, leading to a rapid release of energy that produces a powerful explosion. Type II supernovae can leave behind a neutron star or a black hole . Supernovae are important for a number of reasons. They are responsible for the production of heavy elements such as iron and gold, which are essential for life as we know it. Supernovae can also trigger the formation of new stars and planetary systems. Additionally, the energy and material released by supernovae can have a significant impact on their surrounding environment, including the formation of nebulae and the acceleration of cosmic rays.  "
 },
 {
-  "id": "p-1065",
+  "id": "p-1070",
   "level": "2",
-  "url": "subsec-supernova.html#p-1065",
+  "url": "subsec-supernova.html#p-1070",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5878,18 +5932,18 @@ var ptx_lunr_docs = [
   "body": " Neutron Stars      Neutron Star     Pulsars     Black Hole      A neutron star neutron star is a type of compact star that is incredibly dense, with a diameter of only about 10-20 kilometers and a mass of around 1.4 to 3 times that of the Sun. Neutron stars [ ] are formed when a massive star undergoes a supernova explosion, and the core of the star collapses under its own gravity, becoming so dense that protons and electrons combine to form neutrons. The extreme density of a neutron star means that it has a gravitational field that is over a billion times stronger than Earth's, and it spins very rapidly, often several times per second. This rapid rotation can produce intense magnetic fields, making neutron stars some of the strongest magnets in the universe. The strong magnetic fields can also produce beams of radiation that are visible as pulsing signals, leading to the term pulsar [ ] for a rotating neutron star that emits such signals. Neutron stars are incredibly hot, with surface temperatures estimated to be around 1 million degrees Celsius (1.8 million degrees Fahrenheit), and they emit radiation across the electromagnetic spectrum, from X-rays to radio waves. They are also believed to be a source of heavy elements in the universe, as they are thought to be involved in the production of many of the elements beyond iron.  The current understanding is that if a white dwarf star exceeds a mass of about 1.4 to 3 times the mass of the Sun, known as the Chandrasekhar limit, it will collapse and become either a neutron star.  "
 },
 {
-  "id": "figure-164",
+  "id": "figure-165",
   "level": "2",
-  "url": "subsec-neutronstar.html#figure-164",
+  "url": "subsec-neutronstar.html#figure-165",
   "type": "Figure",
   "number": "13.2.2",
   "title": "",
   "body": "    Neutron Star     Pulsars     Black Hole     "
 },
 {
-  "id": "p-1066",
+  "id": "p-1071",
   "level": "2",
-  "url": "subsec-neutronstar.html#p-1066",
+  "url": "subsec-neutronstar.html#p-1071",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5914,9 +5968,9 @@ var ptx_lunr_docs = [
   "body": " Black Holes  A black hole [ ] blackhole is a region of space where the gravitational pull is so strong that nothing, not even light, can escape. Black holes are formed from the remnants of massive stars that have undergone a supernova explosion and collapsed under their own gravity. If the collapsing object is larger than about 3 times the mass of the Sun, the gravitational forces become so strong that not even neutrons can resist the collapse, and a black hole is formed. Black holes are extremely dense objects that have such strong gravity that nothing, not even light, can escape their grasp. They have no surface or structure, but instead are characterized by their mass, spin, and electric charge. The mass of a black hole can range from a few times that of the Sun to billions of times that of the Sun. The region around a black hole where the gravitational pull is so strong that nothing can escape is called the event horizon. Once matter crosses the event horizon, it is trapped by the black hole and cannot escape. The point at the center of a black hole where the gravitational pull becomes infinite is called the singularity , and our current understanding of physics breaks down at this point. Black holes are invisible, as they do not emit any light or other forms of radiation. However, their presence can be inferred from the effects of their gravity on nearby matter. For example, if a black hole is in a binary star system, its gravity can cause the visible star to wobble, and the mass of the black hole can be estimated from the size of the wobble. As a black hole pulls matter into it, the matter gets accelerated and emits radiation that can be detected by telescopes. This radiation can come from the accretion disk around the black hole [ ], where matter gets heated up and emits X-rays and other high-energy radiation.   Accretion Disk    "
 },
 {
-  "id": "p-1069",
+  "id": "p-1074",
   "level": "2",
-  "url": "subsec-blackhole.html#p-1069",
+  "url": "subsec-blackhole.html#p-1074",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6175,18 +6229,18 @@ var ptx_lunr_docs = [
   "body": " Milky Way Galaxy  The Milky Way [ ] is a barred spiral galaxy , which is a type of galaxy characterized by a central bar-shaped structure and spiral arms that wrap around it. It is estimated to be about 13.6 billion years old and is located about 25,000 light-years from the galactic center. The Milky Way contains hundreds of billions of stars, as well as numerous other celestial objects, such as planets, nebulae, and black holes . The Milky Way's spiral arms are thought to be sites of ongoing star formation, and it is believed that many of the elements that make up our solar system and our bodies were created in these stars. The Milky Way also contains a supermassive black hole at its center, which is surrounded by a region of intense radiation known as the galactic bulge. Our solar system is located in one of the Milky Way's spiral arms, and as a result, our view of the galaxy is heavily obscured by dust and gas. Nevertheless, scientists have been able to map out the structure of the Milky Way using a variety of techniques, such as observations of star motions and radio emissions from gas clouds.  The Milky Way is a relatively large galaxy, with a diameter of about 100,000 light-years and a mass of approximately 1 trillion times that of our sun. The galaxy's spiral arms are thought to be caused by density waves, which compress the interstellar gas and dust, triggering the formation of new stars. The Milky Way is home to many interesting and important celestial objects, including the galactic center, which is a region of intense radiation and contains a supermassive black hole with a mass of about 4 million times that of our sun. The Milky Way's disk is also surrounded by a halo of dark matter, which is an invisible form of matter (Dark Matter) that can only be detected through its gravitational effects on visible matter. The Milky Way is part of a larger group of galaxies known as the Local Group , which also includes the Andromeda galaxy and several other smaller galaxies. The Milky Way is also home to numerous open and globular clusters , which are groups of stars that are held together by their mutual gravitational attraction.  "
 },
 {
-  "id": "p-1114",
+  "id": "p-1119",
   "level": "2",
-  "url": "subsec-milkyway.html#p-1114",
+  "url": "subsec-milkyway.html#p-1119",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "black hole "
 },
 {
-  "id": "p-1115",
+  "id": "p-1120",
   "level": "2",
-  "url": "subsec-milkyway.html#p-1115",
+  "url": "subsec-milkyway.html#p-1120",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6220,9 +6274,9 @@ var ptx_lunr_docs = [
   "body": " Magelenic Cloud  The Magellanic Clouds magellanic cloud are two small satellite galaxies that orbit the Milky Way galaxy. The Magellanic Clouds are located in the southern hemisphere, and they are visible to the naked eye from the southern latitudes. The Large Magellanic Cloud (LMC) is the larger of the two clouds, and it is located about 163,000 light-years away from Earth. It has a diameter of about 14,000 light-years and contains tens of billions of stars, as well as star-forming regions , supernova remnants, and other astronomical objects. The Magellanic Clouds are important objects for astronomers to study because they provide insight into the evolution of satellite galaxies and their interactions with larger host galaxies like the Milky Way. They are also used as calibration objects for measuring the distances to more distant galaxies, which helps astronomers to understand the large-scale structure of the universe.  "
 },
 {
-  "id": "p-1120",
+  "id": "p-1125",
   "level": "2",
-  "url": "subsec-magelenic.html#p-1120",
+  "url": "subsec-magelenic.html#p-1125",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6247,9 +6301,9 @@ var ptx_lunr_docs = [
   "body": "    Crab Nebula     Eye Nebula     Horsehead Nebula     "
 },
 {
-  "id": "p-1121",
+  "id": "p-1126",
   "level": "2",
-  "url": "subsec-nebula.html#p-1121",
+  "url": "subsec-nebula.html#p-1126",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6265,9 +6319,9 @@ var ptx_lunr_docs = [
   "body": " Dark Matter and Dark Energy  Dark matter and dark energy are two of the most mysterious and intriguing components of the universe. Dark matter  dark matter is a type of matter that is thought to make up about 27% of the total matter content of the universe. It is called \"dark\" because it does not emit, absorb, or reflect light, making it invisible to telescopes and other instruments that detect electromagnetic radiation. The presence of dark matter is inferred from its gravitational effects on visible matter, such as stars and galaxies. Dark matter is believed to play a key role in the formation and evolution of galaxies, as well as the large-scale structure of the universe. Dark energy  dark energy is a hypothetical form of energy that is thought to make up about 68% of the total energy content of the universe. It is called \"dark\" because, like dark matter, it is invisible to telescopes and other instruments that detect electromagnetic radiation. The existence of dark energy is inferred from observations of the accelerating expansion of the universe. Dark energy is believed to be responsible for this acceleration, although the exact nature of dark energy is not yet well understood. Together, dark matter and dark energy are thought to make up about 95% of the total matter and energy content of the universe, with the remaining 5% consisting of visible matter, such as stars, galaxies, and interstellar gas and dust. The study of dark matter and dark energy is a major area of research in cosmology, and scientists are working to understand their properties and how they influence the evolution and fate of the universe.  "
 },
 {
-  "id": "p-1122",
+  "id": "p-1127",
   "level": "2",
-  "url": "subsec-darkmatt.html#p-1122",
+  "url": "subsec-darkmatt.html#p-1127",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6283,9 +6337,9 @@ var ptx_lunr_docs = [
   "body": " Quasars   Quasars [ ] are some of the brightest and most energetic objects in the universe. They are thought to be powered by supermassive black holes that are actively accreting matter. As the matter falls towards the black hole, it heats up and emits intense radiation that can outshine entire galaxies. Subsequent observations revealed that quasars were located at extreme distances, billions of light-years away. Quasars are associated with massive galaxies in the early universe. As gas falls towards the central black hole, it also triggers the formation of stars and the growth of the galaxy. Quasars are thus thought to be crucial in understanding the formation and evolution of galaxies.  "
 },
 {
-  "id": "p-1123",
+  "id": "p-1128",
   "level": "2",
-  "url": "subsec-Quasars.html#p-1123",
+  "url": "subsec-Quasars.html#p-1128",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6301,9 +6355,9 @@ var ptx_lunr_docs = [
   "body": " Expansion of the Universe   Hubble's law  Hubble's law describes the relationship between the distance to a galaxy and its observed redshift. The law states that the farther away a galaxy is from us, the faster it is moving away from us. This relationship is described by the equation where is the velocity of the galaxy, is its distance from us, and is the Hubble's constant,  ( )  Hubble's constant  which is a measure of the rate at which the Universe is expanding. The Hubble constant has been determined through observations of distant galaxies and is currently estimated to be around 73 kilometers per second per megaparsec . This means that for every megaparsec (about 3.26 million light-years) of distance, a galaxy appears to be moving away from us at a rate of 73 kilometers per second. The discovery of Hubble's law revolutionized our understanding of the Universe and led to the development of the Big Bang theory. Hubble's law provides strong evidence that the Universe is expanding, and that it began with a single, explosive event around 13.8 billion years ago.   Expansion of Universe    The balloon analogy is often used to explain the expansion of the universe. In this analogy, the universe is represented by the surface of a balloon, and as the balloon is inflated, all points on the surface move away from each other. In this analogy, the size of the balloon represents the size of the universe, and the dots on the surface represent galaxies. As the balloon expands, the distance between any two dots (galaxies) increases. This is similar to how the distance between any two galaxies in the universe is increasing due to the expansion of the universe.  "
 },
 {
-  "id": "p-1124",
+  "id": "p-1129",
   "level": "2",
-  "url": "subsec-expansion.html#p-1124",
+  "url": "subsec-expansion.html#p-1129",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
