@@ -46,9 +46,9 @@ var ptx_lunr_docs = [
   "body": " Rounding off the Numbers  When rounding rounding off , we examine the digit following to the right of the digit that is to be the last digit in the rounded off number. The digit we are examining is the first digit to be dropped. If digit to be dropped off is less than 5, then drop it off with all the other digits to the right of it. If the digit to be dropped off is greater than 5, then increase the number by 1 to the preceeding digit to be rounded. If the digit to be dropped is 5, then round the preceeding digit so that it will become even number. Zero is considered to be even when rounding off. This is the process of minimizing systematic error.    Round 742,396 to four, three, and two significant digits:   To round to four sig. fig. start with the first significant digit, which is the 7. Then count to the right from there. The first four significant digits of 742,396 are the 7, the 4, the 2, and the 3. Just to the right of the 3 is a 9. Because this value is ”greater than 5”, round the 3 up to 4. Replace the remaining digits (the 9 and the 6) with zeroes. Then: 742,400 (four significant digits).  To round 742,396 to three places, start again with the 7 and include the next two digits, being the 4 and the 2. Since the next digit is a 3, which is ”less than 5”, leave the 2 alone and don't round up. Replace the three digits after the comma with zeroes. Then: 742,000 (three significant digits)  To round 742,396 to two places, use only the first two digits, which are followed by a 2, so don't round up. Instead, just replace the final four digits with zeroes, to get: 740,000 (two significant digits).     Round 0.07284 to four, three, and two significant digits:   To round 0.07284 to four significant digits, start with the first significant digit, which is the 7. (The zero between the decimal point and the 7 is not significant, as it serves only to ”place” the 7 into the hundreds place.) There are only three more digits, so all of them will be included in answer. Since no digit follows the 4, there is no information about rounding, so just leave the 4 as it is. Hence, 0.07284 is four sig-digs.  When rounding 0.07284 to three sig-digs, the final sig-dig is the 8, which is followed by the 4. Since 4 is less than 5, so simply drop it. Because these sig-digs are after the decimal point, not replace the 4 with a zero. Hence, 0.0728 is three sig-digs.  To round 0.07284 to two sig-digs, use the 7 and the 2. Since the 2 is followed by an 8, round the 2 up to 3; drop everything that follows. Hence, 0.073 is two sig-digs.     Round 425.35 to four and two significant digits:   For four sig.fig. this number is 425.4, because the value to be rounded off (3) is ”odd” and followed by a ”5”, then round the 3 up to 4 and remove the remaining digits.  For two sig.fig. it would be 420, because the value to be rounded off (2) is ”even” and followed by a ”5”, then leave 2 as it is and replace the other with zeroes.      "
 },
 {
-  "id": "subsubsec_mosf_subsection",
+  "id": "subsec_mosf_subsection",
   "level": "1",
-  "url": "subsubsec_mosf_subsection.html",
+  "url": "subsec_mosf_subsection.html",
   "type": "Subsection",
   "number": "1.1.2",
   "title": "Mathematical Operations with Significant Figures",
@@ -379,36 +379,18 @@ var ptx_lunr_docs = [
   "body": "How many high tides and low tides occur in a typical 24-hour period?  1 high tide, 1 low tide  2 high tides, 2 low tides  1 high tide, 2 low tides  2 high tides, 1 low tide    b.  "
 },
 {
-  "id": "subsec_2em-subsection",
+  "id": "subsec_em-second",
   "level": "1",
-  "url": "subsec_2em-subsection.html",
+  "url": "subsec_em-second.html",
   "type": "Subsection",
   "number": "2.1.1",
   "title": "Equations of Motion",
-  "body": " Equations of Motion  There are three equations of motion defined by the above terminologies which can help solve problems of motion. These eqations are obtained by manipulating average velocity and acceleration of the object.     Equations of motion in horizontal direction:   .  .  .    Equations of motion in vertical direction:   .  .  .     Here,  = acceleration due to gracvity, = height attains by the object, and = time taken by the object during its motion.  In vertical direction earth plays a vitol role in the acceleration of object motion. Earth pulls every thing downwards which causes acceleration due to gravity, negative. Accleration due to gravity is the acceleration of the object caused by the earth gravitational field. The value of . In vertical motion, we consider height as positive if going up (y-axis) and height as negative if coming down. But here, we are taking if the object is going vertically up, and for the object falling down. Such conventions allow us to assume h as always positive.  Note: The above equations only work for constant acceleration or acceleration due to gravity.  "
-},
-{
-  "id": "subsec_2ff-subsection",
-  "level": "1",
-  "url": "subsec_2ff-subsection.html",
-  "type": "Subsection",
-  "number": "2.1.2",
-  "title": "Free Fall",
-  "body": " Free Fall  Objects moving under the influence of only gravity is called a free fall, free fall . This means gravity causes a change in the velocity of any object by 9.80 every second. So, drop any object and let it fall toward the ground: After 1s, the speed of the object is 9.80 . After 2s, the speed of the object is 19.6 , etc. According to Galileo the velocity of a falling object is proportional to the length of time that the object has been falling. From the first equation of motion as is a constant. Hence, the object is falling with higher velocity if it is falling for a long time or from a higher position. Since is constant near the planet all objects fall at the same rate. (Assuming there is no air resistance).  "
-},
-{
-  "id": "subsec_2pm-subsection",
-  "level": "1",
-  "url": "subsec_2pm-subsection.html",
-  "type": "Subsection",
-  "number": "2.1.3",
-  "title": "Projectile Motion",
-  "body": " Projectile Motion  In normal day life, we encounter many examples where object moves along both horizontal and verticle direction together. Such type of motion is called projectile motion and the object moving in projectile motion is called a projectile. Hence, projectile is an object which has both horizontal as well as vertical motion. The path taken by the projectile is parabolic in nature [ ]. We are not dealing with mathematical operation related to projectile motion here but we try to understand the projectile motion by the following figure. Since gravity only acts on the verticle direction the horizontal velocity remains constant always in projectile motion.   Projectile motion     "
+  "body": " Equations of Motion   There are three equations of motion defined by the above terminologies which can help solve problems of motion. These eqations are obtained by manipulating average velocity and acceleration of the object.     Equations of motion in horizontal direction:   .  .  .    Equations of motion in vertical direction:   .  .  .     Here,  = acceleration due to gracvity, = height attains by the object, and = time taken by the object during its motion.  In vertical direction earth plays a vitol role in the acceleration of object motion. Earth pulls every thing downwards which causes acceleration due to gravity, negative. Accleration due to gravity is the acceleration of the object caused by the earth gravitational field. The value of . In vertical motion, we consider height as positive if going up (y-axis) and height as negative if coming down. But here, we are taking if the object is going vertically up, and for the object falling down. Such conventions allow us to assume h as always positive.  Note: The above equations only work for constant acceleration or acceleration due to gravity.    Free Fall  Objects moving under the influence of only gravity is called a free fall, free fall . This means gravity causes a change in the velocity of any object by 9.80 every second. So, drop any object and let it fall toward the ground: After 1s, the speed of the object is 9.80 . After 2s, the speed of the object is 19.6 , etc. According to Galileo the velocity of a falling object is proportional to the length of time that the object has been falling. From the first equation of motion as is a constant. Hence, the object is falling with higher velocity if it is falling for a long time or from a higher position. Since is constant near the planet all objects fall at the same rate. (Assuming there is no air resistance).    Projectile Motion   Projectile motion     In normal day life, we encounter many examples where object moves along both horizontal and verticle direction together. Such type of motion is called projectile motion and the object moving in projectile motion is called a projectile. Hence, projectile is an object which has both horizontal as well as vertical motion. The path taken by the projectile is parabolic in nature [ ]. We are not dealing with mathematical operation related to projectile motion here but we try to understand the projectile motion by the following figure. Since gravity only acts on the verticle direction the horizontal velocity remains constant always in projectile motion.   "
 },
 {
   "id": "fig-fig2c",
   "level": "2",
-  "url": "subsec_2pm-subsection.html#fig-fig2c",
+  "url": "subsec_em-second.html#fig-fig2c",
   "type": "Figure",
   "number": "2.1.3",
   "title": "",
@@ -421,7 +403,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "2.2.1",
   "title": "Contact Forces",
-  "body": " Contact Forces   Friction: Friction friction is a resistive force that opposes or tends to oppose relative motion between two objects. It is a force that exists between the surfaces of contact of the two objects. If two systems are in contact and stationary relative to each other, then the friction between them is called static friction . This force arises from mechanical interlocking at the microscopic level plus the electrostatic molecular forces that hold the surfaces themselves together. If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction . This force arises from forming and breaking of microscopic adhesive bonds between atoms on the surfaces plus some mechanical linkage between the small irregularities on the surfaces. Experimentally it is found that frictional force is proportional to normal force, i.e., . or, Where proportionality constant   ( )  coefficient of friction  is called the coefficient of friction. It defines the nature of roughness of the surfaces of contact. Friction decreases with increase in smoothness of the surfaces of contact, but if the surfaces are ultra smooth then friction increases because of inter molecular forces starts to act between the two surfaces as they come very close to each other, due to which it becomes harder to make them slide on each other. Friction is a complex force, and its behavior is still not completely understood. On molecular level friction has no existence.  In microscopic level most surfaces look very rough as shown in figure . Thus, when an object is pushed to move, it must glideover these humppy, bumppy, and ditch types interlock to skip the tips of the surface. A considerable force can be resisted by friction with no apparent motion. Part of the friction is due to adhesive forces between the surface molecules of the two objects, which explains the dependence of friction on the nature of the substances. For example, rubber-soled shoes slip less than those with leather soles. Adhesion varies with substances in contact. Once an object is moving, there are fewer points of contact so less force is required to keep the object moving. At small but nonzero speeds, friction is nearly independent of speed.  Surfaces of contact as seen from microscope      In real life frictional forces are almost always present. Remember the direction of frictional force is always opposite to the direction of motion or the applied force. Friction is bad as it dissipates energy but friction is also good as it allows us to roll, turn, walk, and stop. Friction between two solids does not depend on the surface area in contact. Friction can happen, even between surfaces that are not solid such as air drag. Air resistance (drag) during free fall reduces the weight of the object. Air drag (resistance) increases with the velocity of the object in free fall and when it becomes equal to the wight of the object, net force acting on the object is zero and hence the object starts falling with the constant velocity called Terminal Velocity. Skydiving is a good example of terminal velocity.   Normal: This is a force of reaction from the surface where the object is placed. It is always perpendicular to the surface of contact. Tension: is a pulling force. It is a force acting between two objects on opposite ends of the string and acting along the directions to taut string at the point of contact. This force stretches the string along fixed support. Spring force: A spring is a special medium that has ability to restore its shape, if deformed. The elastic property in a material has the ability to restore its shape, if an applied deforming force has been released. From Hook's law a material (spring) exerts a restoring force that is proportional to a deforming force in opposite direction in which it is stretched or compressed. In mathematical form, spring force, where   ( )  spring constant  is a spring's stiffness, also called an elastic constant and is stretch made on spring.  "
+  "body": " Contact Forces   Friction: Friction friction is a resistive force that opposes or tends to oppose relative motion between two objects. It is a force that exists between the surfaces of contact of the two objects. If two systems are in contact and stationary relative to each other, then the friction between them is called static friction . This force arises from mechanical interlocking at the microscopic level plus the electrostatic molecular forces that hold the surfaces themselves together. If two systems are in contact and moving relative to one another, then the friction between them is called kinetic friction . This force arises from forming and breaking of microscopic adhesive bonds between atoms on the surfaces plus some mechanical linkage between the small irregularities on the surfaces. Experimentally it is found that frictional force is proportional to normal force, i.e., . or, Where proportionality constant   ( )  coefficient of friction  is called the coefficient of friction. It defines the nature of roughness of the surfaces of contact. Friction decreases with increase in smoothness of the surfaces of contact, but if the surfaces are ultra smooth then friction increases because of inter molecular forces starts to act between the two surfaces as they come very close to each other, due to which it becomes harder to make them slide on each other. Friction is a complex force, and its behavior is still not completely understood. On molecular level friction has no existence.   Surfaces of contact as seen from microscope     In microscopic level most surfaces look very rough as shown in figure . Thus, when an object is pushed to move, it must glideover these humppy, bumppy, and ditch types interlock to skip the tips of the surface. A considerable force can be resisted by friction with no apparent motion. Part of the friction is due to adhesive forces between the surface molecules of the two objects, which explains the dependence of friction on the nature of the substances. For example, rubber-soled shoes slip less than those with leather soles. Adhesion varies with substances in contact. Once an object is moving, there are fewer points of contact so less force is required to keep the object moving. At small but nonzero speeds, friction is nearly independent of speed.  In real life frictional forces are almost always present. Remember the direction of frictional force is always opposite to the direction of motion or the applied force. Friction is bad as it dissipates energy but friction is also good as it allows us to roll, turn, walk, and stop. Friction between two solids does not depend on the surface area in contact. Friction can happen, even between surfaces that are not solid such as air drag. Air resistance (drag) during free fall reduces the weight of the object. Air drag (resistance) increases with the velocity of the object in free fall and when it becomes equal to the wight of the object, net force acting on the object is zero and hence the object starts falling with the constant velocity called Terminal Velocity. Skydiving is a good example of terminal velocity.   Normal: This is a force of reaction from the surface where the object is placed. It is always perpendicular to the surface of contact. Tension: is a pulling force. It is a force acting between two objects on opposite ends of the string and acting along the directions to taut string at the point of contact. This force stretches the string along fixed support. Spring force: A spring is a special medium that has ability to restore its shape, if deformed. The elastic property in a material has the ability to restore its shape, if an applied deforming force has been released. From Hook's law a material (spring) exerts a restoring force that is proportional to a deforming force in opposite direction in which it is stretched or compressed. In mathematical form, spring force, where   ( )  spring constant  is a spring's stiffness, also called an elastic constant and is stretch made on spring.  "
 },
 {
   "id": "p-100",
@@ -520,7 +502,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "2.2.5",
   "title": "Newton’s Law of Gravitation",
-  "body": " Newton's Law of Gravitation  Newton observed that when an object falls it was accelerated toward the earth. Since the cause of such acceleration is an unbalanced force, there must be a force pulling that object toward the earth. On this basis, he came up with an idea called Newton's Law of Universal Gravitation. It states that any two masses in the universe attract each other with a force that is directly proportional to the product of the masses and inversely proportional to the square of the distance between them [ ]. Mathematically, here, is an universal gravitational constant, and are the masses of two objects, and is the distance between the them.    Gravitational force between two Objects      "
+  "body": " Newton's Law of Gravitation    Gravitational forces between two Objects     Newton observed that when an object falls it was accelerated toward the earth. Since the cause of such acceleration is an unbalanced force, there must be a force pulling that object toward the earth. On this basis, he came up with an idea called Newton's Law of Universal Gravitation. It states that any two masses in the universe attract each other with a force that is directly proportional to the product of the masses and inversely proportional to the square of the distance between them [ ]. Mathematically, here, is an universal gravitational constant, and are the masses of two objects, and is the distance between the them.    Escape Velocity  Escape Velocity escape velocity is the minimum velocity required by an object at which if it can be thrown out of the planet then it never fall back on the planet again. If a stone of mass m is thrown out from the earth with an escape velocity then it never fall back on the earth again. The escape velocity depends on the mass and radius of the massive body and is given by the formula: Here,   ( )  universal gravitational constant  is universal gravitational constant, is the mass of the planet, and is the radius of that planet. The escape velocity of earth is 11.2 km\/s.   "
 },
 {
   "id": "fig-fig2f",
@@ -529,16 +511,7 @@ var ptx_lunr_docs = [
   "type": "Figure",
   "number": "2.2.4",
   "title": "",
-  "body": " Gravitational force between two Objects    "
-},
-{
-  "id": "subsec-escape",
-  "level": "1",
-  "url": "subsec-escape.html",
-  "type": "Subsection",
-  "number": "2.2.6",
-  "title": "Escape Velocity",
-  "body": " Escape Velocity  Escape Velocity escape velocity is the minimum velocity required by an object at which if it can be thrown out of the planet then it never fall back on the planet again. If a stone of mass m is thrown out from the earth with an escape velocity then it never fall back on the earth again. The escape velocity depends on the mass and radius of the massive body and is given by the formula: Here,   ( )  universal gravitational constant  is universal gravitational constant, is the mass of the planet, and is the radius of that planet. The escape velocity of earth is 11.2 km\/s.  "
+  "body": " Gravitational forces between two Objects    "
 },
 {
   "id": "sec_second-examples",
@@ -550,9 +523,9 @@ var ptx_lunr_docs = [
   "body": " Examples    Special Instruction: To tackle the physical problems the book uses GUESS strategy for a systematic gatheing of information and finding a realistic and logistic solution. Here is what GUESS stands for.  G: Given, identify the given informations.  U: Unknown, identify the unknown that we are looking for.  E: Equation\/s, set up the equation from given information.  S: Substitute, substitute the number\/s in the equation\/s.  S: Solve, solve the equation to obtain the answer.      Before we start solving any problem, make sure all the physical quantities are taken in base unit of the systems of unit we are using. For example: mile per hour, mph is not a base unit in FPS sytem. so we need to convert mph into      A car starts from rest and obtains a 20 speed in 5 second. Find its acceleration.    Given: initial velocity, , final velocity, , time, .  Unknown: acceleration, ?  Equation: we need to select the suitable equation from the list of equations of motion that contains initial velocity, final velocity, time, and acceleration of the object. Hence we are selecting equaion I here, that is .  Substitute and Solve: substitute the value of given informations in equaion I, that is    Hence the acceleration of the car is 4 SI unit of acceleration is .       A car starts from rest speeding up by 2 acceleration for 1 minutes. Find the distance covered by the car.    Given: , , .  Unknown: distance ?  Equation: .  Substitute & Solve:    3600 m       A car is running with initial velocity 10 acelerates to 2 to reach at 50 . Find the following:  How far did the car travell during this event.  How long did the car travell during this event.      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:              How far you can go in 5 minutes if you are running at 10 ?     First convert the velocity into to and also convert time from minute to second before using equation of motion.   Given:        Which of the following sets of displacements might be able to return a car to its starting point?  4, 6, 8, and 15 km  2, 8, 10, and 25 km.  10, 30, 50, and 120 km  5, 20, 35, and 65 km.      A car can return to its starting point, only when the sum of three displacements is greater than the value of the maximum displacement.    In case (a) sum of 4, 6, 8 =18 km which is greater than 15 km.  In case (b) sum of 2, 8, 10 =20 km which is smaller than 25 km and so on.    a.      A ship travels 25 km to the east and then 50 km to the south. Find the ship's displacement from its starting point.    Draw a diagram to see all the displacements of the ship and then use pythagorous theorem to solve the final displacement.    empty      A stone is thrown vertically up with velocity 20 . Find the following:  Maximum height attains be the stone.  Total time of flight,      Given: , , .    Unknown: ?  Equation: .  Substitute & Solve:          Unknown: ?  Equation: .  Substitute & Solve:          You may select equation and consider h=0, when stone comes back to the point from where it was thrown then and .     After discarding .       A stone dropped from a cliff reaches the ground in 4 s. Find the velocity at which it hits the ground.    Think about stone's initial velocity, use acceleration due to gravity to find final velocity.     A stone has been thrown upward with velocity 50 m\/s.  How long does it take to come back on thrower's hand (find the time of flight)?  What is its velocity then?  How high was it gone?       What is vertical motion?  Motion that occurs horizontally  Motion that occurs in a straight line  Motion that occurs in a vertical direction  Motion that occurs in a circular path      c.      What is free fall?  The motion of an object when it is moving at a constant speed  The motion of an object when it is not affected by gravity  The motion of an object when it is accelerating due to the force of gravity  The motion of an object when it is in a vacuum      c.      What is the formula for calculating the time of flight of a projectile?                  c.      What is the difference between speed and velocity?  Speed is a scalar quantity and velocity is a vector quantity  Speed is a vector quantity and velocity is a scalar quantity  Speed and velocity are the same thing  Speed is measured in meters per second and velocity is measured in miles per hour      a.      A toy car is moving at a constant speed of 5 meters per second in a straight line. How far will it travel in 10 seconds?    Using the formula , where d is the distance, v is the velocity, and t is the time, we can calculate the distance traveled by the toy car. Therefore, the toy car will travel 50 meters in 10 seconds at a constant speed of 5 meters per second in a straight line.      A car is traveling at a constant speed of 20 meters per second. It takes the car 5 seconds to travel a distance of 100 meters. What is the distance the car will travel in 10 seconds at the same speed?    We know that distance (d) is equal to speed (v) multiplied by time (t). Therefore, we can use the formula to solve this problem. First, we can calculate the distance traveled in 1 seconds, and then in 10 seconds. Therefore, the car will travel a distance of 200 meters in 10 seconds at the same speed.      A car travels on a straight road at a constant speed of 60 km\/h. How far will the car travel in 2 hours?    Since the car is traveling at a constant speed, we can use the formula: where d is the total distance traveled, v is the constant speed of the car, and t is the total time the car travels. Plugging in the given values, we get: Therefore, the car will travel a total distance of 120 kilometers in 2 hours at a constant speed of 60 km\/h.      A ball is thrown vertically upward with an initial velocity of 20 m\/s. What is the maximum height reached by the ball and how long does it take to reach this height? (Assume no air resistance and a gravitational acceleration of )    When an object is thrown vertically upward, it is subjected to a negative acceleration due to gravity, which causes it to slow down until it reaches its maximum height, after which it starts to fall back to the ground with a positive acceleration due to gravity.  To solve this problem, we can use the following kinematic equations for motion with constant acceleration: where and are the initial and final velocities, is the acceleration, is the displacement, and is the time. At the maximum height, the velocity of the ball is zero, so we can use the first equation to find the time it takes to reach this height: Now we can use the second equation to find the maximum height: Therefore, the maximum height reached by the ball is 20.4 meters, and it takes approximately 2.04 seconds to reach this height.      A car is traveling at and accelerates at a rate of for 8 seconds. What is the final velocity of the car?    We can use the formula for accelerated motion, which relates the initial velocity, final velocity, acceleration, and time: Therefore, the final velocity of the car after accelerating at a rate of for 8 seconds is .    "
 },
 {
-  "id": "p-120",
+  "id": "p-119",
   "level": "2",
-  "url": "sec_second-examples.html#p-120",
+  "url": "sec_second-examples.html#p-119",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1014,8 +987,8 @@ var ptx_lunr_docs = [
   "url": "subsec_3cm-subsection.html",
   "type": "Subsection",
   "number": "3.2.2",
-  "title": "Conservation of Momentum",
-  "body": " Conservation of Momentum  We have defined momentum in . Momentum, is also called a linear momentum as motion of the object is in straight line path. From Newton's II law we know that . If the force remains zero then, . This tells us that . Meaning, if total external force acting on a system is zero, then total linear momentum of the system, constant. This is known as principle of conservation of momentum. Hence, in the case of conservaiton of mementum, final momentum of the system is equal to the initial momentum of the system i.e.,  Newton's Cradle Click on the link to understand the conservation of linear momentum.  "
+  "title": "Principle of Conservation of Momentum",
+  "body": " Principle of Conservation of Momentum  We have defined momentum in . Momentum, is also called a linear momentum as motion of the object is in straight line path. From Newton's II law we know that . If the force remains zero then, . This tells us that . Meaning, if total external force acting on a system is zero, then total linear momentum of the system, constant. This is known as principle of conservation of momentum. Hence, in the case of conservaiton of mementum, final momentum of the system is equal to the initial momentum of the system i.e.,  Newton's Cradle Click on the link to understand the conservation of linear momentum.  "
 },
 {
   "id": "subsec_3col-subsection",
@@ -1027,9 +1000,9 @@ var ptx_lunr_docs = [
   "body": " Collision  Momentum conservation is very useful in collision collision problems because the collision force is internal and hence does not change the total momentum. The impulse of a collision is the total momentum transferred during the collision, where a collision is an event where a very large force is exerted over a body for a very short interval of time, . During that interval magnitude of force is continuously changing. Therefore, the impulse of a force is the product of the average force and the time interval during the contact.   Collision provides a way to better understand the motion. A collision is an interaction between two objects that may or may not have made physical contact. In a collision the colliding objects experience a pair of forces acting on them. The direction of the force on the first object is opposite to the direction of the force on the second object and these forces are equal in magnitude. These forces are Newton's III law pair. In an isolated system, total momentum is always conserved, hence such forces often increase the momentum of one object and decrease the momentum of the other. There are two kinds of collisions, elastic collision and inelastic collision. Elastic collision: objects are not deformed, e.g. bouncing balls, car's bumper, etc. Inelastic collision: objects become permanently deformed, e.g. auto accidents, throwing a mud on wall. Kinetic energy is only conserved in an elastic collission but not in an inelastic collision. However, momentum is conseved in both types of collisions. Total energy remains conserved in both types of collision.  "
 },
 {
-  "id": "p-236",
+  "id": "p-235",
   "level": "2",
-  "url": "subsec_3col-subsection.html#p-236",
+  "url": "subsec_3col-subsection.html#p-235",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1045,9 +1018,9 @@ var ptx_lunr_docs = [
   "body": " Angular Momentum  Angular momentum angular momentum is the momentum associated with a body in rotation about some axis. It is also a vector quantity. The direction of angular momentum is parallel to the axis of rotation. Spinning ball or rotating wheel has an angular momentum. Angular momentum is represented by, . Angular momentum is defined by Where is called moment of inertia and is called the rotational velocity of the object. Moment of inertia, tells us that how the mass of a body is distributed relative to the axis of rotation. Moment of Inertia, I: is an inability of a material to change its state of rotational motion. It is defined as here, is the object distance from the axis of rotation.  "
 },
 {
-  "id": "p-238",
+  "id": "p-237",
   "level": "2",
-  "url": "subsec_3am-subsection.html#p-238",
+  "url": "subsec_3am-subsection.html#p-237",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1068,8 +1041,8 @@ var ptx_lunr_docs = [
   "url": "subsec-cam.html",
   "type": "Subsection",
   "number": "3.2.6",
-  "title": "Conservation of Angular Momentum",
-  "body": " Conservation of Angular Momentum  Conservation of angular momentum tells that in rotaiton, initial angular momentum is always equal to final angular momentum of the body if no external torque is acting on it. That is If the moment of inertia of a rotaing body decreases then rotational velocity is going to increase. For example: 1. when ice skaters spin by pulling their arms inwards their rotational speed increase but their rotational speed decrease when they stretched their arms outwards. 2. A system of planets orbiting around a star has no net external torque acting, so its angular momentum is constant. Hence, when a planet travels along an elliptical orbit, its speed reduces when it is further away from the star and its speed increases as it approaches the star star-planet system . Look at the planetary motion of Nereid (Naptune's moon) in the law of orbits animation.  "
+  "title": "Principle of Conservation of Angular Momentum",
+  "body": " Principle of Conservation of Angular Momentum  Conservation of angular momentum tells that in rotaiton, initial angular momentum is always equal to final angular momentum of the body if no external torque is acting on it. That is If the moment of inertia of a rotaing body decreases then rotational velocity is going to increase. For example: 1. when ice skaters spin by pulling their arms inwards their rotational speed increase but their rotational speed decrease when they stretched their arms outwards. 2. A system of planets orbiting around a star has no net external torque acting, so its angular momentum is constant. Hence, when a planet travels along an elliptical orbit, its speed reduces when it is further away from the star and its speed increases as it approaches the star star-planet system . Look at the planetary motion of Nereid (Naptune's moon) in the law of orbits animation.  "
 },
 {
   "id": "sec_third-examples",
@@ -1366,21 +1339,12 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "4.1.1",
   "title": "Quantity of Heat",
-  "body": " Quantity of Heat  Heat heat is a transfer of energy because of temperature difference. When an object gains or loses heat it either changes its temperature or its phase (state). A change in temperature is associated with changes in the average kinetic energy of the particles and a change in phase is associated with changes in the internal potential energy possessed by the object. In this section we will learn how to measure the quantity of heat gained or released by an object.  "
-},
-{
-  "id": "subsec-sh",
-  "level": "1",
-  "url": "subsec-sh.html",
-  "type": "Subsection",
-  "number": "4.1.2",
-  "title": "Specific Heat",
-  "body": " Specific Heat  Heat absorbing capacity of a material is known as specific heat capacity (or simply, specific heat ). It is a material property. Different materials absorb different amounts of heat even for the same rise of temperature. For example, if you heat an identical iron ball and an aluminum ball in the same pot for the same time duration, then you would be surprised that the aluminum ball is colder than the iron ball. This is because the specific heat of iron is less than that of aluminum. In iron, more of the heat energy is spent to increase the kinetic energy of its molecules than to increase the intermolecular potential energy. Hence, the iron has a higher temperature. The quantity of total heat transferred to the body is given by the following formula: Where, stands for the amount of heat required to change the temperature, stands for the mass of the substance, stands for the specific heat capacity of the substance, and stands for the temperature change (i.e., ). Hence specific heat can be defined as the amount of heat required to change the temperature of 1 kg of the substance to . Its SI unit is . The greater the specific heat of the substance, the greater would be the amount of heat needed to raise the temperature per unit mass. The higher the specific heat of the substance, the higher the amount of heat it can hold. The table below shows the specific heat of some common materials.   Specific heats of some common substances    Substance  Specific heat ( )    Water  1    Sand  0.16    iron  0.1    aluminum  0.22    Wood  0.42    Ice  0.5       How much heat in calorie is needed to heat 50 kg of water from to .    Given: m = 50 kg =50000 g, , , , and Q=?        "
+  "body": " Quantity of Heat   Heat heat is a transfer of energy because of temperature difference. When an object gains or loses heat it either changes its temperature or its phase (state). A change in temperature is associated with changes in the average kinetic energy of the particles and a change in phase is associated with changes in the internal potential energy possessed by the object. In this section we will learn how to measure the quantity of heat gained or released by an object.    Specific Heat  Heat absorbing capacity of a material is known as specific heat capacity (or simply, specific heat ). It is a material property. Different materials absorb different amounts of heat even for the same rise of temperature. For example, if you heat an identical iron ball and an aluminum ball in the same pot for the same time duration, then you would be surprised that the aluminum ball is colder than the iron ball. This is because the specific heat of iron is less than that of aluminum. In iron, more of the heat energy is spent to increase the kinetic energy of its molecules than to increase the intermolecular potential energy. Hence, the iron has a higher temperature. The quantity of total heat transferred to the body is given by the following formula: Where, stands for the amount of heat required to change the temperature, stands for the mass of the substance, stands for the specific heat capacity of the substance, and stands for the temperature change (i.e., ). Hence specific heat can be defined as the amount of heat required to change the temperature of 1 kg of the substance to . Its SI unit is . The greater the specific heat of the substance, the greater would be the amount of heat needed to raise the temperature per unit mass. The higher the specific heat of the substance, the higher the amount of heat it can hold. The table below shows the specific heat of some common materials.   Specific heats of some common substances    Substance  Specific heat ( )    Water  1    Sand  0.16    iron  0.1    aluminum  0.22    Wood  0.42    Ice  0.5       How much heat in calorie is needed to heat 50 kg of water from to .    Given: m = 50 kg =50000 g, , , , and Q=?          Latent Heat  Heat absorbed or released by the material during phase change is called latent heat. There is no temperature change during a phase change hence this energy is hidden from temperature scale. The energy dissipated or released during the phase change is in adjustment of particles potential energy in the bonds. Hence the amount of heat during phase change is given by Here is the amount of heat required to change the state or phase of the substance at change of state temperature, is the mass of the substance, and is the latent heat of the substance. Latent heat is also a material property. The latent (hidden) heat of fusion for water at is approximately 79.7 calories (334 J) per gram, and the latent heat of vaporization at is about 533 calories (2,230 joules) per gram. Simulation for Boiling Water    "
 },
 {
   "id": "table-2",
   "level": "2",
-  "url": "subsec-sh.html#table-2",
+  "url": "subsec_qh-subsection.html#table-2",
   "type": "Table",
   "number": "4.1.3",
   "title": "Specific heats of some common substances",
@@ -1389,29 +1353,38 @@ var ptx_lunr_docs = [
 {
   "id": "example-51",
   "level": "2",
-  "url": "subsec-sh.html#example-51",
+  "url": "subsec_qh-subsection.html#example-51",
   "type": "Example",
   "number": "4.1.4",
   "title": "",
   "body": "  How much heat in calorie is needed to heat 50 kg of water from to .    Given: m = 50 kg =50000 g, , , , and Q=?       "
 },
 {
-  "id": "subsec-lh",
-  "level": "1",
-  "url": "subsec-lh.html",
-  "type": "Subsection",
-  "number": "4.1.3",
-  "title": "Latent Heat",
-  "body": " Latent Heat  Heat absorbed or released by the material during phase change is called latent heat. There is no temperature change during a phase change hence this energy is hidden from temperature scale. The energy dissipated or released during the phase change is in adjustment of particles potential energy in the bonds. Hence the amount of heat during phase change is given by Here is the amount of heat required to change the state or phase of the substance at change of state temperature, is the mass of the substance, and is the latent heat of the substance. Latent heat is also a material property. The latent (hidden) heat of fusion for water at is approximately 79.7 calories (334 J) per gram, and the latent heat of vaporization at is about 533 calories (2,230 joules) per gram. Simulation for Boiling Water   "
-},
-{
   "id": "subsec-ht-subsection",
   "level": "1",
   "url": "subsec-ht-subsection.html",
   "type": "Subsection",
-  "number": "4.1.4",
+  "number": "4.1.2",
   "title": "Heat Transfer",
-  "body": " Heat Transfer  It is a process of the transfer of heat heat transfer from one location to another due to temperature difference. Heat can only flow from high temperature to low temperature. There are three processes involved in heat transfer. They are conduction, convection, and radiation. Conduction:  conduction In this process heat is transferred through a body by physical contact. In microscopic level atoms and molecules are always in random motion at any temperature above absolute zero. When heated, these particles (atoms and molecules) gain thermal energy and begin vibrating at even higher amplitude knocking the neighboring particles. By doing so, they impart some of their energy to their neighboring particles, and so on. Eventually heat is carried away from one end of a substance to another. In conduction, heat carrying particles do not physically move from their place rather they transfer their energy to neighbors when they knock one another. Every time one particle knocks onto another it passes some of its energy to the next one then returns to its original place. Heat transfers from the burner of a stove through the bottom of a pan to food in the pan is transferred by conduction. Conduction occurs in all states of substances solid, liquid, and gas. In solids, conduction happens due to molecular vibration. In gases and liquids, it is due to collision and diffusion of the molecules during their random motion.  Conduction Process       Convection:  convection: In this process heat transfer occurs by the actual movement of fluid particles. Convection is heat transport due to bulk fluid motion. Convection happens in gases and liquids. When a fluid is heated, its molecules which are in contact with the hot surface get hot and expand. That is the fluid above a hot surface expands, becomes less dense, and rises. It carries the thermal energy along when rising. The relatively cold fluid on the upper surface is heavier and sinks down near the heat source. Hence a current of heat cycle develops in the convection process, called convection cycle.  Radiation:  radiation It is the process in which heat transfers without the need of an intervening medium. Heat transfer occurs when electromagnetic waves are emitted or absorbed. The warming of the earth surface by the Sun is due to radiation. Heat transfer by this process is the fastest one. All bodies above absolute zero emit thermal radiation. At room temperature the radiation is in the infrared range, wavelengths longer than those of the visible spectrum. In an atomic domain, the radiation is caused because of oscillating ions and electrons in a warm solid that are accelerating electric charges, such charges radiate. Different substances radiate with different efficiencies. A good radiator of radiation is a good absorber of radiation. A perfect absorber is called a black body (such perfection is not found in nature, but some things are close). Hence a black body is also a perfect radiator. A black body absorbs and emits radiation of all most all frequencies. It was found experimentally that heat energy radiated per unit time per unit surface area of a perfect black body is proportional to the fourth power of its absolute temperature.  "
+  "body": " Heat Transfer   Conduction Process     It is a process of the transfer of heat heat transfer from one location to another due to temperature difference. Heat can only flow from high temperature to low temperature. There are three processes involved in heat transfer. They are conduction, convection, and radiation. Conduction:  conduction In this process heat is transferred through a body by physical contact. In microscopic level atoms and molecules are always in random motion at any temperature above absolute zero. When heated, these particles (atoms and molecules) gain thermal energy and begin vibrating at even higher amplitude knocking the neighboring particles. By doing so, they impart some of their energy to their neighboring particles, and so on. Eventually heat is carried away from one end of a substance to another. In conduction, heat carrying particles do not physically move from their place rather they transfer their energy to neighbors when they knock one another. Every time one particle knocks onto another it passes some of its energy to the next one then returns to its original place. Heat transfers from the burner of a stove through the bottom of a pan to food in the pan is transferred by conduction. Conduction occurs in all states of substances solid, liquid, and gas. In solids, conduction happens due to molecular vibration. In gases and liquids, it is due to collision and diffusion of the molecules during their random motion.   Convection:  convection: In this process heat transfer occurs by the actual movement of fluid particles. Convection is heat transport due to bulk fluid motion. Convection happens in gases and liquids. When a fluid is heated, its molecules which are in contact with the hot surface get hot and expand. That is the fluid above a hot surface expands, becomes less dense, and rises. It carries the thermal energy along when rising. The relatively cold fluid on the upper surface is heavier and sinks down near the heat source. Hence a current of heat cycle develops in the convection process, called convection cycle.  Radiation:  radiation It is the process in which heat transfers without the need of an intervening medium. Heat transfer occurs when electromagnetic waves are emitted or absorbed. The warming of the earth surface by the Sun is due to radiation. Heat transfer by this process is the fastest one. All bodies above absolute zero emit thermal radiation. At room temperature the radiation is in the infrared range, wavelengths longer than those of the visible spectrum. In an atomic domain, the radiation is caused because of oscillating ions and electrons in a warm solid that are accelerating electric charges, such charges radiate. Different substances radiate with different efficiencies. A good radiator of radiation is a good absorber of radiation. A perfect absorber is called a black body (such perfection is not found in nature, but some things are close). Hence a black body is also a perfect radiator. A black body absorbs and emits radiation of all most all frequencies. It was found experimentally that heat energy radiated per unit time per unit surface area of a perfect black body is proportional to the fourth power of its absolute temperature.  "
+},
+{
+  "id": "figure-11",
+  "level": "2",
+  "url": "subsec-ht-subsection.html#figure-11",
+  "type": "Figure",
+  "number": "4.1.5",
+  "title": "",
+  "body": " Conduction Process    "
+},
+{
+  "id": "p-318",
+  "level": "2",
+  "url": "subsec-ht-subsection.html#p-318",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Conduction: "
 },
 {
   "id": "p-319",
@@ -1420,21 +1393,12 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Conduction: "
+  "body": "Convection: "
 },
 {
   "id": "p-320",
   "level": "2",
   "url": "subsec-ht-subsection.html#p-320",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Convection: "
-},
-{
-  "id": "p-321",
-  "level": "2",
-  "url": "subsec-ht-subsection.html#p-321",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1445,9 +1409,9 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "subsec_entropy-subsection.html",
   "type": "Subsection",
-  "number": "4.1.5",
+  "number": "4.1.3",
   "title": "Entropy",
-  "body": " Entropy  Entropy entropy is a mathematical concept explains some useful phenomena of thermodynamics. The change in entropy tells whether the process can take place naturally or not. A natural tendency of systems is to lose order. Entropy is a measure of that disorderliness. When sugar is dissolved in water it becomes more randomized and will not reconstitute itself in the crystalline form again by itself, unless we apply heat energy from outside to the system and evaporate all water. When a hot and a cold body are put in contact to each other, heat energy begins to flow from the hot body to the cold body until they reach a thermal equilibrium (same Temperature). Heat will never move back the other way. To move heat from a cold body to a hot body an external work must be done by an external source such as a heat pump. Entropy is a measure of the system's thermal energy per unit temperature that is unavailable for useful work. The concept of entropy provides the direction of spontaneous change for many processes. It tells us which process is allowed and which is completely prohibited even if it cannot violate the fundamental law of the conservation of energy. A block of ice placed on a hot pan surely melts, while the pan gets cooler. Such a process is called irreversible because no slight change will cause the melted water to turn back into ice while the pan gets hotter. In contrast, a block of ice placed in an ice water bath will either thaw a little more or freeze a little more, depending on whether a small amount of heat is added to or taken out from the system. Such a process is reversible because only an infinitesimal amount of heat is needed to change its direction from progressive freezing to progressive thawing.  "
+  "body": " Entropy  Entropy entropy is a mathematical concept explains some useful phenomena of thermodynamics. The change in entropy tells whether the process can occur naturally or not. A natural tendency of systems is to lose order. Hence, entropy measures the disorderness. When salt is dissolved in water it becomes more randomized and will not reconstitute itself in the crystalline form again by itself, unless we apply heat energy from outside to the system and evaporate all water. When a hot and a cold body are put in contact to each other, heat energy begins to flow from the hot body to the cold body until they reach a thermal equilibrium (same Temperature). Heat will never move back the other way. To move heat from a cold body to a hot body an external work must be done by an external source such as a heat pump. Entropy is a measure of the system's thermal energy per unit temperature that is unavailable for useful work. The concept of entropy provides the direction of spontaneous change for many processes. It tells us which process is allowed and which is completely prohibited even if it cannot violate the fundamental law of the conservation of energy. A block of ice placed on a hot pan surely melts, while the pan gets cooler. Such a process is called irreversible because no slight change will cause the melted water to turn back into ice while the pan gets hotter. In contrast, a block of ice placed in an ice water bath will either thaw a little more or freeze a little more, depending on whether a small amount of heat is added to or taken out from the system. Such a process is reversible because only an infinitesimal amount of heat is needed to change its direction from progressive freezing to progressive thawing.  "
 },
 {
   "id": "subsec_ap-subsection",
@@ -1459,9 +1423,9 @@ var ptx_lunr_docs = [
   "body": " Archimedes' Principle  When an object is placed in a fluid it experiences an upthrust force called a buoyant force. It is rising due to changes of pressure inside the fluid. This phenomenon is known as Archimedes' principle Archimedes' principle . It states that when a body is fully or partially immersed in a fluid, the fluid exerts an upward force on the body equal to the weight of the liquid displaced. That is, a buoyant force ( ) = weight of a displaced fluid ( ). It is the buoyant force due to which your weight feels less in swimming pool. Actually, a buoyant force is the loss of weight of an object in a liquid or fluid. It can also be defined as Here, is a weight of an object in air and is a weight of an object in liquid. Archimedes' principle tells whether the object floats or sinks in the fluid. If the weight of the object is greater than the buoyant force, it sinks. If its weight is equal to the buoyant force, it submerges inside the fluid but does not sink. If its weight is less than the buoyant force it floats on the surface of the liquid.   Buoyant force     In this case, the volume of displaced liquid is equal to the volume of the submerged portion of the object. On this basis, we can tell that if the density of an object is greater than that of the fluid, it sinks. If object density is equal to the density of the fluid, then the object submerges. If an object's density is less than the density of the fluid, then the object floats. To make an iron ship not sink in water, it is made with wide surface area and its body is like a hollow shell, so that the density of the entire ship is less than the density of water.  "
 },
 {
-  "id": "p-333",
+  "id": "p-332",
   "level": "2",
-  "url": "subsec_ap-subsection.html#p-333",
+  "url": "subsec_ap-subsection.html#p-332",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1483,21 +1447,12 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "4.2.2",
   "title": "Kinetic Theory of Gases",
-  "body": " Kinetic Theory of Gases  The nature of gas is completely different than solids and liquids. Gas takes up the entire volume of the container and can be compressed easily. Gas pressure increases or decreases as the temperature of the container changes. It diffuses (or leaks out) to the air if the container is left open. On such experiences, Kinetic theory of gas is developed to explain the nature of heat and the motion of particles associated with heat energy. According to this theory, gas is composed of large numbers of very tiny particles called molecules. These molecules are always in random motion at all possible directions and speeds which increases with the increase of temperature. In gases, the molecules are very far away from each other than in solids and liquids and have negligibly small force of attraction between them. Hence they can move freely anywhere within the available space. This explains why a gas has no definite shape and size. To understand the more general behavior of gases the kinetic theory of ideal gases is postulated as  All gases are made up of molecules. Molecules are identical, rigid, and perfectly elastic moving in random directions with all possible velocities.  The molecules are very far away from each other but they collide with each other and with walls of the container.  All the collisions are elastic, but time spent during each collision is negligibly small compared to the time spent between the collisions.  Molecules do not interact with each other (no intermolecular force of attraction) except during a collision.  The average kinetic energy of the molecules of any gas depends only on the temperature.  Ideal gas is a hypothetical gas of negligible molecular size and have no interactions among their molecules. In practice, a very dilute gas with extremely large volume of container space can be considered as an ideal gas. Remember the real gas molecules has definite size and may interact with each other. Hence these postulates are just a very simplified model to understand gas laws and need modification for real gas behaviors. To experience the general behavior of gas please play with the simulation link here. gas laws   "
+  "body": " Kinetic Theory of Gases   The nature of gas is completely different than solids and liquids. Gas takes up the entire volume of the container and can be compressed easily. Gas pressure increases or decreases as the temperature of the container changes. It diffuses (or leaks out) to the air if the container is left open. On such experiences, Kinetic theory of gas is developed to explain the nature of heat and the motion of particles associated with heat energy. According to this theory, gas is composed of large numbers of very tiny particles called molecules. These molecules are always in random motion at all possible directions and speeds which increases with the increase of temperature. In gases, the molecules are very far away from each other than in solids and liquids and have negligibly small force of attraction between them. Hence they can move freely anywhere within the available space. This explains why a gas has no definite shape and size. To understand the more general behavior of gases the kinetic theory of ideal gases is postulated as  All gases are made up of molecules. Molecules are identical, rigid, and perfectly elastic moving in random directions with all possible velocities.  The molecules are very far away from each other but they collide with each other and with walls of the container.  All the collisions are elastic, but time spent during each collision is negligibly small compared to the time spent between the collisions.  Molecules do not interact with each other (no intermolecular force of attraction) except during a collision.  The average kinetic energy of the molecules of any gas depends only on the temperature.  Ideal gas is a hypothetical gas of negligible molecular size and have no interactions among their molecules. In practice, a very dilute gas with extremely large volume of container space can be considered as an ideal gas. Remember the real gas molecules has definite size and may interact with each other. Hence these postulates are just a very simplified model to understand gas laws and need modification for real gas behaviors. To experience the general behavior of gas please play with the simulation link here. gas laws     The Gas Laws  From the experience of factors affecting gas pressure the ideal gas law is defined below. Ideal Gas Law or also called equation of state. It is found that the pressure, of the gas is directly proportional to number of molecules, and the absolute temperature, and inversely proportional to the volume, V of the gas. That is, where is proportionality constant. Therefore For mole of gas, the above equation turns into this equation is known as equation of state. Here, is number of mole of gas in a container and is universal gas constant.  If T is constant in this equation then it is called Boyle's Law  If is constant in this equation then it is called Charle's Law     "
 },
 {
-  "id": "subsec_gl-subsection",
-  "level": "1",
-  "url": "subsec_gl-subsection.html",
-  "type": "Subsection",
-  "number": "4.2.3",
-  "title": "The Gas Laws",
-  "body": " The Gas Laws  From the experience of factors affecting gas pressure the ideal gas law is defined below. Ideal Gas Law or also called equation of state. It is found that the pressure, of the gas is directly proportional to number of molecules, and the absolute temperature, and inversely proportional to the volume, V of the gas. That is, where is proportionality constant. Therefore For mole of gas, the above equation turns into this equation is known as equation of state. Here, is number of mole of gas in a container and is universal gas constant.  If T is constant in this equation then it is called Boyle's Law  If is constant in this equation then it is called Charle's Law    "
-},
-{
-  "id": "p-336",
+  "id": "p-335",
   "level": "2",
-  "url": "subsec_gl-subsection.html#p-336",
+  "url": "subsec_ktg-subsection.html#p-335",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1945,9 +1900,9 @@ var ptx_lunr_docs = [
   "body": " Materials on Electrical Point of View  On the basis of electrical behavior there are four types of materials exist in nature; they are conductor, insulator, semiconductors, and superconductors.   Conductor: It is a material where charge carriers (electrons or ions) are free to move within it. Copper, aluminum, gold, mercury, iron, water-salt solution, etc. are a few examples of conductors. In a conductor, the outermost electrons of an atom are loosely bounded with its nucleus and hence are free to move throughout the material even at very low temperature. The random motion of electrons causes zero net electric current in a conductor unless an external electric field is applied on it. Insulator: It is a material where electrons are tightly bounded with their atom and can not move very easily. Plastics, glass, rubber, wood, porcelain, etc. are few examples of insulators. Check the simulation link conductor & insulator  Semiconductor: It is a material having properties between insulator and conductor. Silicon and germanium are good example of it. At low temperature this material behaves as an insulator and at high temperature it behaves as a conductor. The conductivity of a semiconductor can be increased enormously by doping of this material with a very small amount of suitable dopants such as boron, phosphorous, or arsenic. Superconductor: It is a material which transfers electrons from one atom to another throughout the material without any resistance. No loss of energy can be observed when the material conducts electricity. Mercury shows superconducting nature at temperature below 4 Kelvin.  "
 },
 {
-  "id": "p-418",
+  "id": "p-417",
   "level": "2",
-  "url": "subsec_5me-subsection.html#p-418",
+  "url": "subsec_5me-subsection.html#p-417",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -1981,9 +1936,9 @@ var ptx_lunr_docs = [
   "body": " Electrical Circuits  An electrical circuit is a network of electrical elements (such as resistance (bulb), battery, conductor, switch, etc.) through which current can flow in a closed path. Electrical circuits can be of two types,   Series Circuit: in this type of circuits all the electrical components are connected one after another in such a way that the same current flows through each component as shown in the figure below. An example of a series circuit is a string of Christmas lights, where each bulb is connected to the next in a line. If one bulb burns out, the entire circuit is broken and none of the lights will turn on.  Series circuit       Parallel Circuit: in this type of circuits all the electrical components are connected side by side in such a way that the voltage across each component is the same as shown in the figure below. An example of a parallel circuit is a house's electrical system, where different appliances are connected to the same circuit but have their own separate paths for current to flow through. If one path is broken or one appliance stops working, it doesn't affect the other appliances or the overall circuit.  Parallel circuit       series & parallel circuit To change from series to parallel circuit, Please hold the bulb and rotate the circuit in the simulation.  "
 },
 {
-  "id": "p-425",
+  "id": "p-424",
   "level": "2",
-  "url": "subsec-5ec.html#p-425",
+  "url": "subsec-5ec.html#p-424",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2260,90 +2215,54 @@ var ptx_lunr_docs = [
   "body": "Electrical Circuit "
 },
 {
-  "id": "subsec_6sound-subsection",
+  "id": "subsec_6sound",
   "level": "1",
-  "url": "subsec_6sound-subsection.html",
+  "url": "subsec_6sound.html",
   "type": "Subsection",
   "number": "6.1.1",
   "title": "Sound",
-  "body": " Sound  Sound is a longitudinal wave that can be produced by vibration. The speed at which sound waves travel through a medium depends on the density and stiffness of the medium, whether condition, temperature, moisture, etc. It is a mechanical wave and creates pressure on a layer of medium when propagates, hence it is also called a pressure wave. Sound wave is longitudinal in nature. When such energy reaches to our eardrum it begins vibrating and we get sensation of hearing. The physical character of sound depends upon the listener's audible perception. The physical quantity that defines the loudness is amplitude (sound pressure) of the wave and the quantity that defines the timbre (or quality) of sound is a frequency . A sound of frequency to is audible to healthy human ear. Loudness increases with the increase of pressure amplitude at a given frequency. Loudness (or Intensity level) is a sound energy received by a unit area of listener's eardrum (or detector) in unit time. Loudness is a listener's perception. Intensity is an energy carried by a wave per unit area per unit time. Intensity is a property of sound producing device. Loudness is an intensity received by a listener.  "
+  "body": " Sound   Sound is a longitudinal wave that can be produced by vibration. The speed at which sound waves travel through a medium depends on the density and stiffness of the medium, whether condition, temperature, moisture, etc. It is a mechanical wave and creates pressure on a layer of medium when propagates, hence it is also called a pressure wave. Sound wave is longitudinal in nature. When such energy reaches to our eardrum it begins vibrating and we get sensation of hearing. The physical character of sound depends upon the listener's audible perception. The physical quantity that defines the loudness is amplitude (sound pressure) of the wave and the quantity that defines the timbre (or quality) of sound is a frequency . A sound of frequency to is audible to healthy human ear. Loudness increases with the increase of pressure amplitude at a given frequency. Loudness (or Intensity level) is a sound energy received by a unit area of listener's eardrum (or detector) in unit time. Loudness is a listener's perception. Intensity is an energy carried by a wave per unit area per unit time. Intensity is a property of sound producing device. Loudness is an intensity received by a listener.    Reverberation and Echo  Echo and reverberation are two distinct phenomenon of sound waves which occur due to its reflection from any surfaces. Sound endures in our brain for longer than 0.1 second. If sound is reflected from any surface reaches to our ear within 0.1 second of the initial sound, then it seems that the sound is prolonged. The reception of reflected sound within 0.1 second causes the reverberation(or) the prolonging of a sound effect. The speed of sound in air is about at room temperature. If the wall of a room is meter away from the source of sound then it reflects back from the wall and reaches to the ear within 0.1 s Hence, causing a prolonged sound effect, called a reverberation . Echoes are also the effect of reflection of sound waves perceived by the ear. When a reflected sound wave reaches the ear after 0.1 seconds of the original sound was heard, then echoes are produced. If the elapsed time between the arrivals of the two sound waves is more than 0.1 seconds, then the sensation of the first sound will have died out. In other words, echo is a sensation of second sound wave after the effect of original sound wave will vanish. It is not a prolonging of the original sound wave as in reverberation.    Doppler Effect  The Doppler effect is the change in perceived frequency of a source due to the relative motion between the source and the receiver. It applies to all sorts of waves. Doppler effect can be experienced as the change in pitch (or frequency) received. When the ambulence is approaching, the pitch of siren is getting higher than the actual frequency of siren. When the ambulence passes by, the frequency sounds the same as the actual emitted frequency and when the ambulance is moving away, the pitch is getting lower than the actual emitted frequency. When the source of the waves is coming towards the observer, observer receives more waves every second compared to being at rest. That is waves bunch together for the observer giving impression for the decrease of wavelength and causing an increase in the frequency. Conversely, if the source of waves is going away from the observer, observer receives less waves every second compared to being at rest. That is waves ”spread out” for the observer giving impression for the increase of wavelength and causing a decrease in the frequency. Doppler Effect    "
 },
 {
-  "id": "subsec_6echo-subsection",
+  "id": "subsec_6gopt",
   "level": "1",
-  "url": "subsec_6echo-subsection.html",
-  "type": "Subsection",
-  "number": "6.1.2",
-  "title": "Reverberation and Echo",
-  "body": " Reverberation and Echo  Echo and reverberation are two distinct phenomenon of sound waves which occur due to its reflection from any surfaces. Sound endures in our brain for longer than 0.1 second. If sound is reflected from any surface reaches to our ear within 0.1 second of the initial sound, then it seems that the sound is prolonged. The reception of reflected sound within 0.1 second causes the reverberation(or) the prolonging of a sound effect. The speed of sound in air is about at room temperature. If the wall of a room is meter away from the source of sound then it reflects back from the wall and reaches to the ear within 0.1 s Hence, causing a prolonged sound effect, called a reverberation . Echoes are also the effect of reflection of sound waves perceived by the ear. When a reflected sound wave reaches the ear after 0.1 seconds of the original sound was heard, then echoes are produced. If the elapsed time between the arrivals of the two sound waves is more than 0.1 seconds, then the sensation of the first sound will have died out. In other words, echo is a sensation of second sound wave after the effect of original sound wave will vanish. It is not a prolonging of the original sound wave as in reverberation.  "
-},
-{
-  "id": "subsec_6deffect-subsection",
-  "level": "1",
-  "url": "subsec_6deffect-subsection.html",
-  "type": "Subsection",
-  "number": "6.1.3",
-  "title": "Doppler Effect",
-  "body": " Doppler Effect  The Doppler effect is the change in perceived frequency of a source due to the relative motion between the source and the receiver. It applies to all sorts of waves. Doppler effect can be experienced as the change in pitch (or frequency) received. When the ambulence is approaching, the pitch of siren is getting higher than the actual frequency of siren. When the ambulence passes by, the frequency sounds the same as the actual emitted frequency and when the ambulance is moving away, the pitch is getting lower than the actual emitted frequency. When the source of the waves is coming towards the observer, observer receives more waves every second compared to being at rest. That is waves bunch together for the observer giving impression for the decrease of wavelength and causing an increase in the frequency. Conversely, if the source of waves is going away from the observer, observer receives less waves every second compared to being at rest. That is waves ”spread out” for the observer giving impression for the increase of wavelength and causing a decrease in the frequency. Doppler effect   "
-},
-{
-  "id": "subsec_6gopt-subsection",
-  "level": "1",
-  "url": "subsec_6gopt-subsection.html",
+  "url": "subsec_6gopt.html",
   "type": "Subsection",
   "number": "6.2.1",
   "title": "Geometrical Optics",
-  "body": " Geometrical Optics  Geometric optics is based on the principle of rectilinear propagation of light in which light is considered as a ray which travels in a straight line. Anything which emits light is known as object. Objects that emit light on their own are called a luminous (or self-luminous) objects such as sun, stars, light bulb, fireflies, etc. Objects that do not emit but reflect light are known as non-luminous objects such as moon, planets, wood, plastics, metals, etc.  Light travels in straight lines until it encounters with some obstacle. Hence we can approximate light by considering it as a ray. The physics which deals with light in the form of a ray is called geometrical optics. Light bents from its straight path when it strikes on the surface of another medium such as in reflection and refraction. When light strikes on the surface of material three phenomena happen. That is,  light reflects from the material  light transmitts throgh the material, and  light is absorbed by the the material.    "
-},
-{
-  "id": "subsec_6refl-subsection",
-  "level": "1",
-  "url": "subsec_6refl-subsection.html",
-  "type": "Subsection",
-  "number": "6.2.2",
-  "title": "Reflection of Light",
-  "body": " Reflection of Light  When light travels in one medium strikes onto the surface of another medium it bounces off to the same medium is known as reflection reflection . It is the reflection which helps us to see our image in the mirror. There are two types of reflection, specular (regular) reflection and diffuse (irregular) reflection. Both types of reflection obey the laws of reflection. Reflection of Light    Laws of Reflection:    The first law of reflection states that the incident ray, the reflected ray, and the normal to the point of incident all lie in the same plane.    The second law of reflection states that the angle of reflection is equal to the angle of incidence.   Consider a light ray, AO is incident on a smooth surface, like morror at an angle and bounces off, then from law of reflection      Reflection of light     Regular reflection     Irregular reflection       "
+  "body": " Geometrical Optics   Geometric optics is based on the principle of rectilinear propagation of light in which light is considered as a ray which travels in a straight line. Anything which emits light is known as object. Objects that emit light on their own are called a luminous (or self-luminous) objects such as sun, stars, light bulb, fireflies, etc. Objects that do not emit but reflect light are known as non-luminous objects such as moon, planets, wood, plastics, metals, etc.  Light travels in straight lines until it encounters with some obstacle. Hence we can approximate light by considering it as a ray. The physics which deals with light in the form of a ray is called geometrical optics. Light bents from its straight path when it strikes on the surface of another medium such as in reflection and refraction. When light strikes on the surface of material three phenomena happen. That is,  light reflects from the material  light transmitts throgh the material, and  light is absorbed by the the material.      Reflection of Light  When light travels in one medium strikes onto the surface of another medium it bounces off to the same medium is known as reflection reflection . It is the reflection which helps us to see our image in the mirror. There are two types of reflection, specular (regular) reflection and diffuse (irregular) reflection. Both types of reflection obey the laws of reflection. Reflection of Light    Laws of Reflection:    The first law of reflection states that the incident ray, the reflected ray, and the normal to the point of incident all lie in the same plane.    The second law of reflection states that the angle of reflection is equal to the angle of incidence.   Consider a light ray, AO is incident on a smooth surface, like morror at an angle and bounces off, then from law of reflection       Reflection of light     Regular reflection     Irregular reflection        Refraction of Light  The phenomenon of bending of light ray as it goes from one medium to another is called a refraction refraction . The velocity of light depends on the medium it is propagating which causes the refraction. The measure of an obstacle that a medium impose on the velocity of light is known as refractive index of that medium. Refraction of Light       Refraction of light     Bent Pencil        Dispersion of Light  The phenomenon of splitting of white light into its constituent colors is known as dispersion dispersion . When white light passes through a prism it splitted into seven colors due to dispersion of light. The images of this color patterns formed on a screen is called a spectrum. The spectrum consists of a visible and invisible regions of light. The principal colors of light in the visible spectrum are given as \"VIBGYOR\" (Violet, Indigo, Blue, Green, Yellow, Orange, and Red). The deviation occurred in violet light is maximum and that for red light is minimum as shown in figure . In the invisible regions, the spectrum of wavelengths shorter than violet is called an ultraviolet light and that for longer than red is called an infrared light. The color of light is dependent on its wavelength, . Here is a list of wavelengths of visible light    Dispersion of light    Rainbow rainbow is formed when sunlight is dispersed by rain droplets which are suspended in air. When sunlight enters the raindrop it refracts then it undergoes dispersion and total internal reflection from the rear end of the droplet surface and again refracted out in the atmosphere and that's how we see a rainbow. So all the given process i.e total internal reflection, refraction, and dispersion take place in the rainbow formation as shown in figure . Scattering of light doesn't take place in the process of formation of a rainbow.   Dispersion of light      Scattering of Light   scattering It is a phenomenon of redirected light in different directions when it interacts with small particles or irregular surfaces. This can cause the light to appear hazy or dispersed. Due to scattering sky looks bluish as blue colors scattered more in sky than any other colors from the visible spectrum of light. In fact, violet light scattered more than blue but our eyes are more sensitive o blue color than violet light hence blue colors are much more prevailed than others in sky. At sunset and sunrise, the sunlight has to travel longer distance in the atmosphere which causes most of the blue and other shorter wavelengths to scatter in the sky and only red color can reach to our eyes hence the sun appears reddish in color.   "
 },
 {
   "id": "p-481",
   "level": "2",
-  "url": "subsec_6refl-subsection.html#p-481",
+  "url": "subsec_6gopt.html#p-481",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Laws of Reflection: "
 },
 {
-  "id": "subsec_6refr-subsection",
-  "level": "1",
-  "url": "subsec_6refr-subsection.html",
-  "type": "Subsection",
-  "number": "6.2.3",
-  "title": "Refraction of Light",
-  "body": " Refraction of Light  The phenomenon of bending of light ray as it goes from one medium to another is called a refraction refraction . The velocity of light depends on the medium it is propagating which causes the refraction. The measure of an obstacle that a medium impose on the velocity of light is known as refractive index of that medium. Refraction of Light      Refraction of light     Bent Pencil       "
+  "id": "figure-40",
+  "level": "2",
+  "url": "subsec_6gopt.html#figure-40",
+  "type": "Figure",
+  "number": "6.2.2",
+  "title": "",
+  "body": "    Reflection of light     Regular reflection     Irregular reflection     "
 },
 {
   "id": "figure-44",
   "level": "2",
-  "url": "subsec_6refr-subsection.html#figure-44",
+  "url": "subsec_6gopt.html#figure-44",
   "type": "Figure",
   "number": "6.2.3",
   "title": "",
   "body": "    Refraction of light     Bent Pencil     "
 },
 {
-  "id": "subsec_6disper-subsection",
-  "level": "1",
-  "url": "subsec_6disper-subsection.html",
-  "type": "Subsection",
-  "number": "6.2.4",
-  "title": "Dispersion of Light",
-  "body": " Dispersion of Light  The phenomenon of splitting of white light into its constituent colors is known as dispersion dispersion . When white light passes through a prism it splitted into seven colors due to dispersion of light. The images of this color patterns formed on a screen is called a spectrum. The spectrum consists of a visible and invisible regions of light. The principal colors of light in the visible spectrum are given as \"VIBGYOR\" (Violet, Indigo, Blue, Green, Yellow, Orange, and Red). The deviation occurred in violet light is maximum and that for red light is minimum as shown in figure . In the invisible regions, the spectrum of wavelengths shorter than violet is called an ultraviolet light and that for longer than red is called an infrared light. The color of light is dependent on its wavelength, . Here is a list of wavelengths of visible light   Dispersion of light     Rainbow rainbow is formed when sunlight is dispersed by rain droplets which are suspended in air. When sunlight enters the raindrop it refracts then it undergoes dispersion and total internal reflection from the rear end of the droplet surface and again refracted out in the atmosphere and that's how we see a rainbow. So all the given process i.e total internal reflection, refraction, and dispersion take place in the rainbow formation as shown in figure . Scattering of light doesn't take place in the process of formation of a rainbow.  Dispersion of light    "
-},
-{
   "id": "fig-dspr",
   "level": "2",
-  "url": "subsec_6disper-subsection.html#fig-dspr",
+  "url": "subsec_6gopt.html#fig-dspr",
   "type": "Figure",
   "number": "6.2.4",
   "title": "",
@@ -2352,20 +2271,11 @@ var ptx_lunr_docs = [
 {
   "id": "fig-dspr2",
   "level": "2",
-  "url": "subsec_6disper-subsection.html#fig-dspr2",
+  "url": "subsec_6gopt.html#fig-dspr2",
   "type": "Figure",
   "number": "6.2.5",
   "title": "",
   "body": " Dispersion of light   "
-},
-{
-  "id": "subsec_6sctr-subsection",
-  "level": "1",
-  "url": "subsec_6sctr-subsection.html",
-  "type": "Subsection",
-  "number": "6.2.5",
-  "title": "Scattering of Light",
-  "body": " Scattering of Light   scattering It is a phenomenon of redirected light in different directions when it interacts with small particles or irregular surfaces. This can cause the light to appear hazy or dispersed. Due to scattering sky looks bluish as blue colors scattered more in sky than any other colors from the visible spectrum of light. In fact, violet light scattered more than blue but our eyes are more sensitive o blue color than violet light hence blue colors are much more prevailed than others in sky. At sunset and sunrise, the sunlight has to travel longer distance in the atmosphere which causes most of the blue and other shorter wavelengths to scatter in the sky and only red color can reach to our eyes hence the sun appears reddish in color.  "
 },
 {
   "id": "sec_sixth-examples",
@@ -2773,18 +2683,18 @@ var ptx_lunr_docs = [
   "body": "LASER Light emission: Stimulated emission: Active medium: Pumping: Reflective cavity: Output coupler: Population inversion: "
 },
 {
-  "id": "subsec_7radio-subsection",
+  "id": "subsec_7radio",
   "level": "1",
-  "url": "subsec_7radio-subsection.html",
+  "url": "subsec_7radio.html",
   "type": "Subsection",
   "number": "7.2.1",
   "title": "Radioactivity",
-  "body": " Radioactivity  Radioactivity radioactivity is the process of spontaneous decay of an atomic nucleus. In this process, an unstable nucleus breaks apart into smaller and more stable nuclei. This process releases energy in the form of ionizing radiation, including alpha particles, beta particles, and gamma rays. Some radioactive isotopes are naturally occurring, while others can be produced artificially, for example, in nuclear reactors. Radioactivity plays many applications in medicine (e.g., medical imaging, cancer treatment), energy production (e.g., nuclear power plants), and research (e.g., dating of rocks and artifacts). Since radiactivity releases harmful radiation along with energy, it may cause harmful effect to health. Hence, it could be handled very carefully and responsibly. Radioactivity occurs due to the weak nuclear force, which is responsible for beta decay, where a neutron in the nucleus decays into a proton, an electron, and an electron antineutrino. Due to the weak nuclear force a neutron is converted into a proton by emitting beta particle which changes the atomic number of the atom and the identity of the element. However, radioactivities like alpha decay and gamma decay are not directly related to the weak nuclear force. Alpha decay is caused by the strong nuclear force, which holds the nucleus together, while gamma decay is a result of a change in the energy level of the nucleus.  In radioactive decay process different kinds of elements form due to emission of different particles or rays such as   Alpha ( ) particle emission: particle is a helium nucleus and is positively charged particle. In decay a nucleus emits an alpha particle, which consists of two protons and two neutrons. For example: thorium (Th) decayes into radium (Ra) by emitting alpha particle: This results in a decrease in the atomic number of the nucleus by two and transforms the nucleus into a different element. Alpha decay occurs when the nucleus has too many protons and is not stable, and it releases energy in the form of the alpha particle to reach a more stable configuration. Alpha particles have a large mass and a low velocity, and they can be stopped by a sheet of paper or a few centimeters of air .    Beta ( ) particle emission: particle is similar to electron and hence holds negative charge. In decay a nucleus emits a high-energy electron or positron, also known as a beta particle. This results in a change in the number of protons in the nucleus and transforms the nucleus into a different element. For example: carbon (C-14) decayes into nitrogen (N-14) by emitting beta particle: Similarly, neutron turns into proton in beta decay: There are two types of beta decay: beta minus decay (emission of an electron) and beta plus decay (emission of a positron). In beta minus decay, a neutron in the nucleus decays into a proton, an electron, and an electron antineutrino. In beta plus decay, a proton decays into a neutron, a positron, and an electron neutrino. Beta decay is one of the three common types of radioactive decay, along with alpha decay and gamma decay. Beta particles have a low mass and a high velocity, and they can penetrate sheets of paper and even thin sheet of aluminum foil .    Gamma ( ) rays emission: ray is an electromagnetic radiation of very high energy and is neutral to the charge. If the nucleus is unstable due to access amount of energy then it releases rays. The composition of nucleus does not change due to gamma radiation emissioin. For example: high energetic Pb turns into low energetic Pb in gamma radiation:  star symbol indicates excited lead nucleus. Gamma rays have no rest mass and travel with the velocity of light and hence penetrate even thick plate of lead .    Electron ( ) Capture: it is another type of radioactive decay in which an inner orbital electron is captured by the nucleus and transforms into a neutron, resulting in a decrease in the atomic number of the nucleus by one and the transformation of the nucleus into a different element. For example: flourine (F) turns into oxygen (O) due to positron emission: Another example is The captured electron combines with a proton to form a neutron, which remains inside the nucleus. This process releases energy in the form of gamma rays or X-rays. Electron capture is different from beta decay, which involves the emission of a beta particle (an electron or a positron).    Positron Emission: it is also known as beta plus decay, is a type of radioactive decay in which a nucleus emits a positron, which is the antiparticle of an electron. Positron emission occurs when a nucleus has too many protons and is not stable, and it releases energy in the form of the positron to reach a more stable configuration. For example: flourine (F) turns into oxygen (O) due to positron emission: The emitted positron quickly combines with an electron in the material, annihilating both particles and producing gamma rays. Positron emission is one of the three common types of radioactive decay, along with alpha decay and beta decay. In positron emission, a proton inside the nucleus decays into a neutron, a positron, and an electron neutrino. This results in a decrease in the atomic number of the nucleus by one and the transformation of the nucleus into a different element.      Strength of alpha particles, beta particles, and gamma rays     "
+  "body": " Radioactivity   Radioactivity radioactivity is the process of spontaneous decay of an atomic nucleus. In this process, an unstable nucleus breaks apart into smaller and more stable nuclei. This process releases energy in the form of ionizing radiation, including alpha particles, beta particles, and gamma rays. Some radioactive isotopes are naturally occurring, while others can be produced artificially, for example, in nuclear reactors. Radioactivity plays many applications in medicine (e.g., medical imaging, cancer treatment), energy production (e.g., nuclear power plants), and research (e.g., dating of rocks and artifacts). Since radiactivity releases harmful radiation along with energy, it may cause harmful effect to health. Hence, it could be handled very carefully and responsibly. Radioactivity occurs due to the weak nuclear force, which is responsible for beta decay, where a neutron in the nucleus decays into a proton, an electron, and an electron antineutrino. Due to the weak nuclear force a neutron is converted into a proton by emitting beta particle which changes the atomic number of the atom and the identity of the element. However, radioactivities like alpha decay and gamma decay are not directly related to the weak nuclear force. Alpha decay is caused by the strong nuclear force, which holds the nucleus together, while gamma decay is a result of a change in the energy level of the nucleus.  In radioactive decay process different kinds of elements form due to emission of different particles or rays such as   Alpha ( ) particle emission: particle is a helium nucleus and is positively charged particle. In decay a nucleus emits an alpha particle, which consists of two protons and two neutrons. For example: thorium (Th) decayes into radium (Ra) by emitting alpha particle: This results in a decrease in the atomic number of the nucleus by two and transforms the nucleus into a different element. Alpha decay occurs when the nucleus has too many protons and is not stable, and it releases energy in the form of the alpha particle to reach a more stable configuration. Alpha particles have a large mass and a low velocity, and they can be stopped by a sheet of paper or a few centimeters of air .    Beta ( ) particle emission: particle is similar to electron and hence holds negative charge. In decay a nucleus emits a high-energy electron or positron, also known as a beta particle. This results in a change in the number of protons in the nucleus and transforms the nucleus into a different element. For example: carbon (C-14) decayes into nitrogen (N-14) by emitting beta particle: Similarly, neutron turns into proton in beta decay: There are two types of beta decay: beta minus decay (emission of an electron) and beta plus decay (emission of a positron). In beta minus decay, a neutron in the nucleus decays into a proton, an electron, and an electron antineutrino. In beta plus decay, a proton decays into a neutron, a positron, and an electron neutrino. Beta decay is one of the three common types of radioactive decay, along with alpha decay and gamma decay. Beta particles have a low mass and a high velocity, and they can penetrate sheets of paper and even thin sheet of aluminum foil .    Gamma ( ) rays emission: ray is an electromagnetic radiation of very high energy and is neutral to the charge. If the nucleus is unstable due to access amount of energy then it releases rays. The composition of nucleus does not change due to gamma radiation emissioin. For example: high energetic Pb turns into low energetic Pb in gamma radiation:  star symbol indicates excited lead nucleus. Gamma rays have no rest mass and travel with the velocity of light and hence penetrate even thick plate of lead .    Electron ( ) Capture: it is another type of radioactive decay in which an inner orbital electron is captured by the nucleus and transforms into a neutron, resulting in a decrease in the atomic number of the nucleus by one and the transformation of the nucleus into a different element. For example: flourine (F) turns into oxygen (O) due to positron emission: Another example is The captured electron combines with a proton to form a neutron, which remains inside the nucleus. This process releases energy in the form of gamma rays or X-rays. Electron capture is different from beta decay, which involves the emission of a beta particle (an electron or a positron).    Positron Emission: it is also known as beta plus decay, is a type of radioactive decay in which a nucleus emits a positron, which is the antiparticle of an electron. Positron emission occurs when a nucleus has too many protons and is not stable, and it releases energy in the form of the positron to reach a more stable configuration. For example: flourine (F) turns into oxygen (O) due to positron emission: The emitted positron quickly combines with an electron in the material, annihilating both particles and producing gamma rays. Positron emission is one of the three common types of radioactive decay, along with alpha decay and beta decay. In positron emission, a proton inside the nucleus decays into a neutron, a positron, and an electron neutrino. This results in a decrease in the atomic number of the nucleus by one and the transformation of the nucleus into a different element.      Strength of alpha particles, beta particles, and gamma rays       Half-Life  The rate at which a radioactive isotope disintegrates is known as its half-life , half-life which is the time it takes for half of the radioactive material to decay. The half-life of a radioactive isotope determines its stability and the length of time it can be used for various purposes, such as medical treatments or energy production. The representing the amount or number of atoms in a radioactive substance remains every after one half-life. For example, in second figure of , half-life of any one radiactive substance is 50 years, so half of the total number of atoms or its half amount disintegrate (decay) into new substances in every one half life.   Half life of nuclides    Remaining amount per Half-Life     % of atoms remaining      The remaining amount of substance can be determined by the following formula Here, is initial concentration of the substance, and is the number of half-lives.    Carbon Dating  Carbon dating carbon dating is a method of determining the age of an object containing organic material by measuring the amount of carbon-14 isotopes contained in the object. Carbon-14 is a radioactive isotope of carbon that is formed in the Earth’s upper atmosphere through the interaction of cosmic rays with nitrogen atoms. The amount of carbon-14 in the atmosphere has remained constant for thousands of years, so the ratio of carbon-14 to carbon-12 in a sample can be used to determine how long it has been since the death of the organism from which the sample was taken. The carbon-14 in a sample decays over time, and the amount remaining can be measured with a specialized machine called a mass spectrometer. The age of the sample can then be calculated based on the known decay rate of carbon-14. This method is typically used to date organic materials that are less than 50,000 years old, such as archaeological artifacts, fossils, and recent organic samples. In the upper atmosphere Cosmic rays which was primarly protons turns into neutrons. These neutrons react with nitrogen to produce carbon-14. The carbon-14 then reacts with oxygen to to become gas. Plants consume this in photosynthesis process. Later animals eat plant and stores these C-14 atoms in their body. In beta decay process C-14 keeps turning into nitrogen such as The ratio of carbon-14 to carbon-12 is roughly constant because the organism continuously replaces carbon-14 as it decays. However, after the organism dies, the carbon-14 in its tissues begins to decay, and the carbon-14 to carbon-12 ratio begins to change. By measuring the carbon-14 to carbon-12 ratio in a sample and comparing it to the known decay rate of carbon-14, scientists can determine how long it has been since the sample died and estimate its age.   "
 },
 {
   "id": "p-562",
   "level": "2",
-  "url": "subsec_7radio-subsection.html#p-562",
+  "url": "subsec_7radio.html#p-562",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2793,25 +2703,16 @@ var ptx_lunr_docs = [
 {
   "id": "fig-raddecay",
   "level": "2",
-  "url": "subsec_7radio-subsection.html#fig-raddecay",
+  "url": "subsec_7radio.html#fig-raddecay",
   "type": "Figure",
   "number": "7.2.2",
   "title": "",
   "body": " Strength of alpha particles, beta particles, and gamma rays    "
 },
 {
-  "id": "subsec-7hl",
-  "level": "1",
-  "url": "subsec-7hl.html",
-  "type": "Subsection",
-  "number": "7.2.2",
-  "title": "Half-Life",
-  "body": " Half-Life  The rate at which a radioactive isotope disintegrates is known as its half-life , half-life which is the time it takes for half of the radioactive material to decay. The half-life of a radioactive isotope determines its stability and the length of time it can be used for various purposes, such as medical treatments or energy production. The representing the amount or number of atoms in a radioactive substance remains every after one half-life. For example, in second figure of , half-life of any one radiactive substance is 50 years, so half of the total number of atoms or its half amount disintegrate (decay) into new substances in every one half life.   Half life of nuclides    Remaining amount per Half-Life     % of atoms remaining      The remaining amount of substance can be determined by the following formula Here, is initial concentration of the substance, and is the number of half-lives.  "
-},
-{
   "id": "p-568",
   "level": "2",
-  "url": "subsec-7hl.html#p-568",
+  "url": "subsec_7radio.html#p-568",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -2820,99 +2721,81 @@ var ptx_lunr_docs = [
 {
   "id": "fig-hlife",
   "level": "2",
-  "url": "subsec-7hl.html#fig-hlife",
+  "url": "subsec_7radio.html#fig-hlife",
   "type": "Figure",
   "number": "7.2.3",
   "title": "",
   "body": " Half life of nuclides    Remaining amount per Half-Life     % of atoms remaining     "
 },
 {
-  "id": "subsec_7cd-subsection",
-  "level": "1",
-  "url": "subsec_7cd-subsection.html",
-  "type": "Subsection",
-  "number": "7.2.3",
-  "title": "Carbon Dating",
-  "body": " Carbon Dating  Carbon dating carbon dating is a method of determining the age of an object containing organic material by measuring the amount of carbon-14 isotopes contained in the object. Carbon-14 is a radioactive isotope of carbon that is formed in the Earth’s upper atmosphere through the interaction of cosmic rays with nitrogen atoms. The amount of carbon-14 in the atmosphere has remained constant for thousands of years, so the ratio of carbon-14 to carbon-12 in a sample can be used to determine how long it has been since the death of the organism from which the sample was taken. The carbon-14 in a sample decays over time, and the amount remaining can be measured with a specialized machine called a mass spectrometer. The age of the sample can then be calculated based on the known decay rate of carbon-14. This method is typically used to date organic materials that are less than 50,000 years old, such as archaeological artifacts, fossils, and recent organic samples. In the upper atmosphere Cosmic rays which was primarly protons turns into neutrons. These neutrons react with nitrogen to produce carbon-14. The carbon-14 then reacts with oxygen to to become gas. Plants consume this in photosynthesis process. Later animals eat plant and stores these C-14 atoms in their body. In beta decay process C-14 keeps turning into nitrogen such as The ratio of carbon-14 to carbon-12 is roughly constant because the organism continuously replaces carbon-14 as it decays. However, after the organism dies, the carbon-14 in its tissues begins to decay, and the carbon-14 to carbon-12 ratio begins to change. By measuring the carbon-14 to carbon-12 ratio in a sample and comparing it to the known decay rate of carbon-14, scientists can determine how long it has been since the sample died and estimate its age.  "
-},
-{
   "id": "subsec_7be-subsection",
   "level": "1",
   "url": "subsec_7be-subsection.html",
   "type": "Subsection",
-  "number": "7.2.4",
+  "number": "7.2.2",
   "title": "Binding Energy",
-  "body": " Binding Energy  Binding energy binding energy is the amount of energy required to separate a nucleons into the protons and neutrons. In an atomic nucleus, the protons and neutrons are held together by the strong nuclear force, which acts over short distances. The binding energy of a nucleus can be calculated by subtracting the total mass of its individual protons and neutrons from the total mass of the nucleus itself. According to Einstein's famous equation, , the mass difference between the two states is equivalent to the binding energy. The binding energy of a nucleus has important implications for both the stability of the nucleus and for the energy released during nuclear reactions. Nuclei with higher binding energy are generally more stable and less likely to undergo spontaneous decay, while nuclei with lower binding energy are more likely to undergo radioactive decay. Additionally, the energy released during nuclear reactions is directly proportional to the binding energy of the nucleus. When a nucleus is formed, protons and neutrons come together and bind to form the nucleus. This process is driven by the strong nuclear force, which acts over short distances to hold the particles together. The formation of a nucleus also leads to the release of energy. This energy is in the form of electromagnetic radiation and called the binding energy. It is the same amount of energy required to separate the protons and neutrons in the nucleus when broken down to individual components. For example: The deuterium ( ) has one proton and one neutron in its nucleus. So when they break apart we expect the mass of deuterium atom equals the mass of one proton (i.e. ) and the mass of one neutron. Mass of one and mass of one neutron = 1.0087 u. Therefore the total mass of . The measured mass of however, is only which is less than the combined mass of proton and neutron. This loss of mass (also known as mass defect ) appears in the form of binding energy of the deuterium atom. Similarly when one deuterium nucleus combines with one tritium nucleus to form helium nucleus tremendous amount of energy released which was a binding energy. For example: . Hence, the mass defect in this case is given by: total mass of and total mass of . Hence the difference in these masses is a mass defect, . Note: Here is the atomic mass unit . . This is the approximate mass of the hydrogen atom. Atomic mass unit is also caled Dalton. we can also consider as 1 mole of anything is equal to Now, This mass defect appears in the form of binding energy which can be calculated by equation   , the velocity of light.  Hence, energy released from this reaction is or, 17.8 MeV and . .  "
-},
-{
-  "id": "subsec_7bepn-subsection",
-  "level": "1",
-  "url": "subsec_7bepn-subsection.html",
-  "type": "Subsection",
-  "number": "7.2.5",
-  "title": "Binding Energy per Nucleon",
-  "body": " Binding Energy per Nucleon   Binding Energy Per Nucleon      The binding energy of a nucleus determines its stability against disintegration. The larger the binding energy, the more stable is the nucleus and vice a versa. The binding energy per nucleon, BE\/A is the ratio of Binding energy of the nucleus to the total number of nucleons . It is found that the binding energy per nucleon varies from element to element. A graph is plotted with the mass number A of the nucleus along the X-axis and binding energy per nucleon along the Y-axis. The binding energy per nucleon increases sharply with mass number A upto 20. It increases slowly after . The curve becomes almost flat for mass number between 40 and 120. Beyond 120, it decreases slowly as A increases. The binding energy per nucleon reaches a maximum at A=56, corresponding to the iron nucleus ( ). Hence, iron has the most stable nucleus. At the lower end of the curve, smaller nuclei have relatively lower binding energy per nucleon compared to larger nuclei. This is because the attractive strong nuclear force, which holds the nucleons together, decreases rapidly with increasing distance between the nucleons. As a result, small nuclei tend to be less stable and more likely to undergo nuclear reactions, such as beta decay. At the higher end of the curve, larger nuclei have relatively lower binding energy per nucleon compared to smaller nuclei. This is because the repulsive electromagnetic force between the positively charged protons in the nucleus increases with increasing number of protons. This repulsive force limits the size of the nucleus and causes it to become less stable.  "
+  "body": " Binding Energy   Binding energy binding energy is the amount of energy required to separate a nucleons into the protons and neutrons. In an atomic nucleus, the protons and neutrons are held together by the strong nuclear force, which acts over short distances. The binding energy of a nucleus can be calculated by subtracting the total mass of its individual protons and neutrons from the total mass of the nucleus itself. According to Einstein's famous equation, the mass difference between the two states is equivalent to the binding energy. The binding energy of a nucleus has important implications for both the stability of the nucleus and for the energy released during nuclear reactions. Nuclei with higher binding energy are generally more stable and less likely to undergo spontaneous decay, while nuclei with lower binding energy are more likely to undergo radioactive decay. Additionally, the energy released during nuclear reactions is directly proportional to the binding energy of the nucleus. When a nucleus is formed, protons and neutrons come together and bind to form the nucleus. This process is driven by the strong nuclear force, which acts over short distances to hold the particles together. The formation of a nucleus also leads to the release of energy. This energy is in the form of electromagnetic radiation and called the binding energy. It is the same amount of energy required to separate the protons and neutrons in the nucleus when broken down to individual components. For example: The deuterium ( ) has one proton and one neutron in its nucleus. So when they break apart we expect the mass of deuterium atom equals the mass of one proton (i.e. ) and the mass of one neutron. Mass of one and mass of one neutron = 1.0087 u. Therefore the total mass of . The measured mass of however, is only which is less than the combined mass of proton and neutron. This loss of mass (also known as mass defect ) appears in the form of binding energy of the deuterium atom. Similarly when one deuterium nucleus combines with one tritium nucleus to form helium nucleus tremendous amount of energy released which was a binding energy. For example: . Hence, the mass defect in this case is given by: total mass of and total mass of . Hence the difference in these masses is a mass defect, . Note: Here is the atomic mass unit . . This is the approximate mass of the hydrogen atom. Atomic mass unit is also caled Dalton. we can also consider as 1 mole of anything is equal to Now, This mass defect appears in the form of binding energy which can be calculated by equation   , the velocity of light.  Hence, energy released from this reaction is or, 17.8 MeV and . .    Binding Energy per Nucleon   Binding Energy Per Nucleon      The binding energy of a nucleus determines its stability against disintegration. The larger the binding energy, the more stable is the nucleus and vice a versa. The binding energy per nucleon, BE\/A is the ratio of Binding energy of the nucleus to the total number of nucleons . It is found that the binding energy per nucleon varies from element to element. A graph is plotted with the mass number A of the nucleus along the X-axis and binding energy per nucleon along the Y-axis. The binding energy per nucleon increases sharply with mass number A upto 20. It increases slowly after . The curve becomes almost flat for mass number between 40 and 120. Beyond 120, it decreases slowly as A increases. The binding energy per nucleon reaches a maximum at A=56, corresponding to the iron nucleus ( ). Hence, iron has the most stable nucleus. At the lower end of the curve, smaller nuclei have relatively lower binding energy per nucleon compared to larger nuclei. This is because the attractive strong nuclear force, which holds the nucleons together, decreases rapidly with increasing distance between the nucleons. As a result, small nuclei tend to be less stable and more likely to undergo nuclear reactions, such as beta decay. At the higher end of the curve, larger nuclei have relatively lower binding energy per nucleon compared to smaller nuclei. This is because the repulsive electromagnetic force between the positively charged protons in the nucleus increases with increasing number of protons. This repulsive force limits the size of the nucleus and causes it to become less stable.   "
 },
 {
   "id": "fig-bepn",
   "level": "2",
-  "url": "subsec_7bepn-subsection.html#fig-bepn",
+  "url": "subsec_7be-subsection.html#fig-bepn",
   "type": "Figure",
   "number": "7.2.4",
   "title": "",
   "body": " Binding Energy Per Nucleon     "
 },
 {
-  "id": "subsec_7nr-subsection",
+  "id": "subsec_7nr",
   "level": "1",
-  "url": "subsec_7nr-subsection.html",
+  "url": "subsec_7nr.html",
   "type": "Subsection",
-  "number": "7.2.6",
+  "number": "7.2.3",
   "title": "Nuclear Reactions",
   "body": " Nuclear Reactions  Nuclear reactions are the process in which nucleus of an atom changes. These changes can be either decay processes, in which the nucleus of an atom emits particles or radiation, or fusion processes, in which two or more atomic nuclei come together to form a heavier nucleus. There are two main types of nuclear reactions:  Nuclear Fission Reactions: These reactions involve the spontaneous decay of an unstable nucleus into a more stable form. Common types of nuclear decay reactions include alpha decay, beta decay, and gamma decay.  Nuclear Fusion Reactions: These reactions involve the fusion of two atomic nuclei to form a heavier nucleus. This process releases a large amount of energy, and is the reaction that powers the sun. Nuclear fusion reactions are difficult to achieve on Earth, but are being researched as a potential source of clean and abundant energy.     Nuclear Reactions    Nuclear Fission Reaction     Nuclear Fusion Reaction      In both types of reactions, the sum of the atomic numbers of the reactants must equal the sum of the atomic numbers of the products, and the total mass of the reactants must equal the total mass of the products, according to the law of conservation of matter and energy. In fission reactions, the mass defect of the original nucleus is converted into energy, which is released as kinetic energy of the fission products and as gamma radiation. This energy can be harnessed for practical purposes, such as generating electricity in nuclear power plants, or for destructive purposes, such as in atomic bombs. Binding energy in a fusion reaction refers to the energy required to overcome the repulsive forces between positively charged nuclei and bring them close enough together to form a heavier nucleus through a fusion process. When the nuclei are close enough, they can form a single nucleus through the strong force, releasing a large amount of energy in the process.  "
 },
 {
   "id": "figure-67",
   "level": "2",
-  "url": "subsec_7nr-subsection.html#figure-67",
+  "url": "subsec_7nr.html#figure-67",
   "type": "Figure",
   "number": "7.2.5",
   "title": "",
   "body": " Nuclear Reactions    Nuclear Fission Reaction     Nuclear Fusion Reaction     "
 },
 {
-  "id": "subsec_7erad-subsection",
+  "id": "subsec_7erad",
   "level": "1",
-  "url": "subsec_7erad-subsection.html",
+  "url": "subsec_7erad.html",
   "type": "Subsection",
-  "number": "7.2.7",
+  "number": "7.2.4",
   "title": "Effects of Radiation",
-  "body": " Effects of Radiation  In nuclear reaction emits alpha, beta, and other high enegy waves or particles that can knock out atoms or molecules to form ions. These ions come under ionizing radiation. Such radiation can damage living cells and affects protien or DNA molecules. There are several types of radiation, including: alpha radiation, beta radiation, gamma radiation, X-rays, nuclear radiation, and cosmic radiation, etc. Cosmic radiation is high-energy radiation that originates from outside of the Earth's atmosphere. It consists of high-energy particles, including protons and electrons, that are produced by the Sun and other astronomical sources. Radiation doses doses are measured in the Sievert (Sv) unit. The sievert is used to describe the amount of ionizing radiation that has been absorbed by a material. The another unit of doses is Rads (short for \"radiation absorbed dose\"). It is used to quantify the amount of energy deposited in a material by ionizing radiation per unit mass. One rad is 0.01 joule of energy deposited in one kilogram of tissue. That is of energy deposited on the tissue. One sievert is equal to 100 rads. The sievert is the standard unit of measurement used to describe the amount of ionizing radiation that has been absorbed by the human body, and it is used to evaluate the potential health risks associated with exposure to ionizing radiation. We receive 3.1 mSv per year from natural radiation resources, 3.1 mSv per year from medical and dental x-rays, and 0.4 mSv from mammogram. The total unavoidable radiation doses are about 6.2 mSv per year. The allowed safe radiation dose limit for a healthy human is . The risk of radiation induced cancer is much smaller than other hazardous activities such as smoking. Sources of radiation exposure is given in    Sources of Radiation Exposure    "
+  "body": " Effects of Radiation   Sources of Radiation    In nuclear reaction emits alpha, beta, and other high enegy waves or particles that can knock out atoms or molecules to form ions. These ions come under ionizing radiation. Such radiation can damage living cells and affects protien or DNA molecules. There are several types of radiation, including: alpha radiation, beta radiation, gamma radiation, X-rays, nuclear radiation, and cosmic radiation, etc. Cosmic radiation is high-energy radiation that originates from outside of the Earth's atmosphere. It consists of high-energy particles, including protons and electrons, that are produced by the Sun and other astronomical sources. Radiation doses doses are measured in the Sievert (Sv) unit. The sievert is used to describe the amount of ionizing radiation that has been absorbed by a material. The another unit of doses is Rads (short for \"radiation absorbed dose\"). It is used to quantify the amount of energy deposited in a material by ionizing radiation per unit mass. One rad is 0.01 joule of energy deposited in one kilogram of tissue. That is of energy deposited on the tissue. One sievert is equal to 100 rads. The sievert is the standard unit of measurement used to describe the amount of ionizing radiation that has been absorbed by the human body, and it is used to evaluate the potential health risks associated with exposure to ionizing radiation. We receive 3.1 mSv per year from natural radiation resources, 3.1 mSv per year from medical and dental x-rays, and 0.4 mSv from mammogram. The total unavoidable radiation doses are about 6.2 mSv per year. The allowed safe radiation dose limit for a healthy human is . The risk of radiation induced cancer is much smaller than other hazardous activities such as smoking. Sources of radiation exposure is given in   "
+},
+{
+  "id": "fig-radexps",
+  "level": "2",
+  "url": "subsec_7erad.html#fig-radexps",
+  "type": "Figure",
+  "number": "7.2.6",
+  "title": "",
+  "body": " Sources of Radiation   "
 },
 {
   "id": "p-575",
   "level": "2",
-  "url": "subsec_7erad-subsection.html#p-575",
+  "url": "subsec_7erad.html#p-575",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "doses Sievert (Sv) "
 },
 {
-  "id": "fig-radexps",
-  "level": "2",
-  "url": "subsec_7erad-subsection.html#fig-radexps",
-  "type": "Figure",
-  "number": "7.2.6",
-  "title": "",
-  "body": " Sources of Radiation Exposure   "
-},
-{
-  "id": "subsec_7nreact-subsection",
+  "id": "subsec_7nreact",
   "level": "1",
-  "url": "subsec_7nreact-subsection.html",
+  "url": "subsec_7nreact.html",
   "type": "Subsection",
-  "number": "7.2.8",
+  "number": "7.2.5",
   "title": "Nuclear Reactor",
   "body": " Nuclear Reactor  In nuclear fission reaction neutron is absorbed by unstable nucleus and get splitted into two or more small nuclides with the emission of another neutron\/s. Such neutrons may cause increasing nuclear fission reactions, called the chain reaction. A nuclear reactor is a device that is used to initiate and control a sustained nuclear chain reaction. This reaction is the process by which atomic nuclei release energy through interactions with other particles. The heat produced by the fission reactions is used to generate steam, which in turn drives a turbine and generates electricity. Please click on the animation link: Nuclear Reactor Plant The core of a nuclear reactor contains fuel rods, which contain fuel pellets made of nuclear fuel, such as uranium dioxide. The fuel rods are surrounded by coolant, which is used to transfer heat from the core to a steam generator. The steam generator is used to produce steam, which drives the turbine to generate electricity. In addition to the fuel rods, the core of a nuclear reactor also contains control rods, which are used to regulate the rate of fission reactions by absorbing excess neutrons. The control rods can be moved up and down within the core to control the reaction rate.  "
 },
@@ -4129,16 +4012,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "10.2.1",
   "title": "Winds",
-  "body": " Winds  Winds wind are primarily caused by differences in temperature and pressure between different parts of Earth's atmosphere. When air is heated, it becomes less dense and rises, creating an area of low pressure. Conversely, when air cools, it becomes more dense and sinks, creating an area of high pressure. This movement of air from high pressure to low pressure creates winds, which can be influenced by the rotation of the Earth and other factors such as the presence of mountains and oceans.  Temperature differences on the different parts of earth create the pressure difference which make air to flow. For example, the equator receives more direct sunlight and is therefore warmer than the poles, creating a temperature gradient that drives the movement of air from the equator towards the poles. This creates the global circulation patterns of the atmosphere. Local temperature differences can also create wind patterns, such as sea breezes and land breezes. During the day, land heats up more quickly than water, creating an area of low pressure over the land. The cooler, higher-pressure air over the ocean moves towards the land, creating a sea breeze. At night, the situation is reversed, with the land cooling down more quickly than the ocean and creating a high-pressure area. This causes the air to move from the land towards the ocean, creating a land breeze.  The Coriolis effect  Coriolis effect is a phenomenon that occurs due to the rotation of the Earth on its axis. It causes moving objects, including air and water, to appear to veer off course from their straight-line motion. The Coriolis effect is caused by the Earth's rotation, which causes points on the equator to move at a faster speed than points closer to the poles. As a result, when air or water moves from one latitude to another, it appears to be deflected to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This deflection is due to the conservation of angular momentum, which causes the moving air or water to maintain its original speed and direction of motion as it moves across different latitudes. The Coriolis effect has important implications for weather patterns and ocean currents. In the Northern Hemisphere, the Coriolis effect causes air to rotate clockwise around areas of high pressure and counterclockwise around areas of low pressure. In the Southern Hemisphere, the rotation is opposite. Similarly, ocean currents in the Northern Hemisphere tend to flow to the right of their intended path, while those in the Southern Hemisphere tend to flow to the left. The Coriolis effect is also responsible for the formation of tropical cyclones, which are rotating storms that form over warm ocean waters. The rotation of the Earth causes these storms to spin counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere.    Coriolis Effect     Cyclones & Anticyclones     Cyclones and Anticyclones  Cyclones  cyclones are powerful rotating storms that can form over warm ocean waters. Cyclones are characterized by their low pressure center, strong winds, and heavy rainfall. Cyclones form when warm, moist air over the ocean rises and cools, causing water vapor to condense and form clouds. As the air continues to rise, it creates an area of low pressure at the surface, which draws in more warm, moist air. This cycle of rising warm air and low pressure continues, causing the storm to intensify. In the Northern Hemisphere, cyclones rotate counterclockwise and move in a west to east direction, while in the Southern Hemisphere, they rotate clockwise and move in an east to west direction. Cyclones are commonly referred to as hurricanes, typhoons, or tropical storms when they occur over warm ocean waters. .   Anticyclones are areas of high pressure that are typically associated with clear skies, calm winds, and dry weather. In an anticyclone, air is sinking rather than rising. As the air sinks, it warms and dries out, which leads to clear skies and dry weather. Because of this, anticyclones are often associated with calm weather conditions, such as clear skies, light winds, and dry air. Anticyclones can provide periods of stable, dry weather that is ideal for outdoor activities. However, prolonged periods of high pressure can lead to drought conditions and poor air quality due to stagnant air. In the Northern Hemisphere, anticyclones rotate clockwise and in the Southern Hemisphere, they rotate counterclockwise. Anticyclones are often referred to as high-pressure systems and are associated with stable weather conditions. Cyclones can cause strong winds, heavy rainfall, and storm surge, while anticyclones can cause calm winds, clear skies, and temperature inversions.   Tornado  tornado is a violent cyclonic storm. Tornadoes are capable of producing extreme winds, often in excess of 200 miles per hour, and can cause significant damage and loss of life. The warm, moist air near the ground rises rapidly, and the cooler, drier air aloft descends, creating a rotating updraft within the thunderstorm. This updraft can become concentrated and elongated, creating a visible funnel-shaped cloud. When the funnel cloud makes contact with the ground, it becomes a tornado. Tornadoes are typically short-lived, lasting only a few minutes, but can cause significant damage in that time. They can uproot trees, destroy buildings, and toss vehicles hundreds of yards away. Tornadoes can occur anywhere in the world, but the United States experiences more tornadoes than any other country, particularly in the central and southern regions known as Tornado Alley.  A hurricane  hurricane is a tropical cyclone that occurs in the Atlantic Ocean and northeastern Pacific Ocean. It is a rotating storm system that produces strong winds, heavy rain, storm surges, and flooding. Hurricanes are classified according to their wind speed such as catagory one through five. The higher the category, the more powerful the hurricane and the more damage it can cause.  "
-},
-{
-  "id": "p-806",
-  "level": "2",
-  "url": "subsec-wind.html#p-806",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Coriolis effect "
+  "body": " Winds  Winds wind are primarily caused by differences in temperature and pressure between different parts of Earth's atmosphere. When air is heated, it becomes less dense and rises, creating an area of low pressure. Conversely, when air cools, it becomes more dense and sinks, creating an area of high pressure. This movement of air from high pressure to low pressure creates winds, which can be influenced by the rotation of the Earth and other factors such as the presence of mountains and oceans.  Temperature differences on the different parts of earth create the pressure difference which make air to flow. For example, the equator receives more direct sunlight and is therefore warmer than the poles, creating a temperature gradient that drives the movement of air from the equator towards the poles. This creates the global circulation patterns of the atmosphere. Local temperature differences can also create wind patterns, such as sea breezes and land breezes. During the day, land heats up more quickly than water, creating an area of low pressure over the land. The cooler, higher-pressure air over the ocean moves towards the land, creating a sea breeze. At night, the situation is reversed, with the land cooling down more quickly than the ocean and creating a high-pressure area. This causes the air to move from the land towards the ocean, creating a land breeze.    Coriolis Effect    The Coriolis effect  Coriolis effect is a phenomenon that occurs due to the rotation of the Earth on its axis. It causes moving objects, including air and water, to appear to veer off course from their straight-line motion. The Coriolis effect is caused by the Earth's rotation, which causes points on the equator to move at a faster speed than points closer to the poles. As a result, when air or water moves from one latitude to another, it appears to be deflected to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This deflection is due to the conservation of angular momentum, which causes the moving air or water to maintain its original speed and direction of motion as it moves across different latitudes. The Coriolis effect has important implications for weather patterns and ocean currents. In the Northern Hemisphere, the Coriolis effect causes air to rotate clockwise around areas of high pressure and counterclockwise around areas of low pressure. In the Southern Hemisphere, the rotation is opposite. Similarly, ocean currents in the Northern Hemisphere tend to flow to the right of their intended path, while those in the Southern Hemisphere tend to flow to the left. The Coriolis effect is also responsible for the formation of tropical cyclones, which are rotating storms that form over warm ocean waters. The rotation of the Earth causes these storms to spin counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere.   Cyclones & Anticyclones     Cyclones and Anticyclones  Cyclones  cyclones are powerful rotating storms that can form over warm ocean waters. Cyclones are characterized by their low pressure center, strong winds, and heavy rainfall. Cyclones form when warm, moist air over the ocean rises and cools, causing water vapor to condense and form clouds. As the air continues to rise, it creates an area of low pressure at the surface, which draws in more warm, moist air. This cycle of rising warm air and low pressure continues, causing the storm to intensify. In the Northern Hemisphere, cyclones rotate counterclockwise and move in a west to east direction, while in the Southern Hemisphere, they rotate clockwise and move in an east to west direction. Cyclones are commonly referred to as hurricanes, typhoons, or tropical storms when they occur over warm ocean waters. .   Anticyclones are areas of high pressure that are typically associated with clear skies, calm winds, and dry weather. In an anticyclone, air is sinking rather than rising. As the air sinks, it warms and dries out, which leads to clear skies and dry weather. Because of this, anticyclones are often associated with calm weather conditions, such as clear skies, light winds, and dry air. Anticyclones can provide periods of stable, dry weather that is ideal for outdoor activities. However, prolonged periods of high pressure can lead to drought conditions and poor air quality due to stagnant air. In the Northern Hemisphere, anticyclones rotate clockwise and in the Southern Hemisphere, they rotate counterclockwise. Anticyclones are often referred to as high-pressure systems and are associated with stable weather conditions. Cyclones can cause strong winds, heavy rainfall, and storm surge, while anticyclones can cause calm winds, clear skies, and temperature inversions.   Tornado  tornado is a violent cyclonic storm. Tornadoes are capable of producing extreme winds, often in excess of 200 miles per hour, and can cause significant damage and loss of life. The warm, moist air near the ground rises rapidly, and the cooler, drier air aloft descends, creating a rotating updraft within the thunderstorm. This updraft can become concentrated and elongated, creating a visible funnel-shaped cloud. When the funnel cloud makes contact with the ground, it becomes a tornado. Tornadoes are typically short-lived, lasting only a few minutes, but can cause significant damage in that time. They can uproot trees, destroy buildings, and toss vehicles hundreds of yards away. Tornadoes can occur anywhere in the world, but the United States experiences more tornadoes than any other country, particularly in the central and southern regions known as Tornado Alley.  A hurricane  hurricane is a tropical cyclone that occurs in the Atlantic Ocean and northeastern Pacific Ocean. It is a rotating storm system that produces strong winds, heavy rain, storm surges, and flooding. Hurricanes are classified according to their wind speed such as catagory one through five. The higher the category, the more powerful the hurricane and the more damage it can cause.  "
 },
 {
   "id": "figure-96",
@@ -4148,6 +4022,15 @@ var ptx_lunr_docs = [
   "number": "10.2.2",
   "title": "",
   "body": "  Coriolis Effect   "
+},
+{
+  "id": "p-806",
+  "level": "2",
+  "url": "subsec-wind.html#p-806",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Coriolis effect "
 },
 {
   "id": "fig-cycantcyc",
@@ -4201,7 +4084,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "10.3.1",
   "title": "Ocean Basins",
-  "body": " Ocean Basins   Ocean Basins    Ocean basins are large depressions on the surface of the Earth that are filled with water. The ocean basins cover approximately 70% of the Earth's surface and are divided into several major basins, including the Atlantic, Indian, Pacific, and Southern Ocean basins. The ocean basins are formed by the process of plate tectonics, where the Earth's crust is broken up into several large plates that move around on the Earth's surface. As these plates move apart, new oceanic crust is formed at mid-ocean ridges [ ], and the ocean basins are gradually widened. The ocean basins are also home to a wide variety of marine life, including fish, whales, dolphins, sharks, and many other types of sea creatures. Ocean basins are bounded by continental landmasses. Ocean bottom generally slopes downward from the continental shelves to the deeper ocean basins. This slope is known as the continental slope and is usually steeper than the continental shelf. The slope continues down to the deep-sea floor, which is generally characterized by a flat plain known as the abyssal plain . Continental shelves are areas of the ocean floor that extend from the continents and are covered by shallow water . They are part of the continental crust that is submerged below sea level, and they slope gradually downward from the shorelines to the deeper ocean basins. The ocean floor is the bottom of the ocean which characterizes mountains, trenches, ridges, and plains.   "
+  "body": " Ocean Basins    Ocean Basins    Ocean basins are large depressions on the surface of the Earth that are filled with water. The ocean basins cover approximately 70% of the Earth's surface and are divided into several major basins, including the Atlantic, Indian, Pacific, and Southern Ocean basins. The ocean basins are formed by the process of plate tectonics, where the Earth's crust is broken up into several large plates that move around on the Earth's surface. As these plates move apart, new oceanic crust is formed at mid-ocean ridges [ ], and the ocean basins are gradually widened. The ocean basins are also home to a wide variety of marine life, including fish, whales, dolphins, sharks, and many other types of sea creatures.  Ocean basins are bounded by continental landmasses. Ocean bottom generally slopes downward from the continental shelves to the deeper ocean basins. This slope is known as the continental slope and is usually steeper than the continental shelf. The slope continues down to the deep-sea floor, which is generally characterized by a flat plain known as the abyssal plain . Continental shelves are areas of the ocean floor that extend from the continents and are covered by shallow water . They are part of the continental crust that is submerged below sea level, and they slope gradually downward from the shorelines to the deeper ocean basins. The ocean floor is the bottom of the ocean which characterizes mountains, trenches, ridges, and plains.    Weathering  Weathering refers to the process by which rocks and other materials are broken down and degraded over time by exposure to the elements. This can happen through physical, chemical, or biological means, and can be caused by a variety of factors such as temperature changes, wind, water, and living organisms. Physical weathering involves the mechanical breakdown of rocks and other materials due to factors such as freeze-thaw cycles, abrasion, and the expansion and contraction of materials due to temperature changes. Chemical weathering involves the breakdown of rocks and other materials through chemical reactions such as oxidation, dissolution, and hydrolysis. Biological weathering involves the breakdown of materials due to the activities of living organisms such as plants, animals, and bacteria. Weathering plays a key role in the formation of soils, the erosion of mountains, and the creation of landscapes such as canyons and valleys.    Erosion  Erosion refers to the process by which soil, rock, and other geological materials are moved from one place to another by natural agents such as wind, water, ice, and gravity. Water erosion is one of the most common types of erosion, occurring when rainwater or runoff moves soil particles downhill and into streams or rivers. Wind erosion occurs when wind picks up and carries soil particles, causing them to be deposited in other areas and potentially causing soil degradation and loss of vegetation. Glacial erosion occurs when glaciers move over the land, scraping and eroding the surface and transporting rocks and other materials to other locations. Human activities such as deforestation, agriculture, and construction can also contribute to erosion by removing vegetation and disturbing the soil, leading to increased susceptibility to erosion by natural agents.   Erosion by running water is one of the most common types of erosion and occurs when rainwater or surface runoff flows over land and picks up soil particles, which are then transported downstream. The amount of erosion by running water depends on several factors such as the velocity of the water, the amount of rainfall, and the characteristics of the soil or rock being eroded. High-velocity water, such as that found in rivers and streams, can cause significant erosion by carrying large quantities of sediment downstream. Over time, erosion by running water can cause significant changes to the landscape, including the formation of valleys and other landforms. It can also lead to soil degradation, loss of vegetation, and the deposition of sediment in water bodies, which can have negative impacts on aquatic ecosystems.    Ground Water  Water is found in various forms on Earth, including oceans, rivers, lakes, glaciers, groundwater, and atmospheric water vapor. The vast majority of Earth's water is contained in the oceans, which cover about 70% of the planet's surface. The remaining water is found in freshwater sources such as lakes, rivers, and groundwater. Groundwater refers to water that is stored beneath the Earth's surface in porous rock or soil. Groundwater is replenished through processes such as precipitation and infiltration, which cause water to percolate down through soil and rock layers until it reaches an impermeable layer, such as bedrock. Groundwater can also discharge into surface water bodies such as lakes and rivers, providing a source of water for these ecosystems.  A spring is a natural water source that flows from the ground to the surface. Springs occur when groundwater, which is water stored beneath the Earth's surface in soil, sediment, or rocks, becomes saturated and flows out to the surface. Springs are important sources of freshwater for human consumption and are also critical habitats for many plant and animal species.  The water table is the level below the ground surface where the soil or rock is saturated with water. It represents the upper boundary of the zone of saturation, which is the area beneath the ground surface where all of the pore spaces in the soil or rock are filled with water. The water table can rise or fall depending on the amount of precipitation, evaporation, and human water use in the area. The depth of the water table is an important factor in determining the availability of groundwater for drinking water, agriculture, and other uses.    Sediment Deposition  Sediment deposition sites refer to locations where sediment is deposited and accumulates over time. Sediments can come from a variety of sources, including erosion of rock and soil, volcanic activity, and human activities such as mining, construction, and agriculture. One common type of sediment deposition site is a delta, which is an area where a river or stream enters a larger body of water, such as a lake or ocean. Coastal areas can also be sediment deposition sites, where sediment is deposited by ocean currents and waves. This can lead to the formation of beaches, sand dunes, and other coastal landforms.    Caves  Caves are formed by various geological processes, such as erosion, weathering, and dissolution of rocks. The most common type of cave is a solution cave, which is formed in soluble rocks, such as limestone, dolomite, and gypsum, by the action of water and acids. When rainwater or groundwater passes through soil and vegetation, it becomes slightly acidic due to the presence of carbon dioxide. This slightly acidic water can dissolve the soluble minerals in rocks, creating cracks and fissures. Over time, these cracks and fissures can widen and form underground channels and caverns.   "
 },
 {
   "id": "fig-basin",
@@ -4213,54 +4096,27 @@ var ptx_lunr_docs = [
   "body": " Ocean Basins   "
 },
 {
-  "id": "p-812",
+  "id": "p-813",
   "level": "2",
-  "url": "subsec-basin.html#p-812",
+  "url": "subsec-basin.html#p-813",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "continental shelves continental slope abyssal plain Continental shelves ocean floor "
 },
 {
-  "id": "subsec-weather",
-  "level": "1",
-  "url": "subsec-weather.html",
-  "type": "Subsubsection",
-  "number": "10.3.1",
-  "title": "Weathering",
-  "body": " Weathering  Weathering refers to the process by which rocks and other materials are broken down and degraded over time by exposure to the elements. This can happen through physical, chemical, or biological means, and can be caused by a variety of factors such as temperature changes, wind, water, and living organisms. Physical weathering involves the mechanical breakdown of rocks and other materials due to factors such as freeze-thaw cycles, abrasion, and the expansion and contraction of materials due to temperature changes. Chemical weathering involves the breakdown of rocks and other materials through chemical reactions such as oxidation, dissolution, and hydrolysis. Biological weathering involves the breakdown of materials due to the activities of living organisms such as plants, animals, and bacteria. Weathering plays a key role in the formation of soils, the erosion of mountains, and the creation of landscapes such as canyons and valleys.  "
-},
-{
-  "id": "subsubsec-erosion",
-  "level": "1",
-  "url": "subsubsec-erosion.html",
-  "type": "Subsubsection",
-  "number": "10.3.2",
-  "title": "Erosion",
-  "body": " Erosion  Erosion refers to the process by which soil, rock, and other geological materials are moved from one place to another by natural agents such as wind, water, ice, and gravity. Water erosion is one of the most common types of erosion, occurring when rainwater or runoff moves soil particles downhill and into streams or rivers. Wind erosion occurs when wind picks up and carries soil particles, causing them to be deposited in other areas and potentially causing soil degradation and loss of vegetation. Glacial erosion occurs when glaciers move over the land, scraping and eroding the surface and transporting rocks and other materials to other locations. Human activities such as deforestation, agriculture, and construction can also contribute to erosion by removing vegetation and disturbing the soil, leading to increased susceptibility to erosion by natural agents.   Erosion by running water is one of the most common types of erosion and occurs when rainwater or surface runoff flows over land and picks up soil particles, which are then transported downstream. The amount of erosion by running water depends on several factors such as the velocity of the water, the amount of rainfall, and the characteristics of the soil or rock being eroded. High-velocity water, such as that found in rivers and streams, can cause significant erosion by carrying large quantities of sediment downstream. Over time, erosion by running water can cause significant changes to the landscape, including the formation of valleys and other landforms. It can also lead to soil degradation, loss of vegetation, and the deposition of sediment in water bodies, which can have negative impacts on aquatic ecosystems.  "
-},
-{
   "id": "p-816",
   "level": "2",
-  "url": "subsubsec-erosion.html#p-816",
+  "url": "subsec-basin.html#p-816",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Erosion by running water "
 },
 {
-  "id": "subsubsec-groundwater",
-  "level": "1",
-  "url": "subsubsec-groundwater.html",
-  "type": "Subsubsection",
-  "number": "10.3.3",
-  "title": "Ground Water",
-  "body": " Ground Water  Water is found in various forms on Earth, including oceans, rivers, lakes, glaciers, groundwater, and atmospheric water vapor. The vast majority of Earth's water is contained in the oceans, which cover about 70% of the planet's surface. The remaining water is found in freshwater sources such as lakes, rivers, and groundwater. Groundwater refers to water that is stored beneath the Earth's surface in porous rock or soil. Groundwater is replenished through processes such as precipitation and infiltration, which cause water to percolate down through soil and rock layers until it reaches an impermeable layer, such as bedrock. Groundwater can also discharge into surface water bodies such as lakes and rivers, providing a source of water for these ecosystems.  A spring is a natural water source that flows from the ground to the surface. Springs occur when groundwater, which is water stored beneath the Earth's surface in soil, sediment, or rocks, becomes saturated and flows out to the surface. Springs are important sources of freshwater for human consumption and are also critical habitats for many plant and animal species.  The water table is the level below the ground surface where the soil or rock is saturated with water. It represents the upper boundary of the zone of saturation, which is the area beneath the ground surface where all of the pore spaces in the soil or rock are filled with water. The water table can rise or fall depending on the amount of precipitation, evaporation, and human water use in the area. The depth of the water table is an important factor in determining the availability of groundwater for drinking water, agriculture, and other uses.  "
-},
-{
   "id": "p-817",
   "level": "2",
-  "url": "subsubsec-groundwater.html#p-817",
+  "url": "subsec-basin.html#p-817",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4269,7 +4125,7 @@ var ptx_lunr_docs = [
 {
   "id": "p-818",
   "level": "2",
-  "url": "subsubsec-groundwater.html#p-818",
+  "url": "subsec-basin.html#p-818",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4278,29 +4134,11 @@ var ptx_lunr_docs = [
 {
   "id": "p-819",
   "level": "2",
-  "url": "subsubsec-groundwater.html#p-819",
+  "url": "subsec-basin.html#p-819",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "water table "
-},
-{
-  "id": "subsubsec-sed_depo",
-  "level": "1",
-  "url": "subsubsec-sed_depo.html",
-  "type": "Subsubsection",
-  "number": "10.3.4",
-  "title": "Sediment Deposition",
-  "body": " Sediment Deposition  Sediment deposition sites refer to locations where sediment is deposited and accumulates over time. Sediments can come from a variety of sources, including erosion of rock and soil, volcanic activity, and human activities such as mining, construction, and agriculture. One common type of sediment deposition site is a delta, which is an area where a river or stream enters a larger body of water, such as a lake or ocean. Coastal areas can also be sediment deposition sites, where sediment is deposited by ocean currents and waves. This can lead to the formation of beaches, sand dunes, and other coastal landforms.  "
-},
-{
-  "id": "subsubsec-caves",
-  "level": "1",
-  "url": "subsubsec-caves.html",
-  "type": "Subsubsection",
-  "number": "10.3.5",
-  "title": "Caves",
-  "body": " Caves  Caves are formed by various geological processes, such as erosion, weathering, and dissolution of rocks. The most common type of cave is a solution cave, which is formed in soluble rocks, such as limestone, dolomite, and gypsum, by the action of water and acids. When rainwater or groundwater passes through soil and vegetation, it becomes slightly acidic due to the presence of carbon dioxide. This slightly acidic water can dissolve the soluble minerals in rocks, creating cracks and fissures. Over time, these cracks and fissures can widen and form underground channels and caverns.  "
 },
 {
   "id": "subsec-tsunami",
@@ -4309,16 +4147,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "10.3.2",
   "title": "Tsunami",
-  "body": " Tsunami  A tsunami  tsunami is a series of ocean waves with very long wavelengths (hundred of kilometers long) caused by large-scale disturbances of the ocean due to earthquakes , volcanic eruptions, or underwater landslides. When a large disturbance occurs, it can create a series of waves that radiate outwards from the source. These waves can travel across entire ocean basins and can cause significant damage when they reach shore. Tsunami waves can reach heights of tens of meters, and their high energy can devastate coastal communities, causing flooding, erosion, and destruction of buildings and infrastructure.    Tsunami    "
-},
-{
-  "id": "p-822",
-  "level": "2",
-  "url": "subsec-tsunami.html#p-822",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "tsunami "
+  "body": " Tsunami    Tsunami    A tsunami  tsunami is a series of ocean waves with very long wavelengths (hundred of kilometers long) caused by large-scale disturbances of the ocean due to earthquakes , volcanic eruptions, or underwater landslides. When a large disturbance occurs, it can create a series of waves that radiate outwards from the source. These waves can travel across entire ocean basins and can cause significant damage when they reach shore. Tsunami waves can reach heights of tens of meters, and their high energy can devastate coastal communities, causing flooding, erosion, and destruction of buildings and infrastructure.  "
 },
 {
   "id": "figure-99",
@@ -4328,6 +4157,15 @@ var ptx_lunr_docs = [
   "number": "10.3.2",
   "title": "",
   "body": "  Tsunami   "
+},
+{
+  "id": "p-822",
+  "level": "2",
+  "url": "subsec-tsunami.html#p-822",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "tsunami "
 },
 {
   "id": "sec_tenth-examples",
@@ -5392,18 +5230,18 @@ var ptx_lunr_docs = [
   "body": " Mars  Mars [ ] is the fourth planet from the Sun and the second-smallest planet in our solar system, after Mercury. It is often referred to as the Red Planet because of its reddish appearance, which is caused by iron oxide or rust on its surface. Mars has a diameter of approximately 6,779 kilometers, which is about half the size of Earth. It has a thin atmosphere composed mainly of carbon dioxide, with small amounts of nitrogen and argon. Mars also has the largest volcano and the deepest canyon in the solar system. There is evidence that liquid water once existed on Mars, and there are signs of dried-up riverbeds, lakes, and even an ancient ocean. The search for signs of life on Mars is a major focus of current and future missions. Several spacecraft, including rovers and orbiters, have been sent to Mars to study its surface, atmosphere, and geology. In 2020, NASA's Perseverance rover successfully landed on Mars and began exploring the Jezero Crater, which is believed to have once been a lakebed and could contain evidence of past microbial life. Mars is also a target for future human exploration, with plans for manned missions and even eventual colonization. However, the harsh conditions on Mars, including its thin atmosphere and extreme temperatures, make any such missions challenging and expensive.  The thin atmosphere of Mars does not provide significant protection from the sun's radiation and solar wind, which means that the planet's surface is bombarded by high-energy particles. However, the atmosphere does help to regulate the planet's temperature and weather patterns. The temperature on Mars can vary greatly, ranging from an average of about -63°C (-81°F) at the equator to as low as -143°C (-225°F) at the poles during the winter. During the summer, temperatures can reach a maximum of around 20°C (68°F) at the equator. The Martian atmosphere also contains clouds, dust storms, and seasonal weather patterns. Dust storms can sometimes cover the entire planet and can last for weeks or even months, affecting the solar-powered rovers and landers that are exploring the surface.  While the Mars missions have not yet found definitive evidence of life on Mars, they have provided valuable data and insights into the planet's geology, climate, and potential habitability. Future missions, including the joint NASA-ESA Mars Sample Return mission, are planned to bring back samples from Mars for further analysis, which may help answer the question of whether life exists or has ever existed on the planet.  Mars has two small moons, named Phobos and Deimos , which are thought to be captured asteroids. Phobos is the larger and closer of the two moons, and is heavily cratered with deep grooves and ridges on its surface. Its surface is thought to be composed of a mixture of rock and dust, and it orbits Mars at a distance of only 9,377 km (5,827 miles), which is closer than any other moon in the Solar System relative to its host planet. Deimos is smaller and more irregularly shaped than Phobos, and has a smoother surface with fewer craters. Its surface is also thought to be composed of a mixture of rock and dust, and it orbits Mars at a distance of about 23,460 km (14,577 miles). Both Phobos and Deimos are relatively small and irregularly shaped, and are thought to be composed of materials similar to those found in asteroids. They have been studied in detail by several spacecraft, including the Mars Reconnaissance Orbiter, which has provided us with high-resolution images and valuable scientific data about these small moons of Mars.  "
 },
 {
-  "id": "p-1002",
+  "id": "p-1001",
   "level": "2",
-  "url": "subsec-mars.html#p-1002",
+  "url": "subsec-mars.html#p-1001",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Red Planet "
 },
 {
-  "id": "p-1005",
+  "id": "p-1004",
   "level": "2",
-  "url": "subsec-mars.html#p-1005",
+  "url": "subsec-mars.html#p-1004",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5419,18 +5257,18 @@ var ptx_lunr_docs = [
   "body": " Jupiter  Jupiter [ ] is the largest planet in our solar system and the fifth planet from the Sun. It is located between the orbits of Mars and Saturn. It has a diameter of 86,881 miles (139,822 kilometers) and is a gas giant planet, meaning that it is primarily composed of hydrogen and helium gas, with no solid surface. Jupiter is known for its distinctive colorful bands of clouds, which are caused by strong winds in its atmosphere that blow in opposite directions at different latitudes. It also has a giant red spot , a massive storm that has been raging for over 300 years. Jupiter's strong gravitational pull has also led to the discovery of many small, rocky asteroids and comets that are captured in its orbit. Jupiter has been studied extensively by spacecraft, including NASA's Voyager 1 and 2 missions, as well as the Galileo spacecraft, which orbited the planet from 1995 to 2003. The Juno spacecraft, launched by NASA in 2011, is currently in orbit around Jupiter, studying its atmosphere, magnetic field, and interior structure.  Jupiter has more than 79 known moons, the largest of which is Ganymede, which is even larger than the planet Mercury. The most famous moon of Jupiter is probably Europa , which is known for its potential subsurface ocean and the possibility of harboring extraterrestrial life. Other notable moons of Jupiter include Io, Ganymede, and Callisto.  Jupiter has a system of rings, but they are not as prominent or well-known as the rings of Saturn. Jupiter's rings are composed of small particles of rock and dust, and there are four main ring groups: the halo ring, the main ring, the Amalthea gossamer ring, and the Thebe gossamer ring. These rings are thought to be formed by dust kicked up from impacts on nearby moons, and they are constantly being replenished by new dust from these sources. The rings of Jupiter are much fainter and harder to see than the rings of Saturn, and were discovered in 1979 by the Voyager 1 spacecraft.  "
 },
 {
-  "id": "p-1006",
+  "id": "p-1005",
   "level": "2",
-  "url": "subsec-jupiter.html#p-1006",
+  "url": "subsec-jupiter.html#p-1005",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "red spot "
 },
 {
-  "id": "p-1007",
+  "id": "p-1006",
   "level": "2",
-  "url": "subsec-jupiter.html#p-1007",
+  "url": "subsec-jupiter.html#p-1006",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5446,9 +5284,9 @@ var ptx_lunr_docs = [
   "body": " Saturn  Saturn [ ] is the sixth planet from the Sun and is known for its iconic rings, which are composed of countless icy particles ranging in size from tiny grains to enormous boulders. It is a gas giant planet, meaning it is predominantly made up of hydrogen and helium, with a small rocky core at its center. Saturn has the second-largest planetary atmosphere in the Solar System, after Jupiter, and is known for its numerous moons, with at least 82 moons known to orbit the planet. The largest moon of Saturn is Titan , which is the only known moon in the Solar System with a thick atmosphere and the potential to support life. Saturn is also known for its beautiful and dynamic weather patterns, including massive storms and hexagonal cloud formations at its north pole. The planet has been visited by several spacecraft, including the Voyager and Cassini missions, which have provided us with stunning images and valuable scientific data about this gas giant planet.  "
 },
 {
-  "id": "p-1009",
+  "id": "p-1008",
   "level": "2",
-  "url": "subsec-saturn.html#p-1009",
+  "url": "subsec-saturn.html#p-1008",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5464,9 +5302,9 @@ var ptx_lunr_docs = [
   "body": " Uranus  Uranus [ ] is the seventh planet from the Sun and is an ice giant planet, meaning it has a predominantly icy and gaseous composition. It has a unique feature among the planets in our solar system in that its axis of rotation is tilted at an extreme angle of 98 degrees relative to its orbit, which means that the planet appears to be rotating on its side. Uranus is the third-largest planet in our solar system and has a system of rings, although they are much less prominent than the rings of Saturn. Uranus also has at least 27 known moons, with the largest ones being Miranda , Ariel, Umbriel, Titania, and Oberon. The atmosphere of Uranus is predominantly composed of hydrogen and helium, with small amounts of methane, which gives the planet its blue-green color. Uranus is a relatively cold planet, with an average temperature of about -195 degrees Celsius (-320 degrees Fahrenheit) at its cloud tops. The planet has only been visited by one spacecraft, Voyager 2, which flew by in 1986 and provided us with our best data and images of Uranus to date.  "
 },
 {
-  "id": "p-1010",
+  "id": "p-1009",
   "level": "2",
-  "url": "subsec-uranus.html#p-1010",
+  "url": "subsec-uranus.html#p-1009",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5482,9 +5320,9 @@ var ptx_lunr_docs = [
   "body": " Neptune  Neptune [ ] is the eighth planet and farthest planet from the Sun, and is also an ice giant planet like Uranus. It is named after the Roman god of the sea due to its blue color, which comes from the presence of methane in its atmosphere. Neptune has a diameter almost four times that of Earth, making it the fourth-largest planet by diameter in our solar system. It has a very active atmosphere with high-speed winds and large storms, including the famous Great Dark Spot , which is a massive storm similar to Jupiter's Great Red Spot, but it has since disappeared. Neptune also has a system of rings and at least 14 known moons, with the largest being Triton . Triton is particularly interesting because it is one of the coldest objects in the solar system, with a surface temperature of about -235 degrees Celsius (-391 degrees Fahrenheit). It is also unique among large moons in that it orbits Neptune in a direction opposite to that of Neptune's rotation. Neptune has been visited by only one spacecraft, Voyager 2, which flew by the planet in 1989 and provided us with our best data and images of Neptune to date.  "
 },
 {
-  "id": "p-1011",
+  "id": "p-1010",
   "level": "2",
-  "url": "subsec-neptune.html#p-1011",
+  "url": "subsec-neptune.html#p-1010",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5509,9 +5347,9 @@ var ptx_lunr_docs = [
   "body": " Moon Song   "
 },
 {
-  "id": "p-1016",
+  "id": "p-1015",
   "level": "2",
-  "url": "subsec-moonphase.html#p-1016",
+  "url": "subsec-moonphase.html#p-1015",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5527,18 +5365,18 @@ var ptx_lunr_docs = [
   "body": " Eclipse  An eclipse eclipse occurs when an astronomical object is temporarily obscured, either partially or completely, by another object [ The Lunar and Solar Eclipses ]. The two main types of eclipses are solar eclipses and lunar eclipses. A solar eclipse occurs when the Moon passes between the Sun and the Earth, blocking the Sun's light and creating a shadow on the Earth. There are three types of solar eclipses: total, partial, and annular. During a total solar eclipse , the Moon completely covers the Sun, leaving only its corona visible. During a partial solar eclipse, only a portion of the Sun is covered by the Moon. During an annular solar eclipse, the Moon is too far away from the Earth to completely cover the Sun, creating a ring of fire effect. A lunar eclipse occurs when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. There are two types of lunar eclipses: total and partial. During a total lunar eclipse, the Moon is completely covered by the Earth's shadow, creating a reddish hue. During a partial lunar eclipse, only a portion of the Moon is covered by the Earth's shadow. Eclipses are relatively rare events that require specific alignment of the Sun, Moon, and Earth. While there are several eclipses each year, they are typically only visible from specific regions of the Earth and require clear skies and proper viewing conditions to be seen.  During a New Moon , the Moon is located between the Earth and the Sun , and the side of the Moon that faces Earth is not illuminated by the Sun, making it invisible from Earth. When the Moon passes directly in front of the Sun during a New Moon, a solar eclipse can occur, temporarily blocking out the Sun's light and casting a shadow on the Earth. On the other hand, a full moon occurs when the Earth is located between the Sun and the Moon , with the illuminated side of the Moon facing Earth. It's worth noting that a lunar eclipse can only occur during a Full Moon phase, when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. During a lunar eclipse, the Moon may appear reddish in color due to the Earth's atmosphere refracting sunlight onto the Moon's surface. As the orbital planes of moon is tilted about to the Earth orbital plane, we do not have eclipses on every new moon or full moon day [ ].   Eclipse    "
 },
 {
-  "id": "p-1017",
+  "id": "p-1016",
   "level": "2",
-  "url": "subsec-eclipse.html#p-1017",
+  "url": "subsec-eclipse.html#p-1016",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "solar eclipse lunar eclipse "
 },
 {
-  "id": "p-1018",
+  "id": "p-1017",
   "level": "2",
-  "url": "subsec-eclipse.html#p-1018",
+  "url": "subsec-eclipse.html#p-1017",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5788,9 +5626,9 @@ var ptx_lunr_docs = [
   "body": "    Refracting Telescope     Reflecting Telescope     Radio Telescope     "
 },
 {
-  "id": "p-1055",
+  "id": "p-1054",
   "level": "2",
-  "url": "subsec-astrotools.html#p-1055",
+  "url": "subsec-astrotools.html#p-1054",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5803,7 +5641,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "13.1.2",
   "title": "The Sun",
-  "body": " The Sun   The Sun    Sunspot     Nuclear Fusion     Solar Spectrum      The Sun is a star located at the center of our solar system solar system . It is a massive, glowing ball of gas born in the sky about 4.6 billion years ago. It is about 1.39 million kilometers in diameter and is mostly composed of hydrogen (about 74% of its mass) and helium (about 24% of its mass) with trace amounts of other elements. The Sun is classified as a G-type main-sequence star which is a relatively stable and has long-live. The Sun is in the continuous process of fusing hydrogen [ ] into helium in its core. This fusion process releases a tremendous amount of energy in the form of light and heat, which makes the Sun shine. The Sun's magnetic field is responsible for sunspots , [ ] solar flares, and coronal mass ejections, which can have a significant impact on Earth's climate and technology. The dark patch on the sun's surface is known as sunspot. It is relatively cooler part of sun's surface due to magnetic field lines. The Sun's activity (the number of spots on the sun increases and decreases) follows an 11-year cycle, called the solar maximums and minimums.   Sun's parts    The Sun is composed of several distinct parts. Such as Core: The core is the central region of the Sun where nuclear fusion occurs. The temperature in the core is about 15 million degrees Celsius, and the pressure is about 250 billion times greater than the surface of the Earth. In the core, hydrogen atoms are fused together to form helium, releasing a tremendous amount of energy in the process. Radiative Zone: The radiative zone is the region of the Sun where energy is transported by photons (particles of light). The energy produced in the core travels outwards through the radiative zone over a period of about 100,000 years. Convective Zone: The convective zone is the outermost layer of the Sun's interior. The convective zone is characterized by a boiling motion which is similar to water boiling in a pot. Photosphere: The photosphere is the visible surface of the Sun. This is from where most of the light and heat we receive on Earth originate. The temperature of the photosphere is about 5,500 degrees Celsius, and it appears as a bright, yellow disk in the sky. Chromosphere: The chromosphere is the thin layer of gas above the photosphere. It is visible during a total solar eclipse as a reddish-pink ring around the Sun. The temperature of the chromosphere is about 4,000 to 20,000 degrees Celsius. Corona: The corona is the outermost layer of the Sun's atmosphere. It extends millions of kilometers into space and is visible during a total solar eclipse as a faint, white halo around the Sun. The temperature of the corona is several million degrees Celsius, much hotter than the surface of the Sun.  Sun's atmosphere can be detected through its characteristic absorption lines in the Sun's spectrum [ ]. Elements are created through nuclear fusion processes as the Sun fuses hydrogen into helium, the byproducts of this process can go on to create heavier elements, which eventually settle into the Sun's interior.  "
+  "body": " The Sun    The Sun    Sunspot     Nuclear Fusion     Solar Spectrum      The Sun is a star located at the center of our solar system solar system . It is a massive, glowing ball of gas born in the sky about 4.6 billion years ago. It is about 1.39 million kilometers in diameter and is mostly composed of hydrogen (about 74% of its mass) and helium (about 24% of its mass) with trace amounts of other elements. The Sun is classified as a G-type main-sequence star which is a relatively stable and has long-live. The Sun is in the continuous process of fusing hydrogen [ ] into helium in its core. This fusion process releases a tremendous amount of energy in the form of light and heat, which makes the Sun shine. The Sun's magnetic field is responsible for sunspots , [ ] solar flares, and coronal mass ejections, which can have a significant impact on Earth's climate and technology. The dark patch on the sun's surface is known as sunspot. It is relatively cooler part of sun's surface due to magnetic field lines. The Sun's activity (the number of spots on the sun increases and decreases) follows an 11-year cycle, called the solar maximums and minimums.   Sun's parts    The Sun is composed of several distinct parts. Such as Core: The core is the central region of the Sun where nuclear fusion occurs. The temperature in the core is about 15 million degrees Celsius, and the pressure is about 250 billion times greater than the surface of the Earth. In the core, hydrogen atoms are fused together to form helium, releasing a tremendous amount of energy in the process. Radiative Zone: The radiative zone is the region of the Sun where energy is transported by photons (particles of light). The energy produced in the core travels outwards through the radiative zone over a period of about 100,000 years. Convective Zone: The convective zone is the outermost layer of the Sun's interior. The convective zone is characterized by a boiling motion which is similar to water boiling in a pot. Photosphere: The photosphere is the visible surface of the Sun. This is from where most of the light and heat we receive on Earth originate. The temperature of the photosphere is about 5,500 degrees Celsius, and it appears as a bright, yellow disk in the sky. Chromosphere: The chromosphere is the thin layer of gas above the photosphere. It is visible during a total solar eclipse as a reddish-pink ring around the Sun. The temperature of the chromosphere is about 4,000 to 20,000 degrees Celsius. Corona: The corona is the outermost layer of the Sun's atmosphere. It extends millions of kilometers into space and is visible during a total solar eclipse as a faint, white halo around the Sun. The temperature of the corona is several million degrees Celsius, much hotter than the surface of the Sun.  Sun's atmosphere can be detected through its characteristic absorption lines in the Sun's spectrum [ ]. Elements are created through nuclear fusion processes as the Sun fuses hydrogen into helium, the byproducts of this process can go on to create heavier elements, which eventually settle into the Sun's interior.    Solar Energy  Solar energy is generated from the sun's radiation through a process known as nuclear fusion [ ]. The high temperature and pressure in the core of a star cause the atomic nuclei to collide and merge to create a heavier nucleus and release energy in the process. The energy produced by the fusion reactions [ ] The Nuclear Fusion Reaction in a star is carried by radiation in the form of photons, which slowly make their way outwards from the core of the star. This energy is what powers the star and allows it to shine brightly in the sky. As a star ages and begins to run out of hydrogen fuel in its core, it may begin to undergo other fusion reactions that involve heavier elements. These reactions can produce even more energy, but eventually the star will exhaust all of its nuclear fuel and will either become a white dwarf, neutron star, or black hole, depending on its mass.    Aurora Borealis   Aurora    Auroras, also known as the Northern or Southern Lights, are natural phenomena that occur in the Earth's upper atmosphere when charged particles from the Sun interact with the Earth's magnetic field. The Sun constantly releases a stream of charged particles, known as the solar wind, into space. When the solar wind encounters the Earth's magnetic field, it can cause the field lines to become distorted and create a region of charged particles trapped in the Earth's magnetosphere. Some of these particles, primarily electrons and protons, are funneled down towards the Earth's polar regions by the Earth's magnetic field. When these charged particles collide with the gases in the Earth's upper atmosphere, such as nitrogen and oxygen, they can excite the atoms and molecules, causing them to emit light. This produces the colorful and shimmering displays of light known as auroras. Green color auroras are produced by excited oxygen atoms at lower altitude in the atmosphere, while red auroras are produced by excited oxygen molecules at higher altitudes. The pink or purple hues that sometimes appear in the aurora are caused by the collision of charged particles with nitrogen molecules in the Earth's atmosphere. Note: The term aurora borealis specifically refers to the northern lights, which are visible in the northern hemisphere. The term aurora australis refers to the southern lights, which are visible in the southern hemisphere.   "
 },
 {
   "id": "figure-156",
@@ -5815,9 +5653,9 @@ var ptx_lunr_docs = [
   "body": " The Sun    Sunspot     Nuclear Fusion     Solar Spectrum     "
 },
 {
-  "id": "p-1058",
+  "id": "p-1057",
   "level": "2",
-  "url": "subsec-sun.html#p-1058",
+  "url": "subsec-sun.html#p-1057",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5833,45 +5671,27 @@ var ptx_lunr_docs = [
   "body": " Sun's parts   "
 },
 {
-  "id": "p-1059",
+  "id": "p-1058",
   "level": "2",
-  "url": "subsec-sun.html#p-1059",
+  "url": "subsec-sun.html#p-1058",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Core: Radiative Zone: Convective Zone: Photosphere: Chromosphere: Corona: "
 },
 {
-  "id": "subsec-solarenergy",
-  "level": "1",
-  "url": "subsec-solarenergy.html",
-  "type": "Subsection",
-  "number": "13.1.3",
-  "title": "Solar Energy",
-  "body": " Solar Energy  Solar energy is generated from the sun's radiation through a process known as nuclear fusion [ ]. The high temperature and pressure in the core of a star cause the atomic nuclei to collide and merge to create a heavier nucleus and release energy in the process. The energy produced by the fusion reactions [ ] The Nuclear Fusion Reaction in a star is carried by radiation in the form of photons, which slowly make their way outwards from the core of the star. This energy is what powers the star and allows it to shine brightly in the sky. As a star ages and begins to run out of hydrogen fuel in its core, it may begin to undergo other fusion reactions that involve heavier elements. These reactions can produce even more energy, but eventually the star will exhaust all of its nuclear fuel and will either become a white dwarf, neutron star, or black hole, depending on its mass.  "
-},
-{
-  "id": "subsec-aurora",
-  "level": "1",
-  "url": "subsec-aurora.html",
-  "type": "Subsection",
-  "number": "13.1.4",
-  "title": "Aurora Borealis",
-  "body": " Aurora Borealis   Aurora    Auroras, also known as the Northern or Southern Lights, are natural phenomena that occur in the Earth's upper atmosphere when charged particles from the Sun interact with the Earth's magnetic field. The Sun constantly releases a stream of charged particles, known as the solar wind, into space. When the solar wind encounters the Earth's magnetic field, it can cause the field lines to become distorted and create a region of charged particles trapped in the Earth's magnetosphere. Some of these particles, primarily electrons and protons, are funneled down towards the Earth's polar regions by the Earth's magnetic field. When these charged particles collide with the gases in the Earth's upper atmosphere, such as nitrogen and oxygen, they can excite the atoms and molecules, causing them to emit light. This produces the colorful and shimmering displays of light known as auroras. Green color auroras are produced by excited oxygen atoms at lower altitude in the atmosphere, while red auroras are produced by excited oxygen molecules at higher altitudes. The pink or purple hues that sometimes appear in the aurora are caused by the collision of charged particles with nitrogen molecules in the Earth's atmosphere. Note: The term aurora borealis specifically refers to the northern lights, which are visible in the northern hemisphere. The term aurora australis refers to the southern lights, which are visible in the southern hemisphere.  "
-},
-{
   "id": "fig-aurora",
   "level": "2",
-  "url": "subsec-aurora.html#fig-aurora",
+  "url": "subsec-sun.html#fig-aurora",
   "type": "Figure",
   "number": "13.1.4",
   "title": "",
   "body": " Aurora   "
 },
 {
-  "id": "p-1062",
+  "id": "p-1061",
   "level": "2",
-  "url": "subsec-aurora.html#p-1062",
+  "url": "subsec-sun.html#p-1061",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5882,23 +5702,23 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "subsec-stellardist.html",
   "type": "Subsection",
-  "number": "13.1.5",
+  "number": "13.1.3",
   "title": "Stellar Distances",
   "body": " Stellar Distances  There are several methods used in astronomy to measure the distance of stars. Some of the most common are: Parallax Method: This method is uded to measure the distance of nearby stars. It measures the apparent shift in the position of a star when viewed from different positions in space. The distance to the star can be calculated using trigonometry with the angle between the two positions. Spectroscopic Method: This method is used to measure the distance to stars by analyzing their spectra. The spectra of stars can be used to determine their temperature, luminosity, and composition, which can be used to estimate their distance. Main Sequence Fitting: [ ] This method involves comparing the brightness and temperature of a star with those of other stars whose distances have been accurately measured using other methods. By comparing the star's characteristics to those of other stars with known distances, its distance can be estimated. Cepheid Variables: Cepheid variables are pulsating stars with a well-defined relationship between their pulsation period and their luminosity. By measuring the period of Cepheid variable star, its luminosity can be estimated, and its distance calculated. Supernova Brightness: [ ] Type Ia supernovae are known to have a very consistent brightness, making them useful as standard candles for distance measurement. By comparing the observed brightness of a Type Ia supernova to its known intrinsic brightness, its distance can be calculated.  Brightness and luminosity are important factors in determining the distance of stars. Brightness , also known as apparent magnitude, is a measure of how bright a star appears to an observer on Earth. It is affected by the distance of the star, as well as other factors such as its size and temperature. A star's brightness can be measured using a magnitude scale, with lower numbers indicating brighter stars and higher numbers indicating dimmer stars. Luminosity , on the other hand, is a measure of the total amount of energy that a star emits per unit time. It is related to the star's size, temperature, and distance. Luminosity can be measured in terms of the sun's luminosity, which is a standard unit of measurement.  "
 },
 {
-  "id": "p-1063",
+  "id": "p-1062",
   "level": "2",
-  "url": "subsec-stellardist.html#p-1063",
+  "url": "subsec-stellardist.html#p-1062",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Parallax Method: Spectroscopic Method: Main Sequence Fitting: Cepheid Variables: Supernova Brightness: "
 },
 {
-  "id": "p-1064",
+  "id": "p-1063",
   "level": "2",
-  "url": "subsec-stellardist.html#p-1064",
+  "url": "subsec-stellardist.html#p-1063",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5911,7 +5731,34 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "13.2.1",
   "title": "Supernovas",
-  "body": " Supernovas  A supernova supernova is a powerful and catastrophic explosion that occurs when a star reaches the end of its life. Supernovae can release an enormous amount of energy, equivalent to the energy emitted by an entire galaxy. There are two main types of supernovae: Type Ia supernovae are thought to occur when a white dwarf star in a binary system accretes matter from its companion star, eventually reaching a critical mass and exploding. Type Ia supernovae are important for measuring cosmic distances because they have a relatively consistent and predictable brightness. Type II supernovae occur when a massive star runs out of fuel for nuclear fusion in its core and collapses under its own gravity. The core of the star becomes incredibly dense and hot, leading to a rapid release of energy that produces a powerful explosion. Type II supernovae can leave behind a neutron star or a black hole . Supernovae are responsible for the production of heavy elements such as iron and gold. Supernovae can also trigger the formation of new stars and planetary systems. Additionally, the energy and material released by supernovae can have a significant impact on their surrounding environment, including the formation of nebulae and the acceleration of cosmic rays.  "
+  "body": " Supernovas    Supernova    A supernova supernova is a powerful and catastrophic explosion that occurs when a star reaches the end of its life. Supernovae can release an enormous amount of energy, equivalent to the energy emitted by an entire galaxy. There are two main types of supernovae: Type Ia supernovae are thought to occur when a white dwarf star in a binary system accretes matter from its companion star, eventually reaching a critical mass and exploding. Type Ia supernovae are important for measuring cosmic distances because they have a relatively consistent and predictable brightness. Type II supernovae occur when a massive star runs out of fuel for nuclear fusion in its core and collapses under its own gravity. The core of the star becomes incredibly dense and hot, leading to a rapid release of energy that produces a powerful explosion. Type II supernovae can leave behind a neutron star or a black hole . Supernovae are responsible for the production of heavy elements such as iron and gold. Supernovae can also trigger the formation of new stars and planetary systems. Additionally, the energy and material released by supernovae can have a significant impact on their surrounding environment, including the formation of nebulae and the acceleration of cosmic rays.    Neutron Stars   Neutron Star    A neutron star neutron star is a type of compact star that is incredibly dense, with a diameter of only about 10-20 kilometers and a mass of around 1.4 to 3 times that of the Sun. Neutron stars [ ] are formed when a massive star undergoes a supernova explosion, and the core of the star collapses under its own gravity, making it so dense that protons and electrons combine to form neutrons. The extreme density of a neutron star causes its gravitational field over a billion times stronger than Earth's gravitational field. It spins several times per second which can produce intense magnetic fields, making neutron stars some of the strongest magnets in the universe. The strong magnetic fields can also produce beams of radiation that are visible as pulsing signals, leading to the term pulsar [ ]. Neutron stars are incredibly hot, with surface temperatures estimated to be around 1 million degrees Celsius (1.8 million degrees Fahrenheit), and they emit radiation across the electromagnetic spectrum, from X-rays to radio waves. They are also believed to be a source of heavy elements in the universe, as they are thought to be involved in the production of many of the elements beyond iron.  The current understanding is that if a white dwarf star exceeds a mass of about 1.4 to 3 times the mass of the Sun, known as the Chandrasekhar limit, it will collapse to become a neutron star.    Pulsars   Pulsars    Pulsars [ ] are believed to be rotating neutron stars that emit beams of radiation from their magnetic poles. As the neutron star rotates, the beams of radiation sweep across space like a lighthouse, producing a regular pattern of pulses that can be detected by telescopes on Earth.    Black Holes   Black Hole    A black hole [ ] blackhole is a region of space where the gravitational pull is so strong that nothing, not even light, can escape. Black holes are formed from the remnants of massive stars that have undergone a supernova explosion and collapsed under their own gravity. If the collapsing object is larger than about 3 times the mass of the Sun, the gravitational forces become so strong that not even neutrons can resist the collapse, and a black hole is formed. They have no surface or structure, but instead are characterized by their mass, spin, and electric charge. The mass of a black hole can range from a few times that of the Sun to billions of times that of the Sun. The region around a black hole where the gravitational pull is so strong that nothing can escape is called the event horizon. Once matter crosses the event horizon, it is trapped by the black hole and cannot escape. The point at the center of a black hole where the gravitational pull becomes infinite is called the singularity , and our current understanding of physics breaks down at this point. Black holes are invisible, as they do not emit any light or other forms of radiation. However, their presence can be inferred from the effects of their gravity on nearby matter. For example, if a black hole is in a binary star system, its gravity can cause the visible star to wobble, and the mass of the black hole can be estimated from the size of the wobble. As a black hole pulls matter into it, the matter gets accelerated and emits radiation that can be detected by telescopes. This radiation can come from the accretion disk around the black hole [ ], where matter gets heated up and emits X-rays and other high-energy radiation.   Accretion Disk     "
+},
+{
+  "id": "fig-supernova",
+  "level": "2",
+  "url": "subsec-supernova.html#fig-supernova",
+  "type": "Figure",
+  "number": "13.2.2",
+  "title": "",
+  "body": " Supernova   "
+},
+{
+  "id": "p-1069",
+  "level": "2",
+  "url": "subsec-supernova.html#p-1069",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Type Ia supernovae Type II supernovae neutron star or a black hole "
+},
+{
+  "id": "fig-neutronstar",
+  "level": "2",
+  "url": "subsec-supernova.html#fig-neutronstar",
+  "type": "Figure",
+  "number": "13.2.3",
+  "title": "",
+  "body": " Neutron Star   "
 },
 {
   "id": "p-1070",
@@ -5920,57 +5767,30 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Type Ia supernovae Type II supernovae neutron star or a black hole "
-},
-{
-  "id": "subsec-neutronstar",
-  "level": "1",
-  "url": "subsec-neutronstar.html",
-  "type": "Subsection",
-  "number": "13.2.2",
-  "title": "Neutron Stars",
-  "body": " Neutron Stars      Neutron Star     Pulsars     Black Hole      A neutron star neutron star is a type of compact star that is incredibly dense, with a diameter of only about 10-20 kilometers and a mass of around 1.4 to 3 times that of the Sun. Neutron stars [ ] are formed when a massive star undergoes a supernova explosion, and the core of the star collapses under its own gravity, making it so dense that protons and electrons combine to form neutrons. The extreme density of a neutron star causes its gravitational field over a billion times stronger than Earth's gravitational field. It spins several times per second which can produce intense magnetic fields, making neutron stars some of the strongest magnets in the universe. The strong magnetic fields can also produce beams of radiation that are visible as pulsing signals, leading to the term pulsar [ ]. Neutron stars are incredibly hot, with surface temperatures estimated to be around 1 million degrees Celsius (1.8 million degrees Fahrenheit), and they emit radiation across the electromagnetic spectrum, from X-rays to radio waves. They are also believed to be a source of heavy elements in the universe, as they are thought to be involved in the production of many of the elements beyond iron.  The current understanding is that if a white dwarf star exceeds a mass of about 1.4 to 3 times the mass of the Sun, known as the Chandrasekhar limit, it will collapse to become a neutron star.  "
-},
-{
-  "id": "figure-165",
-  "level": "2",
-  "url": "subsec-neutronstar.html#figure-165",
-  "type": "Figure",
-  "number": "13.2.2",
-  "title": "",
-  "body": "    Neutron Star     Pulsars     Black Hole     "
-},
-{
-  "id": "p-1071",
-  "level": "2",
-  "url": "subsec-neutronstar.html#p-1071",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
   "body": "pulsar "
 },
 {
-  "id": "subsec-pulsars",
-  "level": "1",
-  "url": "subsec-pulsars.html",
-  "type": "Subsection",
-  "number": "13.2.3",
-  "title": "Pulsars",
-  "body": " Pulsars  Pulsars [ ] are believed to be rotating neutron stars that emit beams of radiation from their magnetic poles. As the neutron star rotates, the beams of radiation sweep across space like a lighthouse, producing a regular pattern of pulses that can be detected by telescopes on Earth.  "
-},
-{
-  "id": "subsec-blackhole",
-  "level": "1",
-  "url": "subsec-blackhole.html",
-  "type": "Subsection",
-  "number": "13.2.4",
-  "title": "Black Holes",
-  "body": " Black Holes  A black hole [ ] blackhole is a region of space where the gravitational pull is so strong that nothing, not even light, can escape. Black holes are formed from the remnants of massive stars that have undergone a supernova explosion and collapsed under their own gravity. If the collapsing object is larger than about 3 times the mass of the Sun, the gravitational forces become so strong that not even neutrons can resist the collapse, and a black hole is formed. They have no surface or structure, but instead are characterized by their mass, spin, and electric charge. The mass of a black hole can range from a few times that of the Sun to billions of times that of the Sun. The region around a black hole where the gravitational pull is so strong that nothing can escape is called the event horizon. Once matter crosses the event horizon, it is trapped by the black hole and cannot escape. The point at the center of a black hole where the gravitational pull becomes infinite is called the singularity , and our current understanding of physics breaks down at this point. Black holes are invisible, as they do not emit any light or other forms of radiation. However, their presence can be inferred from the effects of their gravity on nearby matter. For example, if a black hole is in a binary star system, its gravity can cause the visible star to wobble, and the mass of the black hole can be estimated from the size of the wobble. As a black hole pulls matter into it, the matter gets accelerated and emits radiation that can be detected by telescopes. This radiation can come from the accretion disk around the black hole [ ], where matter gets heated up and emits X-rays and other high-energy radiation.   Accretion Disk    "
-},
-{
-  "id": "p-1074",
+  "id": "fig-pulsars",
   "level": "2",
-  "url": "subsec-blackhole.html#p-1074",
+  "url": "subsec-supernova.html#fig-pulsars",
+  "type": "Figure",
+  "number": "13.2.4",
+  "title": "",
+  "body": " Pulsars   "
+},
+{
+  "id": "fig-blackholes",
+  "level": "2",
+  "url": "subsec-supernova.html#fig-blackholes",
+  "type": "Figure",
+  "number": "13.2.5",
+  "title": "",
+  "body": " Black Hole   "
+},
+{
+  "id": "p-1073",
+  "level": "2",
+  "url": "subsec-supernova.html#p-1073",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5979,9 +5799,9 @@ var ptx_lunr_docs = [
 {
   "id": "fig-accretiondisk",
   "level": "2",
-  "url": "subsec-blackhole.html#fig-accretiondisk",
+  "url": "subsec-supernova.html#fig-accretiondisk",
   "type": "Figure",
-  "number": "13.2.3",
+  "number": "13.2.6",
   "title": "",
   "body": " Accretion Disk   "
 },
@@ -5990,7 +5810,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "subsec-expnduniv.html",
   "type": "Subsection",
-  "number": "13.2.5",
+  "number": "13.2.2",
   "title": "Evolution of the Solar System",
   "body": " Evolution of the Solar System  The Solar System is thought to have formed around 4.6 billion years ago from a giant cloud of gas and dust called the solar nebula. The process of Solar System formation is still not completely understood, but scientists have developed a theory called the nebular hypothesis to explain it. According to the nebular [ ] hypothesis, the solar nebula began to collapse under its own gravity, forming a spinning disk of gas and dust. As the disk spun faster and flattened out, it began to heat up and the pressure at its center increased, eventually leading to the formation of the Sun. At the same time, small grains of dust and ice in the disk began to stick together, forming larger and larger clumps. These clumps eventually became planetesimals, which collided and merged to form the planets. The inner planets, including Mercury, Venus, Earth, and Mars, are thought to have formed from the solid materials that were closest to the Sun. They are relatively small and rocky, with few or no moons. The outer planets, including Jupiter, Saturn, Uranus, and Neptune, are much larger and more massive than the inner planets. They are also composed mostly of gas and ice, with many moons and other small objects orbiting them. After the planets formed, the Solar System continued to evolve. Some objects, such as comets and asteroids, were ejected from the Solar System, while others collided with the planets and moons, causing significant changes to their surfaces. The planets continue to orbit the Sun, and some are still active, with volcanic activity, weather patterns, and other processes shaping their surfaces.  "
 },
@@ -6229,18 +6049,18 @@ var ptx_lunr_docs = [
   "body": " Milky Way Galaxy  The Milky Way [ ] is a barred spiral galaxy , which has a central bar-shaped structure and spiral arms that wrap around it. It is estimated to be about 13.6 billion years old and is located about 25,000 light-years from the galactic center. The Milky Way contains hundreds of billions of stars, as well as numerous other celestial objects, such as planets, nebulae, and black holes . The Milky Way's spiral arms are thought to be sites of ongoing star formation, and it is believed that many of the elements that make up our solar system and our bodies were created in these stars. The Milky Way also contains a supermassive black hole at its center, which is surrounded by a region of intense radiation known as the galactic bulge. Our solar system is located in one of the Milky Way's spiral arms, and as a result, our view of the galaxy is heavily obscured by dust and gas.  The Milky Way is a relatively large galaxy, with a diameter of about 100,000 light-years and a mass of approximately 1 trillion times that of our sun. The Milky Way is home to many important celestial objects such as the galactic center, which is a region of intense radiation and contains a supermassive black hole. The Milky Way's disk is also surrounded by a halo of dark matter, which is an invisible form of matter (Dark Matter) that can only be detected through its gravitational effects on visible matter. The Milky Way is part of a larger group of galaxies known as the Local Group , which also includes the Andromeda galaxy and several other smaller galaxies. The Milky Way is also home to numerous open and globular clusters , which are groups of stars that are held together by their mutual gravitational attraction.  "
 },
 {
-  "id": "p-1119",
+  "id": "p-1118",
   "level": "2",
-  "url": "subsec-milkyway.html#p-1119",
+  "url": "subsec-milkyway.html#p-1118",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "black hole "
 },
 {
-  "id": "p-1120",
+  "id": "p-1119",
   "level": "2",
-  "url": "subsec-milkyway.html#p-1120",
+  "url": "subsec-milkyway.html#p-1119",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6271,12 +6091,12 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "14.1.4",
   "title": "Magelenic Cloud",
-  "body": " Magelenic Cloud  The Magellanic Clouds magellanic cloud are two small satellite galaxies that orbit the Milky Way galaxy. The Magellanic Clouds are located in the southern hemisphere, and they are visible to the naked eye from the southern latitudes. The Large Magellanic Cloud (LMC) is the larger of the two clouds, and it is located about 163,000 light-years away from Earth. It has a diameter of about 14,000 light-years and contains tens of billions of stars, as well as star-forming regions , supernova remnants, and other astronomical objects. The Magellanic Clouds are important objects for astronomers to study because they provide insight into the evolution of satellite galaxies and their interactions with larger host galaxies like the Milky Way.  "
+  "body": " Magelenic Cloud  The Magellanic Clouds magellanic cloud are two small satellite galaxies that orbit the Milky Way galaxy. The Magellanic Clouds are located in the southern hemisphere, and they are visible to the naked eye from the southern latitudes. The Large Magellanic Cloud (LMC) is the larger of the two clouds, and it is located about 163,000 light-years away from Earth. It has a diameter of about 14,000 light-years and contains tens of billions of stars, as well as star-forming regions , supernova remnants, and other astronomical objects.  "
 },
 {
-  "id": "p-1125",
+  "id": "p-1124",
   "level": "2",
-  "url": "subsec-magelenic.html#p-1125",
+  "url": "subsec-magelenic.html#p-1124",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6301,9 +6121,9 @@ var ptx_lunr_docs = [
   "body": "    Crab Nebula     Eye Nebula     Horsehead Nebula     "
 },
 {
-  "id": "p-1126",
+  "id": "p-1125",
   "level": "2",
-  "url": "subsec-nebula.html#p-1126",
+  "url": "subsec-nebula.html#p-1125",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6319,9 +6139,9 @@ var ptx_lunr_docs = [
   "body": " Dark Matter and Dark Energy  Dark matter and dark energy are two of the most mysterious and intriguing components of the universe. Dark matter  dark matter is a type of matter that is thought to make up about 27% of the total matter content of the universe. It is called \"dark\" because it does not emit, absorb, or reflect light, making it invisible to telescopes and other instruments that detect electromagnetic radiation. The presence of dark matter is inferred from its gravitational effects on visible matter, such as stars and galaxies. Dark matter is believed to play a key role in the formation and evolution of galaxies, as well as the large-scale structure of the universe. Dark energy  dark energy is a hypothetical form of energy that is thought to make up about 68% of the total energy content of the universe. It is called \"dark\" because, like dark matter, it is invisible to telescopes and other instruments that detect electromagnetic radiation. The existence of dark energy is inferred from observations of the accelerating expansion of the universe. Dark energy is believed to be responsible for this acceleration, although the exact nature of dark energy is not yet well understood. Together, dark matter and dark energy are thought to make up about 95% of the total matter and energy content of the universe, with the remaining 5% consisting of visible matter, such as stars, galaxies, and interstellar gas and dust. The study of dark matter and dark energy is a major area of research in cosmology, and scientists are working to understand their properties and how they influence the evolution and fate of the universe.  "
 },
 {
-  "id": "p-1127",
+  "id": "p-1126",
   "level": "2",
-  "url": "subsec-darkmatt.html#p-1127",
+  "url": "subsec-darkmatt.html#p-1126",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6337,9 +6157,9 @@ var ptx_lunr_docs = [
   "body": " Quasars   Quasars [ ] are some of the brightest and most energetic objects in the universe. They are thought to be powered by supermassive black holes that are actively accreting matter. As the matter falls towards the black hole, it heats up and emits intense radiation that can outshine entire galaxies. Subsequent observations revealed that quasars were located at extreme distances, billions of light-years away. Quasars are associated with massive galaxies in the early universe. As gas falls towards the central black hole, it also triggers the formation of stars and the growth of the galaxy. Quasars are thus thought to be crucial in understanding the formation and evolution of galaxies.  "
 },
 {
-  "id": "p-1128",
+  "id": "p-1127",
   "level": "2",
-  "url": "subsec-Quasars.html#p-1128",
+  "url": "subsec-Quasars.html#p-1127",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6355,9 +6175,9 @@ var ptx_lunr_docs = [
   "body": " Expansion of the Universe   Hubble's law  Hubble's law describes the relationship between the distance to a galaxy and its observed redshift. The law states that the farther away a galaxy is from us, the faster it is moving away from us. This relationship is described by the equation where is the velocity of the galaxy, is its distance from us, and is the Hubble's constant,  ( )  Hubble's constant  which is a measure of the rate at which the Universe is expanding. The Hubble constant has been determined through observations of distant galaxies and is currently estimated to be around 73 kilometers per second per megaparsec . This means that for every megaparsec (about 3.26 million light-years) of distance, a galaxy appears to be moving away from us at a rate of 73 kilometers per second. The discovery of Hubble's law revolutionized our understanding of the Universe and led to the development of the Big Bang theory. Hubble's law provides strong evidence that the Universe is expanding, and that it began with a single, explosive event around 13.8 billion years ago.   Expansion of Universe    The balloon analogy is often used to explain the expansion of the universe. In this analogy, the universe is represented by the surface of a balloon, and as the balloon is inflated, all points on the surface move away from each other. In this analogy, the size of the balloon represents the size of the universe, and the dots on the surface represent galaxies. As the balloon expands, the distance between any two dots (galaxies) increases. This is similar to how the distance between any two galaxies in the universe is increasing due to the expansion of the universe.  "
 },
 {
-  "id": "p-1129",
+  "id": "p-1128",
   "level": "2",
-  "url": "subsec-expansion.html#p-1129",
+  "url": "subsec-expansion.html#p-1128",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
