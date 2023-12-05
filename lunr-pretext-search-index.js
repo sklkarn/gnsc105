@@ -4525,12 +4525,12 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "11.1.1",
   "title": "Composition of Earth’s Crust",
-  "body": " Composition of Earth's Crust      Composition of crust     Slicate ion      The Earth's crust is composed of a variety of different elements and minerals. The most abundant elements in the Earth's crust are oxygen (~47%), silicon (~28%), aluminum, iron, calcium, sodium, potassium, and magnesium. These elements combine to form a variety of minerals, such as quartz, feldspar, mica, and olivine. The exact composition of the Earth's crust varies depending on factors such as location and geological history, but in general, the crust is composed of three main types of rocks: igneous, sedimentary, and metamorphic .  Silica, or silicon dioxide , and Silicates (combination of silicon, oxygen, and other metals such as aluminum, iron, and magnesium) are the most abundant compounds of the Earth's crust. For example, quartz, which is composed of silicon dioxide, is one of the most common minerals in the Earth's crust. Silica also plays a critical role in the formation of rocks through the process of weathering and erosion. When rocks containing silica are exposed to the elements, such as wind and water, the silica can be broken down and transported to other locations, where it can form new rocks. Slicates are an important components of many types of rocks, including igneous, sedimentary, and metamorphic rocks. In igneous rocks, silicates are the dominant mineral group, and they are the primary component of rocks such as granite and basalt. In sedimentary rocks, silicates are also abundant and can be found in rocks such as sandstone and shale. In metamorphic rocks, silicates are often transformed into new minerals due to the effects of heat and pressure. Silicates are important in the Earth's crust because they are involved in many geological processes. For example, the weathering of silicate minerals can release nutrients such as potassium and phosphorus that are essential for plant growth. Silicates also play a role in the cycling of carbon dioxide between the atmosphere, the oceans, and the Earth's crust. The tetrahedron geometry of silicate ion is given in the   "
+  "body": " Composition of Earth's Crust      Composition of crust     Slicate ion      The Earth's crust is composed of different elements and minerals. The most abundant elements in the Earth's crust are oxygen (~47%), silicon (~28%), aluminum, iron, calcium, sodium, potassium, and magnesium. These elements combine to form a variety of minerals, such as quartz, feldspar, mica, and olivine. The exact composition of the Earth's crust varies depending on factors such as location and geological history, but in general, the crust is composed of three main types of rocks: igneous, sedimentary, and metamorphic .  Silica, or silicon dioxide , and Silicates (combination of silicon, oxygen, and other metals such as aluminum, iron, and magnesium, ) are the most abundant compounds of the Earth's crust. For example, quartz, which is composed of silicon dioxide, is one of the most common minerals in the Earth's crust. When rocks containing silica are exposed to the elements, such as wind and water, the silica can be broken down and transported to other locations, where it can form new rocks. Slicates are an important components of many types of rocks, including igneous, sedimentary, and metamorphic rocks. In igneous rocks, silicates are the dominant mineral group, and they are the primary component of rocks such as granite and basalt. In sedimentary rocks, silicates are also abundant and can be found in rocks such as sandstone and shale. In metamorphic rocks, silicates are often transformed into new minerals due to the effects of heat and pressure. Silicates are important in the Earth's crust because they are involved in many geological processes. For example, the weathering of silicate minerals can release nutrients such as potassium and phosphorus that are essential for plant growth. Whetering hepls silicates to recycle carbon dioxide. The tetrahedron geometry of silicate ion is given in the   "
 },
 {
-  "id": "figure-105",
+  "id": "figure-103",
   "level": "2",
-  "url": "subsec-crust.html#figure-105",
+  "url": "subsec-crust.html#figure-103",
   "type": "Figure",
   "number": "11.1.2",
   "title": "",
@@ -4555,9 +4555,9 @@ var ptx_lunr_docs = [
   "body": " Types of Rocks   "
 },
 {
-  "id": "p-896",
+  "id": "p-897",
   "level": "2",
-  "url": "subsec-Rocks.html#p-896",
+  "url": "subsec-Rocks.html#p-897",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4573,22 +4573,13 @@ var ptx_lunr_docs = [
   "body": " Some common Rocks   "
 },
 {
-  "id": "p-897",
-  "level": "2",
-  "url": "subsec-Rocks.html#p-897",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Basaltic Rock: "
-},
-{
   "id": "p-898",
   "level": "2",
   "url": "subsec-Rocks.html#p-898",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Granitic Rock: "
+  "body": "Basaltic Rock: "
 },
 {
   "id": "p-899",
@@ -4597,7 +4588,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Coal "
+  "body": "Granitic Rock: "
 },
 {
   "id": "p-900",
@@ -4606,7 +4597,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Limestone "
+  "body": "Coal "
 },
 {
   "id": "p-901",
@@ -4615,12 +4606,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Shale "
+  "body": "Limestone "
 },
 {
   "id": "p-902",
   "level": "2",
   "url": "subsec-Rocks.html#p-902",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Shale "
+},
+{
+  "id": "p-903",
+  "level": "2",
+  "url": "subsec-Rocks.html#p-903",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4636,9 +4636,9 @@ var ptx_lunr_docs = [
   "body": " Coral Reef  Coral reefs are built by colonies of small organisms called coral polyps. Coral reefs are found in shallow and clear waters in tropical and subtropical regions around the world. Coral reefs are composed of \"reef\" limestone which is formed from the accumulation of the calcium carbonate skeletons of coral polyps. Over time, the accumulation of these skeletons forms the hard, rocky structure of the reef.  "
 },
 {
-  "id": "p-903",
+  "id": "p-904",
   "level": "2",
-  "url": "subsec-coralreef.html#p-903",
+  "url": "subsec-coralreef.html#p-904",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4651,25 +4651,25 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "11.3.1",
   "title": "Types of Deformation",
-  "body": " Types of Deformation      Types of faults     Focus and epicenter     Richter scale      There are many types of structural deformation happens on the earth surface. They are faults, folds, warps, tilts, rises, and falls. Faults faults are crack in the earth's crust. A Fult is a fracture or break in the Earth's crust along which movement occurs relative to each other. Faults can be classified as either dip-slip faults, where the movement is vertical, or strike-slip faults, where the movement is horizontal. Here are some of the most common types of faults: Normal fault: occurs when two blocks of rock are pulled apart, causing one block to drop down relative to the other. Normal faults are common in areas where the Earth's crust is being stretched, such as at divergent plate boundaries. Reverse (or, thrust) fault: occurs when two blocks of rock are pushed together, causing one block to be pushed up relative to the other. Reverse faults are common in areas where the Earth's crust is being compressed, such as at convergent plate boundaries. Strike-slip fault: occurs when two blocks of rock slide past each other horizontally. Strike-slip faults are common in areas where the Earth's crust is being sheared, such as at transform plate boundaries. Thrust fault: is a type of reverse fault in which the angle of the fault plane is shallow. Thrust faults are common in areas where the Earth's crust is being compressed, such as in mountain ranges. Faults are seen in . Folds: A fold is a bend or curve in the Earth's crust that results from compressional forces. Folds can be classified as either anticlines, where the rock layers arch upwards, or synclines, where the rock layers fold downwards. Tilts: A tilt is a change in the angle of the Earth's crust relative to the horizontal. Tilts can be caused by various forces, including tectonic movements and the deposition of sedimentary layers. Warps: A warp is a broad upward or downward deformation of the Earth's crust. Warps can be caused by tectonic forces or the weight of overlying sedimentary layers. The rise and fall of the Earth's surface can occur due to tectonic activity, volcanic activity, erosion, and sedimentation. In tectonic activity, When plates collide or move apart, they can cause the Earth's surface to rise or fall. For example, the collision of the Indian and Eurasian plates caused the Himalayan Mountains to rise.  "
+  "body": " Types of Deformation      Types of faults     Focus and epicenter     Richter scale      There are many types of structural deformation happens on the earth surface. They are faults, folds, warps, tilts, rises, and falls. A Fault  fault is a fracture, crack, or break in the Earth's crust along which earth's plates move relative to each other. Faults can be classified as either dip-slip faults, where the movement is vertical, or strike-slip faults, where the movement is horizontal. Here are some of the most common types of faults: Normal fault: occurs when two blocks of rock are pulled apart, causing one block to drop down relative to the other. Normal faults are common in areas where the Earth's crust is being stretched, such as at divergent plate boundaries. Reverse (or, thrust) fault: occurs when two blocks of rock are pushed together, causing one block to be pushed up relative to the other. Reverse faults are common in areas where the Earth's crust is being compressed, such as at convergent plate boundaries. Strike-slip fault: occurs when two blocks of rock slide past each other horizontally. Strike-slip faults are common in areas where the Earth's crust is being sheared, such as at transform plate boundaries. Thrust fault: is a type of reverse fault in which the angle of the fault plane is shallow. Thrust faults are common in areas where the Earth's crust is being compressed, such as in mountain ranges. Faults are seen in . Folds: A fold is a bend or curve in the Earth's crust that results from compressional forces. Folds can be classified as either anticlines, where the rock layers arch upwards, or synclines, where the rock layers fold downwards. Tilts: A tilt is a change in the angle of the Earth's crust relative to the horizontal. Tilts can be caused by various forces, including tectonic movements and the deposition of sedimentary layers. Warps: A warp is a broad upward or downward deformation of the Earth's crust. Warps can be caused by tectonic forces or the weight of overlying sedimentary layers. The rise and fall of the Earth's surface can occur due to tectonic activity, volcanic activity, erosion, and sedimentation. In tectonic activity, When plates collide or move apart, they can cause the Earth's surface to rise or fall. For example, the collision of the Indian and Eurasian plates caused the Himalayan Mountains to rise.  "
 },
 {
-  "id": "figure-117",
+  "id": "figure-115",
   "level": "2",
-  "url": "subsec-faults.html#figure-117",
+  "url": "subsec-faults.html#figure-115",
   "type": "Figure",
   "number": "11.3.4",
   "title": "",
   "body": "    Types of faults     Focus and epicenter     Richter scale     "
 },
 {
-  "id": "p-907",
+  "id": "p-908",
   "level": "2",
-  "url": "subsec-faults.html#p-907",
+  "url": "subsec-faults.html#p-908",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Fult Normal fault: Reverse (or, thrust) fault: Strike-slip fault: Thrust fault: Folds: Tilts: Warps: rise and fall "
+  "body": "Fault Normal fault: Reverse (or, thrust) fault: Strike-slip fault: Thrust fault: Folds: Tilts: Warps: rise and fall "
 },
 {
   "id": "subsec-drift",
@@ -4690,18 +4690,18 @@ var ptx_lunr_docs = [
   "body": " Earth map   "
 },
 {
-  "id": "figure-123",
+  "id": "figure-121",
   "level": "2",
-  "url": "subsec-drift.html#figure-123",
+  "url": "subsec-drift.html#figure-121",
   "type": "Figure",
   "number": "11.4.3",
   "title": "",
   "body": "  Theory of Continental drift   "
 },
 {
-  "id": "p-911",
+  "id": "p-912",
   "level": "2",
-  "url": "subsec-drift.html#p-911",
+  "url": "subsec-drift.html#p-912",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4726,9 +4726,9 @@ var ptx_lunr_docs = [
   "body": " Plate collision   "
 },
 {
-  "id": "p-912",
+  "id": "p-913",
   "level": "2",
-  "url": "subsec-platetect.html#p-912",
+  "url": "subsec-platetect.html#p-913",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -4753,9 +4753,9 @@ var ptx_lunr_docs = [
   "body": " Human Evolutionary Tree   "
 },
 {
-  "id": "p-917",
+  "id": "p-918",
   "level": "2",
-  "url": "subsec-humhist.html#p-917",
+  "url": "subsec-humhist.html#p-918",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5158,22 +5158,13 @@ var ptx_lunr_docs = [
   "body": " Debri Belts  Asteroids are small, rocky objects that orbit the sun. There are millions of asteroids in our solar system, ranging in size from tiny pebbles to massive rocks several hundred kilometers across. Most asteroids are found in the asteroid belt , [ ] a region of space between Mars and Jupiter. Asteroids are thought to be remnants from the early solar system, left over from the formation of the planets. Studying asteroids can give us insights into the formation and evolution of the solar system, as well as provide clues about the potential hazards that these objects pose to our planet. Meteoroids can come from various sources, including the asteroid belt. Small rocky objects in asteroids belt sometimes collide with each other and create meteoroids. However, meteoroids can also come from other sources, such as comets or other objects in space. Once a meteoroid enters the Earth's atmosphere, it is called a meteor or shooting star.  A meteor shower occurs when the Earth passes through a trail of debris left behind by a comet or asteroid. As the Earth moves through this debris field, the small particles, called meteoroids, enter the Earth's atmosphere at high speeds and burn up, creating streaks of light in the sky that we call meteors or shooting stars . Meteor showers can occur at various times throughout the year, and they are often named after the constellation that appears to be the source of the meteors (the radiant). Some of the most well-known meteor showers include the Perseids (in August), the Leonids (in November), and the Geminids (in December).  The Kuiper Belt [ ] is a region of the solar system located beyond the orbit of Neptune, extending from about 30 to 50 astronomical units (AU) from the Sun. It is a vast region of space containing many small icy objects, including dwarf planets such as Pluto, Haumea, Makemake, and Eris, as well as numerous smaller bodies known as Kuiper Belt Objects (KBOs). The Kuiper Belt is thought to be the source of many short-period comets, which are believed to be icy bodies that originate from this region and are gravitationally perturbed by the gas giants, particularly Jupiter.  The Oort Cloud [ ] is a theoretical region of the outer solar system that is thought to be the source of most long-period comets. It is believed to extend from about 2,000 to 100,000 astronomical units (AU) from the Sun, which is well beyond the Kuiper Belt. The Oort Cloud is composed of icy objects, including comets, that are thought to have formed in the early solar system and were gravitationally scattered to the outer reaches of the solar system by the gas giants. The comets in the Oort Cloud can be perturbed by passing stars, which can send them on trajectories that bring them into the inner solar system, where they become visible as long-period comets. The Oort Cloud is named after Dutch astronomer Jan Oort, who first proposed its existence in 1950 based on observations of comets.      Hale-Bopp comet     Comet's orbit       Comets are celestial bodies that orbit the sun and are primarily composed of ice, dust, and rock [ ]. They are often referred to as \"dirty snowballs\" because of their composition. When a comet approaches the sun, its ice begins to vaporize, releasing gas and dust that form a glowing coma, a temporary atmosphere around the nucleus. The solar wind and radiation pressure from the sun cause the coma to form a tail that points away from the sun. Comets can have highly elliptical orbits [ ] that take them far from the sun and then back towards it, sometimes taking thousands of years to complete a single orbit. Many comets are believed to originate in the Kuiper Belt, a region beyond Neptune that contains icy bodies and small planets. Some comets have been known to collide with planets or moons, and these collisions can have significant impacts on the celestial body's surface. Comets have fascinated people for centuries and have been the subject of many myths and legends. They have also been studied extensively by astronomers, who use them as a tool to study the formation and evolution of the solar system.  "
 },
 {
-  "id": "p-991",
-  "level": "2",
-  "url": "subsec-debribelts.html#p-991",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "asteroid belt Meteoroids "
-},
-{
   "id": "p-992",
   "level": "2",
   "url": "subsec-debribelts.html#p-992",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "meteor shower meteors or shooting stars "
+  "body": "asteroid belt Meteoroids "
 },
 {
   "id": "p-993",
@@ -5182,7 +5173,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Kuiper Belt dwarf planets Pluto, "
+  "body": "meteor shower meteors or shooting stars "
 },
 {
   "id": "p-994",
@@ -5191,21 +5182,30 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "Kuiper Belt dwarf planets Pluto, "
+},
+{
+  "id": "p-995",
+  "level": "2",
+  "url": "subsec-debribelts.html#p-995",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "Oort Cloud "
 },
 {
-  "id": "figure-134",
+  "id": "figure-132",
   "level": "2",
-  "url": "subsec-debribelts.html#figure-134",
+  "url": "subsec-debribelts.html#figure-132",
   "type": "Figure",
   "number": "12.1.3",
   "title": "",
   "body": "    Hale-Bopp comet     Comet's orbit     "
 },
 {
-  "id": "p-995",
+  "id": "p-996",
   "level": "2",
-  "url": "subsec-debribelts.html#p-995",
+  "url": "subsec-debribelts.html#p-996",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5230,18 +5230,18 @@ var ptx_lunr_docs = [
   "body": " Mars  Mars [ ] is the fourth planet from the Sun and the second-smallest planet in our solar system, after Mercury. It is often referred to as the Red Planet because of its reddish appearance, which is caused by iron oxide or rust on its surface. Mars has a diameter of approximately 6,779 kilometers, which is about half the size of Earth. It has a thin atmosphere composed mainly of carbon dioxide, with small amounts of nitrogen and argon. Mars also has the largest volcano and the deepest canyon in the solar system. There is evidence that liquid water once existed on Mars, and there are signs of dried-up riverbeds, lakes, and even an ancient ocean. The search for signs of life on Mars is a major focus of current and future missions. Several spacecraft, including rovers and orbiters, have been sent to Mars to study its surface, atmosphere, and geology. In 2020, NASA's Perseverance rover successfully landed on Mars and began exploring the Jezero Crater, which is believed to have once been a lakebed and could contain evidence of past microbial life. Mars is also a target for future human exploration, with plans for manned missions and even eventual colonization. However, the harsh conditions on Mars, including its thin atmosphere and extreme temperatures, make any such missions challenging and expensive.  The thin atmosphere of Mars does not provide significant protection from the sun's radiation and solar wind, which means that the planet's surface is bombarded by high-energy particles. However, the atmosphere does help to regulate the planet's temperature and weather patterns. The temperature on Mars can vary greatly, ranging from an average of about -63°C (-81°F) at the equator to as low as -143°C (-225°F) at the poles during the winter. During the summer, temperatures can reach a maximum of around 20°C (68°F) at the equator. The Martian atmosphere also contains clouds, dust storms, and seasonal weather patterns. Dust storms can sometimes cover the entire planet and can last for weeks or even months, affecting the solar-powered rovers and landers that are exploring the surface.  While the Mars missions have not yet found definitive evidence of life on Mars, they have provided valuable data and insights into the planet's geology, climate, and potential habitability. Future missions, including the joint NASA-ESA Mars Sample Return mission, are planned to bring back samples from Mars for further analysis, which may help answer the question of whether life exists or has ever existed on the planet.  Mars has two small moons, named Phobos and Deimos , which are thought to be captured asteroids. Phobos is the larger and closer of the two moons, and is heavily cratered with deep grooves and ridges on its surface. Its surface is thought to be composed of a mixture of rock and dust, and it orbits Mars at a distance of only 9,377 km (5,827 miles), which is closer than any other moon in the Solar System relative to its host planet. Deimos is smaller and more irregularly shaped than Phobos, and has a smoother surface with fewer craters. Its surface is also thought to be composed of a mixture of rock and dust, and it orbits Mars at a distance of about 23,460 km (14,577 miles). Both Phobos and Deimos are relatively small and irregularly shaped, and are thought to be composed of materials similar to those found in asteroids. They have been studied in detail by several spacecraft, including the Mars Reconnaissance Orbiter, which has provided us with high-resolution images and valuable scientific data about these small moons of Mars.  "
 },
 {
-  "id": "p-1001",
+  "id": "p-1002",
   "level": "2",
-  "url": "subsec-mars.html#p-1001",
+  "url": "subsec-mars.html#p-1002",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Red Planet "
 },
 {
-  "id": "p-1004",
+  "id": "p-1005",
   "level": "2",
-  "url": "subsec-mars.html#p-1004",
+  "url": "subsec-mars.html#p-1005",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5257,18 +5257,18 @@ var ptx_lunr_docs = [
   "body": " Jupiter  Jupiter [ ] is the largest planet in our solar system and the fifth planet from the Sun. It is located between the orbits of Mars and Saturn. It has a diameter of 86,881 miles (139,822 kilometers) and is a gas giant planet, meaning that it is primarily composed of hydrogen and helium gas, with no solid surface. Jupiter is known for its distinctive colorful bands of clouds, which are caused by strong winds in its atmosphere that blow in opposite directions at different latitudes. It also has a giant red spot , a massive storm that has been raging for over 300 years. Jupiter's strong gravitational pull has also led to the discovery of many small, rocky asteroids and comets that are captured in its orbit. Jupiter has been studied extensively by spacecraft, including NASA's Voyager 1 and 2 missions, as well as the Galileo spacecraft, which orbited the planet from 1995 to 2003. The Juno spacecraft, launched by NASA in 2011, is currently in orbit around Jupiter, studying its atmosphere, magnetic field, and interior structure.  Jupiter has more than 79 known moons, the largest of which is Ganymede, which is even larger than the planet Mercury. The most famous moon of Jupiter is probably Europa , which is known for its potential subsurface ocean and the possibility of harboring extraterrestrial life. Other notable moons of Jupiter include Io, Ganymede, and Callisto.  Jupiter has a system of rings, but they are not as prominent or well-known as the rings of Saturn. Jupiter's rings are composed of small particles of rock and dust, and there are four main ring groups: the halo ring, the main ring, the Amalthea gossamer ring, and the Thebe gossamer ring. These rings are thought to be formed by dust kicked up from impacts on nearby moons, and they are constantly being replenished by new dust from these sources. The rings of Jupiter are much fainter and harder to see than the rings of Saturn, and were discovered in 1979 by the Voyager 1 spacecraft.  "
 },
 {
-  "id": "p-1005",
+  "id": "p-1006",
   "level": "2",
-  "url": "subsec-jupiter.html#p-1005",
+  "url": "subsec-jupiter.html#p-1006",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "red spot "
 },
 {
-  "id": "p-1006",
+  "id": "p-1007",
   "level": "2",
-  "url": "subsec-jupiter.html#p-1006",
+  "url": "subsec-jupiter.html#p-1007",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5284,9 +5284,9 @@ var ptx_lunr_docs = [
   "body": " Saturn  Saturn [ ] is the sixth planet from the Sun and is known for its iconic rings, which are composed of countless icy particles ranging in size from tiny grains to enormous boulders. It is a gas giant planet, meaning it is predominantly made up of hydrogen and helium, with a small rocky core at its center. Saturn has the second-largest planetary atmosphere in the Solar System, after Jupiter, and is known for its numerous moons, with at least 82 moons known to orbit the planet. The largest moon of Saturn is Titan , which is the only known moon in the Solar System with a thick atmosphere and the potential to support life. Saturn is also known for its beautiful and dynamic weather patterns, including massive storms and hexagonal cloud formations at its north pole. The planet has been visited by several spacecraft, including the Voyager and Cassini missions, which have provided us with stunning images and valuable scientific data about this gas giant planet.  "
 },
 {
-  "id": "p-1008",
+  "id": "p-1009",
   "level": "2",
-  "url": "subsec-saturn.html#p-1008",
+  "url": "subsec-saturn.html#p-1009",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5302,9 +5302,9 @@ var ptx_lunr_docs = [
   "body": " Uranus  Uranus [ ] is the seventh planet from the Sun and is an ice giant planet, meaning it has a predominantly icy and gaseous composition. It has a unique feature among the planets in our solar system in that its axis of rotation is tilted at an extreme angle of 98 degrees relative to its orbit, which means that the planet appears to be rotating on its side. Uranus is the third-largest planet in our solar system and has a system of rings, although they are much less prominent than the rings of Saturn. Uranus also has at least 27 known moons, with the largest ones being Miranda , Ariel, Umbriel, Titania, and Oberon. The atmosphere of Uranus is predominantly composed of hydrogen and helium, with small amounts of methane, which gives the planet its blue-green color. Uranus is a relatively cold planet, with an average temperature of about -195 degrees Celsius (-320 degrees Fahrenheit) at its cloud tops. The planet has only been visited by one spacecraft, Voyager 2, which flew by in 1986 and provided us with our best data and images of Uranus to date.  "
 },
 {
-  "id": "p-1009",
+  "id": "p-1010",
   "level": "2",
-  "url": "subsec-uranus.html#p-1009",
+  "url": "subsec-uranus.html#p-1010",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5320,9 +5320,9 @@ var ptx_lunr_docs = [
   "body": " Neptune  Neptune [ ] is the eighth planet and farthest planet from the Sun, and is also an ice giant planet like Uranus. It is named after the Roman god of the sea due to its blue color, which comes from the presence of methane in its atmosphere. Neptune has a diameter almost four times that of Earth, making it the fourth-largest planet by diameter in our solar system. It has a very active atmosphere with high-speed winds and large storms, including the famous Great Dark Spot , which is a massive storm similar to Jupiter's Great Red Spot, but it has since disappeared. Neptune also has a system of rings and at least 14 known moons, with the largest being Triton . Triton is particularly interesting because it is one of the coldest objects in the solar system, with a surface temperature of about -235 degrees Celsius (-391 degrees Fahrenheit). It is also unique among large moons in that it orbits Neptune in a direction opposite to that of Neptune's rotation. Neptune has been visited by only one spacecraft, Voyager 2, which flew by the planet in 1989 and provided us with our best data and images of Neptune to date.  "
 },
 {
-  "id": "p-1010",
+  "id": "p-1011",
   "level": "2",
-  "url": "subsec-neptune.html#p-1010",
+  "url": "subsec-neptune.html#p-1011",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5338,27 +5338,27 @@ var ptx_lunr_docs = [
   "body": " The phases of the moon   Moon Song    The phases of the moon [ ] refer to the appearance of the illuminated portion of the moon as seen from Earth as it orbits around our planet. The moon goes through a cycle of eight distinct phases:   New Moon: The moon is not visible from Earth because it is positioned between the sun and Earth.   Waxing Crescent: A small crescent of the moon is visible, with the illuminated portion increasing each night.   First Quarter: Half of the moon is visible, with the illuminated portion continuing to increase.   Waxing Gibbous: More than half, but not yet fully, of the moon is visible, with the illuminated portion still increasing.   Full Moon: The entire illuminated portion of the moon is visible from Earth.   Waning Gibbous: More than half, but not yet fully, of the moon is visible, with the illuminated portion decreasing each night.   Third Quarter: Half of the moon is visible, with the illuminated portion continuing to decrease.   Waning Crescent: A small crescent of the moon is visible, with the illuminated portion decreasing each night until the cycle begins again with the new moon.  Moon spins on its axis in about 27.3 Earth's days. This time is known as sidereal month. A sidereal month is the time it takes for the Moon to complete one orbit around the Earth as measured relative to the fixed distant stars. This is slightly shorter than the time (29.53 days) it takes for the Moon to return to the same phase (such as full moon to full moon) as observed from Earth. This time is known as the synodic month or Lunar month. This is the same amount of time that the Moon takes to orbit around the Earth as seen from the moon. As a result, the same side of the Moon always faces the Earth, a phenomenon known as tidal locking. While the moon orbits a complete circle around the earth, the earth itself rotates around the sun. The difference between these two periods is due to the fact that the Earth is also orbiting around the Sun, so the Moon has to travel slightly farther to complete a full cycle of phases as seen from Earth.   Same Face of Moon    "
 },
 {
-  "id": "figure-148",
+  "id": "figure-146",
   "level": "2",
-  "url": "subsec-moonphase.html#figure-148",
+  "url": "subsec-moonphase.html#figure-146",
   "type": "Figure",
   "number": "12.2.2",
   "title": "",
   "body": " Moon Song   "
 },
 {
-  "id": "p-1015",
+  "id": "p-1016",
   "level": "2",
-  "url": "subsec-moonphase.html#p-1015",
+  "url": "subsec-moonphase.html#p-1016",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "New Moon: Waxing Crescent: First Quarter: Waxing Gibbous: Full Moon: Waning Gibbous: Third Quarter: Waning Crescent: sidereal month synodic month "
 },
 {
-  "id": "figure-149",
+  "id": "figure-147",
   "level": "2",
-  "url": "subsec-moonphase.html#figure-149",
+  "url": "subsec-moonphase.html#figure-147",
   "type": "Figure",
   "number": "12.2.3",
   "title": "",
@@ -5374,18 +5374,18 @@ var ptx_lunr_docs = [
   "body": " Eclipse  An eclipse eclipse occurs when an astronomical object is temporarily obscured, either partially or completely, by another object [ The Lunar and Solar Eclipses ]. The two main types of eclipses are solar eclipses and lunar eclipses. A solar eclipse occurs when the Moon passes between the Sun and the Earth, blocking the Sun's light and creating a shadow on the Earth. There are three types of solar eclipses: total, partial, and annular. During a total solar eclipse , the Moon completely covers the Sun, leaving only its corona visible. During a partial solar eclipse, only a portion of the Sun is covered by the Moon. During an annular solar eclipse, the Moon is too far away from the Earth to completely cover the Sun, creating a ring of fire effect. A lunar eclipse occurs when the Earth passes between the Sun and the Moon, casting a shadow on the Moon. There are two types of lunar eclipses: total and partial. During a total lunar eclipse, the Moon is completely covered by the Earth's shadow, creating a reddish hue. During a partial lunar eclipse, only a portion of the Moon is covered by the Earth's shadow. Eclipses are relatively rare events that require specific alignment of the Sun, Moon, and Earth. While there are several eclipses each year, they are typically only visible from specific regions of the Earth and require clear skies and proper viewing conditions to be seen.  When the Moon passes directly in front of the Sun during a New Moon day, a solar eclipse can occur by temporarily blocking out the Sun's light and casting a shadow on the Earth. On the other hand, When the Earth comes between the Sun and the Moon during Full Moon day a solar eclipse can occur by casting a shadow of Earth on the Moon. During a lunar eclipse, the Moon may appear reddish in color due to the Earth's atmosphere refracting sunlight onto the Moon's surface. As the orbital planes of moon is tilted about to the Earth orbital plane, we do not have eclipses on every new moon or full moon day [ ].   Eclipse    "
 },
 {
-  "id": "p-1016",
+  "id": "p-1017",
   "level": "2",
-  "url": "subsec-eclipse.html#p-1016",
+  "url": "subsec-eclipse.html#p-1017",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "solar eclipse lunar eclipse "
 },
 {
-  "id": "p-1017",
+  "id": "p-1018",
   "level": "2",
-  "url": "subsec-eclipse.html#p-1017",
+  "url": "subsec-eclipse.html#p-1018",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5626,18 +5626,18 @@ var ptx_lunr_docs = [
   "body": " The Tools in Astronomy   The Telescope      Refracting Telescope     Reflecting Telescope     Radio Telescope      A telescope telescope is an instrument used to study celestial objects such as stars, planets, galaxies, and nebulae. It works by collecting light that is coming from the distant objects. The telescope mainly consists of a lens or a mirror to collect light, and an eyepiece or a camera to view the image. There are several types of telescopes used in astronomy, such as refracting telescopes [ , reflecting telescopes [ ], and compound telescopes that combine both. Beside these there are also other kinds of telescope available based on what kind of electromagnetic wave is being gathered. Such as Radio telescopes: Radio telescopes [ ] use radio waves to observe celestial objects. They have large dish-shaped antennas to collect radio waves and a receiver to converts the waves into electrical signals which can be analyzed. Radio telescopes are used to study radio emissions from galaxies, quasars, pulsars, and other objects. X-ray telescopes: X-ray telescopes use mirrors to focus and reflect X-rays to create an image. They are typically mounted on satellites to avoid absorption by the Earth's atmosphere. X-ray telescopes are used to study X-ray emissions from hot gas in galaxy clusters, supernova remnants, and other objects.    The Spectrometer  A spectrometer is an instrument used to measure the spectrum of light [ ] emitted by celestial objects. It breaks down the light into its constituent colors (or wavelengths), giving the information of the chemical composition, temperature, and other physical properties of the object. Spectrometers can also be used to study the motion of celestial objects, as the Doppler shift of the spectral lines can provide information about the object's velocity. Several types of spectrometers such as optical, infrared, ultraviolet, and X-ray spectrometers are being used in astronomy. Spectrometers have helped astronomers discover new elements and compounds in stars and galaxies. It has provided evidence for the Big Bang theory and other fundamental concepts in astrophysics.    Spectrum Analysis  Blackbody blackbody radiation is an electromagnetic radiation emitted by an object that absorbs all the radiations incident upon it, and then emits radiation of all kind in thermal equilibrium. The spectrum of blackbody radiation depends only on the temperature of the object [ ], but not on its composition or other properties. The spectrum of blackbody radiation can be described by Planck's law, which relates the energy density of radiation at a given wavelength to the temperature of the emitting object. As the temperature increases, the peak wavelength of the spectrum shifts to shorter wavelengths, and the total amount of radiation emitted increases. By analyzing the spectrum of an object, astronomers can determine its composition, temperature, and other physical properties. When a star emits light, it produces a continuous spectrum of blackbody radiation that is modified by absorption lines caused by the presence of specific chemical elements in the star's atmosphere.   "
 },
 {
-  "id": "figure-153",
+  "id": "figure-151",
   "level": "2",
-  "url": "subsec-astrotools.html#figure-153",
+  "url": "subsec-astrotools.html#figure-151",
   "type": "Figure",
   "number": "13.1.1",
   "title": "",
   "body": "    Refracting Telescope     Reflecting Telescope     Radio Telescope     "
 },
 {
-  "id": "p-1054",
+  "id": "p-1055",
   "level": "2",
-  "url": "subsec-astrotools.html#p-1054",
+  "url": "subsec-astrotools.html#p-1055",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5653,18 +5653,18 @@ var ptx_lunr_docs = [
   "body": " The Sun    The Sun    Sunspot     Nuclear Fusion     Solar Spectrum      The Sun is a star located at the center of our solar system solar system . It is a massive, glowing ball of gas born in the sky about 4.6 billion years ago. It is about 1.39 million kilometers in diameter and is mostly composed of hydrogen (about 74% of its mass) and helium (about 24% of its mass) with trace amounts of other elements. The Sun is classified as a G-type main-sequence star which is a relatively stable and has long-live. The Sun is in the continuous process of fusing hydrogen [ ] into helium in its core. This fusion process releases a tremendous amount of energy in the form of light and heat, which makes the Sun shine. The Sun's magnetic field is responsible for sunspots , [ ] solar flares, and coronal mass ejections, which can have a significant impact on Earth's climate and technology. The dark patch on the sun's surface is known as sunspot. It is relatively cooler part of sun's surface due to magnetic field lines. The Sun's activity (the number of spots on the sun increases and decreases) follows an 11-year cycle, called the solar maximums and minimums.   Sun's parts    The Sun is composed of several distinct parts. Such as Core: The core is the central region of the Sun where nuclear fusion occurs. The temperature in the core is about 15 million degrees Celsius, and the pressure is about 250 billion times greater than the surface of the Earth. In the core, hydrogen atoms are fused together to form helium, releasing a tremendous amount of energy in the process. Radiative Zone: The radiative zone is the region of the Sun where energy is transported by photons (particles of light). The energy produced in the core travels outwards through the radiative zone over a period of about 100,000 years. Convective Zone: The convective zone is the outermost layer of the Sun's interior. The convective zone is characterized by a boiling motion which is similar to water boiling in a pot. Photosphere: The photosphere is the visible surface of the Sun. This is from where most of the light and heat we receive on Earth originate. The temperature of the photosphere is about 5,500 degrees Celsius, and it appears as a bright, yellow disk in the sky. Chromosphere: The chromosphere is the thin layer of gas above the photosphere. It is visible during a total solar eclipse as a reddish-pink ring around the Sun. The temperature of the chromosphere is about 4,000 to 20,000 degrees Celsius. Corona: The corona is the outermost layer of the Sun's atmosphere. It extends millions of kilometers into space and is visible during a total solar eclipse as a faint, white halo around the Sun. The temperature of the corona is several million degrees Celsius, much hotter than the surface of the Sun.  Sun's atmosphere can be detected through its characteristic absorption lines in the Sun's spectrum [ ]. Elements are created through nuclear fusion processes as the Sun fuses hydrogen into helium, the byproducts of this process can go on to create heavier elements, which eventually settle into the Sun's interior.    Solar Energy  Solar energy is generated from the sun's radiation through a process known as nuclear fusion [ ]. The high temperature and pressure in the core of a star cause the atomic nuclei to collide and merge to create a heavier nucleus and release energy in the process. The energy produced by the fusion reactions [ ] The Nuclear Fusion Reaction in a star is carried by radiation in the form of photons, which slowly make their way outwards from the core of the star. This energy is what powers the star and allows it to shine brightly in the sky. As a star ages and begins to run out of hydrogen fuel in its core, it may begin to undergo other fusion reactions that involve heavier elements. These reactions can produce even more energy, but eventually the star will exhaust all of its nuclear fuel and will either become a white dwarf, neutron star, or black hole, depending on its mass.    Aurora Borealis   Aurora    Auroras, also known as the Northern or Southern Lights, are natural phenomena that occur in the Earth's upper atmosphere when charged particles from the Sun interact with the Earth's magnetic field. The Sun constantly releases a stream of charged particles, known as the solar wind, into space. When the solar wind encounters the Earth's magnetic field, it can cause the field lines to become distorted and create a region of charged particles trapped in the Earth's magnetosphere. Some of these particles, primarily electrons and protons, are funneled down towards the Earth's polar regions by the Earth's magnetic field. When these charged particles collide with the gases in the Earth's upper atmosphere, such as nitrogen and oxygen, they can excite the atoms and molecules, causing them to emit light. This produces the colorful and shimmering displays of light known as auroras. Green color auroras are produced by excited oxygen atoms at lower altitude in the atmosphere, while red auroras are produced by excited oxygen molecules at higher altitudes. The pink or purple hues that sometimes appear in the aurora are caused by the collision of charged particles with nitrogen molecules in the Earth's atmosphere. Note: The term aurora borealis specifically refers to the northern lights, which are visible in the northern hemisphere. The term aurora australis refers to the southern lights, which are visible in the southern hemisphere.   "
 },
 {
-  "id": "figure-157",
+  "id": "figure-155",
   "level": "2",
-  "url": "subsec-sun.html#figure-157",
+  "url": "subsec-sun.html#figure-155",
   "type": "Figure",
   "number": "13.1.2",
   "title": "",
   "body": " The Sun    Sunspot     Nuclear Fusion     Solar Spectrum     "
 },
 {
-  "id": "p-1057",
+  "id": "p-1058",
   "level": "2",
-  "url": "subsec-sun.html#p-1057",
+  "url": "subsec-sun.html#p-1058",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5680,9 +5680,9 @@ var ptx_lunr_docs = [
   "body": " Sun's parts   "
 },
 {
-  "id": "p-1058",
+  "id": "p-1059",
   "level": "2",
-  "url": "subsec-sun.html#p-1058",
+  "url": "subsec-sun.html#p-1059",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5698,9 +5698,9 @@ var ptx_lunr_docs = [
   "body": " Aurora   "
 },
 {
-  "id": "p-1061",
+  "id": "p-1062",
   "level": "2",
-  "url": "subsec-sun.html#p-1061",
+  "url": "subsec-sun.html#p-1062",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5716,18 +5716,18 @@ var ptx_lunr_docs = [
   "body": " Stellar Distances  There are several methods used in astronomy to measure the distance of stars. Some of the most common are: Parallax Method: This method is uded to measure the distance of nearby stars. It measures the apparent shift in the position of a star when viewed from different positions in space. The distance to the star can be calculated using trigonometry with the angle between the two positions. Spectroscopic Method: This method is used to measure the distance to stars by analyzing their spectra. The spectra of stars can be used to determine their temperature, luminosity, and composition, which can be used to estimate their distance. Main Sequence Fitting: [ ] This method involves comparing the brightness and temperature of a star with those of other stars whose distances have been accurately measured using other methods. By comparing the star's characteristics to those of other stars with known distances, its distance can be estimated. Cepheid Variables: Cepheid variables are pulsating stars with a well-defined relationship between their pulsation period and their luminosity. By measuring the period of Cepheid variable star, its luminosity can be estimated, and its distance calculated. Supernova Brightness: [ ] Type Ia supernovae are known to have a very consistent brightness, making them useful as standard candles for distance measurement. By comparing the observed brightness of a Type Ia supernova to its known intrinsic brightness, its distance can be calculated.  Brightness and luminosity are important factors in determining the distance of stars. Brightness , also known as apparent magnitude, is a measure of how bright a star appears to an observer on Earth. It is affected by the distance of the star, as well as other factors such as its size and temperature. A star's brightness can be measured using a magnitude scale, with lower numbers indicating brighter stars and higher numbers indicating dimmer stars. Luminosity , on the other hand, is a measure of the total amount of energy that a star emits per unit time. It is related to the star's size, temperature, and distance. Luminosity can be measured in terms of the sun's luminosity, which is a standard unit of measurement.  "
 },
 {
-  "id": "p-1062",
+  "id": "p-1063",
   "level": "2",
-  "url": "subsec-stellardist.html#p-1062",
+  "url": "subsec-stellardist.html#p-1063",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "Parallax Method: Spectroscopic Method: Main Sequence Fitting: Cepheid Variables: Supernova Brightness: "
 },
 {
-  "id": "p-1063",
+  "id": "p-1064",
   "level": "2",
-  "url": "subsec-stellardist.html#p-1063",
+  "url": "subsec-stellardist.html#p-1064",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5752,9 +5752,9 @@ var ptx_lunr_docs = [
   "body": " Supernova   "
 },
 {
-  "id": "p-1069",
+  "id": "p-1070",
   "level": "2",
-  "url": "subsec-supernova.html#p-1069",
+  "url": "subsec-supernova.html#p-1070",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5770,9 +5770,9 @@ var ptx_lunr_docs = [
   "body": " Neutron Star   "
 },
 {
-  "id": "p-1070",
+  "id": "p-1071",
   "level": "2",
-  "url": "subsec-supernova.html#p-1070",
+  "url": "subsec-supernova.html#p-1071",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -5797,9 +5797,9 @@ var ptx_lunr_docs = [
   "body": " Black Hole   "
 },
 {
-  "id": "p-1073",
+  "id": "p-1074",
   "level": "2",
-  "url": "subsec-supernova.html#p-1073",
+  "url": "subsec-supernova.html#p-1074",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6058,18 +6058,18 @@ var ptx_lunr_docs = [
   "body": " Milky Way Galaxy  The Milky Way [ ] is a barred spiral galaxy , which has a central bar-shaped structure and spiral arms that wrap around it. It is estimated to be about 13.6 billion years old and is located about 25,000 light-years from the galactic center. The Milky Way contains hundreds of billions of stars, as well as numerous other celestial objects, such as planets, nebulae, and black holes . The Milky Way's spiral arms are thought to be sites of ongoing star formation, and it is believed that many of the elements that make up our solar system and our bodies were created in these stars. The Milky Way also contains a supermassive black hole at its center, which is surrounded by a region of intense radiation known as the galactic bulge. Our solar system is located in one of the Milky Way's spiral arms, and as a result, our view of the galaxy is heavily obscured by dust and gas.  The Milky Way is a relatively large galaxy, with a diameter of about 100,000 light-years and a mass of approximately 1 trillion times that of our sun. The Milky Way is home to many important celestial objects such as the galactic center, which is a region of intense radiation and contains a supermassive black hole. The Milky Way's disk is also surrounded by a halo of dark matter, which is an invisible form of matter (Dark Matter) that can only be detected through its gravitational effects on visible matter. The Milky Way is part of a larger group of galaxies known as the Local Group , which also includes the Andromeda galaxy and several other smaller galaxies. The Milky Way is also home to numerous open and globular clusters , which are groups of stars that are held together by their mutual gravitational attraction.  "
 },
 {
-  "id": "p-1118",
+  "id": "p-1119",
   "level": "2",
-  "url": "subsec-milkyway.html#p-1118",
+  "url": "subsec-milkyway.html#p-1119",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "black hole "
 },
 {
-  "id": "p-1119",
+  "id": "p-1120",
   "level": "2",
-  "url": "subsec-milkyway.html#p-1119",
+  "url": "subsec-milkyway.html#p-1120",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6103,9 +6103,9 @@ var ptx_lunr_docs = [
   "body": " Magelenic Cloud  The Magellanic Clouds magellanic cloud are two small satellite galaxies that orbit the Milky Way galaxy. The Magellanic Clouds are located in the southern hemisphere, and they are visible to the naked eye from the southern latitudes. The Large Magellanic Cloud (LMC) is the larger of the two clouds, and it is located about 163,000 light-years away from Earth. It has a diameter of about 14,000 light-years and contains tens of billions of stars, as well as star-forming regions , supernova remnants, and other astronomical objects.  "
 },
 {
-  "id": "p-1124",
+  "id": "p-1125",
   "level": "2",
-  "url": "subsec-magelenic.html#p-1124",
+  "url": "subsec-magelenic.html#p-1125",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6130,9 +6130,9 @@ var ptx_lunr_docs = [
   "body": "    Crab Nebula     Eye Nebula     Horsehead Nebula     "
 },
 {
-  "id": "p-1125",
+  "id": "p-1126",
   "level": "2",
-  "url": "subsec-nebula.html#p-1125",
+  "url": "subsec-nebula.html#p-1126",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6148,9 +6148,9 @@ var ptx_lunr_docs = [
   "body": " Dark Matter and Dark Energy  Dark matter and dark energy are two of the most mysterious and intriguing components of the universe. Dark matter  dark matter is a type of matter that is thought to make up about 27% of the total matter content of the universe. It is called \"dark\" because it does not emit, absorb, or reflect light, making it invisible to telescopes and other instruments that detect electromagnetic radiation. The presence of dark matter is inferred from its gravitational effects on visible matter, such as stars and galaxies. Dark matter is believed to play a key role in the formation and evolution of galaxies, as well as the large-scale structure of the universe. Dark energy  dark energy is a hypothetical form of energy that is thought to make up about 68% of the total energy content of the universe. It is called \"dark\" because, like dark matter, it is invisible to telescopes and other instruments that detect electromagnetic radiation. The existence of dark energy is inferred from observations of the accelerating expansion of the universe. Dark energy is believed to be responsible for this acceleration, although the exact nature of dark energy is not yet well understood. Together, dark matter and dark energy are thought to make up about 95% of the total matter and energy content of the universe, with the remaining 5% consisting of visible matter, such as stars, galaxies, and interstellar gas and dust. The study of dark matter and dark energy is a major area of research in cosmology, and scientists are working to understand their properties and how they influence the evolution and fate of the universe.  "
 },
 {
-  "id": "p-1126",
+  "id": "p-1127",
   "level": "2",
-  "url": "subsec-darkmatt.html#p-1126",
+  "url": "subsec-darkmatt.html#p-1127",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6166,9 +6166,9 @@ var ptx_lunr_docs = [
   "body": " Quasars   Quasars [ ] are some of the brightest and most energetic objects in the universe. They are thought to be powered by supermassive black holes that are actively accreting matter. As the matter falls towards the black hole, it heats up and emits intense radiation that can outshine entire galaxies. Subsequent observations revealed that quasars were located at extreme distances, billions of light-years away. Quasars are associated with massive galaxies in the early universe. As gas falls towards the central black hole, it also triggers the formation of stars and the growth of the galaxy. Quasars are thus thought to be crucial in understanding the formation and evolution of galaxies.  "
 },
 {
-  "id": "p-1127",
+  "id": "p-1128",
   "level": "2",
-  "url": "subsec-Quasars.html#p-1127",
+  "url": "subsec-Quasars.html#p-1128",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
@@ -6184,9 +6184,9 @@ var ptx_lunr_docs = [
   "body": " Expansion of the Universe   Hubble's law  Hubble's law describes the relationship between the distance to a galaxy and its observed redshift. The law states that the farther away a galaxy is from us, the faster it is moving away from us. This relationship is described by the equation where is the velocity of the galaxy, is its distance from us, and is the Hubble's constant,  ( )  Hubble's constant  which is a measure of the rate at which the Universe is expanding. The Hubble constant has been determined through observations of distant galaxies and is currently estimated to be around 73 kilometers per second per megaparsec . This means that for every megaparsec (about 3.26 million light-years) of distance, a galaxy appears to be moving away from us at a rate of 73 kilometers per second. The discovery of Hubble's law revolutionized our understanding of the Universe and led to the development of the Big Bang theory. Hubble's law provides strong evidence that the Universe is expanding, and that it began with a single, explosive event around 13.8 billion years ago.   Expansion of Universe    The balloon analogy is often used to explain the expansion of the universe. In this analogy, the universe is represented by the surface of a balloon, and as the balloon is inflated, all points on the surface move away from each other. In this analogy, the size of the balloon represents the size of the universe, and the dots on the surface represent galaxies. As the balloon expands, the distance between any two dots (galaxies) increases. This is similar to how the distance between any two galaxies in the universe is increasing due to the expansion of the universe.  "
 },
 {
-  "id": "p-1128",
+  "id": "p-1129",
   "level": "2",
-  "url": "subsec-expansion.html#p-1128",
+  "url": "subsec-expansion.html#p-1129",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
