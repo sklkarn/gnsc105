@@ -2284,7 +2284,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.3",
   "title": "Examples",
-  "body": " Examples    The speed of sound is fastest in  liquids.  solids.  gases.  vacuum.      b.      The frequency of a sound determines its quality and the amplitude of the sound determines its .  timber.  frequency.  loudness.  pitch.      c.      which wave given below is partly longitudinal and partly transverse?  light wave.  sound wave.  water wave.  string wave.      c.      When a wave goes from one medium to another medium, which quantity of wave does not change?  frequency.  speed.  amplitude.  wavelength.      a.      Indicate the amplitude of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.      Indicate the wavelength of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.      How far inside the plane mirror your image appears?  As far as I am standing infront of the mirror.  Just double the distance I am standing infront of the mirror.  Cannot be determined.  depends upon my size.      empty.      What causes the pool of water appears to be less deep than it actually is  Reflection.  Refraction.  Dispersion.  Scattering.      empty.      What causes light to refract to form rainbow in the sky?  glass prisms.  sunlight rays  small raindrops  air molecules.      c.      why does the fork look larger under water?  light is refracted at an angle.  light cannot pass through the glass.  the amount of light increases when going through water.  the wavelength of light increases in the process.      a.      When light passes through a prism the light splits into the visible spectrum. What color bends the most and has the shortest wavelength?  red.  violet.  yellow.  blue.      a.      The color of object you see is the color that is   absorbed by the object.  reflected by the object.      empty.      What is the speed of wave which completes one full cycle in and has a wavelength of ?         Given: , ,  From equation , we have and from equation , we have     "
+  "body": " Examples    The speed of sound is fastest in  liquids.  solids.  gases.  vacuum.      b.      The frequency of a sound determines its quality and the amplitude of the sound determines its .  timber.  frequency.  loudness.  pitch.      c.      which wave given below is partly longitudinal and partly transverse?  light wave.  sound wave.  water wave.  string wave.      c.      When a wave goes from one medium to another medium, which quantity of wave does not change?  frequency.  speed.  amplitude.  wavelength.      a.      Indicate the amplitude of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.      Indicate the wavelength of a wave in the figure below.     PA.  QC.  AB.  CD.    Select one of the following.  Both I and II  Both III and IV.  I only.  III only.      empty.      How far inside the plane mirror your image appears?  As far as I am standing infront of the mirror.  Just double the distance I am standing infront of the mirror.  Cannot be determined.  depends upon my size.      a.      What causes the pool of water appears to be less deep than it actually is  Reflection.  Refraction.  Dispersion.  Scattering.      b.      What causes light to refract to form rainbow in the sky?  glass prisms.  sunlight rays  small raindrops  air molecules.      c.      why does the fork look larger under water?  light is refracted at an angle.  light cannot pass through the glass.  the amount of light increases when going through water.  the wavelength of light increases in the process.      a.      When light passes through a prism the light splits into the visible spectrum. What color bends the most and has the shortest wavelength?  red.  violet.  yellow.  blue.      b.      The color of object you see is the color that is   absorbed by the object.  reflected by the object.      b.      What is the speed of wave which completes one full cycle in and has a wavelength of ?         Given: , ,  From equation , we have and from equation , we have     "
 },
 {
   "id": "example-86",
@@ -2347,7 +2347,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "6.3.9",
   "title": "",
-  "body": "  How far inside the plane mirror your image appears?  As far as I am standing infront of the mirror.  Just double the distance I am standing infront of the mirror.  Cannot be determined.  depends upon my size.      empty.   "
+  "body": "  How far inside the plane mirror your image appears?  As far as I am standing infront of the mirror.  Just double the distance I am standing infront of the mirror.  Cannot be determined.  depends upon my size.      a.   "
 },
 {
   "id": "example-93",
@@ -2356,7 +2356,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "6.3.10",
   "title": "",
-  "body": "  What causes the pool of water appears to be less deep than it actually is  Reflection.  Refraction.  Dispersion.  Scattering.      empty.   "
+  "body": "  What causes the pool of water appears to be less deep than it actually is  Reflection.  Refraction.  Dispersion.  Scattering.      b.   "
 },
 {
   "id": "example-94",
@@ -2383,7 +2383,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "6.3.13",
   "title": "",
-  "body": "  When light passes through a prism the light splits into the visible spectrum. What color bends the most and has the shortest wavelength?  red.  violet.  yellow.  blue.      a.   "
+  "body": "  When light passes through a prism the light splits into the visible spectrum. What color bends the most and has the shortest wavelength?  red.  violet.  yellow.  blue.      b.   "
 },
 {
   "id": "example-97",
@@ -2392,7 +2392,7 @@ var ptx_lunr_docs = [
   "type": "Example",
   "number": "6.3.14",
   "title": "",
-  "body": "  The color of object you see is the color that is   absorbed by the object.  reflected by the object.      empty.   "
+  "body": "  The color of object you see is the color that is   absorbed by the object.  reflected by the object.      b.   "
 },
 {
   "id": "example-98",
